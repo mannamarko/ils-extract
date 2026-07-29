@@ -1,0 +1,166 @@
+{
+  "id": "Financials",
+  "slug": "financials",
+  "title": "Financials",
+  "type": "grid",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/08/GHL-June-2025-Results.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/11/GHL-Financial-Results.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/02/1225GPTUFR.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/07/GHLAccounts.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/GHL_SFS_Q1FY2025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/11/Q2FY25-GHL.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/02/SEBI-RESULTS-DEC_24.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/05/GHL-Financial-Results-Q4FY2025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/Q3.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GHL-Submission-of-Results_share.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Annual Report for 2025-2026",
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/07/GHL_AnnualReport_Web_2025-26.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Annual Report for 2024-2025",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/07/GPT-Health-Care-AR-2025-C2C.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Annual Report for 2023-2024",
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GPTHealthcare_AR_2023-24.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Annual Report for 2022-2023",
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLAnnualReport2023.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Annual Report for 2021-2022",
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/ghl-annual-report-2022.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Annual Report for 2020-2021",
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/ghl-annual-report-2021.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "financial_year": "2025 - 2026",
+      "statement_type": "Standalone",
+      "quarter": "q1",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/08/GHL-June-2025-Results.pdf"
+    },
+    {
+      "financial_year": "2025 - 2026",
+      "statement_type": "Standalone",
+      "quarter": "q2",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/11/GHL-Financial-Results.pdf"
+    },
+    {
+      "financial_year": "2025 - 2026",
+      "statement_type": "Standalone",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/02/1225GPTUFR.pdf"
+    },
+    {
+      "financial_year": "2025 - 2026",
+      "statement_type": "Standalone",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/07/GHLAccounts.pdf"
+    },
+    {
+      "financial_year": "2024 - 2025",
+      "statement_type": "Standalone",
+      "quarter": "q1",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/05/GHL_SFS_Q1FY2025.pdf"
+    },
+    {
+      "financial_year": "2024 - 2025",
+      "statement_type": "Standalone",
+      "quarter": "q2",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/11/Q2FY25-GHL.pdf"
+    },
+    {
+      "financial_year": "2024 - 2025",
+      "statement_type": "Standalone",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/02/SEBI-RESULTS-DEC_24.pdf"
+    },
+    {
+      "financial_year": "2024 - 2025",
+      "statement_type": "Standalone",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/05/GHL-Financial-Results-Q4FY2025.pdf"
+    },
+    {
+      "financial_year": "2023 - 2024",
+      "statement_type": "Standalone",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/Q3.pdf"
+    },
+    {
+      "financial_year": "2023 - 2024",
+      "statement_type": "Standalone",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/GHL-Submission-of-Results_share.pdf"
+    }
+  ]
+}

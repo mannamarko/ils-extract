@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Anaesthesiology",
+    "url": "https://ilshospitals.com/departments/anaesthesiology/",
+    "slug": "anaesthesiology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/Anaesthesiology.png"
+  },
+  {
+    "name": "Bariatric Surgery",
+    "url": "https://ilshospitals.com/departments/bariatric-surgery/",
+    "slug": "bariatric-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_bws.svg"
+  },
+  {
+    "name": "Cardiology (Clinical)",
+    "url": "https://ilshospitals.com/departments/cardiology/",
+    "slug": "cardiology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2024/01/cardiology-clinical.svg"
+  },
+  {
+    "name": "Cardiology (Interventional)",
+    "url": "https://ilshospitals.com/departments/cardiology-interventional/",
+    "slug": "cardiology-interventional",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_cardiology.svg"
+  },
+  {
+    "name": "Critical Care",
+    "url": "https://ilshospitals.com/departments/critical-care/",
+    "slug": "critical-care",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_International_Patient_Services.svg"
+  },
+  {
+    "name": "CTVS",
+    "url": "https://ilshospitals.com/departments/ctvs/",
+    "slug": "ctvs",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/CTVS.png"
+  },
+  {
+    "name": "Dental Care",
+    "url": "https://ilshospitals.com/departments/dental-care/",
+    "slug": "dental-care",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_scope10.svg"
+  },
+  {
+    "name": "Dermatology",
+    "url": "https://ilshospitals.com/departments/dermatology/",
+    "slug": "dermatology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/Dermatology-copy.png"
+  },
+  {
+    "name": "Diabetology & Endocrinology",
+    "url": "https://ilshospitals.com/departments/diebetes-endocrinology/",
+    "slug": "diebetes-endocrinology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_de.svg"
+  },
+  {
+    "name": "Dietetics",
+    "url": "https://ilshospitals.com/departments/dietetics/",
+    "slug": "dietetics",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/dietics.png"
+  },
+  {
+    "name": "Emergency Medicine",
+    "url": "https://ilshospitals.com/departments/emergency-medicine/",
+    "slug": "emergency-medicine",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2024/04/emergency-medicine-icon.svg"
+  },
+  {
+    "name": "Endocrinology",
+    "url": "https://ilshospitals.com/departments/endocrinology/",
+    "slug": "endocrinology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_de.svg"
+  },
+  {
+    "name": "ENT",
+    "url": "https://ilshospitals.com/departments/ent/",
+    "slug": "ent",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_scope9.svg"
+  },
+  {
+    "name": "Gastro Intestinal Surgery",
+    "url": "https://ilshospitals.com/departments/gastro-intestinal-surgery/",
+    "slug": "gastro-intestinal-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/gastro_overview.png"
+  },
+  {
+    "name": "Gastro-Oncology",
+    "url": "https://ilshospitals.com/departments/gastro-oncology/",
+    "slug": "gastro-oncology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Oncology-Surgical.png"
+  },
+  {
+    "name": "Gastroenterology",
+    "url": "https://ilshospitals.com/departments/gastroenterology/",
+    "slug": "gastroenterology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_gastroenterology.svg"
+  },
+  {
+    "name": "General and Laparoscopic Surgery",
+    "url": "https://ilshospitals.com/departments/general-and-laparoscopic-surgery/",
+    "slug": "general-and-laparoscopic-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/icon_ex17.png"
+  },
+  {
+    "name": "General Medicine",
+    "url": "https://ilshospitals.com/departments/general-medicine/",
+    "slug": "general-medicine",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/General-Medicine.png"
+  },
+  {
+    "name": "General Robotic Surgery",
+    "url": "https://ilshospitals.com/departments/general-robotic-surgery/",
+    "slug": "general-robotic-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/knee_replacement_surgery.png"
+  },
+  {
+    "name": "Geriatric Medicine",
+    "url": "https://ilshospitals.com/departments/geriatric-medicine/",
+    "slug": "geriatric-medicine",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Geriatric-Medicine.png"
+  },
+  {
+    "name": "Haematology",
+    "url": "https://ilshospitals.com/departments/haematology/",
+    "slug": "haematology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/haematology.png"
+  },
+  {
+    "name": "Hepatology",
+    "url": "https://ilshospitals.com/departments/hepatology/",
+    "slug": "hepatology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Hepatology.png"
+  },
+  {
+    "name": "Kidney Transplant Raipur",
+    "url": "https://ilshospitals.com/departments/kidney-transplant-raipur/",
+    "slug": "kidney-transplant-raipur",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/renal_biopsy.png"
+  },
+  {
+    "name": "Microbiology",
+    "url": "https://ilshospitals.com/departments/microbiology/",
+    "slug": "microbiology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/04/Mirco_biology.webp"
+  },
+  {
+    "name": "Minimally Invasive Gynecologic Surgery",
+    "url": "https://ilshospitals.com/departments/minimally-invasive-gynecologic-surgery/",
+    "slug": "minimally-invasive-gynecologic-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/11/Minimally-Invasive-Gynecologic-Surgery.webp"
+  },
+  {
+    "name": "Nephrology",
+    "url": "https://ilshospitals.com/departments/nephrology/",
+    "slug": "nephrology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_nep.svg"
+  },
+  {
+    "name": "Neuro Surgery",
+    "url": "https://ilshospitals.com/departments/neuro-surgery/",
+    "slug": "neuro-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Neuro-Surgery.png"
+  },
+  {
+    "name": "Neurology",
+    "url": "https://ilshospitals.com/departments/neurology/",
+    "slug": "neurology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Neurology.svg"
+  },
+  {
+    "name": "Neurology (Interventional)",
+    "url": "https://ilshospitals.com/departments/neurologyinterventional/",
+    "slug": "neurologyinterventional",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/neurology.png"
+  },
+  {
+    "name": "Neurology Raipur",
+    "url": "https://ilshospitals.com/departments/neurology-raipur/",
+    "slug": "neurology-raipur",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Neurology.svg"
+  },
+  {
+    "name": "Obstetrics & Gynaecology",
+    "url": "https://ilshospitals.com/departments/obstetrics-gynaecology/",
+    "slug": "obstetrics-gynaecology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_scope21.svg"
+  },
+  {
+    "name": "Oncology",
+    "url": "https://ilshospitals.com/departments/oncology/",
+    "slug": "oncology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Oncology-Medical.png"
+  },
+  {
+    "name": "Oncology (Medical)",
+    "url": "https://ilshospitals.com/departments/oncology-medical/",
+    "slug": "oncology-medical",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Oncology-Medical.png"
+  },
+  {
+    "name": "Oncology (Surgical)",
+    "url": "https://ilshospitals.com/departments/oncology-surgical/",
+    "slug": "oncology-surgical",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Oncology-Surgical.png"
+  },
+  {
+    "name": "Opthalmology",
+    "url": "https://ilshospitals.com/departments/opthalmology/",
+    "slug": "opthalmology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/icon_scope8.png"
+  },
+  {
+    "name": "Oral & Maxillofacial Surgery",
+    "url": "https://ilshospitals.com/departments/oral-maxillofacial-surgery/",
+    "slug": "oral-maxillofacial-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/Oral-Maxillofacial-Surgery-1.png"
+  },
+  {
+    "name": "Orthopaedics & Joint Replacement",
+    "url": "https://ilshospitals.com/departments/orthopaedics-joint-replacement/",
+    "slug": "orthopaedics-joint-replacement",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_scope18.svg"
+  },
+  {
+    "name": "Paediatric Nephrology",
+    "url": "https://ilshospitals.com/departments/paediatric-nephrology/",
+    "slug": "paediatric-nephrology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/Paediatric-Nephrology.png"
+  },
+  {
+    "name": "Paediatric Surgery",
+    "url": "https://ilshospitals.com/departments/paediatric-surgery/",
+    "slug": "paediatric-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_scope22.svg"
+  },
+  {
+    "name": "Paediatrics",
+    "url": "https://ilshospitals.com/departments/paediatrics/",
+    "slug": "paediatrics",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_scope22.svg"
+  },
+  {
+    "name": "Pain Management",
+    "url": "https://ilshospitals.com/departments/pain-management/",
+    "slug": "pain-management",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/pain_management.png"
+  },
+  {
+    "name": "Pathology",
+    "url": "https://ilshospitals.com/departments/pathology/",
+    "slug": "pathology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/04/Pathalogy.webp"
+  },
+  {
+    "name": "Physiotherapy",
+    "url": "https://ilshospitals.com/departments/physiotherapy-rehabilitation/",
+    "slug": "physiotherapy-rehabilitation",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/physiotherapy_and_rehabilitation-1.png"
+  },
+  {
+    "name": "Plastic & Reconstructive Surgery",
+    "url": "https://ilshospitals.com/departments/plastic-reconstructive-surgery/",
+    "slug": "plastic-reconstructive-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Plastic-Reconstructive-Surgery.png"
+  },
+  {
+    "name": "Psychiatry",
+    "url": "https://ilshospitals.com/departments/psychiatry/",
+    "slug": "psychiatry",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_psychiatry.svg"
+  },
+  {
+    "name": "Psychology",
+    "url": "https://ilshospitals.com/departments/psychology/",
+    "slug": "psychology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Clinical_psychology-1.svg"
+  },
+  {
+    "name": "Pulmonology & Chest Medicine",
+    "url": "https://ilshospitals.com/departments/pulmonology-chest-medicine/",
+    "slug": "pulmonology-chest-medicine",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Pulmonology-and-Chest-Medicine.png"
+  },
+  {
+    "name": "Radiation Therapy",
+    "url": "https://ilshospitals.com/departments/radiation-therapy/",
+    "slug": "radiation-therapy",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Oncology-Medical.png"
+  },
+  {
+    "name": "Radiology",
+    "url": "https://ilshospitals.com/departments/radiology/",
+    "slug": "radiology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/05/Radiology.webp"
+  },
+  {
+    "name": "Radiology (Interventional)",
+    "url": "https://ilshospitals.com/departments/radiology-interventional/",
+    "slug": "radiology-interventional",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/05/Radiology_Interventional.webp"
+  },
+  {
+    "name": "Rheumatology",
+    "url": "https://ilshospitals.com/departments/rheumatology/",
+    "slug": "rheumatology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/rheumatology.png"
+  },
+  {
+    "name": "Robotic Surgery",
+    "url": "https://ilshospitals.com/departments/robotic-surgery/",
+    "slug": "robotic-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/knee_replacement_surgery.png"
+  },
+  {
+    "name": "Robotic Surgery (Gynecology)",
+    "url": "https://ilshospitals.com/departments/robotic-surgery-in-gynecology/",
+    "slug": "robotic-surgery-in-gynecology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/knee_replacement_surgery.png"
+  },
+  {
+    "name": "Robotic Surgery (Orthopaedics)",
+    "url": "https://ilshospitals.com/departments/robotic-surgery-in-orthopedics/",
+    "slug": "robotic-surgery-in-orthopedics",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/knee_replacement_surgery.png"
+  },
+  {
+    "name": "Speech Therapy",
+    "url": "https://ilshospitals.com/departments/speech-therapy/",
+    "slug": "speech-therapy",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/Speech-Therapy.png"
+  },
+  {
+    "name": "Spine Surgery",
+    "url": "https://ilshospitals.com/departments/spine-surgery/",
+    "slug": "spine-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2024/01/spine.svg"
+  },
+  {
+    "name": "Sports & Rehabilitation Medicine",
+    "url": "https://ilshospitals.com/departments/sports-rehabilitation-medicine/",
+    "slug": "sports-rehabilitation-medicine",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/sports_injury_artho.png"
+  },
+  {
+    "name": "Uro-Onco",
+    "url": "https://ilshospitals.com/departments/uro-onco/",
+    "slug": "uro-onco",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Oncology-Medical.png"
+  },
+  {
+    "name": "Urology",
+    "url": "https://ilshospitals.com/departments/urology/",
+    "slug": "urology",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_ex10.svg"
+  },
+  {
+    "name": "Vascular Surgery",
+    "url": "https://ilshospitals.com/departments/vascular-surgery/",
+    "slug": "vascular-surgery",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/vascular_surgery.png"
+  }
+]

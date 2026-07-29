@@ -1,0 +1,353 @@
+{
+  "id": "Compliances",
+  "slug": "compliances",
+  "title": "Compliances",
+  "type": "grouped",
+  "documents": [
+    {
+      "label": "https://www.bseindia.com/stock-share-price/gpt-healthcare-ltd/gpthealth/544131/integrated-filing-finance/",
+      "url": "https://www.bseindia.com/stock-share-price/gpt-healthcare-ltd/gpthealth/544131/integrated-filing-finance/",
+      "ext": null,
+      "is_file": false
+    },
+    {
+      "label": "https://www.bseindia.com/stock-share-price/rpt/scripcode/544131/flag/7/",
+      "url": "https://www.bseindia.com/stock-share-price/rpt/scripcode/544131/flag/7/",
+      "ext": null,
+      "is_file": false
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/07/Covering-Letter-745-1.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/CoveringLetter745.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/01/Covering-Letter-745.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/10/CoveringLetter745.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/07/CoveringLetter745-1-1.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/CoveringLetter.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/01/CoveringLetter745.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/10/GHLCoveringLetter745.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/74.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/certificate01_final.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/01/Investorcompliantwebsite.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/01/GPT-HEALTHCARE-LTD_I-G.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/10/Report-Investor-Complaint-30.09.2024.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/10/GPT-HEALTHCARE-LTD_IG.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/Report_com.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/GPT_HEALTHCARE_LTD_IG_30_06_24.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/compliance05.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/compliance05A.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/07/CoveringLetter55A.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/CoveringLetter55A.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/01/CoveringLetter55A.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/10/CoveringLetter55A.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/07/CoveringLetter55A.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/CoveringLetter55A.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/01/Share_Capital_31-12-24.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/10/GHLcoveringletter.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/GHlCoveringletter_1607.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/compliance04.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLStatementofDeviation.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/compliance02.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLCC.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "category": "Related Party Transactions",
+      "title": "Related Party Transactions",
+      "link": "https://www.bseindia.com/stock-share-price/gpt-healthcare-ltd/gpthealth/544131/integrated-filing-finance/"
+    },
+    {
+      "category": "Related Party Transactions",
+      "title": "Related Party Transactions",
+      "link": "https://www.bseindia.com/stock-share-price/rpt/scripcode/544131/flag/7/"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E June 30, 2026",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/07/Covering-Letter-745-1.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E March 31, 2026",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/04/CoveringLetter745.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E December 31, 2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/01/Covering-Letter-745.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E September 30, 2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/10/CoveringLetter745.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E June 30, 2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/07/CoveringLetter745-1-1.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E March 31, 2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/04/CoveringLetter.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E December 31, 2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/01/CoveringLetter745.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E September 30, 2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/10/GHLCoveringLetter745.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E June 30, 2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/05/74.pdf"
+    },
+    {
+      "category": "Compliance under Regulation 74(5) of the SEBI (DP) Regulations, 2018",
+      "title": "Certificate under Regulation 74(5) of the SEBI (DP) Regulations, 2018 for Q.E March 31, 2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/05/certificate01_final.pdf"
+    },
+    {
+      "category": "Compliance under Reg. 13(3) of Listing Regulations",
+      "title": "Investor Compliant for the Q.E 31.12.2024 XBRL",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/01/Investorcompliantwebsite.pdf"
+    },
+    {
+      "category": "Compliance under Reg. 13(3) of Listing Regulations",
+      "title": "Investor Compliant for the Q.E 30.09.2024 XBRL",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/10/Report-Investor-Complaint-30.09.2024.pdf"
+    },
+    {
+      "category": "Compliance under Reg. 13(3) of Listing Regulations",
+      "title": "Investor Compliant for the Q.E 30.06.2024 XBRL",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/05/Report_com.pdf"
+    },
+    {
+      "category": "Compliance under Reg. 13(3) of Listing Regulations",
+      "title": "Investor Compliant for the Q.E 31.03.2024 XBRL",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/compliance05.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 30.06.2026",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/07/CoveringLetter55A.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 31.03.2026",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/04/CoveringLetter55A.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 31.12.2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/01/CoveringLetter55A.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 30.09.2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/10/CoveringLetter55A.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 30.06.2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/07/CoveringLetter55A.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 31.03.2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/04/CoveringLetter55A.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 31.12.2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/01/Share_Capital_31-12-24.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 30.09.2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/10/GHLcoveringletter.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 30.06.2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/05/GHlCoveringletter_1607.pdf"
+    },
+    {
+      "category": "Reconciliation of Share Capital Audit",
+      "title": "Reconciliation of Share Capital Audit 31.03.2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/compliance04.pdf"
+    },
+    {
+      "category": "Compliance under Reg. 32 of Listing Regulations",
+      "title": "Statement Of Deviation For The Quarter Ended March 31, 2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLStatementofDeviation.pdf"
+    },
+    {
+      "category": "Compliance under Reg. 40(9) of Listing Regulations",
+      "title": "Certificate pursuant to Regulation 40(9) & (10) of the SEBI (LODR), Regulations, 2015 for the Q.E March 31, 2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/compliance02.pdf"
+    },
+    {
+      "category": "Compliance under Reg. 7(3) of Listing Regulations",
+      "title": "Compliance Certificate under reg 7(3) of the SEBI (LODR) Regulations, 2015 for the year ended March 31, 2024.",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLCC.pdf"
+    }
+  ]
+}

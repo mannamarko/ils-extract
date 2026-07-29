@@ -1,0 +1,76 @@
+{
+  "id": "sakshamNiveshak",
+  "slug": "saksham-niveshak",
+  "title": "Saksham Niveshak",
+  "type": "labeled",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/10/GHLNewsPaperPublicationSakshamNiveshak.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/09/Nodal_officer_letter.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/09/GHL-Letter-Niiveshak.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/Letter-to-Nodal-Officers.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/05/GHLNewsPaperPublicationSakshamNiveshak.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/06/GHL-Letter.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "sl_no": "1",
+      "document": "Newspaper Advertisement by Company",
+      "download_link": "https://ilshospitals.com/wp-content/uploads/2025/10/GHLNewsPaperPublicationSakshamNiveshak.pdf"
+    },
+    {
+      "sl_no": "2",
+      "document": "Circular issued by the Investor Education and Protection Fund Authority (“IEPFA”), Ministry of Corporate Affairs (“MCA”), dated July 16, 2025",
+      "download_link": "https://ilshospitals.com/wp-content/uploads/2025/09/Nodal_officer_letter.pdf"
+    },
+    {
+      "sl_no": "3",
+      "document": "Letter / Communication under 100 days Campaign - “Saksham Niveshak for creating awareness among shareholders by the Company",
+      "download_link": "https://ilshospitals.com/wp-content/uploads/2025/09/GHL-Letter-Niiveshak.pdf"
+    },
+    {
+      "sl_no": "4",
+      "document": "Circular issued by the Investor Education and Protection Fund Authority (“IEPFA”), Ministry of Corporate Affairs (“MCA”), dated March 27, 2026",
+      "download_link": "https://ilshospitals.com/wp-content/uploads/2026/04/Letter-to-Nodal-Officers.pdf"
+    },
+    {
+      "sl_no": "5",
+      "document": "Newspaper Advertisement by Company-Second 100 Days Campaign",
+      "download_link": "https://ilshospitals.com/wp-content/uploads/2026/05/GHLNewsPaperPublicationSakshamNiveshak.pdf"
+    },
+    {
+      "sl_no": "6",
+      "document": "Intimation regarding Second 100 days campaign-\"Saksham Niveshak\".",
+      "download_link": "https://ilshospitals.com/wp-content/uploads/2026/06/GHL-Letter.pdf"
+    }
+  ]
+}

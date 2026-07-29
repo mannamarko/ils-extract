@@ -1,0 +1,93 @@
+{
+  "id": "CommitteesoftheBoard",
+  "slug": "committeesofthe-board",
+  "title": "Committees of the Board",
+  "type": "grouped",
+  "documents": [],
+  "records": [
+    {
+      "committee": "Audit Committee",
+      "sl_no": "1",
+      "name": "Mr. Deepak Pramanik",
+      "position": "Chairman",
+      "category": "Non-Executive - Independent Director"
+    },
+    {
+      "committee": "Audit Committee",
+      "sl_no": "2",
+      "name": "Mr. Kashi Prasad Khandelwal",
+      "position": "Member",
+      "category": "Non-Executive - Independent Director"
+    },
+    {
+      "committee": "Audit Committee",
+      "sl_no": "3",
+      "name": "Mr. Amrendra Prasad Verma",
+      "position": "Member",
+      "category": "Non-Executive - Independent Director"
+    },
+    {
+      "committee": "Stakeholders Relationship Committee",
+      "sl_no": "1",
+      "name": "Mr. Hari Modi",
+      "position": "Chairman",
+      "category": "Non-Executive Independent Director"
+    },
+    {
+      "committee": "Stakeholders Relationship Committee",
+      "sl_no": "2",
+      "name": "Dr. Tapti Sen",
+      "position": "Member",
+      "category": "Non-Executive Independent Director"
+    },
+    {
+      "committee": "Stakeholders Relationship Committee",
+      "sl_no": "3",
+      "name": "Mr. Anurag Tantia",
+      "position": "Member",
+      "category": "Whole-time Director"
+    },
+    {
+      "committee": "Corporate Social Responsibility Committee",
+      "sl_no": "1",
+      "name": "Dr. Om Tantia",
+      "position": "Chairman",
+      "category": "Chairman and Managing Director"
+    },
+    {
+      "committee": "Corporate Social Responsibility Committee",
+      "sl_no": "2",
+      "name": "Dr. Aruna Tantia",
+      "position": "Member",
+      "category": "Non-Executive – Non-Independent Director"
+    },
+    {
+      "committee": "Corporate Social Responsibility Committee",
+      "sl_no": "3",
+      "name": "Dr. Tapti Sen",
+      "position": "Member",
+      "category": "Non-Executive – Independent Director"
+    },
+    {
+      "committee": "Nomination and Remuneration Committee",
+      "sl_no": "1",
+      "name": "Mr. Kashi Prasad Khandelwal",
+      "position": "Chairman",
+      "category": "Non-Executive – Independent Director"
+    },
+    {
+      "committee": "Nomination and Remuneration Committee",
+      "sl_no": "2",
+      "name": "Dr. Tapti Sen",
+      "position": "Member",
+      "category": "Non-Executive – Independent Director"
+    },
+    {
+      "committee": "Nomination and Remuneration Committee",
+      "sl_no": "3",
+      "name": "Mr. Hari Modi",
+      "position": "Member",
+      "category": "Non-Executive – Independent Director"
+    }
+  ]
+}

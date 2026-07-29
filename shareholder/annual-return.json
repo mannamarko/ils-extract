@@ -1,0 +1,70 @@
+{
+  "id": "AnnualReturn",
+  "slug": "annual-return",
+  "title": "Annual Return",
+  "type": "docs",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/07/DRAFTMGT-7AnnualReturn-2025-26Web.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/12/GHL-MGT-7-Final-AC0392184_SIGNweb.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/11/Form_MGT_7-2024.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2023/12/mgt-7_annualreturn-2022-23.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2023/12/mgt-7_annualreturn-2021-22.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2023/12/MGT-7-AnnualReturn-2020-21.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "title": "MGT-7 (Annual Return)- 2025-26",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/07/DRAFTMGT-7AnnualReturn-2025-26Web.pdf"
+    },
+    {
+      "title": "MGT-7 (Annual Return)- 2024-25",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/12/GHL-MGT-7-Final-AC0392184_SIGNweb.pdf"
+    },
+    {
+      "title": "MGT-7 (Annual Return)- 2023-24",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/11/Form_MGT_7-2024.pdf"
+    },
+    {
+      "title": "MGT-7 (Annual Return)- 2022-23",
+      "link": "https://ilshospitals.com/wp-content/uploads/2023/12/mgt-7_annualreturn-2022-23.pdf"
+    },
+    {
+      "title": "MGT-7 (Annual Return)- 2021-22",
+      "link": "https://ilshospitals.com/wp-content/uploads/2023/12/mgt-7_annualreturn-2021-22.pdf"
+    },
+    {
+      "title": "MGT-7 (Annual Return)- 2020-21",
+      "link": "https://ilshospitals.com/wp-content/uploads/2023/12/MGT-7-AnnualReturn-2020-21.pdf"
+    }
+  ]
+}

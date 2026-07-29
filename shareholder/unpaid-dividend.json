@@ -1,0 +1,98 @@
+{
+  "id": "UnpaidDividend",
+  "slug": "unpaid-dividend",
+  "title": "Unpaid Dividend",
+  "type": "docs",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-1STINTDIV25-26UNPAID925020050441585.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-FINALDIVIDEND24-25UNPAID925020034740826.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-1STINTDIV24-25UNPAID924020066627538.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-FINALDIVIDEND-23-24UNPAID924020044119387.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-2NDINTDIV23-24UNPAID-924020016931405.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/GPT_Unpaid_1st-Interim_Dividend-24-25.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/GPT_Final_Dividend-23-24.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/GPT_Healthcare_Limited_Unpaid_2nd_Interim_Dividend-23-24.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "as_on": "March 31, 2026",
+      "title": "Unpaid Dividend Details for 1st Interim Dividend For The Year 2025-2026",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-1STINTDIV25-26UNPAID925020050441585.pdf"
+    },
+    {
+      "as_on": "March 31, 2026",
+      "title": "Unpaid Dividend Details for Final Dividend for the Year 2024-2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-FINALDIVIDEND24-25UNPAID925020034740826.pdf"
+    },
+    {
+      "as_on": "March 31, 2026",
+      "title": "Unpaid Dividend Details for 1st Interim Dividend For The Year 2024-2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-1STINTDIV24-25UNPAID924020066627538.pdf"
+    },
+    {
+      "as_on": "March 31, 2026",
+      "title": "Unpaid Dividend Details for Final Dividend for the Year 2023-2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-FINALDIVIDEND-23-24UNPAID924020044119387.pdf"
+    },
+    {
+      "as_on": "March 31, 2026",
+      "title": "Unpaid Dividend Details for 2nd Interim Dividend for the Year 2023-2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/04/GPTHEALTHCARELIMITED-2NDINTDIV23-24UNPAID-924020016931405.pdf"
+    },
+    {
+      "as_on": "March 31, 2025",
+      "title": "Unpaid Dividend Details for 1st Interim Dividend For The Year 2024-2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/04/GPT_Unpaid_1st-Interim_Dividend-24-25.pdf"
+    },
+    {
+      "as_on": "March 31, 2025",
+      "title": "Unpaid Dividend Details for Final Dividend for the Year 2023-2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/04/GPT_Final_Dividend-23-24.pdf"
+    },
+    {
+      "as_on": "March 31, 2025",
+      "title": "Unpaid Dividend Details for 2nd Interim Dividend for the Year 2023-2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/04/GPT_Healthcare_Limited_Unpaid_2nd_Interim_Dividend-23-24.pdf"
+    }
+  ]
+}

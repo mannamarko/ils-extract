@@ -1,0 +1,30 @@
+{
+  "id": "CorporatePresentation",
+  "slug": "corporate-presentation",
+  "title": "Corporate Presentation",
+  "type": "docs",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/08/Corporate-presentation-GHL-FY25.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/CorporatePresentation.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "title": "Corporate Presentation 2025",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/08/Corporate-presentation-GHL-FY25.pdf"
+    },
+    {
+      "title": "Corporate Presentation 2024",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/05/CorporatePresentation.pdf"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "source_url": "https://ilshospitals.com/share-holder-information/",
+  "wp_page_id": 10519,
+  "meta_title": "Shareholder Information - ILS-hospitals",
+  "meta_title_resolved": "Shareholder Information - ILS-hospitals",
+  "meta_description": null,
+  "robots": "max-image-preview:large",
+  "canonical": "https://ilshospitals.com/share-holder-information/",
+  "canonical_resolved": "https://ilshospitals.com/share-holder-information/",
+  "og": {
+    "title": "Shareholder Information - ILS-hospitals",
+    "description": null,
+    "type": "article",
+    "url": "https://ilshospitals.com/share-holder-information/",
+    "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+    "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+    "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+    "locale": "en_US"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Shareholder Information - ILS-hospitals",
+    "description": null,
+    "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+    "url": null
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://ilshospitals.com/share-holder-information/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://ilshospitals.com#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://ilshospitals.com",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://ilshospitals.com/share-holder-information/#listItem",
+                "name": "Shareholder Information"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://ilshospitals.com/share-holder-information/#listItem",
+              "position": 2,
+              "name": "Shareholder Information",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://ilshospitals.com#listItem",
+                "name": "Home"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://ilshospitals.com/#organization",
+          "name": "ILS Hospital",
+          "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "url": "https://ilshospitals.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "@id": "https://ilshospitals.com/share-holder-information/#organizationLogo",
+            "width": 184,
+            "height": 82,
+            "caption": "ILS Hospitals Logo"
+          },
+          "image": {
+            "@id": "https://ilshospitals.com/share-holder-information/#organizationLogo"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://ilshospitals.com/share-holder-information/#webpage",
+          "url": "https://ilshospitals.com/share-holder-information/",
+          "name": "Shareholder Information - ILS-hospitals",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://ilshospitals.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://ilshospitals.com/share-holder-information/#breadcrumblist"
+          },
+          "datePublished": "2024-04-01T06:25:58+05:30",
+          "dateModified": "2024-05-15T08:37:52+05:30"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://ilshospitals.com/#website",
+          "url": "https://ilshospitals.com/",
+          "name": "ils-hospital",
+          "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "inLanguage": "en-US",
+          "publisher": {
+            "@id": "https://ilshospitals.com/#organization"
+          }
+        }
+      ],
+      "_source": "aioseo"
+    }
+  ],
+  "json_ld_by_source": {
+    "aioseo": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://ilshospitals.com/share-holder-information/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://ilshospitals.com#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://ilshospitals.com",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/share-holder-information/#listItem",
+                  "name": "Shareholder Information"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://ilshospitals.com/share-holder-information/#listItem",
+                "position": 2,
+                "name": "Shareholder Information",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://ilshospitals.com/#organization",
+            "name": "ILS Hospital",
+            "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "url": "https://ilshospitals.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+              "@id": "https://ilshospitals.com/share-holder-information/#organizationLogo",
+              "width": 184,
+              "height": 82,
+              "caption": "ILS Hospitals Logo"
+            },
+            "image": {
+              "@id": "https://ilshospitals.com/share-holder-information/#organizationLogo"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://ilshospitals.com/share-holder-information/#webpage",
+            "url": "https://ilshospitals.com/share-holder-information/",
+            "name": "Shareholder Information - ILS-hospitals",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://ilshospitals.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://ilshospitals.com/share-holder-information/#breadcrumblist"
+            },
+            "datePublished": "2024-04-01T06:25:58+05:30",
+            "dateModified": "2024-05-15T08:37:52+05:30"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://ilshospitals.com/#website",
+            "url": "https://ilshospitals.com/",
+            "name": "ils-hospital",
+            "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://ilshospitals.com/#organization"
+            }
+          }
+        ],
+        "_source": "aioseo"
+      }
+    ],
+    "post": []
+  },
+  "blogposting": null,
+  "breadcrumbs": [],
+  "meta_all": [
+    {
+      "kind": "name",
+      "key": "viewport",
+      "content": "width=device-width, initial-scale=1.0",
+      "index": 2
+    },
+    {
+      "kind": "name",
+      "key": "msvalidate.01",
+      "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+      "index": 3
+    },
+    {
+      "kind": "name",
+      "key": "robots",
+      "content": "max-image-preview:large",
+      "index": 4
+    },
+    {
+      "kind": "name",
+      "key": "generator",
+      "content": "All in One SEO (AIOSEO) 4.9.10",
+      "index": 5
+    },
+    {
+      "kind": "property",
+      "key": "og:locale",
+      "content": "en_US",
+      "index": 6
+    },
+    {
+      "kind": "property",
+      "key": "og:site_name",
+      "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+      "index": 7
+    },
+    {
+      "kind": "property",
+      "key": "og:type",
+      "content": "article",
+      "index": 8
+    },
+    {
+      "kind": "property",
+      "key": "og:title",
+      "content": "Shareholder Information - ILS-hospitals",
+      "index": 9
+    },
+    {
+      "kind": "property",
+      "key": "og:url",
+      "content": "https://ilshospitals.com/share-holder-information/",
+      "index": 10
+    },
+    {
+      "kind": "property",
+      "key": "og:image",
+      "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "index": 11
+    },
+    {
+      "kind": "property",
+      "key": "og:image:secure_url",
+      "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "index": 12
+    },
+    {
+      "kind": "property",
+      "key": "article:published_time",
+      "content": "2024-04-01T06:25:58+00:00",
+      "index": 13
+    },
+    {
+      "kind": "property",
+      "key": "article:modified_time",
+      "content": "2024-05-15T08:37:52+00:00",
+      "index": 14
+    },
+    {
+      "kind": "name",
+      "key": "twitter:card",
+      "content": "summary_large_image",
+      "index": 15
+    },
+    {
+      "kind": "name",
+      "key": "twitter:title",
+      "content": "Shareholder Information - ILS-hospitals",
+      "index": 16
+    },
+    {
+      "kind": "name",
+      "key": "twitter:image",
+      "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "index": 17
+    },
+    {
+      "kind": "name",
+      "key": "generator",
+      "content": "WordPress 7.0.2",
+      "index": 18
+    },
+    {
+      "kind": "name",
+      "key": "google-site-verification",
+      "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+      "index": 19
+    },
+    {
+      "kind": "name",
+      "key": "google-site-verification",
+      "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+      "index": 20
+    },
+    {
+      "kind": "name",
+      "key": "generator",
+      "content": "performance-lab 4.0.0; plugins: webp-uploads",
+      "index": 21
+    },
+    {
+      "kind": "name",
+      "key": "generator",
+      "content": "webp-uploads 2.6.1",
+      "index": 22
+    },
+    {
+      "kind": "name",
+      "key": "generator",
+      "content": "optimization-detective 1.0.0-beta3",
+      "index": 23
+    }
+  ],
+  "seo_issues": [
+    "no_post_specific_schema",
+    "no_post_specific_meta"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ShareCapital",
+  "slug": "share-capital",
+  "title": "Share Capital",
+  "type": "kv",
+  "documents": [],
+  "data": {
+    "authorised_share_capital": "Rs. 125,00,00,000 Divided into 12,50,00,000 Equity Shares of Rs. 10/- Each.",
+    "issued_paid_up_and_subscribed_capital": "Rs. 82,05,48,230 Divided into 8,20,54,823 Equity Shares of Rs. 10/- Each."
+  }
+}

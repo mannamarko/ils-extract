@@ -1,0 +1,18 @@
+{
+  "name": "ils-hospital-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scrapes ILS Hospitals hospital pages (overview, services, rooms, FAQs, SEO) with axios/cheerio, falling back to Puppeteer for JS-rendered content.",
+  "main": "ils-hospital-scraper.js",
+  "scripts": {
+    "start": "node ils-hospital-scraper.js --out ils_hospitals.json",
+    "scrape:doctors": "node ils-doctor-scraper.js",
+    "scrape:procedures": "node ils-key-procedure-scraper.js",
+    "scrape:packages": "node ils-health-package-scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "puppeteer": "^23.6.0"
+  }
+}

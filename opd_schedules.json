@@ -1,0 +1,1872 @@
+[
+  {
+    "doctor_id": 7525,
+    "slug": "dr-om-tantia",
+    "name": "Dr. Om Tantia"
+  },
+  {
+    "doctor_id": 7539,
+    "slug": "dr-aruna-tantia",
+    "name": "Dr. Aruna Tantia"
+  },
+  {
+    "doctor_id": 7550,
+    "slug": "dr-subhasish-deb",
+    "name": "Dr. Subhasish Deb"
+  },
+  {
+    "doctor_id": 10596,
+    "slug": "dr-kumar-raj",
+    "name": "Dr. Kumar Raj"
+  },
+  {
+    "doctor_id": 10843,
+    "slug": "dr-pragati-singhal",
+    "name": "Dr. Pragati Singhal"
+  },
+  {
+    "doctor_id": 11301,
+    "slug": "dr-soumyajit-mukherjee",
+    "name": "Dr. Soumyajit Mukherjee"
+  },
+  {
+    "doctor_id": 11303,
+    "slug": "dr-sourav-sadhukhan",
+    "name": "Dr. Sourav Sadhukhan"
+  },
+  {
+    "doctor_id": 11337,
+    "slug": "dr-dipayan-ghosh",
+    "name": "Dr. Dipayan Ghosh"
+  },
+  {
+    "doctor_id": 11497,
+    "slug": "dr-megha-agarwal",
+    "name": "Dr. Megha Agarwal"
+  },
+  {
+    "doctor_id": 11720,
+    "slug": "dr-soumitra-dey",
+    "name": "Dr. Soumitra Dey"
+  },
+  {
+    "doctor_id": 11790,
+    "slug": "dr-amitabha-das",
+    "name": "Dr. Amitabha Das"
+  },
+  {
+    "doctor_id": 11791,
+    "slug": "dr-shailesh-jaiswal",
+    "name": "Dr. Shailesh Jaiswal"
+  },
+  {
+    "doctor_id": 11792,
+    "slug": "dr-sareeha-abubaker",
+    "name": "Dr. Sareeha Abubaker"
+  },
+  {
+    "doctor_id": 11794,
+    "slug": "dr-sharad-bagri",
+    "name": "Dr. Sharad Bagri"
+  },
+  {
+    "doctor_id": 11822,
+    "slug": "mr-abhishek-majumder",
+    "name": "Mr. Abhishek Majumder"
+  },
+  {
+    "doctor_id": 11823,
+    "slug": "mrs-subhra-deb",
+    "name": "Mrs. Subhra Deb"
+  },
+  {
+    "doctor_id": 11825,
+    "slug": "mr-rupjit-das",
+    "name": "Mr. Rupjit Das"
+  },
+  {
+    "doctor_id": 11881,
+    "slug": "dr-subhadip-mandal",
+    "name": "Dr. Subhadip Mandal"
+  },
+  {
+    "doctor_id": 11883,
+    "slug": "dr-nikhil-sharma",
+    "name": "Dr. Nikhil Sharma"
+  },
+  {
+    "doctor_id": 11885,
+    "slug": "dr-supratip-kundu",
+    "name": "Dr. Supratip Kundu"
+  },
+  {
+    "doctor_id": 12185,
+    "slug": "dr-anand-biyani",
+    "name": "Dr. Anand Biyani"
+  },
+  {
+    "doctor_id": 12186,
+    "slug": "dr-shashi-kant-tewari",
+    "name": "Dr. Shashi Kant Tewari"
+  },
+  {
+    "doctor_id": 12193,
+    "slug": "prof-dr-d-p-sinha",
+    "name": "Prof. Dr. D.P. Sinha"
+  },
+  {
+    "doctor_id": 12195,
+    "slug": "dr-anjana-sen-pareek",
+    "name": "Dr. Anjana Sen Pareek"
+  },
+  {
+    "doctor_id": 12196,
+    "slug": "dr-priyabrata-mondal",
+    "name": "Dr. Priyabrata Mondal"
+  },
+  {
+    "doctor_id": 12198,
+    "slug": "dr-soumen-mondal",
+    "name": "Dr. Soumen Mondal"
+  },
+  {
+    "doctor_id": 12200,
+    "slug": "dr-pratyusha-sinha",
+    "name": "Dr. Pratyusha Sinha"
+  },
+  {
+    "doctor_id": 12204,
+    "slug": "dr-umasankar-mukhopadhyay",
+    "name": "Dr. Umasankar Mukhopadhyay"
+  },
+  {
+    "doctor_id": 12206,
+    "slug": "ms-jayeeta-roy",
+    "name": "Ms. Jayeeta Roy"
+  },
+  {
+    "doctor_id": 12209,
+    "slug": "dr-biplab-deb",
+    "name": "Dr. Biplab Deb"
+  },
+  {
+    "doctor_id": 12216,
+    "slug": "mr-surajit-sarkar",
+    "name": "Mr. Surajit Sarkar"
+  },
+  {
+    "doctor_id": 12217,
+    "slug": "dr-kaushik-saha-2",
+    "name": "Dr. Kaushik Saha"
+  },
+  {
+    "doctor_id": 12276,
+    "slug": "dr-aparajita-mitra",
+    "name": "Dr. Aparajita Mitra"
+  },
+  {
+    "doctor_id": 12304,
+    "slug": "dr-uttiya-saha",
+    "name": "Dr. Uttiya Saha"
+  },
+  {
+    "doctor_id": 12470,
+    "slug": "dr-arpita-mohanty",
+    "name": "Dr. Arpita Mohanty"
+  },
+  {
+    "doctor_id": 12519,
+    "slug": "dr-ruchi-roumy-das",
+    "name": "Dr. Ruchi Roumy Das"
+  },
+  {
+    "doctor_id": 14924,
+    "slug": "dr-sayan-ghoshal",
+    "name": "Dr. Sayan Ghoshal"
+  },
+  {
+    "doctor_id": 14990,
+    "slug": "dr-amit-jain",
+    "name": "Dr. Amit jain"
+  },
+  {
+    "doctor_id": 14991,
+    "slug": "dr-b-bala-krishna",
+    "name": "Dr. B. Bala Krishna"
+  },
+  {
+    "doctor_id": 14994,
+    "slug": "dr-gayatri-chaudhari",
+    "name": "Dr. Gayatri Chaudhari"
+  },
+  {
+    "doctor_id": 14995,
+    "slug": "dr-hanish-sharma",
+    "name": "Dr. Hanish Sharma"
+  },
+  {
+    "doctor_id": 15005,
+    "slug": "dr-priyanka-khatri",
+    "name": "Dr. Priyanka Khatri"
+  },
+  {
+    "doctor_id": 15008,
+    "slug": "dr-rakesh-singh",
+    "name": "Dr. Rakesh Singh"
+  },
+  {
+    "doctor_id": 15010,
+    "slug": "dr-sanjeev-mishra",
+    "name": "Dr. Sanjeev Mishra"
+  },
+  {
+    "doctor_id": 15011,
+    "slug": "dr-shishir-agarwal",
+    "name": "Dr. Shishir agarwal"
+  },
+  {
+    "doctor_id": 15015,
+    "slug": "dr-supriya-gupta",
+    "name": "Dr. Supriya Gupta"
+  },
+  {
+    "doctor_id": 15016,
+    "slug": "dr-vikash-kumar-dwivedi",
+    "name": "Dr. Vikash Kumar Dwivedi"
+  },
+  {
+    "doctor_id": 15017,
+    "slug": "dr-vivek-mahawar",
+    "name": "Dr. Vivek Mahawar"
+  },
+  {
+    "doctor_id": 15018,
+    "slug": "dr-yagya-prakash",
+    "name": "Dr. Yagya Prakash"
+  },
+  {
+    "doctor_id": 15020,
+    "slug": "dr-ekta-jain",
+    "name": "Dr. Ekta Jain"
+  },
+  {
+    "doctor_id": 15049,
+    "slug": "dr-vaibhav-seth",
+    "name": "Dr. Vaibhav Seth"
+  },
+  {
+    "doctor_id": 15078,
+    "slug": "dr-silima-subhasnigdha-tarenia",
+    "name": "Dr. Silima Subhasnigdha Tarenia"
+  },
+  {
+    "doctor_id": 16230,
+    "slug": "dr-nidhi-gupta",
+    "name": "Dr. Nidhi Gupta"
+  },
+  {
+    "doctor_id": 16232,
+    "slug": "dr-manisa-sahu",
+    "name": "Dr. Manisa Sahu"
+  },
+  {
+    "doctor_id": 16234,
+    "slug": "dr-sonal-bajpayee",
+    "name": "Dr. Sonal Bajpayee"
+  },
+  {
+    "doctor_id": 16253,
+    "slug": "ms-isha-kaur-bagga",
+    "name": "Ms. Isha Kaur Bagga"
+  },
+  {
+    "doctor_id": 16254,
+    "slug": "ms-grishma-tiwari",
+    "name": "Ms. Grishma Tiwari"
+  },
+  {
+    "doctor_id": 16412,
+    "slug": "dr-prasenjit-sarkar",
+    "name": "Dr. Prasenjit Sarkar"
+  },
+  {
+    "doctor_id": 16413,
+    "slug": "dr-samujjwal-das",
+    "name": "Dr. Samujjwal Das"
+  },
+  {
+    "doctor_id": 16414,
+    "slug": "dr-chanda-dutta-chowdhury",
+    "name": "Dr. Chanda Dutta Chowdhury"
+  },
+  {
+    "doctor_id": 16417,
+    "slug": "dr-arvind-kumar-ojha",
+    "name": "Dr. Arvind Kumar Ojha"
+  },
+  {
+    "doctor_id": 16418,
+    "slug": "dr-santanu-goswami",
+    "name": "Dr. Santanu Goswami"
+  },
+  {
+    "doctor_id": 16419,
+    "slug": "dr-ankit-goel",
+    "name": "Dr. Ankit Goel"
+  },
+  {
+    "doctor_id": 16420,
+    "slug": "dr-niladri-bose",
+    "name": "Dr. Niladri Bose"
+  },
+  {
+    "doctor_id": 16422,
+    "slug": "dr-sharmistha-guha",
+    "name": "Dr. Sharmistha Guha"
+  },
+  {
+    "doctor_id": 16425,
+    "slug": "dr-himanshu-shekhar-mohanty",
+    "name": "Dr. Himanshu Shekhar Mohanty"
+  },
+  {
+    "doctor_id": 16426,
+    "slug": "dr-jyotish-roy",
+    "name": "Dr. Jyotish Roy"
+  },
+  {
+    "doctor_id": 16441,
+    "slug": "dr-arpan-choudhary",
+    "name": "Dr. Arpan Choudhary"
+  },
+  {
+    "doctor_id": 16446,
+    "slug": "dr-bipul-roy",
+    "name": "Dr. Bipul Roy"
+  },
+  {
+    "doctor_id": 16448,
+    "slug": "dr-samir-kumar-roy",
+    "name": "Dr. Samir Kumar Roy"
+  },
+  {
+    "doctor_id": 16449,
+    "slug": "dr-sanjit-kumar-mandal",
+    "name": "Dr. Sanjit Kumar Mandal"
+  },
+  {
+    "doctor_id": 16450,
+    "slug": "dr-saibal-chakraborty",
+    "name": "Dr. Saibal Chakraborty"
+  },
+  {
+    "doctor_id": 16451,
+    "slug": "dr-shatanik-sarkar",
+    "name": "Dr. Shatanik Sarkar"
+  },
+  {
+    "doctor_id": 16452,
+    "slug": "dr-shivaam-kesarwaani",
+    "name": "Dr. Shivaam Kesarwaani"
+  },
+  {
+    "doctor_id": 16453,
+    "slug": "dr-anup-sarkar",
+    "name": "Dr. Anup Sarkar"
+  },
+  {
+    "doctor_id": 16455,
+    "slug": "dr-sankulal-ganguly",
+    "name": "Dr. Sankulal Ganguly"
+  },
+  {
+    "doctor_id": 16457,
+    "slug": "dr-chandramani-sidar",
+    "name": "Dr. Chandramani Sidar"
+  },
+  {
+    "doctor_id": 16458,
+    "slug": "dr-sunny-uttamani",
+    "name": "Dr. Sunny Uttamani"
+  },
+  {
+    "doctor_id": 16599,
+    "slug": "dr-debmalya-saha",
+    "name": "Dr. Debmalya Saha"
+  },
+  {
+    "doctor_id": 17091,
+    "slug": "dr-harshita-debbarma",
+    "name": "Dr. Harshita Debbarma"
+  },
+  {
+    "doctor_id": 17098,
+    "slug": "dr-sumit-jain-sethia",
+    "name": "Dr. Sumit Jain Sethia"
+  },
+  {
+    "doctor_id": 17234,
+    "slug": "dr-abhijeet-kumar-agrawal",
+    "name": "Dr. Abhijeet Kumar Agrawal"
+  },
+  {
+    "doctor_id": 17239,
+    "slug": "dr-dhiraj-premchandani",
+    "name": "Dr. Dhiraj Premchandani"
+  },
+  {
+    "doctor_id": 17276,
+    "slug": "dr-rakesh-kumar-mishra",
+    "name": "Dr. Rakesh Kumar Mishra"
+  },
+  {
+    "doctor_id": 17379,
+    "slug": "dr-namrata-biswas",
+    "name": "Dr. Namrata Biswas"
+  },
+  {
+    "doctor_id": 17403,
+    "slug": "dr-jyoti-gupta",
+    "name": "Dr. Jyoti Gupta"
+  },
+  {
+    "doctor_id": 17498,
+    "slug": "dr-shilanjan-roy",
+    "name": "Dr. Shilanjan Roy"
+  },
+  {
+    "doctor_id": 17500,
+    "slug": "dr-kuntal-chakraborty",
+    "name": "Dr. Kuntal Chakraborty"
+  },
+  {
+    "doctor_id": 17501,
+    "slug": "dr-pallab-biswas",
+    "name": "Dr. Pallab Biswas"
+  },
+  {
+    "doctor_id": 17502,
+    "slug": "dr-riya-das",
+    "name": "Dr. Riya Das"
+  },
+  {
+    "doctor_id": 17503,
+    "slug": "dr-rakesh-jalani",
+    "name": "Dr. Rakesh Jalani"
+  },
+  {
+    "doctor_id": 17588,
+    "slug": "dr-kautuk-lohia",
+    "name": "Dr. Kautuk Lohia"
+  },
+  {
+    "doctor_id": 17677,
+    "slug": "dr-neeraj-agarwal",
+    "name": "Dr. Neeraj Agarwal"
+  },
+  {
+    "doctor_id": 17679,
+    "slug": "dr-souvik-sahu",
+    "name": "Dr. Souvik Sahu"
+  },
+  {
+    "doctor_id": 17683,
+    "slug": "dr-ryan-sohail-kaiser",
+    "name": "Dr. Ryan Sohail Kaiser"
+  },
+  {
+    "doctor_id": 17685,
+    "slug": "dr-sayan-chatterjee",
+    "name": "Dr. Sayan Chatterjee"
+  },
+  {
+    "doctor_id": 17686,
+    "slug": "dr-soumyojit-saha",
+    "name": "Dr. Soumyojit Saha"
+  },
+  {
+    "doctor_id": 17687,
+    "slug": "sunirmal-dhara",
+    "name": "Sunirmal Dhara"
+  },
+  {
+    "doctor_id": 17757,
+    "slug": "dr-subhadeep-paul",
+    "name": "Dr. Subhadeep Paul"
+  },
+  {
+    "doctor_id": 17787,
+    "slug": "dr-akash-dayanandeo-s",
+    "name": "Dr. Akash Dayanandeo S"
+  },
+  {
+    "doctor_id": 17792,
+    "slug": "dr-nilargha-bhattacharya",
+    "name": "Dr. Nilargha Bhattacharya"
+  },
+  {
+    "doctor_id": 17793,
+    "slug": "dr-nitish-agarwal",
+    "name": "Dr. Nitish Agarwal"
+  },
+  {
+    "doctor_id": 17895,
+    "slug": "dr-poonam-kapoor",
+    "name": "Dr. Poonam Kapoor"
+  },
+  {
+    "doctor_id": 17898,
+    "slug": "ms-chaitali-bhadra",
+    "name": "Ms. Chaitali Bhadra"
+  },
+  {
+    "doctor_id": 17899,
+    "slug": "dr-rekha-srivastava",
+    "name": "Dr. Rekha Srivastava"
+  },
+  {
+    "doctor_id": 17903,
+    "slug": "dr-puranjay-chakrabarty",
+    "name": "Dr. Puranjay Chakrabarty"
+  },
+  {
+    "doctor_id": 17932,
+    "slug": "dr-abhijit-sahu",
+    "name": "Dr. Abhijit Sahu"
+  },
+  {
+    "doctor_id": 17973,
+    "slug": "dr-aditya-vikram-ruia",
+    "name": "Dr. Aditya Vikram Ruia"
+  },
+  {
+    "doctor_id": 17981,
+    "slug": "dr-samarth-acharya",
+    "name": "Dr. Samarth Acharya"
+  },
+  {
+    "doctor_id": 17983,
+    "slug": "dr-soumya-guha",
+    "name": "Dr. Soumya Guha"
+  },
+  {
+    "doctor_id": 17984,
+    "slug": "dr-sanandam-sarkar",
+    "name": "Dr. Sanandam Sarkar"
+  },
+  {
+    "doctor_id": 17985,
+    "slug": "dr-sadajit-banerjee",
+    "name": "Dr. Sadajit Banerjee"
+  },
+  {
+    "doctor_id": 17986,
+    "slug": "dr-saptarshi-mukherjee",
+    "name": "Dr. Saptarshi Mukherjee"
+  },
+  {
+    "doctor_id": 17987,
+    "slug": "dr-sangeeta-dubey",
+    "name": "Dr. Sangeeta Dubey"
+  },
+  {
+    "doctor_id": 17988,
+    "slug": "dr-arghya-samanta",
+    "name": "Dr. Arghya Samanta"
+  },
+  {
+    "doctor_id": 17989,
+    "slug": "dr-soumee-ghosh",
+    "name": "Dr. Soumee Ghosh"
+  },
+  {
+    "doctor_id": 17990,
+    "slug": "dr-gaurav-taparia",
+    "name": "Dr. Gaurav Taparia"
+  },
+  {
+    "doctor_id": 17991,
+    "slug": "dr-shirswendu-saha",
+    "name": "Dr. Shirswendu Saha"
+  },
+  {
+    "doctor_id": 17993,
+    "slug": "dr-pratik-agarwal",
+    "name": "Dr. PRATIK AGARWAL"
+  },
+  {
+    "doctor_id": 18076,
+    "slug": "dr-dipankar-paul",
+    "name": "Dr. Dipankar Paul"
+  },
+  {
+    "doctor_id": 18077,
+    "slug": "dr-kunal-ostwal",
+    "name": "Dr. Kunal Ostwal"
+  },
+  {
+    "doctor_id": 18078,
+    "slug": "dr-rajarshi-mitra",
+    "name": "Dr. Rajarshi Mitra"
+  },
+  {
+    "doctor_id": 18093,
+    "slug": "dr-mridul-tantia",
+    "name": "Dr. Mridul Tantia"
+  },
+  {
+    "doctor_id": 18100,
+    "slug": "dr-suvendu-maji",
+    "name": "Dr. Suvendu Maji"
+  },
+  {
+    "doctor_id": 18171,
+    "slug": "dr-tuhina-ghosh-chakraborty",
+    "name": "Dr. Tuhina Ghosh Chakraborty"
+  },
+  {
+    "doctor_id": 18172,
+    "slug": "dr-soumyadip-saha",
+    "name": "Dr. Soumyadip Saha"
+  },
+  {
+    "doctor_id": 18173,
+    "slug": "dr-debaditya-roy",
+    "name": "Dr. Debaditya Roy"
+  },
+  {
+    "doctor_id": 18185,
+    "slug": "dr-deepak-kumar",
+    "name": "Dr. Deepak Kumar"
+  },
+  {
+    "doctor_id": 18192,
+    "slug": "dr-m-l-bansali",
+    "name": "Dr. M L Bansali"
+  },
+  {
+    "doctor_id": 18193,
+    "slug": "dr-tulika-roy",
+    "name": "Dr. Tulika Roy"
+  },
+  {
+    "doctor_id": 18194,
+    "slug": "dr-mimi-ganguly",
+    "name": "Dr. Mimi Ganguly"
+  },
+  {
+    "doctor_id": 18195,
+    "slug": "ms-rituparna-dutta",
+    "name": "Ms. Rituparna Dutta"
+  },
+  {
+    "doctor_id": 18196,
+    "slug": "ms-sohini-banerjee",
+    "name": "Ms. Sohini Banerjee"
+  },
+  {
+    "doctor_id": 18216,
+    "slug": "dr-mrinalini-chowdhury",
+    "name": "Dr. Mrinalini Chowdhury"
+  },
+  {
+    "doctor_id": 18227,
+    "slug": "dr-shilika-lalwani",
+    "name": "Dr. Shilika Lalwani"
+  },
+  {
+    "doctor_id": 18254,
+    "slug": "dr-joyita-bhowmik",
+    "name": "Dr. Joyita Bhowmik"
+  },
+  {
+    "doctor_id": 18283,
+    "slug": "dr-anupran-ghosh",
+    "name": "Dr. Anupran Ghosh"
+  },
+  {
+    "doctor_id": 18287,
+    "slug": "prof-dr-rajendra-pandey",
+    "name": "Prof. (Dr) Rajendra Pandey"
+  },
+  {
+    "doctor_id": 18299,
+    "slug": "dr-parijat-das",
+    "name": "Dr. Parijat Das"
+  },
+  {
+    "doctor_id": 18391,
+    "slug": "dr-santanu-ghosh",
+    "name": "Dr. Santanu Ghosh"
+  },
+  {
+    "doctor_id": 18394,
+    "slug": "dr-abhishek-tripathi",
+    "name": "Dr. Abhishek Tripathi"
+  },
+  {
+    "doctor_id": 18422,
+    "slug": "dr-rajesh-jawale",
+    "name": "Dr. Rajesh Jawale"
+  },
+  {
+    "doctor_id": 18430,
+    "slug": "dr-tanha-zarin-naaz",
+    "name": "Dr. Tanha Zarin Naaz"
+  },
+  {
+    "doctor_id": 18452,
+    "slug": "dr-neha-rajak",
+    "name": "Dr. Neha Rajak"
+  },
+  {
+    "doctor_id": 18456,
+    "slug": "dr-priya-ranjan-mandal",
+    "name": "Dr. Priya Ranjan Mandal"
+  },
+  {
+    "doctor_id": 18471,
+    "slug": "dr-abhraneel-guha",
+    "name": "Dr. Abhraneel Guha"
+  },
+  {
+    "doctor_id": 18488,
+    "slug": "dr-dhruv-paul",
+    "name": "Dr. Dhruv Paul"
+  },
+  {
+    "doctor_id": 18520,
+    "slug": "dr-debanjan-roychowdhury",
+    "name": "Dr. Debanjan Roychowdhury"
+  },
+  {
+    "doctor_id": 18522,
+    "slug": "dr-priya-ranjan-mandal-2",
+    "name": "Dr. Priya Ranjan Mandal"
+  },
+  {
+    "doctor_id": 18523,
+    "slug": "dr-amitendu-sekhar",
+    "name": "Dr. Amitendu Sekhar"
+  },
+  {
+    "doctor_id": 18577,
+    "slug": "dr-bisswadeep-kumar-das",
+    "name": "Dr. Bisswadeep Kumar Das"
+  },
+  {
+    "doctor_id": 18579,
+    "slug": "dr-mayank-dokania",
+    "name": "Dr. Mayank Dokania"
+  },
+  {
+    "doctor_id": 7284,
+    "slug": "dr-rituparna-saha",
+    "name": "Dr. Rituparna Saha"
+  },
+  {
+    "doctor_id": 7551,
+    "slug": "dr-bimalendu-sen",
+    "name": "Dr. Bimalendu Sen"
+  },
+  {
+    "doctor_id": 10479,
+    "slug": "dr-paramita-debnath",
+    "name": "Dr. Paramita Debnath"
+  },
+  {
+    "doctor_id": 7546,
+    "slug": "dr-reet-mukhopadhyay",
+    "name": "Dr. Reet Mukhopadhyay"
+  },
+  {
+    "doctor_id": 10480,
+    "slug": "dr-sadu-aung-mog",
+    "name": "Dr. Sadu Aung Mog"
+  },
+  {
+    "doctor_id": 10716,
+    "slug": "dr-ayan-banerjee",
+    "name": "Dr. Ayan Banerjee"
+  },
+  {
+    "doctor_id": 7503,
+    "slug": "dr-ghanshyam-goyal",
+    "name": "Dr. Ghanshyam Goyal"
+  },
+  {
+    "doctor_id": 10831,
+    "slug": "dr-s-k-somani",
+    "name": "Dr. S.K. Somani"
+  },
+  {
+    "doctor_id": 7406,
+    "slug": "dr-kaushik-naha-biswas",
+    "name": "Dr. Kaushik Naha Biswas"
+  },
+  {
+    "doctor_id": 7456,
+    "slug": "dr-sampurna-dutta-gupta",
+    "name": "Dr. Sampurna Dutta Gupta"
+  },
+  {
+    "doctor_id": 10868,
+    "slug": "dr-abhishek-hansa",
+    "name": "Dr. Abhishek Hansa"
+  },
+  {
+    "doctor_id": 10870,
+    "slug": "ms-madhuri-sarda",
+    "name": "Ms. Madhuri Sarda"
+  },
+  {
+    "doctor_id": 7296,
+    "slug": "dr-prasun-halder",
+    "name": "Dr. Prasun Halder"
+  },
+  {
+    "doctor_id": 11909,
+    "slug": "dr-rahul-m-sharma",
+    "name": "Dr. Rahul M Sharma"
+  },
+  {
+    "doctor_id": 7270,
+    "slug": "dr-t-naresh-babu",
+    "name": "Dr. T. Naresh Babu"
+  },
+  {
+    "doctor_id": 7367,
+    "slug": "dr-amit-bandyopadhyay",
+    "name": "Dr. Amit Bandyopadhyay"
+  },
+  {
+    "doctor_id": 7407,
+    "slug": "dr-r-l-joshi",
+    "name": "Dr. R. L. Joshi"
+  },
+  {
+    "doctor_id": 7434,
+    "slug": "dr-ashok-kumar-saraf",
+    "name": "Dr. Ashok Kumar Saraf"
+  },
+  {
+    "doctor_id": 7495,
+    "slug": "dr-sanjib-kumar-pandey",
+    "name": "Dr. Sanjib Kumar Pandey"
+  },
+  {
+    "doctor_id": 7408,
+    "slug": "dr-prabir-kumar-kundu",
+    "name": "Dr. Prabir Kumar Kundu"
+  },
+  {
+    "doctor_id": 10704,
+    "slug": "dr-pradeep-kumar-agarwal",
+    "name": "Dr. Pradeep Kumar Agarwal"
+  },
+  {
+    "doctor_id": 7299,
+    "slug": "dr-kumar-sankar-poddar",
+    "name": "Dr. Kumar Sankar Poddar"
+  },
+  {
+    "doctor_id": 7494,
+    "slug": "dr-saroj-soni",
+    "name": "Dr. Saroj Soni"
+  },
+  {
+    "doctor_id": 7410,
+    "slug": "dr-pulakesh-sinha",
+    "name": "Dr. Pulakesh Sinha"
+  },
+  {
+    "doctor_id": 7297,
+    "slug": "dr-arnab-roy",
+    "name": "Dr. Arnab Roy"
+  },
+  {
+    "doctor_id": 7411,
+    "slug": "dr-kuntal-bhattacharyya",
+    "name": "Dr. Kuntal Bhattacharyya"
+  },
+  {
+    "doctor_id": 7498,
+    "slug": "dr-sunil-kumar-lhila",
+    "name": "Dr. Sunil Kumar Lhila"
+  },
+  {
+    "doctor_id": 7409,
+    "slug": "dr-abhinay-tibdewal",
+    "name": "Dr. Abhinay Tibdewal"
+  },
+  {
+    "doctor_id": 7499,
+    "slug": "dr-debjit-ghosh",
+    "name": "Dr. Debjit Ghosh"
+  },
+  {
+    "doctor_id": 7412,
+    "slug": "dr-amanul-hoque",
+    "name": "Dr. Amanul Hoque"
+  },
+  {
+    "doctor_id": 11910,
+    "slug": "dr-amit-kumar-singh",
+    "name": "Dr. Amit Kumar Singh"
+  },
+  {
+    "doctor_id": 7301,
+    "slug": "dr-archit-kedia",
+    "name": "Dr. Archit Kedia"
+  },
+  {
+    "doctor_id": 7285,
+    "slug": "dr-bandan-debnath",
+    "name": "Dr. Bandan Debnath"
+  },
+  {
+    "doctor_id": 7366,
+    "slug": "dr-sudeshna-kar",
+    "name": "Dr. Sudeshna Kar"
+  },
+  {
+    "doctor_id": 7302,
+    "slug": "dr-awahidar-rahaman",
+    "name": "Dr. Awahidar Rahaman"
+  },
+  {
+    "doctor_id": 7303,
+    "slug": "dr-arnab-mandal",
+    "name": "Dr. Arnab Mandal"
+  },
+  {
+    "doctor_id": 7287,
+    "slug": "dr-sharmistha-deb",
+    "name": "Dr. Sharmistha Deb"
+  },
+  {
+    "doctor_id": 7286,
+    "slug": "dr-anasuya-bhattacharjee",
+    "name": "Dr. Anasuya Bhattacharjee"
+  },
+  {
+    "doctor_id": 7304,
+    "slug": "dr-nandita-bansal",
+    "name": "Dr. Nandita Bansal"
+  },
+  {
+    "doctor_id": 7306,
+    "slug": "dr-asha-rani-bhol",
+    "name": "Dr. Asha Rani Bhol"
+  },
+  {
+    "doctor_id": 7417,
+    "slug": "dr-karan-sancheti",
+    "name": "Dr. Karan Sancheti"
+  },
+  {
+    "doctor_id": 7292,
+    "slug": "dr-subrata-kumar-das",
+    "name": "Dr. Subrata Kumar Das"
+  },
+  {
+    "doctor_id": 7501,
+    "slug": "dr-akanshya-baruah",
+    "name": "Dr. Akanshya Baruah"
+  },
+  {
+    "doctor_id": 7419,
+    "slug": "dr-adrija-datta",
+    "name": "Dr. Adrija Datta"
+  },
+  {
+    "doctor_id": 7308,
+    "slug": "dr-sayantani-chakraborty",
+    "name": "Dr. Sayantani Chakraborty"
+  },
+  {
+    "doctor_id": 7502,
+    "slug": "dr-shailvi-banka",
+    "name": "Dr. Shailvi Banka"
+  },
+  {
+    "doctor_id": 7420,
+    "slug": "dr-sayan-ghosh",
+    "name": "Dr. Sayan Ghosh"
+  },
+  {
+    "doctor_id": 7309,
+    "slug": "dr-animesh-maiti",
+    "name": "Dr. Animesh Maiti"
+  },
+  {
+    "doctor_id": 7310,
+    "slug": "dr-debarati-bhar",
+    "name": "Dr. Debarati Bhar"
+  },
+  {
+    "doctor_id": 7508,
+    "slug": "dr-ramanuj-sinha",
+    "name": "Dr. Ramanuj Sinha"
+  },
+  {
+    "doctor_id": 7421,
+    "slug": "dr-mohammed-samiullah",
+    "name": "Dr. Mohammed Samiullah"
+  },
+  {
+    "doctor_id": 7314,
+    "slug": "dr-soumyarup-das",
+    "name": "Dr. Soumyarup Das"
+  },
+  {
+    "doctor_id": 7313,
+    "slug": "dr-chandan-chakraborty",
+    "name": "Dr. Chandan Chakraborty"
+  },
+  {
+    "doctor_id": 7422,
+    "slug": "dr-prasenjit-ganguly",
+    "name": "Dr. Prasenjit Ganguly"
+  },
+  {
+    "doctor_id": 7507,
+    "slug": "dr-srijoy-gupta",
+    "name": "Dr. Srijoy Gupta"
+  },
+  {
+    "doctor_id": 7423,
+    "slug": "dr-ankit-choudhary",
+    "name": "Dr. Ankit Choudhary"
+  },
+  {
+    "doctor_id": 7506,
+    "slug": "dr-shibaji-roychoudhuri",
+    "name": "Dr. Shibaji Roychoudhuri"
+  },
+  {
+    "doctor_id": 7512,
+    "slug": "dr-jayanta-mukherjee",
+    "name": "Dr. Jayanta Mukherjee"
+  },
+  {
+    "doctor_id": 7317,
+    "slug": "dr-prateik-poddar",
+    "name": "Dr. Prateik Poddar"
+  },
+  {
+    "doctor_id": 12059,
+    "slug": "dr-soumita-sadhukhan",
+    "name": "Dr. Soumita Sadhukhan"
+  },
+  {
+    "doctor_id": 7511,
+    "slug": "dr-debashis-misra",
+    "name": "Dr. Debashis Misra"
+  },
+  {
+    "doctor_id": 7426,
+    "slug": "dr-p-k-maity",
+    "name": "Dr. P. K. Maity"
+  },
+  {
+    "doctor_id": 7316,
+    "slug": "dr-debjoy-sau",
+    "name": "Dr. Debjoy Sau"
+  },
+  {
+    "doctor_id": 7427,
+    "slug": "dr-dipak-shah",
+    "name": "Dr. Dipak Shah"
+  },
+  {
+    "doctor_id": 7320,
+    "slug": "dr-devraj-roy",
+    "name": "Dr. Devraj Roy"
+  },
+  {
+    "doctor_id": 7428,
+    "slug": "dr-santanu-sarkar",
+    "name": "Dr. Santanu Sarkar"
+  },
+  {
+    "doctor_id": 7322,
+    "slug": "dr-rakesh-khan",
+    "name": "Dr. Rakesh Khan"
+  },
+  {
+    "doctor_id": 7524,
+    "slug": "dr-tamonas-chaudhuri",
+    "name": "Dr. Tamonas Chaudhuri"
+  },
+  {
+    "doctor_id": 7429,
+    "slug": "dr-v-k-jain",
+    "name": "Dr. V. K. Jain"
+  },
+  {
+    "doctor_id": 7318,
+    "slug": "dr-ashutosh-nayak",
+    "name": "Dr. Ashutosh Nayak"
+  },
+  {
+    "doctor_id": 7430,
+    "slug": "dr-r-p-ladhania",
+    "name": "Dr. R. P. Ladhania"
+  },
+  {
+    "doctor_id": 7518,
+    "slug": "dr-shashi-khanna",
+    "name": "Dr. Shashi Khanna"
+  },
+  {
+    "doctor_id": 7319,
+    "slug": "dr-binay-agarwal",
+    "name": "Dr. Binay Agarwal"
+  },
+  {
+    "doctor_id": 7523,
+    "slug": "dr-prof-ml-saha",
+    "name": "Dr. Prof. M.L. Saha"
+  },
+  {
+    "doctor_id": 7521,
+    "slug": "dr-anshuman-poddar",
+    "name": "Dr. Anshuman Poddar"
+  },
+  {
+    "doctor_id": 7321,
+    "slug": "dr-prosenjit-choudhury",
+    "name": "Dr. Prosenjit Choudhury"
+  },
+  {
+    "doctor_id": 7431,
+    "slug": "dr-sunil-tibrewal",
+    "name": "Dr. Sunil Tibrewal"
+  },
+  {
+    "doctor_id": 7432,
+    "slug": "dr-dibyendu-halder",
+    "name": "Dr. Dibyendu Halder"
+  },
+  {
+    "doctor_id": 7522,
+    "slug": "dr-satish-prasad-banka",
+    "name": "Dr. Satish Prasad Banka"
+  },
+  {
+    "doctor_id": 7324,
+    "slug": "dr-tapan-mukherjee",
+    "name": "Dr. Tapan Mukherjee"
+  },
+  {
+    "doctor_id": 7519,
+    "slug": "dr-sudha-chowdhury",
+    "name": "Dr. Sudha Chowdhury"
+  },
+  {
+    "doctor_id": 7520,
+    "slug": "dr-gautam-das",
+    "name": "Dr. Gautam Das"
+  },
+  {
+    "doctor_id": 10489,
+    "slug": "dr-manish-kumar",
+    "name": "Dr. Manish Kumar"
+  },
+  {
+    "doctor_id": 7436,
+    "slug": "dr-arnab-kar",
+    "name": "Dr. Arnab Kar"
+  },
+  {
+    "doctor_id": 10577,
+    "slug": "dr-prof-kaushik-saha",
+    "name": "Dr. Prof. Kaushik Saha"
+  },
+  {
+    "doctor_id": 7517,
+    "slug": "dr-sarbajit-ray",
+    "name": "Dr. Sarbajit Ray"
+  },
+  {
+    "doctor_id": 7267,
+    "slug": "dr-akash-chakma",
+    "name": "Dr. Akash Chakma"
+  },
+  {
+    "doctor_id": 11826,
+    "slug": "dr-tahidul-islam",
+    "name": "Dr. Tahidul Islam"
+  },
+  {
+    "doctor_id": 7332,
+    "slug": "dr-pinaki-de",
+    "name": "Dr. Pinaki De"
+  },
+  {
+    "doctor_id": 7516,
+    "slug": "dr-pramod-sureka",
+    "name": "Dr. Pramod Sureka"
+  },
+  {
+    "doctor_id": 7437,
+    "slug": "dr-ruchi-roumya-das",
+    "name": "Dr. Ruchi Roumya Das"
+  },
+  {
+    "doctor_id": 7438,
+    "slug": "dr-pawan-agarwal",
+    "name": "Dr. Pawan Agarwal"
+  },
+  {
+    "doctor_id": 10597,
+    "slug": "dr-indrashis-poddar",
+    "name": "Dr. Indrashis Poddar"
+  },
+  {
+    "doctor_id": 7330,
+    "slug": "dr-biswajit-mukherjee",
+    "name": "Dr. Biswajit Mukherjee"
+  },
+  {
+    "doctor_id": 7515,
+    "slug": "dr-koustubh-chakraborty",
+    "name": "Dr. Koustubh Chakraborty"
+  },
+  {
+    "doctor_id": 7334,
+    "slug": "dr-samit-kr-chatterjee",
+    "name": "Dr. Samit Kr. Chatterjee"
+  },
+  {
+    "doctor_id": 7328,
+    "slug": "dr-abhijnan-maji",
+    "name": "Dr. Abhijnan Maji"
+  },
+  {
+    "doctor_id": 7329,
+    "slug": "dr-ananda-bagchi",
+    "name": "Dr. Ananda Bagchi"
+  },
+  {
+    "doctor_id": 10490,
+    "slug": "dr-anup-kumar-dutta",
+    "name": "Dr. Anup Kumar Dutta"
+  },
+  {
+    "doctor_id": 10491,
+    "slug": "dr-kaushik-kumar-das",
+    "name": "Dr. Kaushik Kumar Das"
+  },
+  {
+    "doctor_id": 7336,
+    "slug": "dr-mainak-gupta",
+    "name": "Dr. Mainak Gupta"
+  },
+  {
+    "doctor_id": 7337,
+    "slug": "dr-prof-prakas-kumar-mandal",
+    "name": "Dr. Prof. Prakas Kumar Mandal"
+  },
+  {
+    "doctor_id": 7439,
+    "slug": "dr-subham-bhattacharya",
+    "name": "Dr. Subham Bhattacharya"
+  },
+  {
+    "doctor_id": 7526,
+    "slug": "dr-syamapada-das",
+    "name": "Dr. Syamapada Das"
+  },
+  {
+    "doctor_id": 7338,
+    "slug": "dr-sambit-kumar-samanta",
+    "name": "Dr. Sambit Kumar Samanta"
+  },
+  {
+    "doctor_id": 7339,
+    "slug": "dr-soumya-mukherjee",
+    "name": "Dr. Soumya Mukherjee"
+  },
+  {
+    "doctor_id": 7272,
+    "slug": "dr-anupam-majumdar",
+    "name": "Dr. Anupam Majumdar"
+  },
+  {
+    "doctor_id": 7440,
+    "slug": "dr-arjun-ray",
+    "name": "Dr. Arjun Ray"
+  },
+  {
+    "doctor_id": 7341,
+    "slug": "dr-sunil-kumar",
+    "name": "Dr. Sunil Kumar"
+  },
+  {
+    "doctor_id": 7529,
+    "slug": "dr-amitava-biswas",
+    "name": "Dr. Amitava Biswas"
+  },
+  {
+    "doctor_id": 7443,
+    "slug": "dr-dilip-dutta",
+    "name": "Dr. Dilip Dutta"
+  },
+  {
+    "doctor_id": 7344,
+    "slug": "dr-safi-ikbal-siddique",
+    "name": "Dr. Safi Ikbal Siddique"
+  },
+  {
+    "doctor_id": 7530,
+    "slug": "dr-atul-vajpeyi",
+    "name": "Dr. Atul Vajpeyi"
+  },
+  {
+    "doctor_id": 7444,
+    "slug": "dr-dinesh-jaluka",
+    "name": "Dr. Dinesh Jaluka"
+  },
+  {
+    "doctor_id": 7346,
+    "slug": "dr-susangato-choudhury",
+    "name": "Dr. Susangato Choudhury"
+  },
+  {
+    "doctor_id": 7342,
+    "slug": "dr-moumita-bagchi",
+    "name": "Dr. Moumita Bagchi"
+  },
+  {
+    "doctor_id": 7271,
+    "slug": "dr-debasattwa-bhattacharya",
+    "name": "Dr. Debasattwa Bhattacharya"
+  },
+  {
+    "doctor_id": 7533,
+    "slug": "dr-suresh-kumar-somani",
+    "name": "Dr. Suresh Kumar Somani"
+  },
+  {
+    "doctor_id": 7532,
+    "slug": "dr-swati-kumar",
+    "name": "Dr. Swati Kumar"
+  },
+  {
+    "doctor_id": 10493,
+    "slug": "dr-jayanta-ghosal",
+    "name": "Dr. Jayanta Ghosal"
+  },
+  {
+    "doctor_id": 7349,
+    "slug": "dr-anuradha-roy",
+    "name": "Dr. Anuradha Roy"
+  },
+  {
+    "doctor_id": 7279,
+    "slug": "dr-mamta-singh",
+    "name": "Dr. Mamta Singh"
+  },
+  {
+    "doctor_id": 7348,
+    "slug": "dr-anindita-chakraborty",
+    "name": "Dr. Anindita Chakraborty"
+  },
+  {
+    "doctor_id": 7446,
+    "slug": "dr-dolly-bosu-choudhuri",
+    "name": "Dr. Dolly Bosu Choudhuri"
+  },
+  {
+    "doctor_id": 7280,
+    "slug": "dr-manjiri-podder",
+    "name": "Dr. Manjiri Podder"
+  },
+  {
+    "doctor_id": 7537,
+    "slug": "dr-ratnabali-chakravorty",
+    "name": "Dr. Ratnabali Chakravorty"
+  },
+  {
+    "doctor_id": 7535,
+    "slug": "dr-arindam-saha",
+    "name": "Dr. Arindam Saha"
+  },
+  {
+    "doctor_id": 7447,
+    "slug": "dr-suchandana-dutta-gupta",
+    "name": "Dr. Suchandana Dutta Gupta"
+  },
+  {
+    "doctor_id": 7351,
+    "slug": "dr-bimla-goenka",
+    "name": "Dr. Bimla Goenka"
+  },
+  {
+    "doctor_id": 7536,
+    "slug": "dr-kasturi-bhowmik",
+    "name": "Dr. Kasturi Bhowmik"
+  },
+  {
+    "doctor_id": 7448,
+    "slug": "dr-tinku-goel",
+    "name": "Dr. Tinku Goel"
+  },
+  {
+    "doctor_id": 7449,
+    "slug": "dr-anita-jain",
+    "name": "Dr. Anita Jain"
+  },
+  {
+    "doctor_id": 7353,
+    "slug": "dr-kavita-mandal",
+    "name": "Dr. Kavita Mandal"
+  },
+  {
+    "doctor_id": 7450,
+    "slug": "dr-susmita-deb",
+    "name": "Dr. Susmita Deb"
+  },
+  {
+    "doctor_id": 7354,
+    "slug": "dr-kanya-kumari-kundu",
+    "name": "Dr. Kanya Kumari Kundu"
+  },
+  {
+    "doctor_id": 7534,
+    "slug": "dr-sabuj-sengupta",
+    "name": "Dr. Sabuj Sengupta"
+  },
+  {
+    "doctor_id": 7355,
+    "slug": "dr-mridula-purkayastha",
+    "name": "Dr. Mridula Purkayastha"
+  },
+  {
+    "doctor_id": 7356,
+    "slug": "dr-nandini-chakrabarti",
+    "name": "Dr. Nandini Chakrabarti"
+  },
+  {
+    "doctor_id": 7357,
+    "slug": "dr-papiya-khawas",
+    "name": "Dr. Papiya Khawas"
+  },
+  {
+    "doctor_id": 7358,
+    "slug": "dr-sandip-chattopadhyay",
+    "name": "Dr. Sandip Chattopadhyay"
+  },
+  {
+    "doctor_id": 7359,
+    "slug": "dr-siuli-choudhury",
+    "name": "Dr. Siuli Choudhury"
+  },
+  {
+    "doctor_id": 7360,
+    "slug": "dr-tulika-jha",
+    "name": "Dr. Tulika Jha"
+  },
+  {
+    "doctor_id": 7361,
+    "slug": "dr-vinita-khemani",
+    "name": "Dr. Vinita Khemani"
+  },
+  {
+    "doctor_id": 7541,
+    "slug": "dr-aloke-ghosh-dastidar",
+    "name": "Dr. Aloke Ghosh Dastidar"
+  },
+  {
+    "doctor_id": 7290,
+    "slug": "dr-sourav-bhattacharya",
+    "name": "Dr. Sourav Bhattacharya"
+  },
+  {
+    "doctor_id": 7362,
+    "slug": "dr-dipa-saha",
+    "name": "Dr. Dipa Saha"
+  },
+  {
+    "doctor_id": 7545,
+    "slug": "dr-jitendra-shah",
+    "name": "Dr. Jitendra Shah"
+  },
+  {
+    "doctor_id": 7363,
+    "slug": "dr-dibya-prakash-bathwal",
+    "name": "Dr. Dibya Prakash Bathwal"
+  },
+  {
+    "doctor_id": 7364,
+    "slug": "dr-ankush-bansal",
+    "name": "Dr. Ankush Bansal"
+  },
+  {
+    "doctor_id": 7289,
+    "slug": "dr-deep-dutta",
+    "name": "Dr. Deep Dutta"
+  },
+  {
+    "doctor_id": 7454,
+    "slug": "dr-siddhartha-chatterjee",
+    "name": "Dr. Siddhartha Chatterjee"
+  },
+  {
+    "doctor_id": 7277,
+    "slug": "dr-k-jayanth-reddy",
+    "name": "Dr. K. Jayanth Reddy"
+  },
+  {
+    "doctor_id": 7455,
+    "slug": "dr-kaustuv-roy",
+    "name": "Dr. Kaustuv Roy"
+  },
+  {
+    "doctor_id": 7457,
+    "slug": "dr-samiran-purkait",
+    "name": "Dr. Samiran Purkait"
+  },
+  {
+    "doctor_id": 7372,
+    "slug": "dr-suresh-kumar-kejriwal",
+    "name": "Dr. Suresh Kumar Kejriwal"
+  },
+  {
+    "doctor_id": 7458,
+    "slug": "dr-siddharth-gupta",
+    "name": "Dr. Siddharth Gupta"
+  },
+  {
+    "doctor_id": 7278,
+    "slug": "dr-tushar-tudu",
+    "name": "Dr. Tushar Tudu"
+  },
+  {
+    "doctor_id": 7368,
+    "slug": "dr-amitava-narayan-mukherjee",
+    "name": "Dr. Amitava Narayan Mukherjee"
+  },
+  {
+    "doctor_id": 7459,
+    "slug": "dr-h-n-mishra",
+    "name": "Dr. H. N. Mishra"
+  },
+  {
+    "doctor_id": 7369,
+    "slug": "dr-aritra-bidyananda",
+    "name": "Dr. Aritra Bidyananda"
+  },
+  {
+    "doctor_id": 7549,
+    "slug": "dr-jagannath-bhattacharya",
+    "name": "Dr. Jagannath Bhattacharya"
+  },
+  {
+    "doctor_id": 7548,
+    "slug": "dr-jyoti-prakash",
+    "name": "Dr. Jyoti Prakash"
+  },
+  {
+    "doctor_id": 7370,
+    "slug": "dr-prabir-kumar-bala",
+    "name": "Dr. Prabir Kumar Bala"
+  },
+  {
+    "doctor_id": 7461,
+    "slug": "dr-rajesh-kumar-more",
+    "name": "Dr. Rajesh Kumar More"
+  },
+  {
+    "doctor_id": 7462,
+    "slug": "dr-anil-gupta",
+    "name": "Dr. Anil Gupta"
+  },
+  {
+    "doctor_id": 7463,
+    "slug": "dr-rajesh-kushwaha",
+    "name": "Dr. Rajesh Kushwaha"
+  },
+  {
+    "doctor_id": 7373,
+    "slug": "dr-subrata-das",
+    "name": "Dr. Subrata Das"
+  },
+  {
+    "doctor_id": 7374,
+    "slug": "dr-dinesh-kumar-jaiswal",
+    "name": "Dr. Dinesh Kumar Jaiswal"
+  },
+  {
+    "doctor_id": 7465,
+    "slug": "dr-raunak-agarwal",
+    "name": "Dr. Raunak Agarwal"
+  },
+  {
+    "doctor_id": 7384,
+    "slug": "dr-dipak-ghosh",
+    "name": "Dr. Dipak Ghosh"
+  },
+  {
+    "doctor_id": 7474,
+    "slug": "dr-syamantak-basu",
+    "name": "Dr. Syamantak Basu"
+  },
+  {
+    "doctor_id": 7556,
+    "slug": "dr-rajesh-kumar-goel",
+    "name": "Dr. Rajesh Kumar Goel"
+  },
+  {
+    "doctor_id": 7466,
+    "slug": "dr-abhishesk-kumar-tiwari",
+    "name": "Dr. Abhishesk Kumar Tiwari"
+  },
+  {
+    "doctor_id": 7383,
+    "slug": "dr-trishnendu-mondal",
+    "name": "Dr. Trishnendu Mondal"
+  },
+  {
+    "doctor_id": 7375,
+    "slug": "dr-anasua-das",
+    "name": "Dr. Anasua Das"
+  },
+  {
+    "doctor_id": 7554,
+    "slug": "dr-arun-kumar-manglik",
+    "name": "Dr. Arun Kumar Manglik"
+  },
+  {
+    "doctor_id": 7274,
+    "slug": "dr-rahul-podder",
+    "name": "Dr. Rahul Podder"
+  },
+  {
+    "doctor_id": 7467,
+    "slug": "dr-vijay-kejriwal",
+    "name": "Dr. Vijay Kejriwal"
+  },
+  {
+    "doctor_id": 7376,
+    "slug": "dr-anindita-bose",
+    "name": "Dr. Anindita Bose"
+  },
+  {
+    "doctor_id": 7468,
+    "slug": "dr-lalit-agarwal",
+    "name": "Dr. Lalit Agarwal"
+  },
+  {
+    "doctor_id": 7275,
+    "slug": "dr-shayan-bhowmik",
+    "name": "Dr. Shayan Bhowmik"
+  },
+  {
+    "doctor_id": 7555,
+    "slug": "dr-swapan-chakraborty",
+    "name": "Dr. Swapan Chakraborty"
+  },
+  {
+    "doctor_id": 7469,
+    "slug": "dr-r-k-sinha",
+    "name": "Dr. R. K. Sinha"
+  },
+  {
+    "doctor_id": 7378,
+    "slug": "dr-kishalay-kar",
+    "name": "Dr. Kishalay Kar"
+  },
+  {
+    "doctor_id": 7470,
+    "slug": "dr-vinay-aswa",
+    "name": "Dr. Vinay Aswa"
+  },
+  {
+    "doctor_id": 7471,
+    "slug": "dr-mitrajit-mukherjee",
+    "name": "Dr. Mitrajit Mukherjee"
+  },
+  {
+    "doctor_id": 7379,
+    "slug": "dr-moupia-chakraborty",
+    "name": "Dr. Moupia Chakraborty"
+  },
+  {
+    "doctor_id": 7472,
+    "slug": "dr-goutam-ghosh",
+    "name": "Dr. Goutam Ghosh"
+  },
+  {
+    "doctor_id": 7380,
+    "slug": "dr-punit-goenka",
+    "name": "Dr. Punit Goenka"
+  },
+  {
+    "doctor_id": 7382,
+    "slug": "dr-rajib-bhawal",
+    "name": "Dr. Rajib Bhawal"
+  },
+  {
+    "doctor_id": 7405,
+    "slug": "dr-col-shubhojeet-chatterjee-retd",
+    "name": "Dr. (Col.) Shubhojeet Chatterjee (Retd.)"
+  },
+  {
+    "doctor_id": 7477,
+    "slug": "ms-sunita-jana-bose",
+    "name": "Ms. Sunita Jana Bose"
+  },
+  {
+    "doctor_id": 7557,
+    "slug": "dr-ks-chhajer",
+    "name": "Dr. K.S. Chhajer"
+  },
+  {
+    "doctor_id": 7388,
+    "slug": "dr-subhasish-ghosh",
+    "name": "Dr. Subhasish Ghosh"
+  },
+  {
+    "doctor_id": 7480,
+    "slug": "dr-abay-kumar-de",
+    "name": "Dr. Abay Kumar De"
+  },
+  {
+    "doctor_id": 7293,
+    "slug": "dr-anirban-datta",
+    "name": "Dr. Anirban Datta"
+  },
+  {
+    "doctor_id": 7389,
+    "slug": "dr-arnab-ghosh-hajra",
+    "name": "Dr. Arnab Ghosh Hajra"
+  },
+  {
+    "doctor_id": 7390,
+    "slug": "dr-bappaditya-chowdhury",
+    "name": "Dr. Bappaditya Chowdhury"
+  },
+  {
+    "doctor_id": 7481,
+    "slug": "dr-samyukhta-gangadhar",
+    "name": "Dr. Samyukhta Gangadhar"
+  },
+  {
+    "doctor_id": 7392,
+    "slug": "dr-saurabh-sankar-kundu",
+    "name": "Dr. Saurabh Sankar Kundu"
+  },
+  {
+    "doctor_id": 7391,
+    "slug": "dr-bhaskar-mukherjee",
+    "name": "Dr. Bhaskar Mukherjee"
+  },
+  {
+    "doctor_id": 7559,
+    "slug": "dr-chitrankana-bandyopadhyay",
+    "name": "Dr. Chitrankana Bandyopadhyay"
+  },
+  {
+    "doctor_id": 7395,
+    "slug": "ms-rinku-pathak",
+    "name": "Ms. Rinku Pathak"
+  },
+  {
+    "doctor_id": 7396,
+    "slug": "dr-anirban-sarkar",
+    "name": "Dr. Anirban Sarkar"
+  },
+  {
+    "doctor_id": 7269,
+    "slug": "dr-dipankar-chandra-dey",
+    "name": "Dr. Dipankar Chandra Dey"
+  },
+  {
+    "doctor_id": 7563,
+    "slug": "dr-mrinmoy-mitra",
+    "name": "Dr. Mrinmoy Mitra"
+  },
+  {
+    "doctor_id": 7485,
+    "slug": "dr-pratik-biswas",
+    "name": "Dr. Pratik Biswas"
+  },
+  {
+    "doctor_id": 7397,
+    "slug": "dr-priyanka-ghosh",
+    "name": "Dr. Priyanka Ghosh"
+  },
+  {
+    "doctor_id": 7562,
+    "slug": "dr-saikat-nag",
+    "name": "Dr. Saikat Nag"
+  },
+  {
+    "doctor_id": 7398,
+    "slug": "dr-abhra-chandra-chowdhury",
+    "name": "Dr. Abhra Chandra Chowdhury"
+  },
+  {
+    "doctor_id": 7487,
+    "slug": "dr-bodhisatwa-choudhury",
+    "name": "Dr. Bodhisatwa Choudhuri"
+  },
+  {
+    "doctor_id": 7399,
+    "slug": "mr-sujan-ghosh",
+    "name": "Mr. Sujan Ghosh"
+  },
+  {
+    "doctor_id": 7570,
+    "slug": "dr-ranjan-kumar-dey",
+    "name": "Dr. Ranjan Kumar Dey"
+  },
+  {
+    "doctor_id": 7488,
+    "slug": "dr-gotam-pipara",
+    "name": "Dr. Gotam Pipara"
+  },
+  {
+    "doctor_id": 7403,
+    "slug": "dr-prof-sandeep-gupta",
+    "name": "Dr. Prof. Sandeep Gupta"
+  },
+  {
+    "doctor_id": 7400,
+    "slug": "dr-barun-saha",
+    "name": "Dr. Barun Saha"
+  },
+  {
+    "doctor_id": 7489,
+    "slug": "dr-nilanjan-mitra",
+    "name": "Dr. Nilanjan Mitra"
+  },
+  {
+    "doctor_id": 7401,
+    "slug": "dr-krishnendu-maiti",
+    "name": "Dr. Krishnendu Maiti"
+  },
+  {
+    "doctor_id": 7490,
+    "slug": "dr-kumar-rajiv-ranjan",
+    "name": "Dr. Kumar Rajiv Ranjan"
+  },
+  {
+    "doctor_id": 7569,
+    "slug": "dr-anil-chomal",
+    "name": "Dr. Anil Chomal"
+  },
+  {
+    "doctor_id": 7402,
+    "slug": "dr-manas-kumar-mandal",
+    "name": "Dr. Manas Kumar Mandal"
+  },
+  {
+    "doctor_id": 7567,
+    "slug": "dr-sumantra-dey",
+    "name": "Dr. Sumantra Dey"
+  }
+]

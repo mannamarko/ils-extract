@@ -1,0 +1,2210 @@
+{
+  "hub_url": "https://ilshospitals.com/academia/publications-conference/",
+  "hub_seo": {
+    "meta_title": "Publications / Conference - ILS-hospitals",
+    "meta_title_resolved": "Publications / Conference - ILS-hospitals",
+    "meta_description": null,
+    "robots": "max-image-preview:large",
+    "canonical": "https://ilshospitals.com/academia/publications-conference/",
+    "canonical_resolved": "https://ilshospitals.com/academia/publications-conference/",
+    "og": {
+      "title": "Publications / Conference - ILS-hospitals",
+      "description": null,
+      "type": "article",
+      "url": "https://ilshospitals.com/academia/publications-conference/",
+      "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+      "locale": "en_US"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Publications / Conference - ILS-hospitals",
+      "description": null,
+      "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "url": null
+    },
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://ilshospitals.com/academia/publications-conference/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://ilshospitals.com#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://ilshospitals.com",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/academia/publications-conference/#listItem",
+                  "name": "Publications / Conference"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://ilshospitals.com/academia/publications-conference/#listItem",
+                "position": 2,
+                "name": "Publications / Conference",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://ilshospitals.com/#organization",
+            "name": "ILS Hospital",
+            "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "url": "https://ilshospitals.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+              "@id": "https://ilshospitals.com/academia/publications-conference/#organizationLogo",
+              "width": 184,
+              "height": 82,
+              "caption": "ILS Hospitals Logo"
+            },
+            "image": {
+              "@id": "https://ilshospitals.com/academia/publications-conference/#organizationLogo"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://ilshospitals.com/academia/publications-conference/#webpage",
+            "url": "https://ilshospitals.com/academia/publications-conference/",
+            "name": "Publications / Conference - ILS-hospitals",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://ilshospitals.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://ilshospitals.com/academia/publications-conference/#breadcrumblist"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://ilshospitals.com/wp-content/uploads/2024/01/publication.png",
+              "@id": "https://ilshospitals.com/academia/publications-conference/#mainImage",
+              "width": 81,
+              "height": 81
+            },
+            "primaryImageOfPage": {
+              "@id": "https://ilshospitals.com/academia/publications-conference/#mainImage"
+            },
+            "datePublished": "2024-01-15T10:41:35+05:30",
+            "dateModified": "2024-01-24T12:52:01+05:30"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://ilshospitals.com/#website",
+            "url": "https://ilshospitals.com/",
+            "name": "ils-hospital",
+            "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://ilshospitals.com/#organization"
+            }
+          }
+        ],
+        "_source": "aioseo"
+      }
+    ],
+    "json_ld_by_source": {
+      "aioseo": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/academia/publications-conference/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/academia/publications-conference/#listItem",
+                    "name": "Publications / Conference"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/academia/publications-conference/#listItem",
+                  "position": 2,
+                  "name": "Publications / Conference",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/academia/publications-conference/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/academia/publications-conference/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/academia/publications-conference/#webpage",
+              "url": "https://ilshospitals.com/academia/publications-conference/",
+              "name": "Publications / Conference - ILS-hospitals",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/academia/publications-conference/#breadcrumblist"
+              },
+              "image": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2024/01/publication.png",
+                "@id": "https://ilshospitals.com/academia/publications-conference/#mainImage",
+                "width": 81,
+                "height": 81
+              },
+              "primaryImageOfPage": {
+                "@id": "https://ilshospitals.com/academia/publications-conference/#mainImage"
+              },
+              "datePublished": "2024-01-15T10:41:35+05:30",
+              "dateModified": "2024-01-24T12:52:01+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ils-hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ],
+          "_source": "aioseo"
+        }
+      ],
+      "post": []
+    },
+    "blogposting": null,
+    "breadcrumbs": [],
+    "meta_all": [
+      {
+        "kind": "name",
+        "key": "viewport",
+        "content": "width=device-width, initial-scale=1.0",
+        "index": 2
+      },
+      {
+        "kind": "name",
+        "key": "msvalidate.01",
+        "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+        "index": 3
+      },
+      {
+        "kind": "name",
+        "key": "robots",
+        "content": "max-image-preview:large",
+        "index": 4
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "All in One SEO (AIOSEO) 4.9.10",
+        "index": 5
+      },
+      {
+        "kind": "property",
+        "key": "og:locale",
+        "content": "en_US",
+        "index": 6
+      },
+      {
+        "kind": "property",
+        "key": "og:site_name",
+        "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "index": 7
+      },
+      {
+        "kind": "property",
+        "key": "og:type",
+        "content": "article",
+        "index": 8
+      },
+      {
+        "kind": "property",
+        "key": "og:title",
+        "content": "Publications / Conference - ILS-hospitals",
+        "index": 9
+      },
+      {
+        "kind": "property",
+        "key": "og:url",
+        "content": "https://ilshospitals.com/academia/publications-conference/",
+        "index": 10
+      },
+      {
+        "kind": "property",
+        "key": "og:image",
+        "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "index": 11
+      },
+      {
+        "kind": "property",
+        "key": "og:image:secure_url",
+        "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "index": 12
+      },
+      {
+        "kind": "property",
+        "key": "article:published_time",
+        "content": "2024-01-15T10:41:35+00:00",
+        "index": 13
+      },
+      {
+        "kind": "property",
+        "key": "article:modified_time",
+        "content": "2024-01-24T12:52:01+00:00",
+        "index": 14
+      },
+      {
+        "kind": "name",
+        "key": "twitter:card",
+        "content": "summary_large_image",
+        "index": 15
+      },
+      {
+        "kind": "name",
+        "key": "twitter:title",
+        "content": "Publications / Conference - ILS-hospitals",
+        "index": 16
+      },
+      {
+        "kind": "name",
+        "key": "twitter:image",
+        "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "index": 17
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "WordPress 7.0.2",
+        "index": 18
+      },
+      {
+        "kind": "name",
+        "key": "google-site-verification",
+        "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+        "index": 19
+      },
+      {
+        "kind": "name",
+        "key": "google-site-verification",
+        "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+        "index": 20
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "performance-lab 4.0.0; plugins: webp-uploads",
+        "index": 21
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "webp-uploads 2.6.1",
+        "index": 22
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "optimization-detective 1.0.0-beta3",
+        "index": 23
+      }
+    ],
+    "seo_issues": [
+      "no_post_specific_schema",
+      "no_post_specific_meta"
+    ],
+    "source_url": "https://ilshospitals.com/academia/publications-conference/"
+  },
+  "item_count": 3,
+  "items": [
+    {
+      "id": 10189,
+      "title": "CBD 360° – Conference",
+      "slug": "test",
+      "url": "https://ilshospitals.com/academia-list/test/",
+      "thumbnail": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-1-1.jpg",
+      "excerpt": "CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons.",
+      "heading": "CBD 360° – Conference",
+      "body_html": "<p>Book an appointment</p><p>Book an appointment</p><p>033-4020-6500</p><p>033-4020-6500</p><p>033-4031-5000</p><p>033-4031-5000</p><p>897-405-0300</p><p>897-405-0300</p><p>0771-488-8000</p><p>0771-488-8000</p><p>033-4088-0000</p><p>033-4088-0000</p><p>Book Health Check Up</p><p>Book Health Check Up</p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>DD-6, Salt Lake City (Near City Centre I), Kolkata – 700064</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4020-6500</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>1, Mall Road, Near Nager Bazar Flyover, Dumdum, Kolkata – 700080</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4031-5000</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>98, Dr Abani Dutta Road, Opposite Golabari P.S., Howrah, West Bengal – 711101</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4088-0000</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>Capital Complex Extension P.O – New Secretariat, Agartala – 799010</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>897-405-0300</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p>CBD 360 Degree was one day conference, conducted on 5th August.</p><p>It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on the problems around common bile duct.</p><p>It was an invaluable learning and teaching initiative of ILS in association with AMASI chapter of Eastern India under leadership of Dr. Om Tantia.</p><p>The event’s success was further amplified by enthusiastic participation of 250 delegates including faculty members from Kolkata, Delhi, Chennai Bhubaneswar and Imphal.</p><p></p><p class=\"main-text\">Aajkaal</p><p class=\"main-text\">Sanmarg</p><p class=\"main-text\">Ei Samay</p><p class=\"main-text\">The Times of India</p><p class=\"main-text\">Calcutta Times</p><p class=\"main-text\">Dainik Bhaskar</p><p class=\"main-text\">Hari Bhoomi</p><p class=\"main-text\">The Hitavada</p>",
+      "body_text": "Book an appointmentBook an appointment033-4020-6500033-4020-6500033-4031-5000033-4031-5000897-405-0300897-405-03000771-488-80000771-488-8000033-4088-0000033-4088-0000Book Health Check UpBook Health Check Up DD-6, Salt Lake City (Near City Centre I), Kolkata – 700064 033-4020-6500 info@ilshospitals.com 1, Mall Road, Near Nager Bazar Flyover, Dumdum, Kolkata – 700080 033-4031-5000 info@ilshospitals.com 98, Dr Abani Dutta Road, Opposite Golabari P.S., Howrah, West Bengal – 711101 033-4088-0000 info@ilshospitals.com Capital Complex Extension P.O – New Secretariat, Agartala – 799010 897-405-0300 info@ilshospitals.com CBD 360 Degree was one day conference, conducted on 5th August.It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on the problems around common bile duct.It was an invaluable learning and teaching initiative of ILS in association with AMASI chapter of Eastern India under leadership of Dr. Om Tantia.The event’s success was further amplified by enthusiastic participation of 250 delegates including faculty members from Kolkata, Delhi, Chennai Bhubaneswar and Imphal.AajkaalSanmargEi SamayThe Times of IndiaCalcutta TimesDainik BhaskarHari BhoomiThe Hitavada",
+      "image_count": 45,
+      "images": [
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/24-hours-phone-service.png",
+          "alt": "ils-emergency"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/book-appointment.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/saltlake-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/saltlake-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/subway.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/subway.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/agartala-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/agartala-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/raipur-icon.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/raipur-icon.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/Howrah-bridge.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/Howrah-bridge.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/health-checkup.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-2.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-3.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-4.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-5.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-6.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-7.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-8.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-10.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-9.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/pdf4.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/07/ils_nur.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/pdf1.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/Aajkaal.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/Sanmarg.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/EiSamay.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/TOI.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4564.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4568.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4567.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4566.webp",
+          "alt": "ils-news"
+        }
+      ],
+      "links": [
+        {
+          "text": "Academia List",
+          "url": "https://ilshospitals.com/academia/"
+        },
+        {
+          "text": "Saltlake 033-4020-6500",
+          "url": "tel:03340206500"
+        },
+        {
+          "text": "Dumdum 033-4031-5000",
+          "url": "tel:03340315000"
+        },
+        {
+          "text": "Agartala 897-405-0300",
+          "url": "tel:8974050300"
+        },
+        {
+          "text": "Raipur 0771-488-8000",
+          "url": "tel:0771-488-8000"
+        },
+        {
+          "text": "Howrah 033-4088-0000",
+          "url": "tel:03340880000"
+        },
+        {
+          "text": "Book Health Check Up Book Health Check Up",
+          "url": "https://ilshospitals.com/health-packages/"
+        },
+        {
+          "text": "View All",
+          "url": "https://ilshospitals.com/events"
+        },
+        {
+          "text": "ILS Times_Vol 4_Issue 1_Jan’24",
+          "url": "https://ilshospitals.com/academia-list/ils-times_vol-4_issue-1_jan24/%20class="
+        },
+        {
+          "text": "Admission open for Nursing Training at ILS Nursing Institute, Agartala. Session 2024-2025",
+          "url": "https://ilshospitals.com/academia-list/admission-open-for-nursing-training-at-ils-nursing-institute-agartala-session-2024-2025/%20class="
+        },
+        {
+          "text": "ILS Times Vol 2_May’23",
+          "url": "https://ilshospitals.com/academia-list/ils-times-vol-2_may23/%20class="
+        }
+      ],
+      "published_date": "2024-01-17T06:22:18",
+      "modified_date": "2024-01-23T11:56:02",
+      "seo": {
+        "meta_title": "CBD 360° – Conference - ILS-hospitals",
+        "meta_title_resolved": "CBD 360° – Conference - ILS-hospitals",
+        "meta_description": "CBD 360° - Conference - 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on",
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/academia-list/test/",
+        "canonical_resolved": "https://ilshospitals.com/academia-list/test/",
+        "og": {
+          "title": "CBD 360° – Conference - ILS-hospitals",
+          "description": "CBD 360° - Conference - 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on",
+          "type": "article",
+          "url": "https://ilshospitals.com/academia-list/test/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "CBD 360° – Conference - ILS-hospitals",
+          "description": "CBD 360° - Conference - 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/academia-list/test/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/academia-list/test/#listItem",
+                      "name": "CBD 360° &#8211; Conference"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/academia-list/test/#listItem",
+                    "position": 2,
+                    "name": "CBD 360° &#8211; Conference",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/academia-list/test/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/academia-list/test/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/academia-list/test/#webpage",
+                "url": "https://ilshospitals.com/academia-list/test/",
+                "name": "CBD 360° – Conference - ILS-hospitals",
+                "description": "CBD 360° - Conference - 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/academia-list/test/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-1-1.jpg",
+                  "@id": "https://ilshospitals.com/academia-list/test/#mainImage",
+                  "width": 600,
+                  "height": 600
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/academia-list/test/#mainImage"
+                },
+                "datePublished": "2024-01-17T06:22:18+05:30",
+                "dateModified": "2024-01-23T11:56:02+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/academia-list/test/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/academia-list/test/#listItem",
+                        "name": "CBD 360° &#8211; Conference"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/academia-list/test/#listItem",
+                      "position": 2,
+                      "name": "CBD 360° &#8211; Conference",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/academia-list/test/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/academia-list/test/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/academia-list/test/#webpage",
+                  "url": "https://ilshospitals.com/academia-list/test/",
+                  "name": "CBD 360° – Conference - ILS-hospitals",
+                  "description": "CBD 360° - Conference - 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/academia-list/test/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-1-1.jpg",
+                    "@id": "https://ilshospitals.com/academia-list/test/#mainImage",
+                    "width": 600,
+                    "height": 600
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/academia-list/test/#mainImage"
+                  },
+                  "datePublished": "2024-01-17T06:22:18+05:30",
+                  "dateModified": "2024-01-23T11:56:02+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "description",
+            "content": "CBD 360° - Conference - 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 5
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "CBD 360° – Conference - ILS-hospitals",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:description",
+            "content": "CBD 360° - Conference - 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/academia-list/test/",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 14
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2024-01-17T06:22:18+00:00",
+            "index": 15
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-23T11:56:02+00:00",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "CBD 360° – Conference - ILS-hospitals",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "twitter:description",
+            "content": "CBD 360° - Conference - 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 23
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 24
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 25
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 26
+          }
+        ],
+        "seo_issues": [
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/academia-list/test/"
+      },
+      "seo_issues": [
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 10203,
+      "title": "Emergencies in Medical Practice Conference",
+      "slug": "emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata",
+      "url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/",
+      "thumbnail": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-1.jpg",
+      "excerpt": "ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta.",
+      "heading": "Emergencies in Medical Practice Conference",
+      "body_html": "<p>Book an appointment</p><p>Book an appointment</p><p>033-4020-6500</p><p>033-4020-6500</p><p>033-4031-5000</p><p>033-4031-5000</p><p>897-405-0300</p><p>897-405-0300</p><p>0771-488-8000</p><p>0771-488-8000</p><p>033-4088-0000</p><p>033-4088-0000</p><p>Book Health Check Up</p><p>Book Health Check Up</p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>DD-6, Salt Lake City (Near City Centre I), Kolkata – 700064</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4020-6500</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>1, Mall Road, Near Nager Bazar Flyover, Dumdum, Kolkata – 700080</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4031-5000</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>98, Dr Abani Dutta Road, Opposite Golabari P.S., Howrah, West Bengal – 711101</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4088-0000</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>Capital Complex Extension P.O – New Secretariat, Agartala – 799010</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>897-405-0300</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p>ILS Academics and Research Foundation had organized a face to face single theme conference on 24<sup>th</sup> July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta.</p><p>The theme of conference was “Emergencies in Medical Practice”. The conference was attended by around 300 delegates &amp; reputed national faculties, who are expert in their respective field. The theme was relevant to every doctor in practice as topics will be of importance for each &amp; every specialty.</p><p>To mark this occasion, we are also releasing a book titled, “Emergencies in Medical Practice”, edited by&nbsp; Dr. Om Tantia, Dr. G. S. Goyal &amp; Dr. Tamonas Chaudhuri. The unique book deals with first hand management of common emergencies.&nbsp; Such kind of a book are uncommon in publication.</p><p><a href=\"https://ilshospitals.com/academia-list/diploma-in-medical-laboratory-technology-dmlt/ class=\" other-related-item\"=\"\">Contact </a><a href=\"https://www.smfwb.formflix.org/\" target=\"_blank\" style=\"color:#1968b3;\" rel=\"noopener\">WBSMF</a> or visit their official website for a list of approved institutes and admission</p><p>To become a Dialysis Technician in West Bengal, you can consider enrolling in a relevant course offered by recognized institutions. A Dialysis Technician course typically covers various aspects related to renal care and the operation of dialysis equipment. Here’s a general overview:</p><p></p><p class=\"main-text\">Aajkaal</p><p class=\"main-text\">Sanmarg</p><p class=\"main-text\">Ei Samay</p><p class=\"main-text\">The Times of India</p><p class=\"main-text\">Calcutta Times</p><p class=\"main-text\">Dainik Bhaskar</p><p class=\"main-text\">Hari Bhoomi</p><p class=\"main-text\">The Hitavada</p>",
+      "body_text": "Book an appointmentBook an appointment033-4020-6500033-4020-6500033-4031-5000033-4031-5000897-405-0300897-405-03000771-488-80000771-488-8000033-4088-0000033-4088-0000Book Health Check UpBook Health Check Up DD-6, Salt Lake City (Near City Centre I), Kolkata – 700064 033-4020-6500 info@ilshospitals.com 1, Mall Road, Near Nager Bazar Flyover, Dumdum, Kolkata – 700080 033-4031-5000 info@ilshospitals.com 98, Dr Abani Dutta Road, Opposite Golabari P.S., Howrah, West Bengal – 711101 033-4088-0000 info@ilshospitals.com Capital Complex Extension P.O – New Secretariat, Agartala – 799010 897-405-0300 info@ilshospitals.com ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta.The theme of conference was “Emergencies in Medical Practice”. The conference was attended by around 300 delegates & reputed national faculties, who are expert in their respective field. The theme was relevant to every doctor in practice as topics will be of importance for each & every specialty.To mark this occasion, we are also releasing a book titled, “Emergencies in Medical Practice”, edited by Dr. Om Tantia, Dr. G. S. Goyal & Dr. Tamonas Chaudhuri. The unique book deals with first hand management of common emergencies. Such kind of a book are uncommon in publication.Contact WBSMF or visit their official website for a list of approved institutes and admissionTo become a Dialysis Technician in West Bengal, you can consider enrolling in a relevant course offered by recognized institutions. A Dialysis Technician course typically covers various aspects related to renal care and the operation of dialysis equipment. Here’s a general overview:AajkaalSanmargEi SamayThe Times of IndiaCalcutta TimesDainik BhaskarHari BhoomiThe Hitavada",
+      "image_count": 46,
+      "images": [
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/24-hours-phone-service.png",
+          "alt": "ils-emergency"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/book-appointment.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/saltlake-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/saltlake-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/subway.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/subway.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/agartala-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/agartala-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/raipur-icon.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/raipur-icon.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/Howrah-bridge.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/Howrah-bridge.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/health-checkup.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-2.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-3.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-4.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-5.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-6.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-7.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-8.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-9.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-10.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-11.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/pdf2.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/02/labtechnicians_33482161_cropped-1.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-26-at-4.50.55-PM.webp",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/Aajkaal.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/Sanmarg.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/EiSamay.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/TOI.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4564.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4568.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4567.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4566.webp",
+          "alt": "ils-news"
+        }
+      ],
+      "links": [
+        {
+          "text": "Academia List",
+          "url": "https://ilshospitals.com/academia/"
+        },
+        {
+          "text": "Saltlake 033-4020-6500",
+          "url": "tel:03340206500"
+        },
+        {
+          "text": "Dumdum 033-4031-5000",
+          "url": "tel:03340315000"
+        },
+        {
+          "text": "Agartala 897-405-0300",
+          "url": "tel:8974050300"
+        },
+        {
+          "text": "Raipur 0771-488-8000",
+          "url": "tel:0771-488-8000"
+        },
+        {
+          "text": "Howrah 033-4088-0000",
+          "url": "tel:03340880000"
+        },
+        {
+          "text": "Book Health Check Up Book Health Check Up",
+          "url": "https://ilshospitals.com/health-packages/"
+        },
+        {
+          "text": "View All",
+          "url": "https://ilshospitals.com/events"
+        },
+        {
+          "text": "ILS Times_Vol 1_Aug’22",
+          "url": "https://ilshospitals.com/academia-list/ils-times_vol-1_aug22/%20class="
+        },
+        {
+          "text": null,
+          "url": "https://ilshospitals.com/academia-list/diploma-in-medical-laboratory-technology-dmlt/%20class="
+        },
+        {
+          "text": "WBSMF",
+          "url": "https://www.smfwb.formflix.org/"
+        },
+        {
+          "text": "Join our MEM Courses",
+          "url": "https://ilshospitals.com/academia-list/join-our-mem-courses-2/%20class="
+        }
+      ],
+      "published_date": "2024-01-17T07:01:00",
+      "modified_date": "2024-01-17T07:26:55",
+      "seo": {
+        "meta_title": "Emergencies in Medical Practice Conference - ILS-hospitals",
+        "meta_title_resolved": "Emergencies in Medical Practice Conference - ILS-hospitals",
+        "meta_description": "Emergencies in Medical Practice -Golden Hour Management’– Conference – 24.07.2022 at AltAir Boutique Hotel, Kolkata ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta. The theme of conference was “Emergencies in Medical",
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/",
+        "canonical_resolved": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/",
+        "og": {
+          "title": "Emergencies in Medical Practice Conference - ILS-hospitals",
+          "description": "Emergencies in Medical Practice -Golden Hour Management’– Conference – 24.07.2022 at AltAir Boutique Hotel, Kolkata ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta. The theme of conference was “Emergencies in Medical",
+          "type": "article",
+          "url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Emergencies in Medical Practice Conference - ILS-hospitals",
+          "description": "Emergencies in Medical Practice -Golden Hour Management’– Conference – 24.07.2022 at AltAir Boutique Hotel, Kolkata ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta. The theme of conference was “Emergencies in Medical",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#listItem",
+                      "name": "Emergencies in Medical Practice Conference"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#listItem",
+                    "position": 2,
+                    "name": "Emergencies in Medical Practice Conference",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#webpage",
+                "url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/",
+                "name": "Emergencies in Medical Practice Conference - ILS-hospitals",
+                "description": "Emergencies in Medical Practice -Golden Hour Management’– Conference – 24.07.2022 at AltAir Boutique Hotel, Kolkata ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta. The theme of conference was “Emergencies in Medical",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-1.jpg",
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#mainImage",
+                  "width": 600,
+                  "height": 600
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#mainImage"
+                },
+                "datePublished": "2024-01-17T07:01:00+05:30",
+                "dateModified": "2024-01-17T07:26:55+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#listItem",
+                        "name": "Emergencies in Medical Practice Conference"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#listItem",
+                      "position": 2,
+                      "name": "Emergencies in Medical Practice Conference",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#webpage",
+                  "url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/",
+                  "name": "Emergencies in Medical Practice Conference - ILS-hospitals",
+                  "description": "Emergencies in Medical Practice -Golden Hour Management’– Conference – 24.07.2022 at AltAir Boutique Hotel, Kolkata ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta. The theme of conference was “Emergencies in Medical",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2024/01/eme-1.jpg",
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#mainImage",
+                    "width": 600,
+                    "height": 600
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/#mainImage"
+                  },
+                  "datePublished": "2024-01-17T07:01:00+05:30",
+                  "dateModified": "2024-01-17T07:26:55+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "description",
+            "content": "Emergencies in Medical Practice -Golden Hour Management’– Conference – 24.07.2022 at AltAir Boutique Hotel, Kolkata ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta. The theme of conference was “Emergencies in Medical",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 5
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Emergencies in Medical Practice Conference - ILS-hospitals",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:description",
+            "content": "Emergencies in Medical Practice -Golden Hour Management’– Conference – 24.07.2022 at AltAir Boutique Hotel, Kolkata ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta. The theme of conference was “Emergencies in Medical",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 14
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2024-01-17T07:01:00+00:00",
+            "index": 15
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-17T07:26:55+00:00",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Emergencies in Medical Practice Conference - ILS-hospitals",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "twitter:description",
+            "content": "Emergencies in Medical Practice -Golden Hour Management’– Conference – 24.07.2022 at AltAir Boutique Hotel, Kolkata ILS Academics and Research Foundation had organized a face to face single theme conference on 24th July 2022 at AltAir Boutique Hotel, Salt Lake, Kolkata under the aegis of IMA North-West Calcutta. The theme of conference was “Emergencies in Medical",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 23
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 24
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 25
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 26
+          }
+        ],
+        "seo_issues": [
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-golden-hour-management-conference-24-07-2022-at-altair-boutique-hotel-kolkata/"
+      },
+      "seo_issues": [
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 10336,
+      "title": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata",
+      "slug": "emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata",
+      "url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/",
+      "thumbnail": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-1.jpg",
+      "excerpt": "Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with..",
+      "heading": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata",
+      "body_html": "<p>Book an appointment</p><p>Book an appointment</p><p>033-4020-6500</p><p>033-4020-6500</p><p>033-4031-5000</p><p>033-4031-5000</p><p>897-405-0300</p><p>897-405-0300</p><p>0771-488-8000</p><p>0771-488-8000</p><p>033-4088-0000</p><p>033-4088-0000</p><p>Book Health Check Up</p><p>Book Health Check Up</p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>DD-6, Salt Lake City (Near City Centre I), Kolkata – 700064</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4020-6500</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>1, Mall Road, Near Nager Bazar Flyover, Dumdum, Kolkata – 700080</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4031-5000</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>98, Dr Abani Dutta Road, Opposite Golabari P.S., Howrah, West Bengal – 711101</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>033-4088-0000</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png\"> <span>Capital Complex Extension P.O – New Secretariat, Agartala – 799010</span> </p><p class=\"mb-2\"> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png\"> <span><strong>897-405-0300</strong></span> </p><p> <img src=\"https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png\"> <span><strong>info@ilshospitals.com</strong></span> </p><p>Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be a jack of all specialties. For example, a well-respected surgeon may be at wits end when faced with a cardiac emergency while traveling on a flight. Similarly, an endocrinologist may not know the correct protocol to be followed when treating a trauma patient. Similarly, treatment of snakebite is clouding by lots of myths.<br> Aim behind this book is to provide a comprehensive overview of all the common emergencies faced in clinical practice with evidence-based current guidelines. Each chapter deals with a specific emergency, has been written and reviewed by leading experts in their respective fields. The material is concise with salient points for emergencies at the end and has been backed by a number of illustrations to keep the reader engaged.<br> ILS Academics and Research Foundation is proud to launch Emergencies in Medical Practice Book, edited by Dr. Om Tantia, Dr. G. S. Goyal &amp; Dr. Tamonas Chaudhuri. This unique book deals with first hand management of common emergencies. Such kind of a book are uncommon in publication. The book has been released by Swami Satyeshanandaji, Ramkrishna Mission, Belur Moth.</p><p>We hope that the book will serve as a useful tool for all clinicians, especially those who deal with emergencies in their routine practice.</p><p>ILS Hospitals Salt Lake is recognized as FOGSI (Federation of Obstetric and Gynaecological Societies of India) / IAGE Gynae Endoscopic Training Center in Eastern India.&nbsp; ILS Academia, Salt Lake is conducting basic and advanced courses in Gynae endoscopy at regular intervals. Attending students get 40 hours of hands-on training, didactic lectures, OT observer ship, and pre &amp; post evaluation and suturing training. Every participant will receive a Fellowship Training Certificate from FOGSI / ILS Hospitals. Till 2022 ILS Academia Salt Lake has successfully conducted 8 batches of FOGSI/IAGE Gynae Endoscopic Training.</p><p>CBD 360 Degree was one day conference, conducted on 5th August.</p><p>It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on the problems around common bile duct.</p><p>It was an invaluable learning and teaching initiative of ILS in association with AMASI chapter of Eastern India under leadership of Dr. Om Tantia.</p><p>The event’s success was further amplified by enthusiastic participation of 250 delegates including faculty members from Kolkata, Delhi, Chennai Bhubaneswar and Imphal.</p><p></p><p class=\"main-text\">Aajkaal</p><p class=\"main-text\">Sanmarg</p><p class=\"main-text\">Ei Samay</p><p class=\"main-text\">The Times of India</p><p class=\"main-text\">Calcutta Times</p><p class=\"main-text\">Dainik Bhaskar</p><p class=\"main-text\">Hari Bhoomi</p><p class=\"main-text\">The Hitavada</p>",
+      "body_text": "Book an appointmentBook an appointment033-4020-6500033-4020-6500033-4031-5000033-4031-5000897-405-0300897-405-03000771-488-80000771-488-8000033-4088-0000033-4088-0000Book Health Check UpBook Health Check Up DD-6, Salt Lake City (Near City Centre I), Kolkata – 700064 033-4020-6500 info@ilshospitals.com 1, Mall Road, Near Nager Bazar Flyover, Dumdum, Kolkata – 700080 033-4031-5000 info@ilshospitals.com 98, Dr Abani Dutta Road, Opposite Golabari P.S., Howrah, West Bengal – 711101 033-4088-0000 info@ilshospitals.com Capital Complex Extension P.O – New Secretariat, Agartala – 799010 897-405-0300 info@ilshospitals.com Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be a jack of all specialties. For example, a well-respected surgeon may be at wits end when faced with a cardiac emergency while traveling on a flight. Similarly, an endocrinologist may not know the correct protocol to be followed when treating a trauma patient. Similarly, treatment of snakebite is clouding by lots of myths. Aim behind this book is to provide a comprehensive overview of all the common emergencies faced in clinical practice with evidence-based current guidelines. Each chapter deals with a specific emergency, has been written and reviewed by leading experts in their respective fields. The material is concise with salient points for emergencies at the end and has been backed by a number of illustrations to keep the reader engaged. ILS Academics and Research Foundation is proud to launch Emergencies in Medical Practice Book, edited by Dr. Om Tantia, Dr. G. S. Goyal & Dr. Tamonas Chaudhuri. This unique book deals with first hand management of common emergencies. Such kind of a book are uncommon in publication. The book has been released by Swami Satyeshanandaji, Ramkrishna Mission, Belur Moth.We hope that the book will serve as a useful tool for all clinicians, especially those who deal with emergencies in their routine practice.ILS Hospitals Salt Lake is recognized as FOGSI (Federation of Obstetric and Gynaecological Societies of India) / IAGE Gynae Endoscopic Training Center in Eastern India. ILS Academia, Salt Lake is conducting basic and advanced courses in Gynae endoscopy at regular intervals. Attending students get 40 hours of hands-on training, didactic lectures, OT observer ship, and pre & post evaluation and suturing training. Every participant will receive a Fellowship Training Certificate from FOGSI / ILS Hospitals. Till 2022 ILS Academia Salt Lake has successfully conducted 8 batches of FOGSI/IAGE Gynae Endoscopic Training.CBD 360 Degree was one day conference, conducted on 5th August.It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on the problems around common bile duct.It was an invaluable learning and teaching initiative of ILS in association with AMASI chapter of Eastern India under leadership of Dr. Om Tantia.The event’s success was further amplified by enthusiastic participation of 250 delegates including faculty members from Kolkata, Delhi, Chennai Bhubaneswar and Imphal.AajkaalSanmargEi SamayThe Times of IndiaCalcutta TimesDainik BhaskarHari BhoomiThe Hitavada",
+      "image_count": 45,
+      "images": [
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/24-hours-phone-service.png",
+          "alt": "ils-emergency"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/book-appointment.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/saltlake-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/saltlake-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/subway.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/subway.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/agartala-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/agartala-i.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/raipur-icon.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/raipur-icon.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/Howrah-bridge.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/Howrah-bridge.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/health-checkup.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/map-pin.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/emergency-call.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/themes/ils/assets/images/email.png",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-2.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-3.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-5.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-6.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-7.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-8.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-9.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-10.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-11.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/pdf1.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/06/FOGSI-COURSE.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2024/01/cbd-1-1.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/Aajkaal.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/Sanmarg.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/EiSamay.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/07/TOI.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4564.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4568.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4567.webp",
+          "alt": "ils-news"
+        },
+        {
+          "src": "https://ilshospitals.com/wp-content/uploads/2026/06/P4566.webp",
+          "alt": "ils-news"
+        }
+      ],
+      "links": [
+        {
+          "text": "Academia List",
+          "url": "https://ilshospitals.com/academia/"
+        },
+        {
+          "text": "Saltlake 033-4020-6500",
+          "url": "tel:03340206500"
+        },
+        {
+          "text": "Dumdum 033-4031-5000",
+          "url": "tel:03340315000"
+        },
+        {
+          "text": "Agartala 897-405-0300",
+          "url": "tel:8974050300"
+        },
+        {
+          "text": "Raipur 0771-488-8000",
+          "url": "tel:0771-488-8000"
+        },
+        {
+          "text": "Howrah 033-4088-0000",
+          "url": "tel:03340880000"
+        },
+        {
+          "text": "Book Health Check Up Book Health Check Up",
+          "url": "https://ilshospitals.com/health-packages/"
+        },
+        {
+          "text": "View All",
+          "url": "https://ilshospitals.com/events"
+        },
+        {
+          "text": "ILS Times Vol 2_May’23",
+          "url": "https://ilshospitals.com/academia-list/ils-times-vol-2_may23/%20class="
+        },
+        {
+          "text": "FOGSI Gynae Endoscopy Skill Course 9th Batch FOGSI Gynae Endoscopy Skill Course 9th Batch ILS Hospitals Salt Lake is recognized as FOGSI (Federation of Obstetric and Gynaecological Societies of India) / IAGE Gynae Endoscopic Training Center in Eastern India. ILS Academia, Salt Lake is conducting basic and advanced courses in Gynae endoscopy at regular intervals. Attending students get 40 hours of hands-on training, didactic lectures, OT observer ship, and pre & post evaluation and suturing training. Every participant will receive a Fellowship Training Certificate from FOGSI / ILS Hospitals. Till 2022 ILS Academia Salt Lake has successfully conducted 8 batches of FOGSI/IAGE Gynae Endoscopic Training.",
+          "url": "https://ilshospitals.com/academia-list/fogsi-gynae-endoscopy-skill-course-9th-batch/%20class="
+        },
+        {
+          "text": "CBD 360° – Conference CBD 360° – Conference – 05.08.2023 at Royal Bengal Lounge, City Centre – 1, Kolkata CBD 360 Degree was one day conference, conducted on 5th August. It has provided an invaluable platform for medical professionals to learn and exchange insight directly from skilled surgeons, radiologist and gastroenterologist in real time about the issues focussed on the problems around common bile duct. It was an invaluable learning and teaching initiative of ILS in association with AMASI chapter of Eastern India under leadership of Dr. Om Tantia. The event’s success was further amplified by enthusiastic participation of 250 delegates including faculty members from Kolkata, Delhi, Chennai Bhubaneswar and Imphal.",
+          "url": "https://ilshospitals.com/academia-list/test/%20class="
+        }
+      ],
+      "published_date": "2024-01-24T12:47:22",
+      "modified_date": "2024-01-24T13:04:19",
+      "seo": {
+        "meta_title": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata - ILS-hospitals",
+        "meta_title_resolved": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata - ILS-hospitals",
+        "meta_description": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be",
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/",
+        "canonical_resolved": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/",
+        "og": {
+          "title": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata - ILS-hospitals",
+          "description": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be",
+          "type": "article",
+          "url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata - ILS-hospitals",
+          "description": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#listItem",
+                      "name": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#listItem",
+                    "position": 2,
+                    "name": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#webpage",
+                "url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/",
+                "name": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata - ILS-hospitals",
+                "description": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-1.jpg",
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#mainImage",
+                  "width": 600,
+                  "height": 600
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#mainImage"
+                },
+                "datePublished": "2024-01-24T12:47:22+05:30",
+                "dateModified": "2024-01-24T13:04:19+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#listItem",
+                        "name": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#listItem",
+                      "position": 2,
+                      "name": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#webpage",
+                  "url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/",
+                  "name": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata - ILS-hospitals",
+                  "description": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2024/01/bl-1.jpg",
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#mainImage",
+                    "width": 600,
+                    "height": 600
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/#mainImage"
+                  },
+                  "datePublished": "2024-01-24T12:47:22+05:30",
+                  "dateModified": "2024-01-24T13:04:19+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "description",
+            "content": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 5
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata - ILS-hospitals",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:description",
+            "content": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 14
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2024-01-24T12:47:22+00:00",
+            "index": 15
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-24T13:04:19+00:00",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata - ILS-hospitals",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "twitter:description",
+            "content": "Emergencies in Medical Practice Book Launch 26.02.23, Hyatt Regency, Kolkata Medical emergencies usually deal with life-threatening situations and carry dire consequences. In these critical moments it is important for the clinician dealing with them to be equipped with the knowledge and correct guidelines regarding their management. Thus, clinicians dealing with emergency patients need to be",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 23
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 24
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 25
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 26
+          }
+        ],
+        "seo_issues": [
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/academia-list/emergencies-in-medical-practice-book-launch-26-02-23-hyatt-regency-kolkata/"
+      },
+      "seo_issues": [
+        "og_image_generic_logo"
+      ]
+    }
+  ]
+}

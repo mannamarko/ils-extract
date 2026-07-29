@@ -1,0 +1,2439 @@
+[
+  {
+    "name": "ILS Hospitals, Saltlake",
+    "slug": "saltlake",
+    "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/10/saltlake.webp",
+    "location_contact": {
+      "address": "DD-6, Salt Lake City (Near City Centre I), Kolkata – 700064",
+      "phone": [
+        "03340206500",
+        "+919830400441"
+      ],
+      "email": "info@ilshospitals.com",
+      "map_embeded_link": "https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d223.2532021406429!2d88.41253702636793!3d22.587614990017467!2m2!1f316.43465107566453!2f45!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x3a0275c47e1bcb9b%3A0xb153e6644af38bf6!2sILS%20Hospitals%2C%20Salt%20lake!5e1!3m2!1sen!2sus!4v1705652223732!5m2!1sen!2sus"
+    },
+    "overview": "<p class=\"mt-3 com-desc\">Established in the year 2000 under the visionary leadership of Dr. Om Tantia, ILS Hospitals Salt Lake stands tall as a beacon of healthcare excellence. Over the years, we have grown to become a renowned multispecialty hospital with a legacy of commitment to quality patient care. Here’s an overview of what sets us apart:</p>\n<p class=\"mt-2 com-desc\"><strong>1. A Healing Legacy:</strong> With 85 beds and three modern operation theaters, ILS Hospitals Salt Lake is dedicated to providing compassionate and comprehensive healthcare. We take pride in our long history of serving the community with unwavering dedication.</p>\n<p class=\"mt-2 com-desc\"><strong>2. Center of Excellence:</strong> Our hospital is recognized as a Center of Excellence in Bariatric and Metabolism Surgery. We offer cutting-edge treatments to address weight-related issues and metabolic disorders, ensuring a healthier future for our patients.</p>\n<p class=\"mt-2 com-desc\"><strong>3. Affordable Excellence:</strong> At ILS Hospitals Salt Lake, we believe that high-quality healthcare should be accessible to all. We are committed to delivering excellent treatment at an affordable price, making world-class medical care within reach.</p>\n<p class=\"mt-2 com-desc\"><strong>4. Multispecialty Expertise:</strong> Our hospital specializes in various medical disciplines, including gynecology, maternity, laparoscopic surgery, pediatrics, orthopedic care, and more. Our multidisciplinary team of experts is dedicated to providing personalized, patient-centric care across various medical domains.</p>\n<p class=\"mt-2 com-desc\"><strong>5. Training for Excellence:</strong> ILS Hospitals is accredited with the prestigious Fellowship of the National Board. This recognition allows us to train post-doctoral surgeons in advanced skills, particularly in the field of minimal access surgery. Our commitment to education and training ensures that we stay at the forefront of medical advancements.</p>\n<p class=\"mt-2 com-desc\">At ILS Hospitals Salt Lake, our mission is simple: to provide the highest quality healthcare services with compassion and affordability. We are dedicated to making a difference in the lives of our patients, and we take pride in our patient-first approach</p>\n<p class=\"mt-2 com-desc\"><strong>Discover Comprehensive Care:</strong> Explore our website to learn more about our services, renowned medical professionals, and state-of-the-art facilities. Whether you have a specific healthcare need or are seeking wellness advice, our doors are always open to you. Feel free to <a style=\"color: #20409a;\" href=\"https://ilshospitals.com/get-in-touch/\">reach out</a> to us with your inquiries or to schedule an appointment. Your health is our priority.</p>",
+    "overview_img": "https://ilshospitals.com/wp-content/uploads/2023/10/hospital-collage-saltlake.webp",
+    "number_of_beds": 85,
+    "services_facilities": {
+      "diagnostic": [
+        {
+          "name": "CT Scan",
+          "speciality": "fdf",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ct-scan.png"
+        },
+        {
+          "name": "Digital X Ray",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Digital-X-Ray.png"
+        },
+        {
+          "name": "Ultrasonography",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Ultrasonography.png"
+        },
+        {
+          "name": "Echocardiography",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Echocardiography.png"
+        },
+        {
+          "name": "Holter Monitoring",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "ERCP",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ERCP.png"
+        },
+        {
+          "name": "Endoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Endoscopy.png"
+        },
+        {
+          "name": "Colonoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Colonoscopy.png"
+        },
+        {
+          "name": "Fibro Scan",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_FibroScan.png"
+        },
+        {
+          "name": "BioChemistry",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_BioChemistry.png"
+        },
+        {
+          "name": "Clinical Pathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Clinical_Pathology.png"
+        },
+        {
+          "name": "Cytology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Cytology.png"
+        },
+        {
+          "name": "Haematology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Haematology.png"
+        },
+        {
+          "name": "Histopathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Histopathology.png"
+        },
+        {
+          "name": "Immunoassay",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Immunoassay.png"
+        },
+        {
+          "name": "Microbiology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Microbiology.png"
+        },
+        {
+          "name": "Molecular Testing",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Molecular_Testing.png"
+        },
+        {
+          "name": "Serology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Serology.png"
+        },
+        {
+          "name": "EMG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EMG.png"
+        },
+        {
+          "name": "NCV",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/neurology.png"
+        },
+        {
+          "name": "EEG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EEG.png"
+        },
+        {
+          "name": "Sleep Study (Polysomnography)",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Sleep_Study.png"
+        },
+        {
+          "name": "Pulmonary Function Test (PFT)",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/PFT.png"
+        },
+        {
+          "name": "Fibre Optic Bronchoscopy",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Fibre_Optic_Bronchoscopy.png"
+        },
+        {
+          "name": "Uroflowmetry",
+          "speciality": "Urology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Uroflowmetry.png"
+        }
+      ],
+      "special": [
+        {
+          "name": "Intensive Therapy Unit (ITU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ITU.png"
+        },
+        {
+          "name": "Neonatal Intensive Care Unit (NICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Neonatal-Intensive-Care-Unit.png"
+        },
+        {
+          "name": "Bariatric Clinic",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/11/BariatricSurgery.svg"
+        },
+        {
+          "name": "Diabetic Foot Clinic",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Diabetic-Foot-Clinic-1.png"
+        },
+        {
+          "name": "Physical Rehabilitation",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Physical-Rehabilitation.png"
+        },
+        {
+          "name": "24 X 7 Emergency",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7-Emergency.png"
+        },
+        {
+          "name": "24 X 7 Pharmacy (In Patient)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7-Emergency.png"
+        },
+        {
+          "name": "Critical Care Ambulance",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Ambulance.png"
+        }
+      ],
+      "ils_sparsh": [
+        {
+          "name": "10% discount on health checkup package",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "20% discount on all OP diagnostics",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "15% discount on IP Services (excluding doctor fees and medicine)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Physiotherapy with 10% discount at hospital (OP)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Monthly home visit by physician for general checkup with B.P. and Sugar",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free sample collection and report delivery (as and when required)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free ambulance service within 5km (if hospitalised at ILS)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Priority admission to members",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        }
+      ]
+    },
+    "room_charges": {
+      "images": [
+        "https://ilshospitals.com/wp-content/uploads/2025/09/floor-view-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/cathlab-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-1-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-2-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-4-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-5-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-6-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-7-scaled-1.webp"
+      ],
+      "rooms": [
+        {
+          "name": "ITU (Intensive Trauma Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "NICU (Neonatal Intensive Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "Suite",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Single Deluxe",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Single Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Twin Sharing Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Multi Bed",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Baby Cot",
+          "type": "Nursery"
+        }
+      ]
+    },
+    "bio_medical": "https://ilshospitals.com/wp-content/uploads/2023/10/BMW-Anuual-Report-for-the-period-010124-to-311224.pdf",
+    "faq_img": "https://ilshospitals.com/wp-content/uploads/2023/11/add-slide1.jpg",
+    "faq": [
+      {
+        "question": "Can uterus removal be done via laparoscopy?",
+        "ans": "Yes, it can be easily and safely removed by laparoscopic surgery. One can go home after 48 hours. No bed rest required after laparoscopic surgery. Can join office in 7 days."
+      },
+      {
+        "question": "Do we have to remove uterus for fibroids?",
+        "ans": "No, it is not done if you want to preserve uterus and want more children. Only if you have completed your family and have more then 2-3 fibroids and nearing menopause then it is better to remove the uterus."
+      },
+      {
+        "question": "Do you have any health check up packages?",
+        "ans": "ILS Hospitals are equipped with the latest and accurate testing equipments, trained technicians and specialists providing an advance range of health check up and screening services. This Health Check up Packages covers a wide range of investigations like from basic standard set of blood tests to detailed physical examinations and consultation by experienced doctors and each package is tailored to suit the needs of an individual."
+      },
+      {
+        "question": "Do you have the facility of cashless treatment?",
+        "ans": "Yes, Cashless facility is available for empanelled TPA's & insurance Companies."
+      }
+    ],
+    "logo_for_hospital": [
+      "https://ilshospitals.com/wp-content/uploads/2023/10/NABH-logo.png",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/CAHO.webp",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/WhatsApp-Image-2026-06-15-at-10.20.24-AM.webp"
+    ],
+    "google_review": 4.8,
+    "seo": {
+      "meta_title": "Best Multispeciality Hospital in Saltlake | Book an Appointment | ILS Hospitals",
+      "meta_description": "ILS Hospitals, a top multispeciality hospital in Saltlake, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Saltlake for top-quality medical care.",
+      "canonical": "https://ilshospitals.com/hospital/saltlake/",
+      "robots": "max-image-preview:large",
+      "og": {
+        "locale": "en_US",
+        "type": "article",
+        "title": "Best Multispeciality Hospital in Saltlake | Book an Appointment | ILS Hospitals",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "description": "ILS Hospitals, a top multispeciality hospital in Saltlake, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Saltlake for top-quality medical care.",
+        "url": "https://ilshospitals.com/hospital/saltlake/",
+        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Best Multispeciality Hospital in Saltlake | Book an Appointment | ILS Hospitals",
+        "description": "ILS Hospitals, a top multispeciality hospital in Saltlake, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Saltlake for top-quality medical care.",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@type": "MedicalOrganization",
+          "name": "ILS Hospitals",
+          "alternateName": "Multispeciality Hospital in Saltlake, Dumdum, Raipur, Howrah, Agartala | Book an Appointment | ILS Hospitals",
+          "description": "ILS Hospitals is a leading multispeciality hospital chain with 560+ beds across Saltlake, Dumdum, Raipur, Howrah & Agartala. Get expert healthcare with advanced medical facilities.",
+          "url": "https://www.ilshospitals.com",
+          "logo": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+919830400441",
+            "contactType": "Customer Service"
+          },
+          "sameAs": [
+            "https://www.facebook.com/ilshospitals",
+            "https://www.instagram.com/ils_hospitals/",
+            "https://in.linkedin.com/company/ilshospitals/"
+          ],
+          "subOrganization": [
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Saltlake",
+              "url": "https://www.ilshospitals.com/saltlake",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "DD 6, Salt Lake Bypass, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "postalCode": "700064",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4020-6500"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Dumdum",
+              "url": "https://www.ilshospitals.com/dumdum",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1, Mall Rd, near Nagerbazar Flyover, Golpark, Dum Dum, Kolkata, North Dumdum, West Bengal 700080",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "postalCode": "700080",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4031-5001"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Howrah",
+              "url": "https://www.ilshospitals.com/howrah",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "98, Dr Abani Dutta Rd, opposite Golabari, PS, Howrah, West Bengal 711101",
+                "addressLocality": "Howrah",
+                "addressRegion": "West Bengal",
+                "postalCode": "711101",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4088-0000"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Raipur",
+              "url": "https://ilshospitals.com/hospital/raipur/",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Amrapali Society, Panchpedi Naka Near Sparsh Automobiles Raipur – 492001",
+                "addressLocality": "Raipur",
+                "addressRegion": "Chhattisgarh",
+                "postalCode": "492001",
+                "addressCountry": "India"
+              },
+              "telephone": "+91 7714888000"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Agartala",
+              "url": "https://www.ilshospitals.com/agartala",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Capital Complex Extension P.O – New Secretariat, Agartala – 799010",
+                "addressLocality": "Agartala",
+                "addressRegion": "Tripura",
+                "postalCode": "799010",
+                "addressCountry": "India"
+              },
+              "telephone": "+91897-405-0300"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/hospital/saltlake/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/hospital/saltlake/#listItem",
+                    "name": "Saltlake"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/hospital/saltlake/#listItem",
+                  "position": 2,
+                  "name": "Saltlake",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/hospital/saltlake/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/hospital/saltlake/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/hospital/saltlake/#webpage",
+              "url": "https://ilshospitals.com/hospital/saltlake/",
+              "name": "Best Multispeciality Hospital in Saltlake | Book an Appointment | ILS Hospitals",
+              "description": "ILS Hospitals, a top multispeciality hospital in Saltlake, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Saltlake for top-quality medical care.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/hospital/saltlake/#breadcrumblist"
+              },
+              "datePublished": "2023-10-26T07:18:51+05:30",
+              "dateModified": "2026-06-15T11:57:36+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ils-hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "ILS Hospitals, Dumdum",
+    "slug": "dumdum",
+    "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/10/DumDum.webp",
+    "location_contact": {
+      "address": "1, Mall Road, Near Nager Bazar Flyover, Dumdum, Kolkata – 700080",
+      "phone": [
+        "03340315000",
+        "02",
+        "06"
+      ],
+      "email": "info@ilshospitals.com",
+      "map_embeded_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d624.2012778241769!2d88.41700478031669!3d22.62468694075185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89e19fdffba2b%3A0x5461c4ec9df3487c!2sILS%20Hospitals%2C%20Dumdum!5e1!3m2!1sen!2sus!4v1705652110498!5m2!1sen!2sus"
+    },
+    "overview": "<p class=\"mt-3 com-desc\">Discover exceptional healthcare services at ILS Hospitals Dumdum, where we have made it our mission to provide top-notch medical care with a patient-centric approach. Here’s an overview of our state-of-the-art facility:</p>\n<ol>\n<li><strong>A Healing Haven:</strong> ILS Hospitals Dumdum is a six-storied, 155-bed multispecialty hospital. Our extensive infrastructure ensures that we have the capacity and resources to cater to a wide range of healthcare needs.</li>\n<li><strong>Advanced Surgical Expertise:</strong> With four major Operation Theatres and a catheterization laboratory, we are equipped for a comprehensive array of surgical interventions. Our dedicated team of experienced surgeons and specialists is committed to delivering surgical excellence.</li>\n<li><strong>Cutting-Edge Diagnostics:</strong> ILS Hospitals Dumdum is proud to offer advanced diagnostic and therapeutic equipment. We are equipped with an MRI, CT scan, digital X-ray, USG, ventilators, IUI setup, and much more, ensuring that you receive accurate and timely diagnoses for informed medical decisions.</li>\n<li><strong>Multispecialty Expertise:</strong> Our hospital specializes in various medical disciplines, including gynecology, maternity, laparoscopic surgery, pediatrics, orthopedic care, and more. Our multidisciplinary team of experts is dedicated to providing personalized, patient-centric care across various medical domains.</li>\n<li><strong>Affordable Quality Care:</strong> At ILS Hospitals Dumdum, we firmly believe that quality healthcare should be accessible to all. We are committed to providing top-tier medical treatment at an affordable price, ensuring that you receive the best care without financial strain.</li>\n</ol>\n<p>Our team of experienced medical professionals and support staff is dedicated to offering compassionate and comprehensive healthcare services. We prioritize your well-being and strive to make your healthcare journey as smooth and comfortable as possible.</p>\n<p><strong>Discover Comprehensive Care:</strong> As you explore our website, you’ll learn more about the wide range of services we offer, the renowned medical experts in our team, and the world-class facilities available to you. Whether you require specialized medical attention or simply seek health and wellness guidance, ILS Hospitals Dumdum is your trusted healthcare partner.</p>\n<p>Feel free to <a style=\"color: #20409a;\" href=\"https://ilshospitals.com/get-in-touch/\">contact us</a> for any inquiries, to book an appointment, or to discuss your healthcare needs. Your health and well-being are our primary concerns.</p>",
+    "overview_img": "https://ilshospitals.com/wp-content/uploads/2023/10/ILSDumdum-Building512.webp",
+    "number_of_beds": 155,
+    "services_facilities": {
+      "diagnostic": [
+        {
+          "name": "CT Scan",
+          "speciality": "fdf",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ct-scan.png"
+        },
+        {
+          "name": "Digital X Ray",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Digital-X-Ray.png"
+        },
+        {
+          "name": "Ultrasonography",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Ultrasonography.png"
+        },
+        {
+          "name": "Mammography",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Mammography.png"
+        },
+        {
+          "name": "MRI",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/MRI.png"
+        },
+        {
+          "name": "Echocardiography",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Echocardiography.png"
+        },
+        {
+          "name": "Holter Monitoring",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Tread Mill Test (TMT)",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/TMT.png"
+        },
+        {
+          "name": "ERCP",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ERCP.png"
+        },
+        {
+          "name": "Endoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Endoscopy.png"
+        },
+        {
+          "name": "Colonoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Colonoscopy.png"
+        },
+        {
+          "name": "Fibro Scan",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_FibroScan.png"
+        },
+        {
+          "name": "BioChemistry",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_BioChemistry.png"
+        },
+        {
+          "name": "Clinical Pathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Clinical_Pathology.png"
+        },
+        {
+          "name": "Cytology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Cytology.png"
+        },
+        {
+          "name": "Haematology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Haematology.png"
+        },
+        {
+          "name": "Histopathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Histopathology.png"
+        },
+        {
+          "name": "Immunoassay",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Immunoassay.png"
+        },
+        {
+          "name": "Microbiology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Microbiology.png"
+        },
+        {
+          "name": "Molecular Testing",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Molecular_Testing.png"
+        },
+        {
+          "name": "Serology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Serology.png"
+        },
+        {
+          "name": "EMG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EMG.png"
+        },
+        {
+          "name": "NCV",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/neurology.png"
+        },
+        {
+          "name": "EEG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EEG.png"
+        },
+        {
+          "name": "Sleep Study (Polysomnography)",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Sleep_Study.png"
+        },
+        {
+          "name": "Pulmonary Function Test (PFT)",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/PFT.png"
+        },
+        {
+          "name": "Fibre Optic Bronchoscopy",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Fibre_Optic_Bronchoscopy.png"
+        },
+        {
+          "name": "Uroflowmetry",
+          "speciality": "Urology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Uroflowmetry.png"
+        },
+        {
+          "name": "Urodynamic Study",
+          "speciality": "Urology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Uterus_Removal.svg"
+        }
+      ],
+      "special": [
+        {
+          "name": "Intensive Therapy Unit (ITU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ITU.png"
+        },
+        {
+          "name": "Intensive Care Unit (ICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ICU.png"
+        },
+        {
+          "name": "Neonatal Intensive Care Unit (NICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Neonatal-Intensive-Care-Unit.png"
+        },
+        {
+          "name": "Pediatric Intensive Care Unit (PICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Pediatric-Intensive-Care-Unit-PICU.png"
+        },
+        {
+          "name": "Physical Rehabilitation",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Physical-Rehabilitation.png"
+        },
+        {
+          "name": "24 X 7 Dialysis Services",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7-Emergency.png"
+        },
+        {
+          "name": "Critical Care Ambulance",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Ambulance.png"
+        },
+        {
+          "name": "24x7 Emergency & Trauma Care",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/24x7-Emergency-Trauma-Care.png"
+        },
+        {
+          "name": "24 X 7 Pharmacy (Out Patient & In Patient)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7_pharmacy.png"
+        }
+      ],
+      "ils_sparsh": [
+        {
+          "name": "10% discount on health checkup package",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "15% discount on IP Services (excluding doctor fees and medicine)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "20% discount on all OP diagnostics",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Physiotherapy with 10% discount at hospital (OP)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Monthly home visit by physician for general checkup with B.P. and Sugar",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free sample collection and report delivery (as and when required)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free ambulance service within 5km (if hospitalised at ILS)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Priority admission to members",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        }
+      ]
+    },
+    "room_charges": {
+      "images": [
+        "https://ilshospitals.com/wp-content/uploads/2025/09/floor-view-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/cathlab-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-1-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-2-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-4-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-5-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-6-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-7-scaled-1.webp"
+      ],
+      "rooms": [
+        {
+          "name": "ITU (Intensive Trauma Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "NICU (Neonatal Intensive Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "CCU (Coronary Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "HDU (High Dependency Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "RTU (Renal Transplantation Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "Dialysis",
+          "type": "Day Care"
+        },
+        {
+          "name": "Single Deluxe",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Single Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Twin Sharing Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Multi Bed",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Baby Cot",
+          "type": "Nursery"
+        }
+      ]
+    },
+    "bio_medical": "",
+    "faq_img": "",
+    "faq": [
+      {
+        "question": "Can uterus removal be done via laparoscopy?",
+        "ans": "Yes, it can be easily and safely removed by laparoscopic surgery. One can go home after 48 hours. No bed rest required after laparoscopic surgery. Can join office in 7 days."
+      },
+      {
+        "question": "Do we have to remove uterus for fibroids?",
+        "ans": "No, it is not done if you want to preserve uterus and want more children. Only if you have completed your family and have more then 2-3 fibroids and nearing menopause then it is better to remove the uterus."
+      },
+      {
+        "question": "Do you have any health check up packages?",
+        "ans": "ILS Hospitals are equipped with the latest and accurate testing equipments, trained technicians and specialists providing an advance range of health check up and screening services. This Health Check up Packages covers a wide range of investigations like from basic standard set of blood tests to detailed physical examinations and consultation by experienced doctors and each package is tailored to suit the needs of an individual."
+      },
+      {
+        "question": "Do you have the facility of cashless treatment?",
+        "ans": "Yes, Cashless facility is available for empanelled TPA's & insurance Companies."
+      }
+    ],
+    "logo_for_hospital": [
+      "https://ilshospitals.com/wp-content/uploads/2023/10/NABH-logo.png",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/NABH-logo1.webp",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/NABL-Logo.png",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/CAHO.webp"
+    ],
+    "google_review": 4.7,
+    "seo": {
+      "meta_title": "Best Multispeciality Hospital in Dumdum | Book an Appointment | ILS Hospitals",
+      "meta_description": "ILS Hospitals, a top multispeciality hospital in Dumdum, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Dumdum for top-quality medical care.",
+      "canonical": "https://ilshospitals.com/hospital/dumdum/",
+      "robots": "max-image-preview:large",
+      "og": {
+        "locale": "en_US",
+        "type": "article",
+        "title": "Best Multispeciality Hospital in Dumdum | Book an Appointment | ILS Hospitals",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "description": "ILS Hospitals, a top multispeciality hospital in Dumdum, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Dumdum for top-quality medical care.",
+        "url": "https://ilshospitals.com/hospital/dumdum/",
+        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Best Multispeciality Hospital in Dumdum | Book an Appointment | ILS Hospitals",
+        "description": "ILS Hospitals, a top multispeciality hospital in Dumdum, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Dumdum for top-quality medical care.",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@type": "MedicalOrganization",
+          "name": "ILS Hospitals",
+          "alternateName": "Multispeciality Hospital in Saltlake, Dumdum, Raipur, Howrah, Agartala | Book an Appointment | ILS Hospitals",
+          "description": "ILS Hospitals is a leading multispeciality hospital chain with 560+ beds across Saltlake, Dumdum, Raipur, Howrah & Agartala. Get expert healthcare with advanced medical facilities.",
+          "url": "https://www.ilshospitals.com",
+          "logo": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+919830400441",
+            "contactType": "Customer Service"
+          },
+          "sameAs": [
+            "https://www.facebook.com/ilshospitals",
+            "https://www.instagram.com/ils_hospitals/",
+            "https://in.linkedin.com/company/ilshospitals/"
+          ],
+          "subOrganization": [
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Saltlake",
+              "url": "https://www.ilshospitals.com/saltlake",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "DD 6, Salt Lake Bypass, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "postalCode": "700064",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4020-6500"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Dumdum",
+              "url": "https://www.ilshospitals.com/dumdum",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1, Mall Rd, near Nagerbazar Flyover, Golpark, Dum Dum, Kolkata, North Dumdum, West Bengal 700080",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "postalCode": "700080",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4031-5001"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Howrah",
+              "url": "https://www.ilshospitals.com/howrah",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "98, Dr Abani Dutta Rd, opposite Golabari, PS, Howrah, West Bengal 711101",
+                "addressLocality": "Howrah",
+                "addressRegion": "West Bengal",
+                "postalCode": "711101",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4088-0000"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Raipur",
+              "url": "https://ilshospitals.com/hospital/raipur/",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Amrapali Society, Panchpedi Naka Near Sparsh Automobiles Raipur – 492001",
+                "addressLocality": "Raipur",
+                "addressRegion": "Chhattisgarh",
+                "postalCode": "492001",
+                "addressCountry": "India"
+              },
+              "telephone": "+91 7714888000"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Agartala",
+              "url": "https://www.ilshospitals.com/agartala",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Capital Complex Extension P.O – New Secretariat, Agartala – 799010",
+                "addressLocality": "Agartala",
+                "addressRegion": "Tripura",
+                "postalCode": "799010",
+                "addressCountry": "India"
+              },
+              "telephone": "+91897-405-0300"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/hospital/dumdum/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/hospital/dumdum/#listItem",
+                    "name": "Dumdum"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/hospital/dumdum/#listItem",
+                  "position": 2,
+                  "name": "Dumdum",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/hospital/dumdum/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/hospital/dumdum/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/hospital/dumdum/#webpage",
+              "url": "https://ilshospitals.com/hospital/dumdum/",
+              "name": "Best Multispeciality Hospital in Dumdum | Book an Appointment | ILS Hospitals",
+              "description": "ILS Hospitals, a top multispeciality hospital in Dumdum, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Dumdum for top-quality medical care.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/hospital/dumdum/#breadcrumblist"
+              },
+              "datePublished": "2023-10-26T07:19:25+05:30",
+              "dateModified": "2026-05-05T19:23:51+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ils-hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "ILS Hospitals, Howrah",
+    "slug": "howrah",
+    "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/10/unit_howrah.webp",
+    "location_contact": {
+      "address": "98, Dr Abani Dutta Road, Opposite Golabari P.S., Howrah, West Bengal – 711101",
+      "phone": [
+        "03340880000",
+        "02"
+      ],
+      "email": "info@ilshospitals.com",
+      "map_embeded_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d613.6932482618624!2d88.34444049760255!3d22.592944429467277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0277c1f2f67309%3A0x2d4ba68221440468!2sILS%20HOSPITAL%2C%20HOWRAH!5e1!3m2!1sen!2sin!4v1705651963055!5m2!1sen!2sin"
+    },
+    "overview": "<p class=\"mt-3 com-desc\">At ILS Hospitals Howrah, we take pride in being your partner in health, offering world-class medical services with a patient-centric approach. Our facility is designed to provide excellence in healthcare while being conveniently accessible to the residents of Howrah and its neighbouring areas. Here’s an overview of what we bring to your healthcare journey:</p>\n<p class=\"mt-2 com-desc\"><strong>1. A Beacon of Wellness:</strong> ILS Hospitals Howrah, established in 2019, is a shining beacon of health and well-being, right here in the heart of Howrah. With 116 beds, we offer a comprehensive healthcare infrastructure that caters to a wide spectrum of medical needs.</p>\n<p class=\"mt-2 com-desc\"><strong>2. Surgical Excellence:</strong> Our commitment to superior surgical care is evident through our three modern Operation Theatres (OTs). These OTs are equipped with state-of-the-art technology to support our skilled surgeons and medical professionals in delivering the best possible outcomes for our patients.</p>\n<p class=\"mt-2 com-desc\"><strong>3. Critical Care at Its Best:</strong> We understand the importance of timely and proficient critical care. Our Intensive Care Unit (ICU) is staffed with a team of highly trained healthcare providers who are dedicated to your well-being. We ensure that our critical care facilities meet international standards.</p>\n<p class=\"mt-2 com-desc\"><strong>4. Accessibility Matters:</strong> ILS Hospitals Howrah is thoughtfully placed for the convenience of the local community. Our hospital is easily accessible, ensuring that you don’t have to travel far for quality healthcare.</p>\n<p class=\"mt-2 com-desc\">As your trusted healthcare partner, we prioritize your health and happiness above all. We are committed to making your healthcare experience as smooth and stress-free as possible, so you can focus on your journey to wellness.</p>\n<p class=\"mt-2 com-desc\"><strong>Discover Quality Healthcare:</strong> As you explore our website, you will learn more about the wide range of medical services we offer, our esteemed team of medical experts, and the top-notch facilities at your disposal. Whether you require specialized medical care or seek guidance on your health and well-being, ILS Hospitals Howrah is here for you.</p>\n<p class=\"mt-2 com-desc\">Don’t hesitate to <a style=\"color: #20409a;\" href=\"https://ilshospitals.com/get-in-touch/\">reach out to us</a> for any inquiries, appointments, or to discuss your healthcare requirements. Your health is our priority, and we are here to ensure you receive the best care.</p>",
+    "overview_img": "https://ilshospitals.com/wp-content/uploads/2023/10/ILS-Howrah-Building-1024.webp",
+    "number_of_beds": 116,
+    "services_facilities": {
+      "diagnostic": [
+        {
+          "name": "CT Scan",
+          "speciality": "fdf",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ct-scan.png"
+        },
+        {
+          "name": "Digital X Ray",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Digital-X-Ray.png"
+        },
+        {
+          "name": "Ultrasonography",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Ultrasonography.png"
+        },
+        {
+          "name": "MRI",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/MRI.png"
+        },
+        {
+          "name": "Echocardiography",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Echocardiography.png"
+        },
+        {
+          "name": "Holter Monitoring",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Tread Mill Test (TMT)",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/TMT.png"
+        },
+        {
+          "name": "ERCP",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ERCP.png"
+        },
+        {
+          "name": "Endoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Endoscopy.png"
+        },
+        {
+          "name": "Colonoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Colonoscopy.png"
+        },
+        {
+          "name": "Fibro Scan",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_FibroScan.png"
+        },
+        {
+          "name": "BioChemistry",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_BioChemistry.png"
+        },
+        {
+          "name": "Clinical Pathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Clinical_Pathology.png"
+        },
+        {
+          "name": "Cytology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Cytology.png"
+        },
+        {
+          "name": "Haematology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Haematology.png"
+        },
+        {
+          "name": "Histopathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Histopathology.png"
+        },
+        {
+          "name": "Immunoassay",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Immunoassay.png"
+        },
+        {
+          "name": "Microbiology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Microbiology.png"
+        },
+        {
+          "name": "Molecular Testing",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Molecular_Testing.png"
+        },
+        {
+          "name": "Serology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Serology.png"
+        },
+        {
+          "name": "EMG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EMG.png"
+        },
+        {
+          "name": "NCV",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/neurology.png"
+        },
+        {
+          "name": "EEG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EEG.png"
+        },
+        {
+          "name": "Sleep Study (Polysomnography)",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Sleep_Study.png"
+        },
+        {
+          "name": "Pulmonary Function Test (PFT)",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/PFT.png"
+        },
+        {
+          "name": "Fibre Optic Bronchoscopy",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Fibre_Optic_Bronchoscopy.png"
+        },
+        {
+          "name": "Uroflowmetry",
+          "speciality": "Urology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Uroflowmetry.png"
+        }
+      ],
+      "special": [
+        {
+          "name": "Intensive Therapy Unit (ITU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ITU.png"
+        },
+        {
+          "name": "Neonatal Intensive Care Unit (NICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Neonatal-Intensive-Care-Unit.png"
+        },
+        {
+          "name": "Pediatric Intensive Care Unit (PICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Pediatric-Intensive-Care-Unit-PICU.png"
+        },
+        {
+          "name": "Physical Rehabilitation",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Physical-Rehabilitation.png"
+        },
+        {
+          "name": "24 X 7 Dialysis Services",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7-Emergency.png"
+        },
+        {
+          "name": "Critical Care Ambulance",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Ambulance.png"
+        },
+        {
+          "name": "24x7 Emergency & Trauma Care",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/24x7-Emergency-Trauma-Care.png"
+        },
+        {
+          "name": "24 X 7 Pharmacy (Out Patient & In Patient)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7_pharmacy.png"
+        }
+      ],
+      "ils_sparsh": [
+        {
+          "name": "10% discount on health checkup package",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "20% discount on all OP diagnostics",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "15% discount on IP Services (excluding doctor fees and medicine)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Physiotherapy with 10% discount at hospital (OP)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Monthly home visit by physician for general checkup with B.P. and Sugar",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free sample collection and report delivery (as and when required)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free ambulance service within 5km (if hospitalised at ILS)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Priority admission to members",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        }
+      ]
+    },
+    "room_charges": {
+      "images": [
+        "https://ilshospitals.com/wp-content/uploads/2025/09/floor-view-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/cathlab-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-1-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-2-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-4-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-5-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-6-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-7-scaled-1.webp"
+      ],
+      "rooms": [
+        {
+          "name": "ITU (Intensive Trauma Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "NICU (Neonatal Intensive Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "CCU (Coronary Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "HDU (High Dependency Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "SCBU (Special Care Baby Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "Dialysis",
+          "type": "Day Care"
+        },
+        {
+          "name": "Single Deluxe",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Single Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Twin Sharing Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Multi Bed",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Baby Cot",
+          "type": "Nursery"
+        }
+      ]
+    },
+    "bio_medical": "",
+    "faq_img": "https://ilshospitals.com/wp-content/uploads/2023/11/add-slide1.jpg",
+    "faq": [
+      {
+        "question": "Can uterus removal be done via laparoscopy?",
+        "ans": "Yes, it can be easily and safely removed by laparoscopic surgery. One can go home after 48 hours. No bed rest required after laparoscopic surgery. Can join office in 7 days."
+      },
+      {
+        "question": "Do we have to remove uterus for fibroids?",
+        "ans": "No, it is not done if you want to preserve uterus and want more children. Only if you have completed your family and have more then 2-3 fibroids and nearing menopause then it is better to remove the uterus."
+      },
+      {
+        "question": "Do you have any health check up packages?",
+        "ans": "ILS Hospitals are equipped with the latest and accurate testing equipments, trained technicians and specialists providing an advance range of health check up and screening services. This Health Check up Packages covers a wide range of investigations like from basic standard set of blood tests to detailed physical examinations and consultation by experienced doctors and each package is tailored to suit the needs of an individual."
+      },
+      {
+        "question": "Do you have the facility of cashless treatment?",
+        "ans": "Yes, Cashless facility is available for empanelled TPA's & insurance Companies."
+      }
+    ],
+    "logo_for_hospital": [
+      "https://ilshospitals.com/wp-content/uploads/2023/10/CAHO.webp",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/WhatsApp-Image-2026-06-15-at-10.20.24-AM.webp"
+    ],
+    "google_review": 4.7,
+    "seo": {
+      "meta_title": "Best Multispeciality Hospital in Howrah | ILS Hospitals",
+      "meta_description": "ILS Hospitals Howrah is among the Best Private Hospitals in Howrah, offering top-quality healthcare with expert doctors and advanced multispeciality care.",
+      "canonical": "https://ilshospitals.com/hospital/howrah/",
+      "robots": "max-image-preview:large",
+      "og": {
+        "locale": "en_US",
+        "type": "article",
+        "title": "Best Multispeciality Hospital in Howrah | ILS Hospitals",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "description": "ILS Hospitals Howrah is among the Best Private Hospitals in Howrah, offering top-quality healthcare with expert doctors and advanced multispeciality care.",
+        "url": "https://ilshospitals.com/hospital/howrah/",
+        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Best Multispeciality Hospital in Howrah | ILS Hospitals",
+        "description": "ILS Hospitals Howrah is among the Best Private Hospitals in Howrah, offering top-quality healthcare with expert doctors and advanced multispeciality care.",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@type": "MedicalOrganization",
+          "name": "ILS Hospitals",
+          "alternateName": "Multispeciality Hospital in Saltlake, Dumdum, Raipur, Howrah, Agartala | Book an Appointment | ILS Hospitals",
+          "description": "ILS Hospitals is a leading multispeciality hospital chain with 560+ beds across Saltlake, Dumdum, Raipur, Howrah & Agartala. Get expert healthcare with advanced medical facilities.",
+          "url": "https://www.ilshospitals.com",
+          "logo": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+919830400441",
+            "contactType": "Customer Service"
+          },
+          "sameAs": [
+            "https://www.facebook.com/ilshospitals",
+            "https://www.instagram.com/ils_hospitals/",
+            "https://in.linkedin.com/company/ilshospitals/"
+          ],
+          "subOrganization": [
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Saltlake",
+              "url": "https://www.ilshospitals.com/saltlake",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "DD 6, Salt Lake Bypass, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "postalCode": "700064",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4020-6500"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Dumdum",
+              "url": "https://www.ilshospitals.com/dumdum",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1, Mall Rd, near Nagerbazar Flyover, Golpark, Dum Dum, Kolkata, North Dumdum, West Bengal 700080",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "postalCode": "700080",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4031-5001"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Howrah",
+              "url": "https://www.ilshospitals.com/howrah",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "98, Dr Abani Dutta Rd, opposite Golabari, PS, Howrah, West Bengal 711101",
+                "addressLocality": "Howrah",
+                "addressRegion": "West Bengal",
+                "postalCode": "711101",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4088-0000"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Raipur",
+              "url": "https://ilshospitals.com/hospital/raipur/",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Amrapali Society, Panchpedi Naka Near Sparsh Automobiles Raipur – 492001",
+                "addressLocality": "Raipur",
+                "addressRegion": "Chhattisgarh",
+                "postalCode": "492001",
+                "addressCountry": "India"
+              },
+              "telephone": "+91 7714888000"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Agartala",
+              "url": "https://www.ilshospitals.com/agartala",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Capital Complex Extension P.O – New Secretariat, Agartala – 799010",
+                "addressLocality": "Agartala",
+                "addressRegion": "Tripura",
+                "postalCode": "799010",
+                "addressCountry": "India"
+              },
+              "telephone": "+91897-405-0300"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/hospital/howrah/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/hospital/howrah/#listItem",
+                    "name": "Howrah"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/hospital/howrah/#listItem",
+                  "position": 2,
+                  "name": "Howrah",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/hospital/howrah/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/hospital/howrah/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/hospital/howrah/#webpage",
+              "url": "https://ilshospitals.com/hospital/howrah/",
+              "name": "Best Multispeciality Hospital in Howrah | ILS Hospitals",
+              "description": "ILS Hospitals Howrah is among the Best Private Hospitals in Howrah, offering top-quality healthcare with expert doctors and advanced multispeciality care.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/hospital/howrah/#breadcrumblist"
+              },
+              "datePublished": "2023-10-26T07:06:38+05:30",
+              "dateModified": "2026-06-15T11:58:58+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ils-hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "ILS Hospitals, Agartala",
+    "slug": "agartala",
+    "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/10/Agartala.webp",
+    "location_contact": {
+      "address": "Capital Complex Extension P.O – New Secretariat, Agartala – 799010",
+      "phone": [
+        "8974050300",
+        "03812415000"
+      ],
+      "email": "info@ilshospitals.com",
+      "map_embeded_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d782.3348272813507!2d91.28968318744654!3d23.86765942233988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3753f14d1a5ccdad%3A0x1d6e81bdd9eaa78c!2sILS%20Hospitals%2C%20Agartala!5e1!3m2!1sen!2sus!4v1705651319432!5m2!1sen!2sus"
+    },
+    "overview": "<p>ILS Hospitals Agartala is a pioneering healthcare institution that was conceived with the support of the Government of Tripura in July 2008. As a leading medical facility in the region, we take pride in offering a wide range of healthcare services that meet international standards. Here’s an overview of our hospital:</p>\n<ol>\n<li><strong>Multispecialty Excellence:</strong> With a total capacity of 205 beds, we are a multispecialty hospital equipped to handle a diverse range of medical conditions and treatments. Our dedicated team of medical professionals is committed to providing the highest quality care.</li>\n<li><strong>Nursing College:</strong> We are proud to host a 50-seat BSc Nursing College, contributing to the training and development of future healthcare professionals.</li>\n<li><strong>Advanced Facilities:</strong> ILS Hospitals Agartala features 8 modern operating theaters, a catheterization laboratory, and state-of-the-art diagnostic and therapeutic equipment. These include MRI, CT scan, digital X-ray, USG, ventilators, IUI setup, and more. We invest in the latest technology to ensure the best possible outcomes for our patients.</li>\n<li><strong>Comprehensive Services:&nbsp;</strong>Our hospital houses a fully-equipped blood bank, hemodialysis facility, and a 24-hour pharmacy. We understand that medical needs can arise at any time, and we are committed to providing round-the-clock support to our community.</li>\n</ol>\n<p>Our mission is to deliver exceptional healthcare services to the people of Agartala and beyond. We believe in the power of compassionate, patient-centric care, and we are dedicated to improving the health and well-being of our community. At ILS Hospitals Agartala, you can expect nothing but the best in healthcare.</p>\n<p>Feel free to explore our website further to learn more about our services, doctors, and facilities. If you have any medical needs or inquiries, please do not hesitate to <a style=\"color: #20409a;\" href=\"https://ilshospitals.com/get-in-touch/\">contact us</a>. Your health and well-being are our top priorities.</p>\n<p><strong>Cancer Services</strong></p>\n<ul>\n<li>Day care chemotherapy</li>\n<li>PET CT Scan</li>\n<li>Oncologist Consultation</li>\n<li>Radiation Therapy will soon&nbsp;be&nbsp;available</li>\n</ul>",
+    "overview_img": "https://ilshospitals.com/wp-content/uploads/2023/10/ILS-Agartala-Building-1024.webp",
+    "number_of_beds": 205,
+    "services_facilities": {
+      "diagnostic": [
+        {
+          "name": "CT Scan",
+          "speciality": "fdf",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ct-scan.png"
+        },
+        {
+          "name": "Digital X Ray",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Digital-X-Ray.png"
+        },
+        {
+          "name": "Ultrasonography",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Ultrasonography.png"
+        },
+        {
+          "name": "Mammography",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Mammography.png"
+        },
+        {
+          "name": "MRI",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/MRI.png"
+        },
+        {
+          "name": "Echocardiography",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Echocardiography.png"
+        },
+        {
+          "name": "Holter Monitoring",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Tread Mill Test (TMT)",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/TMT.png"
+        },
+        {
+          "name": "ERCP",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ERCP.png"
+        },
+        {
+          "name": "Endoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Endoscopy.png"
+        },
+        {
+          "name": "Colonoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Colonoscopy.png"
+        },
+        {
+          "name": "Fibro Scan",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_FibroScan.png"
+        },
+        {
+          "name": "BioChemistry",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_BioChemistry.png"
+        },
+        {
+          "name": "Clinical Pathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Clinical_Pathology.png"
+        },
+        {
+          "name": "Cytology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Cytology.png"
+        },
+        {
+          "name": "Haematology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Haematology.png"
+        },
+        {
+          "name": "Histopathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Histopathology.png"
+        },
+        {
+          "name": "Immunoassay",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Immunoassay.png"
+        },
+        {
+          "name": "Microbiology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Microbiology.png"
+        },
+        {
+          "name": "Molecular Testing",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Molecular_Testing.png"
+        },
+        {
+          "name": "Serology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Serology.png"
+        },
+        {
+          "name": "EMG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EMG.png"
+        },
+        {
+          "name": "NCV",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/neurology.png"
+        },
+        {
+          "name": "EEG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EEG.png"
+        },
+        {
+          "name": "Sleep Study (Polysomnography)",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Sleep_Study.png"
+        },
+        {
+          "name": "Pulmonary Function Test (PFT)",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/PFT.png"
+        },
+        {
+          "name": "Fibre Optic Bronchoscopy",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Fibre_Optic_Bronchoscopy.png"
+        },
+        {
+          "name": "Uroflowmetry",
+          "speciality": "Urology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Uroflowmetry.png"
+        },
+        {
+          "name": "Urodynamic Study",
+          "speciality": "Urology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Uterus_Removal.svg"
+        },
+        {
+          "name": "Pet CT Scan",
+          "speciality": "fdf",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/12/ct-scan.png"
+        }
+      ],
+      "special": [
+        {
+          "name": "Intensive Therapy Unit (ITU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ITU.png"
+        },
+        {
+          "name": "Intensive Care Unit (ICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ICU.png"
+        },
+        {
+          "name": "Neonatal Intensive Care Unit (NICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Neonatal-Intensive-Care-Unit.png"
+        },
+        {
+          "name": "Pediatric Intensive Care Unit (PICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Pediatric-Intensive-Care-Unit-PICU.png"
+        },
+        {
+          "name": "Physical Rehabilitation",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Physical-Rehabilitation.png"
+        },
+        {
+          "name": "24 X 7 Pharmacy (In Patient)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7-Emergency.png"
+        },
+        {
+          "name": "24 X 7 Dialysis Services",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7-Emergency.png"
+        },
+        {
+          "name": "Critical Care Ambulance",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Ambulance.png"
+        },
+        {
+          "name": "24x7 Emergency & Trauma Care",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/24x7-Emergency-Trauma-Care.png"
+        }
+      ],
+      "ils_sparsh": [
+        {
+          "name": "15% discount on all OPD (Outpatient Department) investigations",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "10% discount on health checkup package",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "10% discount on doctor consultation, medicines, and food (for in-patients)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Monthly home visit by physician for general checkup with B.P. and Sugar",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free sample collection and report delivery (as and when required)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "In case of hospital admission, ambulance service will be provided within 15 minutes",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Priority access during hospital admission",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "10% discount on physiotherapy services if taken on an outpatient basis",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        }
+      ]
+    },
+    "room_charges": {
+      "images": [
+        "https://ilshospitals.com/wp-content/uploads/2025/09/floor-view-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/cathlab-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-1-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-2-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-4-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-5-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-6-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-7-scaled-1.webp"
+      ],
+      "rooms": [
+        {
+          "name": "NICU (Neonatal Intensive Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "CCU (Coronary Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "HDU (High Dependency Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "MICU (Medical Intensive Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "PICU (Pediatric Intensive Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "SICU (Surgical Intensive Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "Dialysis",
+          "type": "Day Care"
+        },
+        {
+          "name": "Suite",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Single Deluxe",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Single Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Twin Sharing Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Multi Bed",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Baby Cot",
+          "type": "Nursery"
+        }
+      ]
+    },
+    "bio_medical": "",
+    "faq_img": "https://ilshospitals.com/wp-content/uploads/2023/11/add-slide1.jpg",
+    "faq": [
+      {
+        "question": "Can uterus removal be done via laparoscopy?",
+        "ans": "Yes, it can be easily and safely removed by laparoscopic surgery. One can go home after 48 hours. No bed rest required after laparoscopic surgery. Can join office in 7 days."
+      },
+      {
+        "question": "Do we have to remove uterus for fibroids?",
+        "ans": "No, it is not done if you want to preserve uterus and want more children. Only if you have completed your family and have more then 2-3 fibroids and nearing menopause then it is better to remove the uterus."
+      },
+      {
+        "question": "Do you have any health check up packages?",
+        "ans": "ILS Hospitals are equipped with the latest and accurate testing equipments, trained technicians and specialists providing an advance range of health check up and screening services. This Health Check up Packages covers a wide range of investigations like from basic standard set of blood tests to detailed physical examinations and consultation by experienced doctors and each package is tailored to suit the needs of an individual."
+      },
+      {
+        "question": "Do you have the facility of cashless treatment?",
+        "ans": "Yes, Cashless facility is available for empanelled TPA's & insurance Companies."
+      }
+    ],
+    "logo_for_hospital": [
+      "https://ilshospitals.com/wp-content/uploads/2023/10/NABH-logo.png",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/NABH-logo1.webp",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/CAHO.webp",
+      "https://ilshospitals.com/wp-content/uploads/2023/10/IOCI-LOGO.png"
+    ],
+    "google_review": 4.7,
+    "seo": {
+      "meta_title": "Best Multispeciality Hospital in Agartala | Book an Appointment | ILS Hospitals",
+      "meta_description": "ILS Hospitals, a top multispeciality hospital in Agartala, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Agartala for top-quality medical care.",
+      "canonical": "https://ilshospitals.com/hospital/agartala/",
+      "robots": "max-image-preview:large",
+      "og": {
+        "locale": "en_US",
+        "type": "article",
+        "title": "Best Multispeciality Hospital in Agartala | Book an Appointment | ILS Hospitals",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "description": "ILS Hospitals, a top multispeciality hospital in Agartala, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Agartala for top-quality medical care.",
+        "url": "https://ilshospitals.com/hospital/agartala/",
+        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Best Multispeciality Hospital in Agartala | Book an Appointment | ILS Hospitals",
+        "description": "ILS Hospitals, a top multispeciality hospital in Agartala, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Agartala for top-quality medical care.",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@type": "MedicalOrganization",
+          "name": "ILS Hospitals",
+          "alternateName": "Multispeciality Hospital in Saltlake, Dumdum, Raipur, Howrah, Agartala | Book an Appointment | ILS Hospitals",
+          "description": "ILS Hospitals is a leading multispeciality hospital chain with 560+ beds across Saltlake, Dumdum, Raipur, Howrah & Agartala. Get expert healthcare with advanced medical facilities.",
+          "url": "https://www.ilshospitals.com",
+          "logo": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+919830400441",
+            "contactType": "Customer Service"
+          },
+          "sameAs": [
+            "https://www.facebook.com/ilshospitals",
+            "https://www.instagram.com/ils_hospitals/",
+            "https://in.linkedin.com/company/ilshospitals/"
+          ],
+          "subOrganization": [
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Saltlake",
+              "url": "https://www.ilshospitals.com/saltlake",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "DD 6, Salt Lake Bypass, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "postalCode": "700064",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4020-6500"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Dumdum",
+              "url": "https://www.ilshospitals.com/dumdum",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1, Mall Rd, near Nagerbazar Flyover, Golpark, Dum Dum, Kolkata, North Dumdum, West Bengal 700080",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "postalCode": "700080",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4031-5001"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Howrah",
+              "url": "https://www.ilshospitals.com/howrah",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "98, Dr Abani Dutta Rd, opposite Golabari, PS, Howrah, West Bengal 711101",
+                "addressLocality": "Howrah",
+                "addressRegion": "West Bengal",
+                "postalCode": "711101",
+                "addressCountry": "India"
+              },
+              "telephone": "033-4088-0000"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Raipur",
+              "url": "https://ilshospitals.com/hospital/raipur/",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Amrapali Society, Panchpedi Naka Near Sparsh Automobiles Raipur – 492001",
+                "addressLocality": "Raipur",
+                "addressRegion": "Chhattisgarh",
+                "postalCode": "492001",
+                "addressCountry": "India"
+              },
+              "telephone": "+91 7714888000"
+            },
+            {
+              "@type": "Hospital",
+              "name": "ILS Hospitals, Agartala",
+              "url": "https://www.ilshospitals.com/agartala",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Capital Complex Extension P.O – New Secretariat, Agartala – 799010",
+                "addressLocality": "Agartala",
+                "addressRegion": "Tripura",
+                "postalCode": "799010",
+                "addressCountry": "India"
+              },
+              "telephone": "+91897-405-0300"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/hospital/agartala/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/hospital/agartala/#listItem",
+                    "name": "Agartala"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/hospital/agartala/#listItem",
+                  "position": 2,
+                  "name": "Agartala",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/hospital/agartala/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/hospital/agartala/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/hospital/agartala/#webpage",
+              "url": "https://ilshospitals.com/hospital/agartala/",
+              "name": "Best Multispeciality Hospital in Agartala | Book an Appointment | ILS Hospitals",
+              "description": "ILS Hospitals, a top multispeciality hospital in Agartala, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Agartala for top-quality medical care.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/hospital/agartala/#breadcrumblist"
+              },
+              "datePublished": "2023-10-26T07:19:54+05:30",
+              "dateModified": "2026-05-06T15:20:38+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ils-hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "ILS Hospitals, Raipur",
+    "slug": "raipur",
+    "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/12/Raipur-1.webp",
+    "location_contact": {
+      "address": "Amrapali Society, Panchpedi Naka Near Sparsh Automobiles Raipur – 492001",
+      "phone": [
+        "+91 7714888000"
+      ],
+      "email": "info@ilshospitals.com",
+      "map_embeded_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.322758784395!2d81.65221687503691!3d21.21783598047925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a28dd29b15c9acb%3A0x1d64f067d142c646!2sILS%20Hospitals%2C%20Raipur!5e1!3m2!1sen!2sin!4v1741686503303!5m2!1sen!2sin"
+    },
+    "overview": "<p class=\"mt-3 com-desc\">ILS Raipur is a state-of-the-art quaternary care hospital with 200 bed capacity dedicated to providing comprehensive medical care to the people of Raipur, Chhattisgarh. ILS Hospitals is equipped with cutting-edge technology with team of highly skilled and experienced medical professionals.</p>\n<h3>Comprehensive Medical Services:</h3>\n<p class=\"mb-3 com-desc\">We offer a wide range of medical services, including: Advanced diagnostic facilities like MRI,CT Scan, Endoscopic Suites and more. Specialized departments for Medicine, Critical Care, Endocrinology, Gynecology &amp; Obstetrics, and more. Advanced surgical facilities including Laparoscopic Surgeries and Cardiac Cath Procedures. Emergency service with 24/7 diagnostic radiology and pathology support.</p>\n<h3>Our Commitment to Excellence:</h3>\n<p class=\"mb-3 com-desc\">At ILS Raipur, we are committed to delivering exceptional patient care and outcomes. Our team is dedicated to providing personalized attention and care to every patient, ensuring a comfortable and stress-free experience</p>",
+    "overview_img": "https://ilshospitals.com/wp-content/uploads/2023/12/Raipur_Freature.webp",
+    "number_of_beds": 200,
+    "services_facilities": {
+      "diagnostic": [
+        {
+          "name": "MRI",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/MRI.png"
+        },
+        {
+          "name": "CT Scan",
+          "speciality": "fdf",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ct-scan.png"
+        },
+        {
+          "name": "Digital X Ray",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Digital-X-Ray.png"
+        },
+        {
+          "name": "NCV",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/neurology.png"
+        },
+        {
+          "name": "EEG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EEG.png"
+        },
+        {
+          "name": "EMG",
+          "speciality": "Neurology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_EMG.png"
+        },
+        {
+          "name": "Endoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Endoscopy.png"
+        },
+        {
+          "name": "Colonoscopy",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Colonoscopy.png"
+        },
+        {
+          "name": "ERCP",
+          "speciality": "Gastroenterology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ERCP.png"
+        },
+        {
+          "name": "Clinical Pathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Clinical_Pathology.png"
+        },
+        {
+          "name": "BioChemistry",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_BioChemistry.png"
+        },
+        {
+          "name": "Hematology",
+          "speciality": "",
+          "img": "https://ilshospitals.com/wp-content/uploads/2025/03/Hematolog.png"
+        },
+        {
+          "name": "Microbiology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Microbiology.png"
+        },
+        {
+          "name": "Serology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Serology.png"
+        },
+        {
+          "name": "Histopathology",
+          "speciality": "Pathology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Histopathology.png"
+        },
+        {
+          "name": "Uroflowmetry",
+          "speciality": "Urology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Uroflowmetry.png"
+        },
+        {
+          "name": "Mammography",
+          "speciality": "Radiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Mammography.png"
+        },
+        {
+          "name": "Pulmonary Function Test (PFT)",
+          "speciality": "Pulmonology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/PFT.png"
+        },
+        {
+          "name": "Holter Monitoring",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Tread Mill Test (TMT)",
+          "speciality": "Cardiology",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/TMT.png"
+        }
+      ],
+      "special": [
+        {
+          "name": "Intensive Therapy Unit (ITU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ITU.png"
+        },
+        {
+          "name": "Intensive Care Unit (ICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/ICU.png"
+        },
+        {
+          "name": "Neonatal Intensive Care Unit (NICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Neonatal-Intensive-Care-Unit.png"
+        },
+        {
+          "name": "Pediatric Intensive Care Unit (PICU)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Pediatric-Intensive-Care-Unit-PICU.png"
+        },
+        {
+          "name": "Physical Rehabilitation",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Physical-Rehabilitation.png"
+        },
+        {
+          "name": "24 X 7 Pharmacy (In Patient)",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7-Emergency.png"
+        },
+        {
+          "name": "24 X 7 Dialysis Services",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_24-7-Emergency.png"
+        },
+        {
+          "name": "Critical Care Ambulance",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2024/01/icon_Ambulance.png"
+        },
+        {
+          "name": "24x7 Emergency & Trauma Care",
+          "speciality": "Special Services",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/24x7-Emergency-Trauma-Care.png"
+        },
+        {
+          "name": "HDU",
+          "speciality": "",
+          "img": "https://ilshospitals.com/wp-content/uploads/2025/03/HDU.png"
+        }
+      ],
+      "ils_sparsh": [
+        {
+          "name": "10% discount on health checkup package",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "20% discount on all OP diagnostics",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "15% discount on IP Services (excluding doctor fees and medicine)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Physiotherapy with 10% discount at hospital (OP)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Monthly home visit by physician for general checkup with B.P. and Sugar",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free sample collection and report delivery (as and when required)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Free ambulance service within 5km (if hospitalised at ILS)",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        },
+        {
+          "name": "Priority admission to members",
+          "img": "https://ilshospitals.com/wp-content/uploads/2023/12/Holter-Monitoring.png"
+        }
+      ]
+    },
+    "room_charges": {
+      "images": [
+        "https://ilshospitals.com/wp-content/uploads/2025/05/DSC_6475-scaled.jpg",
+        "https://ilshospitals.com/wp-content/uploads/2025/05/DSC_6443-scaled.jpg",
+        "https://ilshospitals.com/wp-content/uploads/2025/05/DSC_6437-scaled.jpg",
+        "https://ilshospitals.com/wp-content/uploads/2025/05/DSC_6436-scaled.jpg",
+        "https://ilshospitals.com/wp-content/uploads/2025/05/DSC_6410-scaled.jpg",
+        "https://ilshospitals.com/wp-content/uploads/2025/05/DSC_6408-scaled.jpg",
+        "https://ilshospitals.com/wp-content/uploads/2025/05/DSC_6398-scaled.jpg",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/floor-view-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/cathlab-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-1-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-2-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-4-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-5-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-6-scaled-1.webp",
+        "https://ilshospitals.com/wp-content/uploads/2025/09/room-7-scaled-1.webp"
+      ],
+      "rooms": [
+        {
+          "name": "ICU (Medical/Surgical)",
+          "type": "Critical"
+        },
+        {
+          "name": "MICU (Medical Intensive Care Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "RTU (Renal Transplantation Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "HDU (High Dependency Unit)",
+          "type": "Critical"
+        },
+        {
+          "name": "Suite",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Single Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Twin Sharing Room",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Multi Bed",
+          "type": "Non Critical"
+        },
+        {
+          "name": "Baby Cot",
+          "type": "Nursery"
+        }
+      ]
+    },
+    "bio_medical": "https://ilshospitals.com/wp-content/uploads/2023/12/BMW-DATA-1.xlsx",
+    "faq_img": "",
+    "faq": [],
+    "logo_for_hospital": [
+      "https://ilshospitals.com/wp-content/uploads/2023/10/WhatsApp-Image-2026-06-15-at-10.20.24-AM.webp",
+      "https://ilshospitals.com/wp-content/uploads/2023/12/nabh-seeklogo.webp"
+    ],
+    "google_review": 4.9,
+    "seo": {
+      "meta_title": "Best Multispeciality Hospital in Raipur | ILS Hospitals",
+      "meta_description": "ILS Hospitals, a top multispeciality hospital in Raipur, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Raipur for top-quality medical care.",
+      "canonical": "https://ilshospitals.com/hospital/raipur/",
+      "robots": "max-image-preview:large",
+      "og": {
+        "locale": "en_US",
+        "type": "article",
+        "title": "Best Multispeciality Hospital in Raipur | ILS Hospitals",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "description": "ILS Hospitals, a top multispeciality hospital in Raipur, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Raipur for top-quality medical care.",
+        "url": "https://ilshospitals.com/hospital/raipur/",
+        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Best Multispeciality Hospital in Raipur | ILS Hospitals",
+        "description": "ILS Hospitals, a top multispeciality hospital in Raipur, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Raipur for top-quality medical care.",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+      },
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/hospital/raipur/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/hospital/raipur/#listItem",
+                    "name": "Raipur"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/hospital/raipur/#listItem",
+                  "position": 2,
+                  "name": "Raipur",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/hospital/raipur/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/hospital/raipur/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/hospital/raipur/#webpage",
+              "url": "https://ilshospitals.com/hospital/raipur/",
+              "name": "Best Multispeciality Hospital in Raipur | ILS Hospitals",
+              "description": "ILS Hospitals, a top multispeciality hospital in Raipur, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Raipur for top-quality medical care.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/hospital/raipur/#breadcrumblist"
+              },
+              "datePublished": "2023-12-29T07:36:00+05:30",
+              "dateModified": "2026-07-18T12:54:28+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ils-hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

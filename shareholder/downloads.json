@@ -1,0 +1,160 @@
+{
+  "id": "Downloads",
+  "slug": "downloads",
+  "title": "Downloads",
+  "type": "labeled",
+  "documents": [
+    {
+      "label": "Request Form for Registering",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/ISR-1.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Registering Request Fillable-ISR-1",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable_Link_ISR-1_Request_form_for_Registering_Pan-Bank-KYC.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Bank Verification for Sign",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/ISR-2.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Bank Verification Fillable-ISR-2",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable-Link-ISR-2_-Bank_verification-for-Sign.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "ISR-3 Opt Out",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/ISR-3.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Declaration Form for Opting-out of Nomination Fillable-ISR-3",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable-Link_ISR-3_Opt-Out.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "SH-13 Registration of Nominationn",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/SH-13.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Fillable-SH-13",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable-Link_SH-13-Reg-of-Nomination.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Cancellation OR Variation of Nomination",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/SH-14.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Fillable-SH-14",
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable-Link_SH-14-Cancellation-or-variation-of-nomination.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_1.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_2.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_3.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_4.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_5.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "form": "Form ISR-1",
+      "download_form_pdf": "Request Form for Registering",
+      "download_form_pdf_link": "https://ilshospitals.com/wp-content/uploads/2025/06/ISR-1.pdf",
+      "fillable_form": "Registering Request Fillable-ISR-1",
+      "fillable_form_link": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable_Link_ISR-1_Request_form_for_Registering_Pan-Bank-KYC.pdf",
+      "purpose": "Request for Registering PAN, KYC details OR Changes/updations there of (only for securities held in physical)"
+    },
+    {
+      "form": "Form ISR-2",
+      "download_form_pdf": "Bank Verification for Sign",
+      "download_form_pdf_link": "https://ilshospitals.com/wp-content/uploads/2025/06/ISR-2.pdf",
+      "fillable_form": "Bank Verification Fillable-ISR-2",
+      "fillable_form_link": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable-Link-ISR-2_-Bank_verification-for-Sign.pdf",
+      "purpose": "Confirmation of Signature of securities holder by Banker"
+    },
+    {
+      "form": "Form ISR-3",
+      "download_form_pdf": "ISR-3 Opt Out",
+      "download_form_pdf_link": "https://ilshospitals.com/wp-content/uploads/2025/06/ISR-3.pdf",
+      "fillable_form": "Declaration Form for Opting-out of Nomination Fillable-ISR-3",
+      "fillable_form_link": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable-Link_ISR-3_Opt-Out.pdf",
+      "purpose": "Declaration for Opting-out of Nomination by holders of physical securities in Listed Companies"
+    },
+    {
+      "form": "Form SH-13",
+      "download_form_pdf": "SH-13 Registration of Nominationn",
+      "download_form_pdf_link": "https://ilshospitals.com/wp-content/uploads/2025/06/SH-13.pdf",
+      "fillable_form": "Fillable-SH-13",
+      "fillable_form_link": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable-Link_SH-13-Reg-of-Nomination.pdf",
+      "purpose": "Nomination Form"
+    },
+    {
+      "form": "Form SH-14",
+      "download_form_pdf": "Cancellation OR Variation of Nomination",
+      "download_form_pdf_link": "https://ilshospitals.com/wp-content/uploads/2025/06/SH-14.pdf",
+      "fillable_form": "Fillable-SH-14",
+      "fillable_form_link": "https://ilshospitals.com/wp-content/uploads/2025/06/Fillable-Link_SH-14-Cancellation-or-variation-of-nomination.pdf",
+      "purpose": "Cancellation OR Variation of Nomination"
+    },
+    {
+      "annexures_forms": "Annexure 1 - Form No. 121",
+      "download_annexures_forms_pdf_link": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_1.pdf"
+    },
+    {
+      "annexures_forms": "Annexure 2 - Self Declaration (Resident Shareholder)",
+      "download_annexures_forms_pdf_link": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_2.pdf"
+    },
+    {
+      "annexures_forms": "Annexure 3 - Self Declaration regarding credit for tax deducted at source",
+      "download_annexures_forms_pdf_link": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_3.pdf"
+    },
+    {
+      "annexures_forms": "Annexure 4 - Form No. 41",
+      "download_annexures_forms_pdf_link": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_4.pdf"
+    },
+    {
+      "annexures_forms": "Annexure 5 - Declaration that income is assessable in hands of other person",
+      "download_annexures_forms_pdf_link": "https://ilshospitals.com/wp-content/uploads/2026/06/Annexure_5.pdf"
+    }
+  ]
+}

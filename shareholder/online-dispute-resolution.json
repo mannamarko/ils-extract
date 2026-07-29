@@ -1,0 +1,61 @@
+{
+  "id": "OnlineDisputeResolution",
+  "slug": "online-dispute-resolution",
+  "title": "Online Dispute Resolution (ODR)",
+  "type": "labeled",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/Sebi-Circular-dated-July-31-2023.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/Sebi-Circular-dated-August-04-2023.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/Sebi-Circular-dated-September-20-2023.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/Process-Flow-of-Complaints-Redressal-System.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Link to ODR Portal",
+      "url": "https://smartodr.in/login",
+      "ext": null,
+      "is_file": false
+    }
+  ],
+  "records": [
+    {
+      "title": "Sebi Circular SEBI/HO/OIAE/OIAE_IAD-1/P/CIR/2023/131 dated July 31, 2023",
+      "action_link": "https://ilshospitals.com/wp-content/uploads/2025/04/Sebi-Circular-dated-July-31-2023.pdf"
+    },
+    {
+      "title": "Sebi Circular SEBI/HO/OIAE/OIAE_IAD-1/P/CIR/2023/135 dated August 04, 2023",
+      "action_link": "https://ilshospitals.com/wp-content/uploads/2025/04/Sebi-Circular-dated-August-04-2023.pdf"
+    },
+    {
+      "title": "Sebi Circular SEBI/HO/OIAE/IGRD/CIR/P/2023/156 dated September 20, 2023",
+      "action_link": "https://ilshospitals.com/wp-content/uploads/2025/04/Sebi-Circular-dated-September-20-2023.pdf"
+    },
+    {
+      "title": "Process Flow of Complaints Redressal System",
+      "action_link": "https://ilshospitals.com/wp-content/uploads/2025/04/Process-Flow-of-Complaints-Redressal-System.pdf"
+    },
+    {
+      "title": "Link to Smart ODR Platform",
+      "action": "Link to ODR Portal",
+      "action_link": "https://smartodr.in/login"
+    }
+  ]
+}

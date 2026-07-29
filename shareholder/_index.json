@@ -1,0 +1,281 @@
+{
+  "source_url": "https://ilshospitals.com/share-holder-information/",
+  "wp_page_id": 10519,
+  "meta_title": "Shareholder Information - ILS-hospitals",
+  "scraped_at": "2026-07-24T05:19:37.926Z",
+  "section_count": 30,
+  "document_count": 432,
+  "file_document_count": 419,
+  "sections": [
+    {
+      "id": "Business",
+      "slug": "business",
+      "title": "Business",
+      "type": "rich",
+      "file": "business.json",
+      "record_count": 0,
+      "document_count": 0
+    },
+    {
+      "id": "AnnualGeneralMeeting",
+      "slug": "annual-general-meeting",
+      "title": "Annual General Meeting",
+      "type": "grouped",
+      "file": "annual-general-meeting.json",
+      "record_count": 3,
+      "document_count": 16
+    },
+    {
+      "id": "PostalBallot",
+      "slug": "postal-ballot",
+      "title": "Postal Ballot",
+      "type": "grouped",
+      "file": "postal-ballot.json",
+      "record_count": 8,
+      "document_count": 8
+    },
+    {
+      "id": "ShareholdingPattern",
+      "slug": "shareholding-pattern",
+      "title": "Shareholding Pattern",
+      "type": "grid",
+      "file": "shareholding-pattern.json",
+      "record_count": 10,
+      "document_count": 10
+    },
+    {
+      "id": "ShareCapital",
+      "slug": "share-capital",
+      "title": "Share Capital",
+      "type": "kv",
+      "file": "share-capital.json",
+      "record_count": 1,
+      "document_count": 0
+    },
+    {
+      "id": "IntegratedFilings",
+      "slug": "integrated-filings",
+      "title": "Integrated Filings",
+      "type": "grouped",
+      "file": "integrated-filings.json",
+      "record_count": 12,
+      "document_count": 12
+    },
+    {
+      "id": "EarningsCall",
+      "slug": "earnings-call",
+      "title": "Earnings Call",
+      "type": "labeled",
+      "file": "earnings-call.json",
+      "record_count": 12,
+      "document_count": 40
+    },
+    {
+      "id": "Dividend",
+      "slug": "dividend",
+      "title": "Dividend",
+      "type": "labeled",
+      "file": "dividend.json",
+      "record_count": 6,
+      "document_count": 0
+    },
+    {
+      "id": "UnpaidDividend",
+      "slug": "unpaid-dividend",
+      "title": "Unpaid Dividend",
+      "type": "docs",
+      "file": "unpaid-dividend.json",
+      "record_count": 8,
+      "document_count": 8
+    },
+    {
+      "id": "CorporatePresentation",
+      "slug": "corporate-presentation",
+      "title": "Corporate Presentation",
+      "type": "docs",
+      "file": "corporate-presentation.json",
+      "record_count": 2,
+      "document_count": 2
+    },
+    {
+      "id": "CorporatePolicies",
+      "slug": "corporate-policies",
+      "title": "Corporate Policies",
+      "type": "docs",
+      "file": "corporate-policies.json",
+      "record_count": 20,
+      "document_count": 20
+    },
+    {
+      "id": "Compliances",
+      "slug": "compliances",
+      "title": "Compliances",
+      "type": "grouped",
+      "file": "compliances.json",
+      "record_count": 29,
+      "document_count": 33
+    },
+    {
+      "id": "Notices",
+      "slug": "notices",
+      "title": "Notices",
+      "type": "labeled",
+      "file": "notices.json",
+      "record_count": 16,
+      "document_count": 16
+    },
+    {
+      "id": "DisclosureInformation",
+      "slug": "disclosure-information",
+      "title": "Disclosure Information",
+      "type": "labeled",
+      "file": "disclosure-information.json",
+      "record_count": 199,
+      "document_count": 200
+    },
+    {
+      "id": "SecretarialComplianceReport",
+      "slug": "secretarial-compliance-report",
+      "title": "Secretarial Compliance Report",
+      "type": "labeled",
+      "file": "secretarial-compliance-report.json",
+      "record_count": 3,
+      "document_count": 3
+    },
+    {
+      "id": "AnnualReturn",
+      "slug": "annual-return",
+      "title": "Annual Return",
+      "type": "docs",
+      "file": "annual-return.json",
+      "record_count": 6,
+      "document_count": 6
+    },
+    {
+      "id": "Codeofconduct",
+      "slug": "codeofconduct",
+      "title": "Code of Conduct",
+      "type": "docs",
+      "file": "codeofconduct.json",
+      "record_count": 1,
+      "document_count": 1
+    },
+    {
+      "id": "ReportsonCorporateGovernance",
+      "slug": "reportson-corporate-governance",
+      "title": "Reports on Corporate Governance",
+      "type": "grid",
+      "file": "reportson-corporate-governance.json",
+      "record_count": 4,
+      "document_count": 4
+    },
+    {
+      "id": "CreditRating",
+      "slug": "credit-rating",
+      "title": "Credit Rating",
+      "type": "rich",
+      "file": "credit-rating.json",
+      "record_count": 0,
+      "document_count": 0
+    },
+    {
+      "id": "CommitteesoftheBoard",
+      "slug": "committeesofthe-board",
+      "title": "Committees of the Board",
+      "type": "grouped",
+      "file": "committeesofthe-board.json",
+      "record_count": 12,
+      "document_count": 0
+    },
+    {
+      "id": "BoardofDirectors",
+      "slug": "boardof-directors",
+      "title": "Board of Directors",
+      "type": "board",
+      "file": "boardof-directors.json",
+      "record_count": 10,
+      "document_count": 0
+    },
+    {
+      "id": "Stockinformation",
+      "slug": "stockinformation",
+      "title": "Stock Information",
+      "type": "rich",
+      "file": "stockinformation.json",
+      "record_count": 0,
+      "document_count": 2
+    },
+    {
+      "id": "sakshamNiveshak",
+      "slug": "saksham-niveshak",
+      "title": "Saksham Niveshak",
+      "type": "labeled",
+      "file": "saksham-niveshak.json",
+      "record_count": 6,
+      "document_count": 6
+    },
+    {
+      "id": "ListingInformation",
+      "slug": "listing-information",
+      "title": "Listing Information",
+      "type": "kv",
+      "file": "listing-information.json",
+      "record_count": 1,
+      "document_count": 2
+    },
+    {
+      "id": "ChangeinCompanyname",
+      "slug": "changein-companyname",
+      "title": "Changes in the company name",
+      "type": "rich",
+      "file": "changein-companyname.json",
+      "record_count": 0,
+      "document_count": 0
+    },
+    {
+      "id": "OnlineDisputeResolution",
+      "slug": "online-dispute-resolution",
+      "title": "Online Dispute Resolution (ODR)",
+      "type": "labeled",
+      "file": "online-dispute-resolution.json",
+      "record_count": 5,
+      "document_count": 5
+    },
+    {
+      "id": "Financials",
+      "slug": "financials",
+      "title": "Financials",
+      "type": "grid",
+      "file": "financials.json",
+      "record_count": 10,
+      "document_count": 16
+    },
+    {
+      "id": "CSR",
+      "slug": "csr",
+      "title": "CSR",
+      "type": "labeled",
+      "file": "csr.json",
+      "record_count": 2,
+      "document_count": 2
+    },
+    {
+      "id": "Downloads",
+      "slug": "downloads",
+      "title": "Downloads",
+      "type": "labeled",
+      "file": "downloads.json",
+      "record_count": 10,
+      "document_count": 15
+    },
+    {
+      "id": "Contact",
+      "slug": "contact",
+      "title": "Contact",
+      "type": "contact",
+      "file": "contact.json",
+      "record_count": 2,
+      "document_count": 5
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ListingInformation",
+  "slug": "listing-information",
+  "title": "Listing Information",
+  "type": "kv",
+  "documents": [
+    {
+      "label": "www.nseindia.com",
+      "url": "http://www.nseindia.com/",
+      "ext": null,
+      "is_file": false
+    },
+    {
+      "label": "www.bseindia.com",
+      "url": "https://www.bseindia.com/",
+      "ext": null,
+      "is_file": false
+    }
+  ],
+  "data": {
+    "bse_scrip_code": "544131",
+    "nse_scrip_code": "GPTHEALTH"
+  }
+}

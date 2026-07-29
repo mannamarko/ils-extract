@@ -1,0 +1,332 @@
+{
+  "id": "EarningsCall",
+  "slug": "earnings-call",
+  "title": "Earnings Call",
+  "type": "labeled",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/05/GPTHealthcareIPQ4&FY26.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/05/GHLIntimationofEarningsCallQ4FY26.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/05/GHLTranscript.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/05/10042103.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/02/GPTHealthcareIP02-02-2026.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/01/GHLIntimationofEarningsCall.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/02/GHLTranscript1.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/02/GPTHealthcareConcallRecordingforQ3FY26.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/11/GHL-Investor-Presentation-Q2-H1-FY2026.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/11/GHLIntimationofEarningsCall.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/11/GHLTranscript.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/11/10037430.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/08/Investor-Presentation-06.08.2025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/07/GHLIntimationofEarningsCall.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/09/Transcript.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/08/10034539.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/05/GHL-Investor-Presentation-Q4FY2025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/05/GHLIntimationofEarningsCall.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/GHLTranscript.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/05/GHL-Audio-Call-Recording.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/02/InvestorPresentation.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/02/GHLcoveringletter.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/02/GHLTranscript.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/02/10029556.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/11/investorpresentation.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/11/GHL-IntimationofconferencecallQ2_2024.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/11/TranscriptGHL.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/11/Call_Transcript.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/GHLInvestorPresentation13.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/GHLIntimationofEarningsCall12.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/11/GHL-Call-Transcript-14.08.2024.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/Recording.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLInvestorPresentation.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLIntimationofEarningsCall.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/Transcript.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/jmf.mp3",
+      "ext": "mp3",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/InvestorPresentation.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/Call_Invite.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/CallTranscript.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": "Click to Download",
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/ghl-audio.mp3",
+      "ext": "mp3",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "quarter": "Q4: 2025-26",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2026/05/GPTHealthcareIPQ4&FY26.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2026/05/GHLIntimationofEarningsCallQ4FY26.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2026/05/GHLTranscript.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2026/05/10042103.mp3"
+    },
+    {
+      "quarter": "Q3: 2025-26",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2026/02/GPTHealthcareIP02-02-2026.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2026/01/GHLIntimationofEarningsCall.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2026/02/GHLTranscript1.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2026/02/GPTHealthcareConcallRecordingforQ3FY26.mp3"
+    },
+    {
+      "quarter": "Q2: 2025-26",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2025/11/GHL-Investor-Presentation-Q2-H1-FY2026.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2025/11/GHLIntimationofEarningsCall.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2025/11/GHLTranscript.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2025/11/10037430.mp3"
+    },
+    {
+      "quarter": "Q1: 2025-26",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2025/08/Investor-Presentation-06.08.2025.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2025/07/GHLIntimationofEarningsCall.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2025/09/Transcript.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2025/08/10034539.mp3"
+    },
+    {
+      "quarter": "Q4 : 2024-25",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2025/05/GHL-Investor-Presentation-Q4FY2025.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2025/05/GHLIntimationofEarningsCall.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2025/06/GHLTranscript.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2025/05/GHL-Audio-Call-Recording.mp3"
+    },
+    {
+      "quarter": "Q3 : 2024-25",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2025/02/InvestorPresentation.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2025/02/GHLcoveringletter.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2025/02/GHLTranscript.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2025/02/10029556.mp3"
+    },
+    {
+      "quarter": "Q2 : 2024-25",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2024/11/investorpresentation.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2024/11/GHL-IntimationofconferencecallQ2_2024.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2024/11/TranscriptGHL.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2024/11/Call_Transcript.mp3"
+    },
+    {
+      "quarter": "Q1 : 2024-25",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2024/05/GHLInvestorPresentation13.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2024/05/GHLIntimationofEarningsCall12.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2024/11/GHL-Call-Transcript-14.08.2024.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2024/04/Recording.mp3"
+    },
+    {
+      "quarter": "Q4 : 2023-24",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLInvestorPresentation.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLIntimationofEarningsCall.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2024/05/Transcript.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2024/04/jmf.mp3"
+    },
+    {
+      "quarter": "Q3 : 2023-24",
+      "earnings_presentation_link": "https://ilshospitals.com/wp-content/uploads/2024/04/InvestorPresentation.pdf",
+      "call_invite_link": "https://ilshospitals.com/wp-content/uploads/2024/04/Call_Invite.pdf",
+      "earnings_call_transcript_link": "https://ilshospitals.com/wp-content/uploads/2024/04/CallTranscript.pdf",
+      "audio_link": "https://ilshospitals.com/wp-content/uploads/2024/04/ghl-audio.mp3"
+    },
+    {
+      "quarter": "Q2: 2023-24",
+      "earnings_presentation": "NA",
+      "call_invite": "NA",
+      "earnings_call_transcript": "NA"
+    },
+    {
+      "quarter": "Q1: 2023-24",
+      "earnings_presentation": "NA",
+      "call_invite": "NA",
+      "earnings_call_transcript": "NA"
+    }
+  ]
+}

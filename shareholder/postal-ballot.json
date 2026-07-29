@@ -1,0 +1,98 @@
+{
+  "id": "PostalBallot",
+  "slug": "postal-ballot",
+  "title": "Postal Ballot",
+  "type": "grouped",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/09/GPT_HEALTHCARE_LIMITED_Notice_26925_Final.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/09/GHLNewsPaperPublication-1.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/10/GHL_SCRUTINIZER_REPORT_PB.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/10/GHLVotingResultsFinal.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GH-PostalBallotNotice_02_04_2024-Final.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLPostalBallotNoticeNewsPaper.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/scrutinizer_report_ghl_postal_ballot1.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLPostalBallotOutcome.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "year": "2025",
+      "title": "Postal Ballot Notice",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/09/GPT_HEALTHCARE_LIMITED_Notice_26925_Final.pdf"
+    },
+    {
+      "year": "2025",
+      "title": "News paper Notice for Postal Ballot and E-voting",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/09/GHLNewsPaperPublication-1.pdf"
+    },
+    {
+      "year": "2025",
+      "title": "Scrutinizer Report",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/10/GHL_SCRUTINIZER_REPORT_PB.pdf"
+    },
+    {
+      "year": "2025",
+      "title": "Postal Ballot Result",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/10/GHLVotingResultsFinal.pdf"
+    },
+    {
+      "year": "2024",
+      "title": "Postal Ballot Notice",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/GH-PostalBallotNotice_02_04_2024-Final.pdf"
+    },
+    {
+      "year": "2024",
+      "title": "News paper Notice for Postal Ballot and E-voting",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLPostalBallotNoticeNewsPaper.pdf"
+    },
+    {
+      "year": "2024",
+      "title": "Scrutinizer Report",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/scrutinizer_report_ghl_postal_ballot1.pdf"
+    },
+    {
+      "year": "2024",
+      "title": "Postal Ballot Result",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/GHLPostalBallotOutcome.pdf"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "BoardofDirectors",
+  "slug": "boardof-directors",
+  "title": "Board of Directors",
+  "type": "board",
+  "documents": [],
+  "records": [
+    {
+      "name": "Dr. Om Tantia",
+      "designation": "Chairman & Managing Director (KMP)",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2024/04/om-tantia-pic.jpg"
+    },
+    {
+      "name": "Mr. Shree Gopal Tantia",
+      "designation": "Vice Chairman",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2025/12/Shree_Gopal_Tantia.webp"
+    },
+    {
+      "name": "Dr. Aruna Tantia",
+      "designation": "Non-Executive Director",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2023/10/leader-dr-aruna-tantia.jpg"
+    },
+    {
+      "name": "Dr. Ghanshyam Goyal",
+      "designation": "Non-Executive Director",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2023/10/leader-ghanashyam-goyal.jpg"
+    },
+    {
+      "name": "Mr. Anurag Tantia",
+      "designation": "Executive Director (KMP)",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2026/02/anuragTantia.webp"
+    },
+    {
+      "name": "Mr. Kashi Prasad Khandelwal",
+      "designation": "Independent Director",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2024/05/kashi-prasad-khandelwal.jpg"
+    },
+    {
+      "name": "Mr. Amrendra Prasad Verma",
+      "designation": "Independent Director",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2024/05/ap-verma.jpg"
+    },
+    {
+      "name": "Mr. Deepak Pramanik",
+      "designation": "Independent Director",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2026/02/DeepakPramanik.webp"
+    },
+    {
+      "name": "Dr. Tapti Sen",
+      "designation": "Independent Director",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2026/02/TaptiSen.webp"
+    },
+    {
+      "name": "Mr. Hari Modi",
+      "designation": "Independent Director",
+      "photo": "https://ilshospitals.com/wp-content/uploads/2026/02/HariModi.webp"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+[
+  {
+    "name": "ACL Reconstruction Surgery",
+    "slug": "acl-reconstruction-surgery",
+    "url": "https://ilshospitals.com/key-procedures/acl-reconstruction-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/acl_reconstruction_surgery.svg",
+    "keyword": "acl reconstruction surgery"
+  },
+  {
+    "name": "Adenotonsillectomy",
+    "slug": "adenotonsillectomy",
+    "url": "https://ilshospitals.com/key-procedures/adenotonsillectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/adenotonsillectomy.png",
+    "keyword": "adenotonsillectomy"
+  },
+  {
+    "name": "Aneurysm Coiling",
+    "slug": "aneurysm-coiling",
+    "url": "https://ilshospitals.com/key-procedures/aneurysm-coiling/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/aneurysm_coiling.png",
+    "keyword": "aneurysm coiling"
+  },
+  {
+    "name": "Angioplasty",
+    "slug": "angioplasty",
+    "url": "https://ilshospitals.com/key-procedures/angioplasty/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_ex8-1.svg",
+    "keyword": "angioplasty"
+  },
+  {
+    "name": "Angioplasty and Stenting",
+    "slug": "angioplasty-and-stenting",
+    "url": "https://ilshospitals.com/key-procedures/angioplasty-and-stenting/",
+    "icon": null,
+    "keyword": "angioplasty and stenting"
+  },
+  {
+    "name": "Aortic Root Procedures",
+    "slug": "aortic-root-procedures",
+    "url": "https://ilshospitals.com/key-procedures/aortic-root-procedures/",
+    "icon": null,
+    "keyword": "aortic root procedures"
+  },
+  {
+    "name": "Appendectomy",
+    "slug": "appendectomy",
+    "url": "https://ilshospitals.com/key-procedures/appendectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/appendectomy.png",
+    "keyword": "appendectomy"
+  },
+  {
+    "name": "Brain Tumor",
+    "slug": "brain-tumor",
+    "url": "https://ilshospitals.com/key-procedures/brain-tumor/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Neurology.svg",
+    "keyword": "brain tumor"
+  },
+  {
+    "name": "Breast abscess drainage",
+    "slug": "breast-abscess-drainage",
+    "url": "https://ilshospitals.com/key-procedures/breast-abscess-drainage/",
+    "icon": null,
+    "keyword": "breast abscess drainage"
+  },
+  {
+    "name": "Breast Cancer Surgery Support",
+    "slug": "breast-cancer-surgery-support",
+    "url": "https://ilshospitals.com/key-procedures/breast-cancer-surgery-support/",
+    "icon": null,
+    "keyword": "breast cancer surgery support"
+  },
+  {
+    "name": "Burns Reconstructive Surgery",
+    "slug": "burns-reconstructive-surgery",
+    "url": "https://ilshospitals.com/key-procedures/burns-reconstructive-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Plastic-Reconstructive-Surgery.png",
+    "keyword": "burns reconstructive surgery"
+  },
+  {
+    "name": "CABG",
+    "slug": "cabg",
+    "url": "https://ilshospitals.com/key-procedures/cabg/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2024/01/cardiology-clinical.svg",
+    "keyword": "cabg"
+  },
+  {
+    "name": "Capsule Endoscopy",
+    "slug": "capsule-endoscopy",
+    "url": "https://ilshospitals.com/key-procedures/capsule-endoscopy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/capsule_endoscopy.png",
+    "keyword": "capsule endoscopy"
+  },
+  {
+    "name": "Cardiac Surgery",
+    "slug": "cardiac-surgery",
+    "url": "https://ilshospitals.com/key-procedures/cardiac-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2024/01/cardiology-clinical.svg",
+    "keyword": "cardiac surgery"
+  },
+  {
+    "name": "Cardiac surgery in elderly people",
+    "slug": "cardiac-surgery-in-elderly-people",
+    "url": "https://ilshospitals.com/key-procedures/cardiac-surgery-in-elderly-people/",
+    "icon": null,
+    "keyword": "cardiac surgery in elderly people"
+  },
+  {
+    "name": "Cardiac surgery in renal failure patients",
+    "slug": "cardiac-surgery-in-renal-failure-patients",
+    "url": "https://ilshospitals.com/key-procedures/cardiac-surgery-in-renal-failure-patients/",
+    "icon": null,
+    "keyword": "cardiac surgery in renal failure patients"
+  },
+  {
+    "name": "Carotid Endarterectomy",
+    "slug": "carotid-endarterectomy",
+    "url": "https://ilshospitals.com/key-procedures/carotid-endarterectomy/",
+    "icon": null,
+    "keyword": "carotid endarterectomy"
+  },
+  {
+    "name": "Carotid Stenting",
+    "slug": "carotid-stenting",
+    "url": "https://ilshospitals.com/key-procedures/carotid-stenting/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/carotid_stenting.png",
+    "keyword": "carotid stenting"
+  },
+  {
+    "name": "Chemotherapy",
+    "slug": "chemotherapy",
+    "url": "https://ilshospitals.com/key-procedures/chemotherapy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/07/chemotherapy.webp",
+    "keyword": "chemotherapy"
+  },
+  {
+    "name": "Cholecystectomy",
+    "slug": "cholecystectomy",
+    "url": "https://ilshospitals.com/key-procedures/cholecystectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/cholecystectomy.png",
+    "keyword": "cholecystectomy"
+  },
+  {
+    "name": "Chronic Wound Management",
+    "slug": "chronic-wound-management",
+    "url": "https://ilshospitals.com/key-procedures/chronic-wound-management/",
+    "icon": null,
+    "keyword": "chronic wound management"
+  },
+  {
+    "name": "Colonoscopy",
+    "slug": "colonoscopy",
+    "url": "https://ilshospitals.com/key-procedures/colonoscopy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/colonoscopy.png",
+    "keyword": "colonoscopy"
+  },
+  {
+    "name": "Complex Aortic Surgeries",
+    "slug": "complex-aortic-surgeries",
+    "url": "https://ilshospitals.com/key-procedures/complex-aortic-surgeries/",
+    "icon": null,
+    "keyword": "complex aortic surgeries"
+  },
+  {
+    "name": "Coronary Angiography",
+    "slug": "coronary-angiography",
+    "url": "https://ilshospitals.com/key-procedures/coronary-angiography/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/coronary_angiography.svg",
+    "keyword": "coronary angiography"
+  },
+  {
+    "name": "Coronary Artery Bypass Grafting",
+    "slug": "coronary-artery-bypass-grafting",
+    "url": "https://ilshospitals.com/key-procedures/coronary-artery-bypass-grafting/",
+    "icon": null,
+    "keyword": "coronary artery bypass grafting"
+  },
+  {
+    "name": "Coronary Endarterectomy",
+    "slug": "coronary-endarterectomy",
+    "url": "https://ilshospitals.com/key-procedures/coronary-endarterectomy/",
+    "icon": null,
+    "keyword": "coronary endarterectomy"
+  },
+  {
+    "name": "Correction of Congenital Heart Diseases",
+    "slug": "correction-of-congenital-heart-diseases",
+    "url": "https://ilshospitals.com/key-procedures/correction-of-congenital-heart-diseases/",
+    "icon": null,
+    "keyword": "correction of congenital heart diseases"
+  },
+  {
+    "name": "CT Coronary Angiogram",
+    "slug": "ct-coronary-angiogram",
+    "url": "https://ilshospitals.com/key-procedures/ct-coronary-angiogram/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/ct_coronary_angiogram.svg",
+    "keyword": "ct coronary angiogram"
+  },
+  {
+    "name": "Diabetic Foot Debridement",
+    "slug": "diabetic-foot-debridement",
+    "url": "https://ilshospitals.com/key-procedures/diabetic-foot-debridement/",
+    "icon": null,
+    "keyword": "diabetic foot debridement"
+  },
+  {
+    "name": "Dialysis",
+    "slug": "dialysis",
+    "url": "https://ilshospitals.com/key-procedures/dialysis/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/dialysis.png",
+    "keyword": "dialysis"
+  },
+  {
+    "name": "DSA",
+    "slug": "dsa",
+    "url": "https://ilshospitals.com/key-procedures/dsa/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/dsa.png",
+    "keyword": "dsa"
+  },
+  {
+    "name": "ECMO",
+    "slug": "ecmo",
+    "url": "https://ilshospitals.com/key-procedures/ecmo/",
+    "icon": null,
+    "keyword": "ecmo"
+  },
+  {
+    "name": "EEG, EMG, NCV",
+    "slug": "eeg-emg-ncv",
+    "url": "https://ilshospitals.com/key-procedures/eeg-emg-ncv/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/eeg-emg-ncv.png",
+    "keyword": "eeg, emg, ncv"
+  },
+  {
+    "name": "Electrophysiology",
+    "slug": "electrophysiology",
+    "url": "https://ilshospitals.com/key-procedures/electrophysiology/",
+    "icon": null,
+    "keyword": "electrophysiology"
+  },
+  {
+    "name": "Endoscopic Sinus Surgery",
+    "slug": "endoscopic-sinus-surgery",
+    "url": "https://ilshospitals.com/key-procedures/endoscopic-sinus-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/endoscopic_sinus_surgery.png",
+    "keyword": "endoscopic sinus surgery"
+  },
+  {
+    "name": "Epilepsy Treatment",
+    "slug": "epilepsy-treatment",
+    "url": "https://ilshospitals.com/key-procedures/epilepsy-treatment/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Neurology.svg",
+    "keyword": "epilepsy treatment"
+  },
+  {
+    "name": "ERCP And MRCP",
+    "slug": "ercp-mrcp",
+    "url": "https://ilshospitals.com/key-procedures/ercp-mrcp/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/ercp_and_mrcp.svg",
+    "keyword": "ercp and mrcp"
+  },
+  {
+    "name": "EUGS – Gastroenterology",
+    "slug": "eugs-gastroenterology",
+    "url": "https://ilshospitals.com/key-procedures/eugs-gastroenterology/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/eugs_-gastroenterology.png",
+    "keyword": "eugs – gastroenterology"
+  },
+  {
+    "name": "Fibre Optic Bronchoscopy",
+    "slug": "fibre-optic-bronchoscopy",
+    "url": "https://ilshospitals.com/key-procedures/fibre-optic-bronchoscopy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/fibre_optic_bronchoscopy.png",
+    "keyword": "fibre optic bronchoscopy"
+  },
+  {
+    "name": "Foreign Body Removal",
+    "slug": "foreign-body-removal",
+    "url": "https://ilshospitals.com/key-procedures/foreign-body-removal/",
+    "icon": null,
+    "keyword": "foreign body removal"
+  },
+  {
+    "name": "FRACTURE – CRIF Surgery",
+    "slug": "fracture-crif-surgery",
+    "url": "https://ilshospitals.com/key-procedures/fracture-crif-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/fracture_crif_surgery.png",
+    "keyword": "fracture – crif surgery"
+  },
+  {
+    "name": "FRACTURE – ORIF Surgery",
+    "slug": "fracture-orif-surgery",
+    "url": "https://ilshospitals.com/key-procedures/fracture-orif-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/fracture_orif_-surgery.png",
+    "keyword": "fracture – orif surgery"
+  },
+  {
+    "name": "Fundoscopy",
+    "slug": "fundoscopy",
+    "url": "https://ilshospitals.com/key-procedures/fundoscopy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/fundoscopy.png",
+    "keyword": "fundoscopy"
+  },
+  {
+    "name": "Gall Stone Removal",
+    "slug": "gall-stone-removal",
+    "url": "https://ilshospitals.com/key-procedures/gall-stone-removal/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/gall_stone_removal.png",
+    "keyword": "gall stone removal"
+  },
+  {
+    "name": "Gastric Banding",
+    "slug": "gastric-banding",
+    "url": "https://ilshospitals.com/key-procedures/gastric-banding/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/10/gastric_banding.svg",
+    "keyword": "gastric banding"
+  },
+  {
+    "name": "Gastric Bypass Surgery",
+    "slug": "gastric-bypass-surgery",
+    "url": "https://ilshospitals.com/key-procedures/gastric-bypass-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/gastric_bypass_surgery.svg",
+    "keyword": "gastric bypass surgery"
+  },
+  {
+    "name": "Haemorrhoidectomy",
+    "slug": "haemorrhoidectomy",
+    "url": "https://ilshospitals.com/key-procedures/haemorrhoidectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_cs.svg",
+    "keyword": "haemorrhoidectomy"
+  },
+  {
+    "name": "Head Injury",
+    "slug": "head-injury",
+    "url": "https://ilshospitals.com/key-procedures/head-injury/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Neurology.svg",
+    "keyword": "head injury"
+  },
+  {
+    "name": "Head Trauma Surgery",
+    "slug": "head-trauma-surgery",
+    "url": "https://ilshospitals.com/key-procedures/head-trauma-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Neuro-Surgery.png",
+    "keyword": "head trauma surgery"
+  },
+  {
+    "name": "Heart Valve Repair",
+    "slug": "heart-valve-repair",
+    "url": "https://ilshospitals.com/key-procedures/heart-valve-repair/",
+    "icon": null,
+    "keyword": "heart valve repair"
+  },
+  {
+    "name": "Hip Replacement Surgery",
+    "slug": "hip-replacement-surgery",
+    "url": "https://ilshospitals.com/key-procedures/hip-replacement-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Hip_Replacement_Surgery.svg",
+    "keyword": "hip replacement surgery"
+  },
+  {
+    "name": "Hydrocele Surgery",
+    "slug": "hydrocele-surgery",
+    "url": "https://ilshospitals.com/key-procedures/hydrocele-surgery/",
+    "icon": null,
+    "keyword": "hydrocele surgery"
+  },
+  {
+    "name": "Hysteroscopy",
+    "slug": "hysteroscopy",
+    "url": "https://ilshospitals.com/key-procedures/hysteroscopy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_scope21.svg",
+    "keyword": "hysteroscopy"
+  },
+  {
+    "name": "Intraocular Pressure (IOP)",
+    "slug": "intraocular-pressure-iop",
+    "url": "https://ilshospitals.com/key-procedures/intraocular-pressure-iop/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/intraocular_pressure-iop.png",
+    "keyword": "intraocular pressure (iop)"
+  },
+  {
+    "name": "Intravenous Stroke Thrombolysis",
+    "slug": "intravenous-stroke-thrombolysis",
+    "url": "https://ilshospitals.com/key-procedures/intravenous-stroke-thrombolysis/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/intravenous_stroke_thrombolysis.png",
+    "keyword": "intravenous stroke thrombolysis"
+  },
+  {
+    "name": "Joint Replacement Surgery",
+    "slug": "joint-replacement-surgery",
+    "url": "https://ilshospitals.com/key-procedures/joint-replacement-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_ex6.svg",
+    "keyword": "joint replacement surgery"
+  },
+  {
+    "name": "Keyhole Thoracic Surgery (Uniportal VATS)",
+    "slug": "keyhole-thoracic-surgery-uniportal-vats",
+    "url": "https://ilshospitals.com/key-procedures/keyhole-thoracic-surgery-uniportal-vats/",
+    "icon": null,
+    "keyword": "keyhole thoracic surgery (uniportal vats)"
+  },
+  {
+    "name": "Knee Replacement Surgery",
+    "slug": "knee-replacement-surgery",
+    "url": "https://ilshospitals.com/key-procedures/knee-replacement-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/knee_replacement_surgery.png",
+    "keyword": "knee replacement surgery"
+  },
+  {
+    "name": "Lap Hysterectomy",
+    "slug": "lap-hysterectomy",
+    "url": "https://ilshospitals.com/key-procedures/lap-hysterectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/hysterectomy.png",
+    "keyword": "lap hysterectomy"
+  },
+  {
+    "name": "Laparotomy (Emergency)",
+    "slug": "laparotomy-emergency",
+    "url": "https://ilshospitals.com/key-procedures/laparotomy-emergency/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/gastro_overview.png",
+    "keyword": "laparotomy (emergency)"
+  },
+  {
+    "name": "Lumbar Puncture",
+    "slug": "lumbar-puncture",
+    "url": "https://ilshospitals.com/key-procedures/lumbar-puncture/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/lumbar_puncture.png",
+    "keyword": "lumbar puncture"
+  },
+  {
+    "name": "Lumpectomy",
+    "slug": "lumpectomy",
+    "url": "https://ilshospitals.com/key-procedures/lumpectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/lumpectomy_.png",
+    "keyword": "lumpectomy"
+  },
+  {
+    "name": "Manometry",
+    "slug": "manometry",
+    "url": "https://ilshospitals.com/key-procedures/manometry/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/eugs_-gastroenterology.png",
+    "keyword": "manometry"
+  },
+  {
+    "name": "Micro Laryngeal Surgery",
+    "slug": "micro-laryngeal-surgery",
+    "url": "https://ilshospitals.com/key-procedures/micro-laryngeal-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/micro_laryngeal_surgery.png",
+    "keyword": "micro laryngeal surgery"
+  },
+  {
+    "name": "Minimal Invasive Cardiac Surgeries (AVR/MVR/ASD Closure)",
+    "slug": "minimal-invasive-cardiac-surgeries",
+    "url": "https://ilshospitals.com/key-procedures/minimal-invasive-cardiac-surgeries/",
+    "icon": null,
+    "keyword": "minimal invasive cardiac surgeries (avr/mvr/asd closure)"
+  },
+  {
+    "name": "Minimal Invasive Gynaecological Surgery",
+    "slug": "minimal-invasive-gynaecological-surgery",
+    "url": "https://ilshospitals.com/key-procedures/minimal-invasive-gynaecological-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/minimal_invasive_gynaecological_surgery.png",
+    "keyword": "minimal invasive gynaecological surgery"
+  },
+  {
+    "name": "Minimally Invasive Valve Surgery",
+    "slug": "minimally-invasive-valve-surgery",
+    "url": "https://ilshospitals.com/key-procedures/minimally-invasive-valve-surgery/",
+    "icon": null,
+    "keyword": "minimally invasive valve surgery"
+  },
+  {
+    "name": "Minor Amputation (Toe)",
+    "slug": "minor-amputation-toe",
+    "url": "https://ilshospitals.com/key-procedures/minor-amputation-toe/",
+    "icon": null,
+    "keyword": "minor amputation (toe)"
+  },
+  {
+    "name": "Movement Disorder Clinic",
+    "slug": "movement-disorder-clinic",
+    "url": "https://ilshospitals.com/key-procedures/movement-disorder-clinic/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Neurology.svg",
+    "keyword": "movement disorder clinic"
+  },
+  {
+    "name": "Myomectomy",
+    "slug": "myomectomy",
+    "url": "https://ilshospitals.com/key-procedures/myomectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Uterus_Removal.svg",
+    "keyword": "myomectomy"
+  },
+  {
+    "name": "Neoadjuvant Chemotherapy",
+    "slug": "neoadjuvant-chemotherapy",
+    "url": "https://ilshospitals.com/key-procedures/neoadjuvant-chemotherapy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/09/Neoadjuvant-Chemotherapy.webp",
+    "keyword": "neoadjuvant chemotherapy"
+  },
+  {
+    "name": "Open Appendectomy",
+    "slug": "open-appendectomy",
+    "url": "https://ilshospitals.com/key-procedures/open-appendectomy/",
+    "icon": null,
+    "keyword": "open appendectomy"
+  },
+  {
+    "name": "Orchiectomy (Non-Urology)",
+    "slug": "orchiectomy-non-urology",
+    "url": "https://ilshospitals.com/key-procedures/orchiectomy-non-urology/",
+    "icon": null,
+    "keyword": "orchiectomy (non-urology)"
+  },
+  {
+    "name": "Pacemaker Implantation",
+    "slug": "pacemaker-implantation",
+    "url": "https://ilshospitals.com/key-procedures/pacemaker-implantation/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Pacemaker.svg",
+    "keyword": "pacemaker implantation"
+  },
+  {
+    "name": "Paediatric Heart/Child Heart Surgery",
+    "slug": "paediatric-heart-child-heart-surgery",
+    "url": "https://ilshospitals.com/key-procedures/paediatric-heart-child-heart-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/07/icon_scope22.svg",
+    "keyword": "paediatric heart/child heart surgery"
+  },
+  {
+    "name": "PCNL",
+    "slug": "pcnl",
+    "url": "https://ilshospitals.com/key-procedures/pcnl/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/pcnl.png",
+    "keyword": "pcnl"
+  },
+  {
+    "name": "Perianal Abscess Drainage",
+    "slug": "perianal-abscess-drainage",
+    "url": "https://ilshospitals.com/key-procedures/perianal-abscess-drainage/",
+    "icon": null,
+    "keyword": "perianal abscess drainage"
+  },
+  {
+    "name": "Peritoneal lavage",
+    "slug": "peritoneal-lavage",
+    "url": "https://ilshospitals.com/key-procedures/peritoneal-lavage/",
+    "icon": null,
+    "keyword": "peritoneal lavage"
+  },
+  {
+    "name": "Permacath Placement",
+    "slug": "permacath-placement",
+    "url": "https://ilshospitals.com/key-procedures/permacath-placement/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/permacath_placement.png",
+    "keyword": "permacath placement"
+  },
+  {
+    "name": "PET Scan",
+    "slug": "pet-scan",
+    "url": "https://ilshospitals.com/key-procedures/pet-scan/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Oncology-Medical.png",
+    "keyword": "pet scan"
+  },
+  {
+    "name": "Phaco Surgery",
+    "slug": "phaco-surgery",
+    "url": "https://ilshospitals.com/key-procedures/phaco-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/phaco_surgery.png",
+    "keyword": "phaco surgery"
+  },
+  {
+    "name": "PICC line support",
+    "slug": "picc-line-support",
+    "url": "https://ilshospitals.com/key-procedures/picc-line-support/",
+    "icon": null,
+    "keyword": "picc line support"
+  },
+  {
+    "name": "Plasmapheresis",
+    "slug": "plasmapheresis",
+    "url": "https://ilshospitals.com/key-procedures/plasmapheresis/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/plasmapheresis.png",
+    "keyword": "plasmapheresis"
+  },
+  {
+    "name": "Pleural Biopsy",
+    "slug": "pleural-biopsy",
+    "url": "https://ilshospitals.com/key-procedures/pleural-biopsy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/pleural_bopsy_.png",
+    "keyword": "pleural biopsy"
+  },
+  {
+    "name": "Plurodesis",
+    "slug": "plurodesis",
+    "url": "https://ilshospitals.com/key-procedures/plurodesis/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/plurodesis.png",
+    "keyword": "plurodesis"
+  },
+  {
+    "name": "Polysomnography",
+    "slug": "polysomnography",
+    "url": "https://ilshospitals.com/key-procedures/polysomnography/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/polysomnography_.png",
+    "keyword": "polysomnography"
+  },
+  {
+    "name": "Port insertion for chemotherapy",
+    "slug": "port-insertion-for-chemotherapy",
+    "url": "https://ilshospitals.com/key-procedures/port-insertion-for-chemotherapy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/Oncology-Medical-copy.png",
+    "keyword": "port insertion for chemotherapy"
+  },
+  {
+    "name": "Primary Angioplasty for Heart Attacks",
+    "slug": "primary-angioplasty-for-heart-attacks",
+    "url": "https://ilshospitals.com/key-procedures/primary-angioplasty-for-heart-attacks/",
+    "icon": null,
+    "keyword": "primary angioplasty for heart attacks"
+  },
+  {
+    "name": "Pulmonary Function Test",
+    "slug": "pulmonary-function-test",
+    "url": "https://ilshospitals.com/key-procedures/pulmonary-function-test/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/pulmonary_function_test.png",
+    "keyword": "pulmonary function test"
+  },
+  {
+    "name": "Radiation Therapy",
+    "slug": "radiation-therapy",
+    "url": "https://ilshospitals.com/key-procedures/radiation-therapy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Oncology-Medical.png",
+    "keyword": "radiation therapy"
+  },
+  {
+    "name": "Radical Nephrectomy",
+    "slug": "radical-nephrectomy",
+    "url": "https://ilshospitals.com/key-procedures/radical-nephrectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/radical_nephrectomy.png",
+    "keyword": "radical nephrectomy"
+  },
+  {
+    "name": "Rectal Prolapse Repair",
+    "slug": "rectal-prolapse-repair",
+    "url": "https://ilshospitals.com/key-procedures/rectal-prolapse-repair/",
+    "icon": null,
+    "keyword": "rectal prolapse repair"
+  },
+  {
+    "name": "Refraction",
+    "slug": "refraction",
+    "url": "https://ilshospitals.com/key-procedures/refraction/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/refraction.png",
+    "keyword": "refraction"
+  },
+  {
+    "name": "Renal Biopsy",
+    "slug": "renal-biopsy",
+    "url": "https://ilshospitals.com/key-procedures/renal-biopsy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/renal_biopsy.png",
+    "keyword": "renal biopsy"
+  },
+  {
+    "name": "Renal Transplant",
+    "slug": "renal-transplant",
+    "url": "https://ilshospitals.com/key-procedures/renal-transplant/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/renal_transplant.png",
+    "keyword": "renal transplant"
+  },
+  {
+    "name": "RIRS",
+    "slug": "rirs",
+    "url": "https://ilshospitals.com/key-procedures/rirs/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/rirs.png",
+    "keyword": "rirs"
+  },
+  {
+    "name": "Robotic Knee Replacement",
+    "slug": "robotic-knee-replacement",
+    "url": "https://ilshospitals.com/key-procedures/robotic-knee-replacement/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2025/01/robotic-replacement.png",
+    "keyword": "robotic knee replacement"
+  },
+  {
+    "name": "Skin Grafting",
+    "slug": "skin-grafting",
+    "url": "https://ilshospitals.com/key-procedures/skin-grafting/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/Plastic-Reconstructive-Surgery.png",
+    "keyword": "skin grafting"
+  },
+  {
+    "name": "Sleeve Gastrectomy",
+    "slug": "sleeve-gastrectomy",
+    "url": "https://ilshospitals.com/key-procedures/sleeve-gastrectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/sleeve_gastrectomy.png",
+    "keyword": "sleeve gastrectomy"
+  },
+  {
+    "name": "Soft tissue tumor",
+    "slug": "soft-tissue-tumor",
+    "url": "https://ilshospitals.com/key-procedures/soft-tissue-tumor/",
+    "icon": null,
+    "keyword": "soft tissue tumor"
+  },
+  {
+    "name": "Speech Therapy",
+    "slug": "speech-therapy",
+    "url": "https://ilshospitals.com/key-procedures/speech-therapy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/Speech-Therapy.png",
+    "keyword": "speech therapy"
+  },
+  {
+    "name": "Thoracocentesis",
+    "slug": "thoracocentesis",
+    "url": "https://ilshospitals.com/key-procedures/thoracocentesis/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/thoracocentesis.png",
+    "keyword": "thoracocentesis"
+  },
+  {
+    "name": "Trauma Wound Repair",
+    "slug": "trauma-wound-repair",
+    "url": "https://ilshospitals.com/key-procedures/trauma-wound-repair/",
+    "icon": null,
+    "keyword": "trauma wound repair"
+  },
+  {
+    "name": "Tubal Ligation",
+    "slug": "tubal-ligation",
+    "url": "https://ilshospitals.com/key-procedures/tubal-ligation/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/tubal_ligation.png",
+    "keyword": "tubal ligation"
+  },
+  {
+    "name": "TURP",
+    "slug": "turp",
+    "url": "https://ilshospitals.com/key-procedures/turp/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/turp.png",
+    "keyword": "turp"
+  },
+  {
+    "name": "Tympanomastoidectomy",
+    "slug": "tympanomastoidectomy",
+    "url": "https://ilshospitals.com/key-procedures/tympanomastoidectomy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/tympanomastoidectomy.png",
+    "keyword": "tympanomastoidectomy"
+  },
+  {
+    "name": "Upper Endoscopy",
+    "slug": "upper-endoscopy",
+    "url": "https://ilshospitals.com/key-procedures/upper-endoscopy/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/upper_endoscopy.png",
+    "keyword": "upper endoscopy"
+  },
+  {
+    "name": "Ureteroscopy (URS)",
+    "slug": "ureteroscopy-urs",
+    "url": "https://ilshospitals.com/key-procedures/ureteroscopy-urs/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/12/ureteroscopy_urs.png",
+    "keyword": "ureteroscopy (urs)"
+  },
+  {
+    "name": "Uroflowmetry",
+    "slug": "uroflowmetry",
+    "url": "https://ilshospitals.com/key-procedures/uroflowmetry/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/icon_Minimally-Invasive_Urologic_Surgery.svg",
+    "keyword": "uroflowmetry"
+  },
+  {
+    "name": "Valve Replacement Surgery",
+    "slug": "valve-replacement-surgery",
+    "url": "https://ilshospitals.com/key-procedures/valve-replacement-surgery/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/valve_replacement_surgery.svg",
+    "keyword": "valve replacement surgery"
+  },
+  {
+    "name": "Valvuloplasty",
+    "slug": "valvuloplasty",
+    "url": "https://ilshospitals.com/key-procedures/valvuloplasty/",
+    "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/valvuloplasty.svg",
+    "keyword": "valvuloplasty"
+  },
+  {
+    "name": "Vascular Access Creation",
+    "slug": "vascular-access-creation",
+    "url": "https://ilshospitals.com/key-procedures/vascular-access-creation/",
+    "icon": null,
+    "keyword": "vascular access creation"
+  },
+  {
+    "name": "Vascular Surgery",
+    "slug": "vascular-surgery",
+    "url": "https://ilshospitals.com/key-procedures/vascular-surgery/",
+    "icon": null,
+    "keyword": "vascular surgery"
+  },
+  {
+    "name": "VATS",
+    "slug": "vats",
+    "url": "https://ilshospitals.com/key-procedures/vats/",
+    "icon": null,
+    "keyword": "vats"
+  },
+  {
+    "name": "Video Mediastinoscopy",
+    "slug": "video-mediastinoscopy",
+    "url": "https://ilshospitals.com/key-procedures/video-mediastinoscopy/",
+    "icon": null,
+    "keyword": "video mediastinoscopy"
+  }
+]

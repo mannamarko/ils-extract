@@ -1,0 +1,630 @@
+[
+  {
+    "id": 18328,
+    "slug": "ot-technician",
+    "url": "https://ilshospitals.com/job/ot-technician/",
+    "title": "OT Technician",
+    "hospital_ids": [
+      341
+    ],
+    "hospital_names": [
+      "Saltlake"
+    ],
+    "department_ids": [
+      201
+    ],
+    "department_names": [
+      "Technician"
+    ],
+    "hospital_names_footer": "Saltlake",
+    "department_name_footer": "Technician",
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T13:55:13",
+    "modified_date": "2026-04-10T13:58:24"
+  },
+  {
+    "id": 18327,
+    "slug": "executive-adt",
+    "url": "https://ilshospitals.com/job/executive-adt/",
+    "title": "Executive – ADT",
+    "hospital_ids": [
+      341
+    ],
+    "hospital_names": [
+      "Saltlake"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Saltlake",
+    "department_name_footer": null,
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T13:53:07",
+    "modified_date": "2026-04-10T13:53:07"
+  },
+  {
+    "id": 18326,
+    "slug": "cssd-technician",
+    "url": "https://ilshospitals.com/job/cssd-technician/",
+    "title": "CSSD Technician",
+    "hospital_ids": [
+      341
+    ],
+    "hospital_names": [
+      "Saltlake"
+    ],
+    "department_ids": [
+      201
+    ],
+    "department_names": [
+      "Technician"
+    ],
+    "hospital_names_footer": "Saltlake",
+    "department_name_footer": "Technician",
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T13:49:35",
+    "modified_date": "2026-04-10T13:58:47"
+  },
+  {
+    "id": 18324,
+    "slug": "staff-nurse-nicu",
+    "url": "https://ilshospitals.com/job/staff-nurse-nicu/",
+    "title": "Staff Nurse – NICU",
+    "hospital_ids": [
+      341
+    ],
+    "hospital_names": [
+      "Saltlake"
+    ],
+    "department_ids": [
+      193
+    ],
+    "department_names": [
+      "Nursing"
+    ],
+    "hospital_names_footer": "Saltlake",
+    "department_name_footer": "Nursing",
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T13:47:16",
+    "modified_date": "2026-04-10T13:50:33"
+  },
+  {
+    "id": 18318,
+    "slug": "academic-coordinator-executive-academia",
+    "url": "https://ilshospitals.com/job/academic-coordinator-executive-academia/",
+    "title": "Academic Coordinator / Executive – Academia",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T11:47:29",
+    "modified_date": "2026-04-10T11:47:29"
+  },
+  {
+    "id": 18316,
+    "slug": "nursing-in-charge-female",
+    "url": "https://ilshospitals.com/job/nursing-in-charge-female/",
+    "title": "Nursing In charge (Female)",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T11:44:54",
+    "modified_date": "2026-04-10T11:44:54"
+  },
+  {
+    "id": 18315,
+    "slug": "maintenance-manager",
+    "url": "https://ilshospitals.com/job/maintenance-manager/",
+    "title": "Maintenance Manager",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T11:41:38",
+    "modified_date": "2026-04-10T11:41:38"
+  },
+  {
+    "id": 18314,
+    "slug": "manager-pharmacy",
+    "url": "https://ilshospitals.com/job/manager-pharmacy/",
+    "title": "Manager – Pharmacy",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T11:33:19",
+    "modified_date": "2026-04-10T11:33:19"
+  },
+  {
+    "id": 18313,
+    "slug": "executive-senior-executive-business-development",
+    "url": "https://ilshospitals.com/job/executive-senior-executive-business-development/",
+    "title": "Executive / Senior Executive – Business Development",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T11:27:59",
+    "modified_date": "2026-04-10T11:27:59"
+  },
+  {
+    "id": 18312,
+    "slug": "clinical-administrator",
+    "url": "https://ilshospitals.com/job/clinical-administrator/",
+    "title": "Clinical Administrator",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T11:22:47",
+    "modified_date": "2026-04-10T11:23:49"
+  },
+  {
+    "id": 18308,
+    "slug": "ipd-head",
+    "url": "https://ilshospitals.com/job/ipd-head/",
+    "title": "IPD Head",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "10-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-10T10:47:17",
+    "modified_date": "2026-04-10T11:18:40"
+  },
+  {
+    "id": 18307,
+    "slug": "mod",
+    "url": "https://ilshospitals.com/job/mod/",
+    "title": "MOD",
+    "hospital_ids": [
+      342
+    ],
+    "hospital_names": [
+      "Dumdum"
+    ],
+    "department_ids": [
+      200
+    ],
+    "department_names": [
+      "Senior Executive"
+    ],
+    "hospital_names_footer": "Dumdum",
+    "department_name_footer": "Senior Executive",
+    "listed_post_date": "09-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-09T16:16:15",
+    "modified_date": "2026-04-09T16:20:45"
+  },
+  {
+    "id": 18306,
+    "slug": "medical-coordinator-with-mbbs-degree",
+    "url": "https://ilshospitals.com/job/medical-coordinator-with-mbbs-degree/",
+    "title": "Medical Coordinator with MBBs degree",
+    "hospital_ids": [
+      342
+    ],
+    "hospital_names": [
+      "Dumdum"
+    ],
+    "department_ids": [
+      199
+    ],
+    "department_names": [
+      "Medical Coordinator"
+    ],
+    "hospital_names_footer": "Dumdum",
+    "department_name_footer": "Medical Coordinator",
+    "listed_post_date": "09-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-09T16:13:50",
+    "modified_date": "2026-04-09T16:13:50"
+  },
+  {
+    "id": 18305,
+    "slug": "pharmacisturgent",
+    "url": "https://ilshospitals.com/job/pharmacisturgent/",
+    "title": "Pharmacist(urgent)",
+    "hospital_ids": [
+      342
+    ],
+    "hospital_names": [
+      "Dumdum"
+    ],
+    "department_ids": [
+      198
+    ],
+    "department_names": [
+      "Pharmacist"
+    ],
+    "hospital_names_footer": "Dumdum",
+    "department_name_footer": "Pharmacist",
+    "listed_post_date": "09-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-09T16:04:45",
+    "modified_date": "2026-04-09T16:04:45"
+  },
+  {
+    "id": 18304,
+    "slug": "opd-manager",
+    "url": "https://ilshospitals.com/job/opd-manager/",
+    "title": "OPD Manager",
+    "hospital_ids": [
+      342
+    ],
+    "hospital_names": [
+      "Dumdum"
+    ],
+    "department_ids": [
+      195
+    ],
+    "department_names": [
+      "Assistant Manager"
+    ],
+    "hospital_names_footer": "Dumdum",
+    "department_name_footer": "Assistant Manager",
+    "listed_post_date": "09-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-09T15:59:39",
+    "modified_date": "2026-04-09T15:59:39"
+  },
+  {
+    "id": 18303,
+    "slug": "cathalab-in-charge",
+    "url": "https://ilshospitals.com/job/cathalab-in-charge/",
+    "title": "Cathalab In Charge",
+    "hospital_ids": [
+      342
+    ],
+    "hospital_names": [
+      "Dumdum"
+    ],
+    "department_ids": [
+      197
+    ],
+    "department_names": [
+      "Incharge"
+    ],
+    "hospital_names_footer": "Dumdum",
+    "department_name_footer": "Incharge",
+    "listed_post_date": "09-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-09T15:56:45",
+    "modified_date": "2026-04-09T15:57:20"
+  },
+  {
+    "id": 18302,
+    "slug": "assistant-manager-hospitality",
+    "url": "https://ilshospitals.com/job/assistant-manager-hospitality/",
+    "title": "Assistant Manager- Hospitality",
+    "hospital_ids": [
+      342
+    ],
+    "hospital_names": [
+      "Dumdum"
+    ],
+    "department_ids": [
+      195
+    ],
+    "department_names": [
+      "Assistant Manager"
+    ],
+    "hospital_names_footer": "Dumdum",
+    "department_name_footer": "Assistant Manager",
+    "listed_post_date": "09-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-09T15:47:54",
+    "modified_date": "2026-04-09T15:50:16"
+  },
+  {
+    "id": 18291,
+    "slug": "finance-manager-ils-agartala",
+    "url": "https://ilshospitals.com/job/finance-manager-ils-agartala/",
+    "title": "Finance Manager, ILS Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "hospital_names": [
+      "Agartala"
+    ],
+    "department_ids": [
+      194
+    ],
+    "department_names": [
+      "Finance &amp; Accounts"
+    ],
+    "hospital_names_footer": "Agartala",
+    "department_name_footer": "Finance & Accounts",
+    "listed_post_date": "04-04-2026",
+    "on_listing": true,
+    "published_date": "2026-04-04T13:24:40",
+    "modified_date": "2026-04-04T13:24:40"
+  },
+  {
+    "id": 17592,
+    "slug": "group-nursing-head",
+    "url": "https://ilshospitals.com/job/group-nursing-head/",
+    "title": "Group Nursing Head",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343,
+      5637
+    ],
+    "hospital_names": [
+      "Saltlake",
+      "Dumdum",
+      "Howrah",
+      "Agartala",
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Saltlake, Dumdum, Howrah, Agartala, Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "18-09-2025",
+    "on_listing": true,
+    "published_date": "2025-09-18T17:55:42",
+    "modified_date": "2025-09-18T18:05:18"
+  },
+  {
+    "id": 15647,
+    "slug": "rmo-ils-raipur",
+    "url": "https://ilshospitals.com/job/rmo-ils-raipur/",
+    "title": "RMO, ILS Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "22-04-2025",
+    "on_listing": true,
+    "published_date": "2025-04-22T12:05:22",
+    "modified_date": "2025-04-24T11:31:45"
+  },
+  {
+    "id": 15605,
+    "slug": "cashier-ils-raipur",
+    "url": "https://ilshospitals.com/job/cashier-ils-raipur/",
+    "title": "Cashier, ILS Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "12-04-2025",
+    "on_listing": true,
+    "published_date": "2025-04-12T13:22:49",
+    "modified_date": "2025-04-24T11:41:22"
+  },
+  {
+    "id": 15638,
+    "slug": "rmo-physician-asst-ils-hospital",
+    "url": "https://ilshospitals.com/job/rmo-physician-asst-ils-hospital/",
+    "title": "RMO/ Physician Asst, ILS Hospital",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "11-04-2025",
+    "on_listing": true,
+    "published_date": "2025-04-11T12:10:13",
+    "modified_date": "2025-04-24T11:39:53"
+  },
+  {
+    "id": 15632,
+    "slug": "physiotherapist-ils-raipur",
+    "url": "https://ilshospitals.com/job/physiotherapist-ils-raipur/",
+    "title": "Physiotherapist, ILS Raipur",
+    "hospital_ids": [],
+    "hospital_names": [],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": null,
+    "department_name_footer": null,
+    "listed_post_date": "02-04-2025",
+    "on_listing": true,
+    "published_date": "2025-04-02T19:23:18",
+    "modified_date": "2025-04-24T11:44:27"
+  },
+  {
+    "id": 15612,
+    "slug": "medical-transcriptionist-ils-raipur",
+    "url": "https://ilshospitals.com/job/medical-transcriptionist-ils-raipur/",
+    "title": "Medical Transcriptionist, ILS Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "12-02-2025",
+    "on_listing": true,
+    "published_date": "2025-02-12T13:38:02",
+    "modified_date": "2025-04-24T11:50:18"
+  },
+  {
+    "id": 15610,
+    "slug": "customer-care-executives-tele-caller-ils-raipur",
+    "url": "https://ilshospitals.com/job/customer-care-executives-tele-caller-ils-raipur/",
+    "title": "Customer Care Executives / Tele Caller, ILS Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "12-02-2025",
+    "on_listing": true,
+    "published_date": "2025-02-12T13:36:40",
+    "modified_date": "2025-04-23T19:15:50"
+  },
+  {
+    "id": 15604,
+    "slug": "finance-manager-ils-raipur-3",
+    "url": "https://ilshospitals.com/job/finance-manager-ils-raipur-3/",
+    "title": "Finance Manager, ILS Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "12-02-2025",
+    "on_listing": true,
+    "published_date": "2025-02-12T13:20:53",
+    "modified_date": "2025-04-24T11:51:21"
+  },
+  {
+    "id": 15583,
+    "slug": "finance-manager-ils-raipur-2",
+    "url": "https://ilshospitals.com/job/finance-manager-ils-raipur-2/",
+    "title": "Finance Manager, ILS Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "07-02-2025",
+    "on_listing": true,
+    "published_date": "2025-02-07T09:40:33",
+    "modified_date": "2025-04-24T11:54:54"
+  },
+  {
+    "id": 15571,
+    "slug": "telecaller-customer-support-executives-ils-raipur",
+    "url": "https://ilshospitals.com/job/telecaller-customer-support-executives-ils-raipur/",
+    "title": "Telecaller / Customer Support Executives, ILS Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [],
+    "department_names": [],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": null,
+    "listed_post_date": "24-01-2025",
+    "on_listing": true,
+    "published_date": "2025-01-24T14:03:13",
+    "modified_date": "2025-04-24T11:59:29"
+  },
+  {
+    "id": 15555,
+    "slug": "finance-manager-ils-raipur",
+    "url": "https://ilshospitals.com/job/finance-manager-ils-raipur/",
+    "title": "Finance Manager, ILS Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "hospital_names": [
+      "Raipur"
+    ],
+    "department_ids": [
+      194
+    ],
+    "department_names": [
+      "Finance &amp; Accounts"
+    ],
+    "hospital_names_footer": "Raipur",
+    "department_name_footer": "Finance & Accounts",
+    "listed_post_date": "31-12-2024",
+    "on_listing": true,
+    "published_date": "2024-12-31T11:24:42",
+    "modified_date": "2025-04-24T12:05:08"
+  }
+]

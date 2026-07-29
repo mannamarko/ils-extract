@@ -1,0 +1,78 @@
+#########doctors##########
+[done] Scraped 375/375 doctors -> /Volumes/MannaSSD/Dev/mb/ils/extract/ils_doctors.json
+[warn] 279 doctors had no description
+[warn] 14 doctors had no department
+[seo]  issue tally: {
+  physician_schema_copy_paste: 1,
+  twitter_url_placeholder: 319,
+  og_image_generic_logo: 322,
+  og_title_conflict: 45,
+  empty_description: 279,
+  no_booking_link: 113,
+  no_post_specific_schema: 50,
+  no_post_specific_meta: 50,
+  no_physician_schema: 50
+}
+
+
+
+
+
+
+
+
+
+
+
+
+[done] Scraped 60/60 departments -> /Volumes/MannaSSD/Dev/mb/ils/extract/ils_departments.json
+[seo]  issue tally: {
+  no_post_specific_schema: 5,
+  no_post_specific_meta: 5,
+  no_medical_specialty_schema: 5,
+  twitter_url_placeholder: 55,
+  og_image_generic_logo: 52,
+  og_title_conflict: 19
+}
+
+
+
+
+
+
+
+
+
+
+
+
+[done] Scraped 465 posts -> /Volumes/MannaSSD/Dev/mb/ils/extract/ils_blogs_2.json
+[seo]  issue tally: {
+  empty_title_tag: 389,
+  canonical_points_to_homepage: 465,
+  no_post_specific_seo: 379,
+  json_ld_repaired: 23
+}
+
+
+
+
+
+
+
+[done] Scraped 115/115 procedures -> /Volumes/MannaSSD/Dev/mb/ils/extract/ils_key_procedures.json
+[warn] 3 procedures had no department link
+[seo]  issue tally: {
+  json_ld_repaired: 88,
+  randomized_faq_schema: 74,
+  twitter_url_placeholder: 74,
+  og_image_generic_logo: 74,
+  medical_org_schema_address_mismatch: 5,
+  og_title_conflict: 13,
+  missing_icon: 35,
+  no_post_specific_schema: 23,
+  no_post_specific_meta: 23,
+  no_medical_procedure_schema: 23,
+  no_department_link: 3,
+  no_doctors_listed: 3
+}

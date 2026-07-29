@@ -1,0 +1,30 @@
+{
+  "id": "CSR",
+  "slug": "csr",
+  "title": "CSR",
+  "type": "labeled",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/05/DetailsofCSRamountspentonCSRProjects2026.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/06/Details-of-CSR-amount-spent-on-CSR-Projects.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "financial_year": "2025-26",
+      "documents_link": "https://ilshospitals.com/wp-content/uploads/2026/05/DetailsofCSRamountspentonCSRProjects2026.pdf"
+    },
+    {
+      "financial_year": "2024-25",
+      "documents_link": "https://ilshospitals.com/wp-content/uploads/2025/06/Details-of-CSR-amount-spent-on-CSR-Projects.pdf"
+    }
+  ]
+}

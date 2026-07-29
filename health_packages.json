@@ -1,0 +1,781 @@
+[
+  {
+    "name": "Complete Cardiac Care",
+    "slug": "complete-cardiac-care",
+    "url": "https://ilshospitals.com/health-package/complete-cardiac-care/",
+    "book_url": "https://ilshospitals.com/health-package/complete-cardiac-care/#booknow",
+    "parameter_count": 34,
+    "tests_preview": [
+      "Complete Haemogram with ESR",
+      "Creatinine",
+      "Fasting Blood Sugar"
+    ],
+    "more_tests": "+9 More",
+    "more_tests_count": 9,
+    "original_price": 7500,
+    "offer_price": 5500,
+    "original_price_text": "Rs. 7500/-",
+    "offer_price_text": "Now at Just Rs. 5500/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Decoding Diabetes",
+    "slug": "decoding-diabetes",
+    "url": "https://ilshospitals.com/health-package/decoding-diabetes/",
+    "book_url": "https://ilshospitals.com/health-package/decoding-diabetes/#booknow",
+    "parameter_count": 35,
+    "tests_preview": [
+      "Complete Haemogram with ESR",
+      "Fasting Blood Sugar",
+      "HbA1c"
+    ],
+    "more_tests": "+9 More",
+    "more_tests_count": 9,
+    "original_price": 6300,
+    "offer_price": 4000,
+    "original_price_text": "Rs. 6300/-",
+    "offer_price_text": "Now at Just Rs. 4000/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Care of Senior Citizen Male",
+    "slug": "care-of-senior-citizen-male",
+    "url": "https://ilshospitals.com/health-package/care-of-senior-citizen-male/",
+    "book_url": "https://ilshospitals.com/health-package/care-of-senior-citizen-male/#booknow",
+    "parameter_count": 31,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Cholesterol",
+      "Serum Creatinine"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 7500,
+    "offer_price": 2600,
+    "original_price_text": "Rs. 7500/-",
+    "offer_price_text": "Now at Just Rs. 2600/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Well Woman Health Check-Up",
+    "slug": "well-woman-health-check-up",
+    "url": "https://ilshospitals.com/health-package/well-woman-health-check-up/",
+    "book_url": "https://ilshospitals.com/health-package/well-woman-health-check-up/#booknow",
+    "parameter_count": 37,
+    "tests_preview": [
+      "Complete Haemogram with ESR",
+      "Fasting Blood Sugar",
+      "Pap Smear (C/V)"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 8000,
+    "offer_price": 4000,
+    "original_price_text": "Rs. 8000/-",
+    "offer_price_text": "Now at Just Rs. 4000/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Platinum Health Check-Up Male",
+    "slug": "platinum-health-check-up-male",
+    "url": "https://ilshospitals.com/health-package/platinum-health-check-up-male/",
+    "book_url": "https://ilshospitals.com/health-package/platinum-health-check-up-male/#booknow",
+    "parameter_count": 75,
+    "tests_preview": [
+      "Serum Calcium",
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile"
+    ],
+    "more_tests": "+21 More",
+    "more_tests_count": 21,
+    "original_price": 23200,
+    "offer_price": 8100,
+    "original_price_text": "Rs. 23200/-",
+    "offer_price_text": "Now at Just Rs. 8100/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Diamond Health Check-Up Male",
+    "slug": "diamond-health-check-up-male",
+    "url": "https://ilshospitals.com/health-package/diamond-health-check-up-male/",
+    "book_url": "https://ilshospitals.com/health-package/diamond-health-check-up-male/#booknow",
+    "parameter_count": 78,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile",
+      "Serum Calcium"
+    ],
+    "more_tests": "+21 More",
+    "more_tests_count": 21,
+    "original_price": 26300,
+    "offer_price": 9200,
+    "original_price_text": "Rs. 26300/-",
+    "offer_price_text": "Now at Just Rs. 9200/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Platinum Health Check-Up Female",
+    "slug": "platinum-health-check-up-female",
+    "url": "https://ilshospitals.com/health-package/platinum-health-check-up-female/",
+    "book_url": "https://ilshospitals.com/health-package/platinum-health-check-up-female/#booknow",
+    "parameter_count": 77,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile",
+      "Serum Calcium"
+    ],
+    "more_tests": "+22 More",
+    "more_tests_count": 22,
+    "original_price": 21100,
+    "offer_price": 7400,
+    "original_price_text": "Rs. 21100/-",
+    "offer_price_text": "Now at Just Rs. 7400/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Diamond Health Check-Up Female",
+    "slug": "diamond-health-check-up-female",
+    "url": "https://ilshospitals.com/health-package/diamond-health-check-up-female/",
+    "book_url": "https://ilshospitals.com/health-package/diamond-health-check-up-female/#booknow",
+    "parameter_count": 80,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile",
+      "Serum Calcium"
+    ],
+    "more_tests": "+24 More",
+    "more_tests_count": 24,
+    "original_price": 28300,
+    "offer_price": 9900,
+    "original_price_text": "Rs. 28300/-",
+    "offer_price_text": "Now at Just Rs. 9900/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Gold Health Check-Up Male",
+    "slug": "gold-health-check-up-male",
+    "url": "https://ilshospitals.com/health-package/gold-health-check-up-male/",
+    "book_url": "https://ilshospitals.com/health-package/gold-health-check-up-male/#booknow",
+    "parameter_count": 69,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile",
+      "Serum Calcium"
+    ],
+    "more_tests": "+16 More",
+    "more_tests_count": 16,
+    "original_price": 28300,
+    "offer_price": 5300,
+    "original_price_text": "Rs. 28300/-",
+    "offer_price_text": "Now at Just Rs. 5300/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Silver Health Check-Up",
+    "slug": "silver-health-check-up",
+    "url": "https://ilshospitals.com/health-package/silver-health-check-up/",
+    "book_url": "https://ilshospitals.com/health-package/silver-health-check-up/#booknow",
+    "parameter_count": 39,
+    "tests_preview": [
+      "Complete Haemogram with ESR",
+      "Fasting Blood Sugar",
+      "Lipid Profile"
+    ],
+    "more_tests": "+9 More",
+    "more_tests_count": 9,
+    "original_price": 10500,
+    "offer_price": 4500,
+    "original_price_text": "Rs. 10500/-",
+    "offer_price_text": "Now at Just Rs. 4500/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Gold Health Check-Up Female",
+    "slug": "gold-health-check-up-female",
+    "url": "https://ilshospitals.com/health-package/gold-health-check-up-female/",
+    "book_url": "https://ilshospitals.com/health-package/gold-health-check-up-female/#booknow",
+    "parameter_count": 71,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile",
+      "Serum Calcium"
+    ],
+    "more_tests": "+16 More",
+    "more_tests_count": 16,
+    "original_price": 17100,
+    "offer_price": 6000,
+    "original_price_text": "Rs. 17100/-",
+    "offer_price_text": "Now at Just Rs. 6000/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Bronze Health Check-Up",
+    "slug": "bronze-health-check-up",
+    "url": "https://ilshospitals.com/health-package/bronze-health-check-up/",
+    "book_url": "https://ilshospitals.com/health-package/bronze-health-check-up/#booknow",
+    "parameter_count": 27,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Cholesterol",
+      "Serum Bilirubin"
+    ],
+    "more_tests": "+6 More",
+    "more_tests_count": 6,
+    "original_price": 4200,
+    "offer_price": 1200,
+    "original_price_text": "Rs. 4200/-",
+    "offer_price_text": "Now at Just Rs. 1200/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Care of Senior Citizen Female",
+    "slug": "care-of-senior-citizen-female",
+    "url": "https://ilshospitals.com/health-package/care-of-senior-citizen-female/",
+    "book_url": "https://ilshospitals.com/health-package/care-of-senior-citizen-female/#booknow",
+    "parameter_count": 31,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Cholesterol",
+      "Serum Creatinine"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 7700,
+    "offer_price": 2700,
+    "original_price_text": "Rs. 7700/-",
+    "offer_price_text": "Now at Just Rs. 2700/-",
+    "currency": "INR",
+    "hospital_ids": []
+  },
+  {
+    "name": "Pre Marital Health Check-Up Female",
+    "slug": "pre-marital-health-check-up-female",
+    "url": "https://ilshospitals.com/health-package/pre-marital-health-check-up-female/",
+    "book_url": "https://ilshospitals.com/health-package/pre-marital-health-check-up-female/#booknow",
+    "parameter_count": 36,
+    "tests_preview": [
+      "ABO & RH Grouping",
+      "Complete Haemogram with ESR",
+      "Fasting Blood Sugar"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 6400,
+    "offer_price": 3600,
+    "original_price_text": "Rs. 6400/-",
+    "offer_price_text": "Now at Just Rs. 3600/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Pre Marital Health Check-Up Male",
+    "slug": "pre-marital-health-check-up-male",
+    "url": "https://ilshospitals.com/health-package/pre-marital-health-check-up-male/",
+    "book_url": "https://ilshospitals.com/health-package/pre-marital-health-check-up-male/#booknow",
+    "parameter_count": 24,
+    "tests_preview": [
+      "ABO & RH Grouping",
+      "Complete Haemogram with ESR",
+      "Fasting Blood Sugar"
+    ],
+    "more_tests": "+6 More",
+    "more_tests_count": 6,
+    "original_price": 5400,
+    "offer_price": 2700,
+    "original_price_text": "Rs. 5400/-",
+    "offer_price_text": "Now at Just Rs. 2700/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Cancer Screening Male",
+    "slug": "cancer-screening-male",
+    "url": "https://ilshospitals.com/health-package/cancer-screening-male/",
+    "book_url": "https://ilshospitals.com/health-package/cancer-screening-male/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Routine Examination Stool",
+      "X-Ray Chest PA View",
+      "OP Consultation Physician"
+    ],
+    "more_tests": "+7 More",
+    "more_tests_count": 7,
+    "original_price": 8400,
+    "offer_price": 4200,
+    "original_price_text": "Rs. 8400/-",
+    "offer_price_text": "Now at Just Rs. 4200/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Cancer Screening Female",
+    "slug": "cancer-screening-female",
+    "url": "https://ilshospitals.com/health-package/cancer-screening-female/",
+    "book_url": "https://ilshospitals.com/health-package/cancer-screening-female/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "USG Breast Bilateral Screening",
+      "X-Ray Chest PA View",
+      "OP Consultation Physician"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 7000,
+    "offer_price": 3500,
+    "original_price_text": "Rs. 7000/-",
+    "offer_price_text": "Now at Just Rs. 3500/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Renal Screening",
+    "slug": "renal-screening",
+    "url": "https://ilshospitals.com/health-package/renal-screening/",
+    "book_url": "https://ilshospitals.com/health-package/renal-screening/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Bicarbonate",
+      "Calcium",
+      "Chloride"
+    ],
+    "more_tests": "+11 More",
+    "more_tests_count": 11,
+    "original_price": 11000,
+    "offer_price": 6500,
+    "original_price_text": "Rs. 11000/-",
+    "offer_price_text": "Now at Just Rs. 6500/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Care of Senior Citizen",
+    "slug": "care-of-senior-citizen",
+    "url": "https://ilshospitals.com/health-package/care-of-senior-citizen/",
+    "book_url": "https://ilshospitals.com/health-package/care-of-senior-citizen/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Complete Haemogram with ESR",
+      "PSA (Male) / Pap Smear (Female)",
+      "Fasting Blood Sugar"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 9000,
+    "offer_price": 4000,
+    "original_price_text": "Rs. 9000/-",
+    "offer_price_text": "Now at Just Rs. 4000/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Gold Health Checkup",
+    "slug": "gold-health-checkup",
+    "url": "https://ilshospitals.com/health-package/gold-health-checkup/",
+    "book_url": "https://ilshospitals.com/health-package/gold-health-checkup/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Complete Haemogram with ESR",
+      "Electrolytes",
+      "Fasting Blood Sugar"
+    ],
+    "more_tests": "+14 More",
+    "more_tests_count": 14,
+    "original_price": 9000,
+    "offer_price": 7000,
+    "original_price_text": "Rs. 9000/-",
+    "offer_price_text": "Now at Just Rs. 7000/-",
+    "currency": "INR",
+    "hospital_ids": [
+      341,
+      342,
+      340,
+      343
+    ]
+  },
+  {
+    "name": "Pre Marital Health Check-Up Female",
+    "slug": "pre-marital-health-check-up-female-raipur",
+    "url": "https://ilshospitals.com/health-package/pre-marital-health-check-up-female-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/pre-marital-health-check-up-female-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Routine Examination Urine",
+      "USG Whole Abdomen Screening",
+      "OP Consultation Physician"
+    ],
+    "more_tests": "+6 More",
+    "more_tests_count": 6,
+    "original_price": 4600,
+    "offer_price": 2300,
+    "original_price_text": "Rs. 4600/-",
+    "offer_price_text": "Now at Just Rs. 2300/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Pre Marital Health Check-Up Male",
+    "slug": "pre-marital-health-check-up-male-raipur",
+    "url": "https://ilshospitals.com/health-package/pre-marital-health-check-up-male-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/pre-marital-health-check-up-male-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum VDRL",
+      "OP Consultation Physician"
+    ],
+    "more_tests": "+4 More",
+    "more_tests_count": 4,
+    "original_price": 4200,
+    "offer_price": 2100,
+    "original_price_text": "Rs. 4200/-",
+    "offer_price_text": "Now at Just Rs. 2100/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Well Woman Health Check-Up",
+    "slug": "well-woman-health-check-up-raipur",
+    "url": "https://ilshospitals.com/health-package/well-woman-health-check-up-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/well-woman-health-check-up-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "X-Ray Chest PA View",
+      "ECG"
+    ],
+    "more_tests": "+7 More",
+    "more_tests_count": 7,
+    "original_price": 5600,
+    "offer_price": 2800,
+    "original_price_text": "Rs. 5600/-",
+    "offer_price_text": "Now at Just Rs. 2800/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Platinum Health Check-Up Male",
+    "slug": "platinum-health-check-up-male-raipur",
+    "url": "https://ilshospitals.com/health-package/platinum-health-check-up-male-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/platinum-health-check-up-male-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile",
+      "Serum Electrolyte"
+    ],
+    "more_tests": "+20 More",
+    "more_tests_count": 20,
+    "original_price": 16200,
+    "offer_price": 8100,
+    "original_price_text": "Rs. 16200/-",
+    "offer_price_text": "Now at Just Rs. 8100/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Care of Senior Citizen Female",
+    "slug": "care-of-senior-citizen-female-raipur",
+    "url": "https://ilshospitals.com/health-package/care-of-senior-citizen-female-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/care-of-senior-citizen-female-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "X-Ray Chest PA View",
+      "Echo Cardiography Screening",
+      "OP Consultation Physician"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 5400,
+    "offer_price": 2700,
+    "original_price_text": "Rs. 5400/-",
+    "offer_price_text": "Now at Just Rs. 2700/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Platinum Health Check-Up Female",
+    "slug": "platinum-health-check-up-female-raipur",
+    "url": "https://ilshospitals.com/health-package/platinum-health-check-up-female-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/platinum-health-check-up-female-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Complete Haemogram (CH) - EDTA Whole Blood",
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile"
+    ],
+    "more_tests": "+21 More",
+    "more_tests_count": 21,
+    "original_price": 14800,
+    "offer_price": 7400,
+    "original_price_text": "Rs. 14800/-",
+    "offer_price_text": "Now at Just Rs. 7400/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Care of Senior Citizen Male",
+    "slug": "care-of-senior-citizen-male-raipur",
+    "url": "https://ilshospitals.com/health-package/care-of-senior-citizen-male-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/care-of-senior-citizen-male-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Cholesterol",
+      "Serum Creatinine"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 5200,
+    "offer_price": 2600,
+    "original_price_text": "Rs. 5200/-",
+    "offer_price_text": "Now at Just Rs. 2600/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Decoding Diabetes",
+    "slug": "decoding-diabetes-raipur",
+    "url": "https://ilshospitals.com/health-package/decoding-diabetes-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/decoding-diabetes-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Cholesterol",
+      "Serum Creatinine"
+    ],
+    "more_tests": "+8 More",
+    "more_tests_count": 8,
+    "original_price": 4400,
+    "offer_price": 2200,
+    "original_price_text": "Rs. 4400/-",
+    "offer_price_text": "Now at Just Rs. 2200/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Diamond Health Check-Up Male",
+    "slug": "diamond-health-check-up-male-raipur",
+    "url": "https://ilshospitals.com/health-package/diamond-health-check-up-male-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/diamond-health-check-up-male-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Serum Creatinine",
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile"
+    ],
+    "more_tests": "+23 More",
+    "more_tests_count": 23,
+    "original_price": 18400,
+    "offer_price": 9200,
+    "original_price_text": "Rs. 18400/-",
+    "offer_price_text": "Now at Just Rs. 9200/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Complete Cardiac Care",
+    "slug": "complete-cardiac-care-raipur",
+    "url": "https://ilshospitals.com/health-package/complete-cardiac-care-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/complete-cardiac-care-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile",
+      "Serum Urea"
+    ],
+    "more_tests": "+9 More",
+    "more_tests_count": 9,
+    "original_price": 7400,
+    "offer_price": 3700,
+    "original_price_text": "Rs. 7400/-",
+    "offer_price_text": "Now at Just Rs. 3700/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Diamond Health Check-Up Female",
+    "slug": "diamond-health-check-up-female-raipur",
+    "url": "https://ilshospitals.com/health-package/diamond-health-check-up-female-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/diamond-health-check-up-female-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Serum Creatinine",
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile"
+    ],
+    "more_tests": "+24 More",
+    "more_tests_count": 24,
+    "original_price": 19800,
+    "offer_price": 9900,
+    "original_price_text": "Rs. 19800/-",
+    "offer_price_text": "Now at Just Rs. 9900/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Bronze Health Check-up",
+    "slug": "bronze-health-check-up-raipur",
+    "url": "https://ilshospitals.com/health-package/bronze-health-check-up-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/bronze-health-check-up-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Serum Creatinine",
+      "Plasma Glucose Fasting",
+      "Serum Cholesterol"
+    ],
+    "more_tests": "+6 More",
+    "more_tests_count": 6,
+    "original_price": 2400,
+    "offer_price": 1200,
+    "original_price_text": "Rs. 2400/-",
+    "offer_price_text": "Now at Just Rs. 1200/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Gold Health Check-Up Male",
+    "slug": "gold-health-check-up-male-raipur",
+    "url": "https://ilshospitals.com/health-package/gold-health-check-up-male-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/gold-health-check-up-male-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Serum Creatinine",
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile"
+    ],
+    "more_tests": "+19 More",
+    "more_tests_count": 19,
+    "original_price": 10600,
+    "offer_price": 5300,
+    "original_price_text": "Rs. 10600/-",
+    "offer_price_text": "Now at Just Rs. 5300/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Silver Health Check-Up",
+    "slug": "silver-health-check-up-raipur",
+    "url": "https://ilshospitals.com/health-package/silver-health-check-up-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/silver-health-check-up-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile",
+      "Serum Creatinine"
+    ],
+    "more_tests": "+12 More",
+    "more_tests_count": 12,
+    "original_price": 7400,
+    "offer_price": 3700,
+    "original_price_text": "Rs. 7400/-",
+    "offer_price_text": "Now at Just Rs. 3700/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  },
+  {
+    "name": "Gold Health Check-Up Female",
+    "slug": "gold-health-check-up-female-raipur",
+    "url": "https://ilshospitals.com/health-package/gold-health-check-up-female-raipur/",
+    "book_url": "https://ilshospitals.com/health-package/gold-health-check-up-female-raipur/#booknow",
+    "parameter_count": null,
+    "tests_preview": [
+      "Serum Creatinine",
+      "Plasma Glucose Fasting",
+      "Serum Lipid Profile"
+    ],
+    "more_tests": "+16 More",
+    "more_tests_count": 16,
+    "original_price": 12000,
+    "offer_price": 6000,
+    "original_price_text": "Rs. 12000/-",
+    "offer_price_text": "Now at Just Rs. 6000/-",
+    "currency": "INR",
+    "hospital_ids": [
+      5637
+    ]
+  }
+]

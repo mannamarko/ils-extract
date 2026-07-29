@@ -1,0 +1,4320 @@
+{
+  "hub": {
+    "url": "https://ilshospitals.com/frequently-asked-questions/",
+    "title": "Frequently Asked Questions",
+    "breadcrumb": [
+      {
+        "name": "Home",
+        "url": "https://ilshospitals.com/"
+      },
+      {
+        "name": "Frequently Asked Questions",
+        "url": null
+      }
+    ],
+    "category_count": 9,
+    "seo": {
+      "meta_title": "Frequently Asked Questions - ILS-hospitals",
+      "meta_title_resolved": "Frequently Asked Questions - ILS-hospitals",
+      "meta_description": "Discover the answers to frequently asked questions concerning the medical services, facilities, and practices at ILS Hospitals. To find answers to your questions and to help you make wise health-related decisions, check out our FAQ page.",
+      "robots": "max-image-preview:large",
+      "canonical": "https://ilshospitals.com/frequently-asked-questions/",
+      "canonical_resolved": "https://ilshospitals.com/frequently-asked-questions/",
+      "og": {
+        "title": "Frequently Asked Questions - ILS-hospitals",
+        "description": "Discover the answers to frequently asked questions concerning the medical services, facilities, and practices at ILS Hospitals. To find answers to your questions and to help you make wise health-related decisions, check out our FAQ page.",
+        "type": "article",
+        "url": "https://ilshospitals.com/frequently-asked-questions/",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "locale": "en_US"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Frequently Asked Questions - ILS-hospitals",
+        "description": "Discover the answers to frequently asked questions concerning the medical services, facilities, and practices at ILS Hospitals. To find answers to your questions and to help you make wise health-related decisions, check out our FAQ page.",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "url": null
+      },
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/frequently-asked-questions/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/frequently-asked-questions/#listItem",
+                    "name": "Frequently Asked Questions"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/frequently-asked-questions/#listItem",
+                  "position": 2,
+                  "name": "Frequently Asked Questions",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/frequently-asked-questions/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/frequently-asked-questions/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/frequently-asked-questions/#webpage",
+              "url": "https://ilshospitals.com/frequently-asked-questions/",
+              "name": "Frequently Asked Questions - ILS-hospitals",
+              "description": "Discover the answers to frequently asked questions concerning the medical services, facilities, and practices at ILS Hospitals. To find answers to your questions and to help you make wise health-related decisions, check out our FAQ page.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/frequently-asked-questions/#breadcrumblist"
+              },
+              "datePublished": "2023-10-31T09:56:35+05:30",
+              "dateModified": "2024-06-20T07:00:09+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ils-hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ],
+          "_source": "aioseo"
+        }
+      ],
+      "json_ld_by_source": {
+        "aioseo": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/frequently-asked-questions/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/frequently-asked-questions/#listItem",
+                      "name": "Frequently Asked Questions"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/frequently-asked-questions/#listItem",
+                    "position": 2,
+                    "name": "Frequently Asked Questions",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/frequently-asked-questions/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/frequently-asked-questions/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/frequently-asked-questions/#webpage",
+                "url": "https://ilshospitals.com/frequently-asked-questions/",
+                "name": "Frequently Asked Questions - ILS-hospitals",
+                "description": "Discover the answers to frequently asked questions concerning the medical services, facilities, and practices at ILS Hospitals. To find answers to your questions and to help you make wise health-related decisions, check out our FAQ page.",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/frequently-asked-questions/#breadcrumblist"
+                },
+                "datePublished": "2023-10-31T09:56:35+05:30",
+                "dateModified": "2024-06-20T07:00:09+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "post": []
+      },
+      "blogposting": null,
+      "breadcrumbs": [
+        {
+          "position": 1,
+          "name": "Home",
+          "item": "https://ilshospitals.com"
+        },
+        {
+          "position": 2,
+          "name": "Frequently Asked Questions",
+          "item": null
+        }
+      ],
+      "meta_all": [
+        {
+          "kind": "name",
+          "key": "viewport",
+          "content": "width=device-width, initial-scale=1.0",
+          "index": 2
+        },
+        {
+          "kind": "name",
+          "key": "msvalidate.01",
+          "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+          "index": 3
+        },
+        {
+          "kind": "name",
+          "key": "description",
+          "content": "Discover the answers to frequently asked questions concerning the medical services, facilities, and practices at ILS Hospitals. To find answers to your questions and to help you make wise health-related decisions, check out our FAQ page.",
+          "index": 4
+        },
+        {
+          "kind": "name",
+          "key": "robots",
+          "content": "max-image-preview:large",
+          "index": 5
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "All in One SEO (AIOSEO) 4.9.10",
+          "index": 6
+        },
+        {
+          "kind": "property",
+          "key": "og:locale",
+          "content": "en_US",
+          "index": 7
+        },
+        {
+          "kind": "property",
+          "key": "og:site_name",
+          "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "index": 8
+        },
+        {
+          "kind": "property",
+          "key": "og:type",
+          "content": "article",
+          "index": 9
+        },
+        {
+          "kind": "property",
+          "key": "og:title",
+          "content": "Frequently Asked Questions - ILS-hospitals",
+          "index": 10
+        },
+        {
+          "kind": "property",
+          "key": "og:description",
+          "content": "Discover the answers to frequently asked questions concerning the medical services, facilities, and practices at ILS Hospitals. To find answers to your questions and to help you make wise health-related decisions, check out our FAQ page.",
+          "index": 11
+        },
+        {
+          "kind": "property",
+          "key": "og:url",
+          "content": "https://ilshospitals.com/frequently-asked-questions/",
+          "index": 12
+        },
+        {
+          "kind": "property",
+          "key": "og:image",
+          "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "index": 13
+        },
+        {
+          "kind": "property",
+          "key": "og:image:secure_url",
+          "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "index": 14
+        },
+        {
+          "kind": "property",
+          "key": "article:published_time",
+          "content": "2023-10-31T09:56:35+00:00",
+          "index": 15
+        },
+        {
+          "kind": "property",
+          "key": "article:modified_time",
+          "content": "2024-06-20T07:00:09+00:00",
+          "index": 16
+        },
+        {
+          "kind": "name",
+          "key": "twitter:card",
+          "content": "summary_large_image",
+          "index": 17
+        },
+        {
+          "kind": "name",
+          "key": "twitter:title",
+          "content": "Frequently Asked Questions - ILS-hospitals",
+          "index": 18
+        },
+        {
+          "kind": "name",
+          "key": "twitter:description",
+          "content": "Discover the answers to frequently asked questions concerning the medical services, facilities, and practices at ILS Hospitals. To find answers to your questions and to help you make wise health-related decisions, check out our FAQ page.",
+          "index": 19
+        },
+        {
+          "kind": "name",
+          "key": "twitter:image",
+          "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "index": 20
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "WordPress 7.0.2",
+          "index": 21
+        },
+        {
+          "kind": "name",
+          "key": "google-site-verification",
+          "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+          "index": 22
+        },
+        {
+          "kind": "name",
+          "key": "google-site-verification",
+          "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+          "index": 23
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "performance-lab 4.0.0; plugins: webp-uploads",
+          "index": 24
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "webp-uploads 2.6.1",
+          "index": 25
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "optimization-detective 1.0.0-beta3",
+          "index": 26
+        }
+      ],
+      "seo_issues": [
+        "no_post_specific_schema",
+        "no_post_specific_meta"
+      ],
+      "source_url": "https://ilshospitals.com/frequently-asked-questions/"
+    },
+    "seo_issues": [
+      "no_faqpage_schema",
+      "og_image_generic_logo"
+    ]
+  },
+  "categories": [
+    {
+      "id": 558,
+      "title": "Book An Appointment",
+      "slug": "book-an-appointment",
+      "url": "https://ilshospitals.com/faq-lists/book-an-appointment/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-calendar.svg",
+      "card_title": "Book An Appointment",
+      "filter_keyword": "book an appointment",
+      "order": 1,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Book An Appointment",
+          "url": null
+        }
+      ],
+      "question_count": 1,
+      "questions": [
+        {
+          "position": 1,
+          "question": "How to book an appointment?",
+          "answer_html": "<p></p><div class=\"faq-box\"> <h4 class=\"mb-3 fs-5\">Steps to Book an Appointment via Patient Portal</h4> <div class=\"row justify-content-center\"> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>1</span> <h2>Visit the Patient Portal</h2> <p>Go to the ILS Hospitals website and click on the Patient Portal link.</p> <p><strong><a href=\"https://patient.ilshospitals.com/\" target=\"_blank\">patient.ilshospitals.com</a></strong></p> </div> </div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>2</span> <h2>Log in or Register</h2> <p><strong>Existing Users: </strong>Enter your registered email ID and password to log in.</p> <p><strong>New Users: </strong>Click Register to create your account by filling in the required details.</p> </div> </div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>3</span> <h2>Select Location</h2> <p>Once logged in, navigate to the Location dropdown section on the dashboard.</p> </div> </div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>4</span> <h2>Choose Department and Doctor</h2> <p>Select a specialty or doctor, check availability, and book a suitable time slot.</p> </div> </div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>5</span> <h2>Confirm Appointment Details</h2> <p>Review your selection, and add any additional notes or requirements.</p> </div> </div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>6</span> <h2>Receive Confirmation</h2> <p>You will receive a booking confirmation on the portal, along with an email or SMS notification.</p> </div> </div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>7</span> <h2>Visit the Hospital</h2> <p>On the appointment day, bring any necessary documents (ID proof, previous medical reports, etc.) and arrive on time.</p> </div> </div> </div> <p class=\"mb-2 mt-2\">Book an appointment: online at&nbsp;www.ilshospitals.com&nbsp;or mail your queries to&nbsp;<strong><a href=\"mailto:info@ilshospitals.com\">info@ilshospitals.com</a></strong>&nbsp;or call us at:</p> <ul> <li>Agartala: 8974050300, 0381 241 5000</li> <li>Dumdum: 033 4031 5000</li> <li>Howrah: 033 4088 0000, 033 4088 1202</li> <li>Salt Lake: 033 4020 6500</li> </ul> </div><p></p>",
+          "answer_text": "Steps to Book an Appointment via Patient Portal 1 Visit the Patient Portal Go to the ILS Hospitals website and click on the Patient Portal link. patient.ilshospitals.com 2 Log in or Register Existing Users: Enter your registered email ID and password to log in. New Users: Click Register to create your account by filling in the required details. 3 Select Location Once logged in, navigate to the Location dropdown section on the dashboard. 4 Choose Department and Doctor Select a specialty or doctor, check availability, and book a suitable time slot. 5 Confirm Appointment Details Review your selection, and add any additional notes or requirements. 6 Receive Confirmation You will receive a booking confirmation on the portal, along with an email or SMS notification. 7 Visit the Hospital On the appointment day, bring any necessary documents (ID proof, previous medical reports, etc.) and arrive on time. Book an appointment: online at www.ilshospitals.com or mail your queries to info@ilshospitals.com or call us at: Agartala: 8974050300, 0381 241 5000 Dumdum: 033 4031 5000 Howrah: 033 4088 0000, 033 4088 1202 Salt Lake: 033 4020 6500",
+          "links": [
+            {
+              "text": "patient.ilshospitals.com",
+              "url": "https://patient.ilshospitals.com/"
+            },
+            {
+              "text": "info@ilshospitals.com",
+              "url": "mailto:info@ilshospitals.com"
+            }
+          ],
+          "images": [],
+          "target_id": "collapse1"
+        }
+      ],
+      "published_date": "2023-11-01T10:48:23",
+      "modified_date": "2024-01-11T12:59:11",
+      "seo": {
+        "meta_title": "Book An Appointment - ILS-hospitals",
+        "meta_title_resolved": "Book An Appointment - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/book-an-appointment/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/book-an-appointment/",
+        "og": {
+          "title": "Book An Appointment - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/book-an-appointment/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Book An Appointment - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#listItem",
+                      "name": "Book An Appointment"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#listItem",
+                    "position": 2,
+                    "name": "Book An Appointment",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/book-an-appointment/",
+                "name": "Book An Appointment - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-calendar.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#mainImage"
+                },
+                "datePublished": "2023-11-01T10:48:23+05:30",
+                "dateModified": "2024-01-11T12:59:11+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#listItem",
+                        "name": "Book An Appointment"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#listItem",
+                      "position": 2,
+                      "name": "Book An Appointment",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/book-an-appointment/",
+                  "name": "Book An Appointment - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-calendar.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/book-an-appointment/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T10:48:23+05:30",
+                  "dateModified": "2024-01-11T12:59:11+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "Book An Appointment",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Book An Appointment - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/book-an-appointment/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T10:48:23+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:59:11+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Book An Appointment - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/book-an-appointment/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 710,
+      "title": "Visitors Enquiry",
+      "slug": "visitors-enquiry",
+      "url": "https://ilshospitals.com/faq-lists/visitors-enquiry/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-id-card.svg",
+      "card_title": "Visitors Enquiry",
+      "filter_keyword": "visitors enquiry",
+      "order": 2,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Visitors Enquiry",
+          "url": null
+        }
+      ],
+      "question_count": 3,
+      "questions": [
+        {
+          "position": 1,
+          "question": "What are the visiting hours?",
+          "answer_html": "<p><strong>Visiting&nbsp;hours&nbsp;are&nbsp;as&nbsp;followed:</strong> </p><ul> <li>Ward/Twin Sharing/Cabin/Suite: 9am - 10am I 5pm - 7pm</li> <li>ITU/ICU/CCU/NICU/HDU: 5pm - 6pm &nbsp; | &nbsp; 9am - 10am (Saltlake only)</li> </ul><p></p>",
+          "answer_text": "Visiting hours are as followed: Ward/Twin Sharing/Cabin/Suite: 9am - 10am I 5pm - 7pm ITU/ICU/CCU/NICU/HDU: 5pm - 6pm | 9am - 10am (Saltlake only)",
+          "links": [],
+          "images": [],
+          "target_id": "collapse1"
+        },
+        {
+          "position": 2,
+          "question": "Rules and guidelines for visitors",
+          "answer_html": "<p>Visitors must carry visitor pass. Only two persons are allowed during visiting hours at Ward/Twin Sharing/Cabi /Suite and only one person is allowed during visiting hours at ITU/ICU/CCU/NICU/HDU. Children are strictly not allowed in critical care areas.</p>",
+          "answer_text": "Visitors must carry visitor pass. Only two persons are allowed during visiting hours at Ward/Twin Sharing/Cabi /Suite and only one person is allowed during visiting hours at ITU/ICU/CCU/NICU/HDU. Children are strictly not allowed in critical care areas.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse2"
+        },
+        {
+          "position": 3,
+          "question": "Is outside food allowed into the hospital?",
+          "answer_html": "<p>Outside medicines and foods are not allowed within hospital premises. Patient meals are served as per instruction of the doctor and dietician.</p>",
+          "answer_text": "Outside medicines and foods are not allowed within hospital premises. Patient meals are served as per instruction of the doctor and dietician.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse3"
+        }
+      ],
+      "published_date": "2023-11-01T11:28:50",
+      "modified_date": "2024-01-11T12:58:21",
+      "seo": {
+        "meta_title": "Visitors Enquiry - ILS-hospitals",
+        "meta_title_resolved": "Visitors Enquiry - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/visitors-enquiry/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/visitors-enquiry/",
+        "og": {
+          "title": "Visitors Enquiry - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/visitors-enquiry/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Visitors Enquiry - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#listItem",
+                      "name": "Visitors Enquiry"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#listItem",
+                    "position": 2,
+                    "name": "Visitors Enquiry",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/visitors-enquiry/",
+                "name": "Visitors Enquiry - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-id-card.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#mainImage"
+                },
+                "datePublished": "2023-11-01T11:28:50+05:30",
+                "dateModified": "2024-01-11T12:58:21+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#listItem",
+                        "name": "Visitors Enquiry"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#listItem",
+                      "position": 2,
+                      "name": "Visitors Enquiry",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/visitors-enquiry/",
+                  "name": "Visitors Enquiry - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-id-card.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/visitors-enquiry/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T11:28:50+05:30",
+                  "dateModified": "2024-01-11T12:58:21+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "Visitors Enquiry",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Visitors Enquiry - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/visitors-enquiry/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T11:28:50+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:58:21+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Visitors Enquiry - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/visitors-enquiry/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 711,
+      "title": "Payment System",
+      "slug": "payment-system",
+      "url": "https://ilshospitals.com/faq-lists/payment-system/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-wallet.svg",
+      "card_title": "Payment System",
+      "filter_keyword": "payment system",
+      "order": 3,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Payment System",
+          "url": null
+        }
+      ],
+      "question_count": 2,
+      "questions": [
+        {
+          "position": 1,
+          "question": "What is the mode of payment in your hospital?",
+          "answer_html": "<p>The payment can be made by Cash / Credit Card / Debit Cards/ DD/ Wire Transfer / Cheque.</p>",
+          "answer_text": "The payment can be made by Cash / Credit Card / Debit Cards/ DD/ Wire Transfer / Cheque.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse1"
+        },
+        {
+          "position": 2,
+          "question": "Is advance payment must for an emergency case?",
+          "answer_html": "<p>During emergency every minute is vital so the admission is done immediately without any advance deposit money and the patient is taken under medical observation.</p>",
+          "answer_text": "During emergency every minute is vital so the admission is done immediately without any advance deposit money and the patient is taken under medical observation.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse2"
+        }
+      ],
+      "published_date": "2023-11-01T11:29:15",
+      "modified_date": "2024-01-11T12:57:36",
+      "seo": {
+        "meta_title": "Payment System - ILS-hospitals",
+        "meta_title_resolved": "Payment System - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/payment-system/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/payment-system/",
+        "og": {
+          "title": "Payment System - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/payment-system/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Payment System - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/payment-system/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/payment-system/#listItem",
+                      "name": "Payment System"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/payment-system/#listItem",
+                    "position": 2,
+                    "name": "Payment System",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/payment-system/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/payment-system/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/payment-system/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/payment-system/",
+                "name": "Payment System - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/payment-system/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-wallet.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/payment-system/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/payment-system/#mainImage"
+                },
+                "datePublished": "2023-11-01T11:29:15+05:30",
+                "dateModified": "2024-01-11T12:57:36+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/payment-system/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/payment-system/#listItem",
+                        "name": "Payment System"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/payment-system/#listItem",
+                      "position": 2,
+                      "name": "Payment System",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/payment-system/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/payment-system/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/payment-system/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/payment-system/",
+                  "name": "Payment System - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/payment-system/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-wallet.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/payment-system/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/payment-system/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T11:29:15+05:30",
+                  "dateModified": "2024-01-11T12:57:36+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "Payment System",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Payment System - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/payment-system/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T11:29:15+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:57:36+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Payment System - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/payment-system/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 712,
+      "title": "Health Check-up Packages",
+      "slug": "health-check-up-packages",
+      "url": "https://ilshospitals.com/faq-lists/health-check-up-packages/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-stethoscope.svg",
+      "card_title": "Health Check-up Packages",
+      "filter_keyword": "health check-up packages",
+      "order": 4,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Health Check-up Packages",
+          "url": null
+        }
+      ],
+      "question_count": 1,
+      "questions": [
+        {
+          "position": 1,
+          "question": "Do you have any health check up packages?",
+          "answer_html": "<p></p><p class=\"sub-txt\">ILS Hospitals are equipped with the latest and accurate testing equipments, trained technicians and specialists providing an advance range of health check up and screening services.</p> <p>This Health Check up Packages covers a wide range of investigations&nbsp;like from basic standard set of blood tests to detailed physical examinations and consultation by experienced doctors and each package is tailored to suit the needs of an individual.</p><p></p>",
+          "answer_text": "ILS Hospitals are equipped with the latest and accurate testing equipments, trained technicians and specialists providing an advance range of health check up and screening services. This Health Check up Packages covers a wide range of investigations like from basic standard set of blood tests to detailed physical examinations and consultation by experienced doctors and each package is tailored to suit the needs of an individual.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse1"
+        }
+      ],
+      "published_date": "2023-11-01T11:29:31",
+      "modified_date": "2024-01-11T12:56:54",
+      "seo": {
+        "meta_title": "Health Check-up Packages - ILS-hospitals",
+        "meta_title_resolved": "Health Check-up Packages - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/health-check-up-packages/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/health-check-up-packages/",
+        "og": {
+          "title": "Health Check-up Packages - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/health-check-up-packages/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Health Check-up Packages - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#listItem",
+                      "name": "Health Check-up Packages"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#listItem",
+                    "position": 2,
+                    "name": "Health Check-up Packages",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/health-check-up-packages/",
+                "name": "Health Check-up Packages - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-stethoscope.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#mainImage"
+                },
+                "datePublished": "2023-11-01T11:29:31+05:30",
+                "dateModified": "2024-01-11T12:56:54+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#listItem",
+                        "name": "Health Check-up Packages"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#listItem",
+                      "position": 2,
+                      "name": "Health Check-up Packages",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/health-check-up-packages/",
+                  "name": "Health Check-up Packages - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-stethoscope.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/health-check-up-packages/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T11:29:31+05:30",
+                  "dateModified": "2024-01-11T12:56:54+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "Health Check-up Packages",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Health Check-up Packages - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/health-check-up-packages/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T11:29:31+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:56:54+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Health Check-up Packages - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/health-check-up-packages/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 713,
+      "title": "Mediclaim Policy, Cashless Treatments",
+      "slug": "mediclaim-policy-cashless-treatments",
+      "url": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-health-insurance.svg",
+      "card_title": "Mediclaim Policy, Cashless Treatments",
+      "filter_keyword": "mediclaim policy, cashless treatments",
+      "order": 5,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Mediclaim Policy, Cashless Treatments",
+          "url": null
+        }
+      ],
+      "question_count": 2,
+      "questions": [
+        {
+          "position": 1,
+          "question": "Do you have the facility of cashless treatment?",
+          "answer_html": "<p>Yes, Cashless facility is available for empanelled TPA's &amp; insurance Companies.</p>",
+          "answer_text": "Yes, Cashless facility is available for empanelled TPA's & insurance Companies.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse1"
+        },
+        {
+          "position": 2,
+          "question": "Is Mediclaim policy accepted at your hospital?",
+          "answer_html": "<p>Yes, empanelled TPA's &amp; insurance Companies are accepted at the hospitals.</p>",
+          "answer_text": "Yes, empanelled TPA's & insurance Companies are accepted at the hospitals.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse2"
+        }
+      ],
+      "published_date": "2023-11-01T11:35:14",
+      "modified_date": "2024-01-11T12:56:07",
+      "seo": {
+        "meta_title": "Mediclaim Policy, Cashless Treatments - ILS-hospitals",
+        "meta_title_resolved": "Mediclaim Policy, Cashless Treatments - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/",
+        "og": {
+          "title": "Mediclaim Policy, Cashless Treatments - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Mediclaim Policy, Cashless Treatments - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#listItem",
+                      "name": "Mediclaim Policy, Cashless Treatments"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#listItem",
+                    "position": 2,
+                    "name": "Mediclaim Policy, Cashless Treatments",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/",
+                "name": "Mediclaim Policy, Cashless Treatments - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-health-insurance.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#mainImage"
+                },
+                "datePublished": "2023-11-01T11:35:14+05:30",
+                "dateModified": "2024-01-11T12:56:07+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#listItem",
+                        "name": "Mediclaim Policy, Cashless Treatments"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#listItem",
+                      "position": 2,
+                      "name": "Mediclaim Policy, Cashless Treatments",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/",
+                  "name": "Mediclaim Policy, Cashless Treatments - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-health-insurance.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T11:35:14+05:30",
+                  "dateModified": "2024-01-11T12:56:07+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "Mediclaim Policy, Cashless Treatments",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Mediclaim Policy, Cashless Treatments - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T11:35:14+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:56:07+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Mediclaim Policy, Cashless Treatments - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/mediclaim-policy-cashless-treatments/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 714,
+      "title": "24×7 Emergency Service",
+      "slug": "24x7-emergency-service",
+      "url": "https://ilshospitals.com/faq-lists/24x7-emergency-service/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-medical-service.svg",
+      "card_title": "24×7 Emergency Service",
+      "filter_keyword": "24×7 emergency service",
+      "order": 6,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "24×7 Emergency Service",
+          "url": null
+        }
+      ],
+      "question_count": 1,
+      "questions": [
+        {
+          "position": 1,
+          "question": "Does the hospital have 24×7 emergency care services?",
+          "answer_html": "<p>Yes,&nbsp;24&nbsp;x&nbsp;7&nbsp;Emergency&nbsp;care&nbsp;service&nbsp;is&nbsp;available&nbsp;at&nbsp;the&nbsp;hospitals.</p>",
+          "answer_text": "Yes, 24 x 7 Emergency care service is available at the hospitals.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse1"
+        }
+      ],
+      "published_date": "2023-11-01T11:35:40",
+      "modified_date": "2024-01-11T12:55:13",
+      "seo": {
+        "meta_title": "24×7 Emergency Service - ILS-hospitals",
+        "meta_title_resolved": "24×7 Emergency Service - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/24x7-emergency-service/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/24x7-emergency-service/",
+        "og": {
+          "title": "24×7 Emergency Service - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/24x7-emergency-service/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "24×7 Emergency Service - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#listItem",
+                      "name": "24&#215;7 Emergency Service"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#listItem",
+                    "position": 2,
+                    "name": "24&#215;7 Emergency Service",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/24x7-emergency-service/",
+                "name": "24×7 Emergency Service - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-medical-service.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#mainImage"
+                },
+                "datePublished": "2023-11-01T11:35:40+05:30",
+                "dateModified": "2024-01-11T12:55:13+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#listItem",
+                        "name": "24&#215;7 Emergency Service"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#listItem",
+                      "position": 2,
+                      "name": "24&#215;7 Emergency Service",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/24x7-emergency-service/",
+                  "name": "24×7 Emergency Service - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-medical-service.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/24x7-emergency-service/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T11:35:40+05:30",
+                  "dateModified": "2024-01-11T12:55:13+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "24&#215;7 Emergency Service",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "24×7 Emergency Service - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/24x7-emergency-service/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T11:35:40+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:55:13+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "24×7 Emergency Service - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/24x7-emergency-service/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 715,
+      "title": "Dialysis Facility",
+      "slug": "dialysis-facility",
+      "url": "https://ilshospitals.com/faq-lists/dialysis-facility/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-blood.svg",
+      "card_title": "Dialysis Facility",
+      "filter_keyword": "dialysis facility",
+      "order": 7,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Dialysis Facility",
+          "url": null
+        }
+      ],
+      "question_count": 1,
+      "questions": [
+        {
+          "position": 1,
+          "question": "Is Dialysis facility available?",
+          "answer_html": "<p>Yes, Dialysis facility is available at ILS Hospitals Agartala and ILS Hospitals Dumdum.</p>",
+          "answer_text": "Yes, Dialysis facility is available at ILS Hospitals Agartala and ILS Hospitals Dumdum.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse1"
+        }
+      ],
+      "published_date": "2023-11-01T11:35:59",
+      "modified_date": "2024-01-11T12:54:23",
+      "seo": {
+        "meta_title": "Dialysis Facility - ILS-hospitals",
+        "meta_title_resolved": "Dialysis Facility - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/dialysis-facility/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/dialysis-facility/",
+        "og": {
+          "title": "Dialysis Facility - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/dialysis-facility/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Dialysis Facility - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#listItem",
+                      "name": "Dialysis Facility"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#listItem",
+                    "position": 2,
+                    "name": "Dialysis Facility",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/dialysis-facility/",
+                "name": "Dialysis Facility - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-blood.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#mainImage"
+                },
+                "datePublished": "2023-11-01T11:35:59+05:30",
+                "dateModified": "2024-01-11T12:54:23+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#listItem",
+                        "name": "Dialysis Facility"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#listItem",
+                      "position": 2,
+                      "name": "Dialysis Facility",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/dialysis-facility/",
+                  "name": "Dialysis Facility - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-blood.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/dialysis-facility/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T11:35:59+05:30",
+                  "dateModified": "2024-01-11T12:54:23+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "Dialysis Facility",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Dialysis Facility - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/dialysis-facility/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T11:35:59+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:54:23+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Dialysis Facility - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/dialysis-facility/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 716,
+      "title": "Bed Charges",
+      "slug": "bed-charges",
+      "url": "https://ilshospitals.com/faq-lists/bed-charges/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-bed.svg",
+      "card_title": "Bed Charges",
+      "filter_keyword": "bed charges",
+      "order": 8,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Bed Charges",
+          "url": null
+        }
+      ],
+      "question_count": 1,
+      "questions": [
+        {
+          "position": 1,
+          "question": "How the bed charges are calculated?",
+          "answer_html": "<p>Bed charges are calculated as per 24 hour basis from the time of admission.</p>",
+          "answer_text": "Bed charges are calculated as per 24 hour basis from the time of admission.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse1"
+        }
+      ],
+      "published_date": "2023-11-01T11:36:20",
+      "modified_date": "2024-01-11T12:53:05",
+      "seo": {
+        "meta_title": "Bed Charges - ILS-hospitals",
+        "meta_title_resolved": "Bed Charges - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/bed-charges/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/bed-charges/",
+        "og": {
+          "title": "Bed Charges - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/bed-charges/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Bed Charges - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/bed-charges/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/bed-charges/#listItem",
+                      "name": "Bed Charges"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/bed-charges/#listItem",
+                    "position": 2,
+                    "name": "Bed Charges",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/bed-charges/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/bed-charges/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/bed-charges/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/bed-charges/",
+                "name": "Bed Charges - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/bed-charges/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-bed.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/bed-charges/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/bed-charges/#mainImage"
+                },
+                "datePublished": "2023-11-01T11:36:20+05:30",
+                "dateModified": "2024-01-11T12:53:05+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/bed-charges/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/bed-charges/#listItem",
+                        "name": "Bed Charges"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/bed-charges/#listItem",
+                      "position": 2,
+                      "name": "Bed Charges",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/bed-charges/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/bed-charges/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/bed-charges/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/bed-charges/",
+                  "name": "Bed Charges - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/bed-charges/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-bed.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/bed-charges/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/bed-charges/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T11:36:20+05:30",
+                  "dateModified": "2024-01-11T12:53:05+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "Bed Charges",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Bed Charges - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/bed-charges/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T11:36:20+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:53:05+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Bed Charges - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/bed-charges/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    },
+    {
+      "id": 717,
+      "title": "Admission & Billing",
+      "slug": "admission-billing",
+      "url": "https://ilshospitals.com/faq-lists/admission-billing/",
+      "icon": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-hospital-reception.svg",
+      "card_title": "Admission & Billing",
+      "filter_keyword": "admission & billing",
+      "order": 9,
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "url": "https://ilshospitals.com/"
+        },
+        {
+          "name": "FAQ",
+          "url": "https://ilshospitals.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Admission & Billing",
+          "url": null
+        }
+      ],
+      "question_count": 2,
+      "questions": [
+        {
+          "position": 1,
+          "question": "Working hours of Admission and Billing section?",
+          "answer_html": "<p>Admission&nbsp;and&nbsp;Billing&nbsp;section&nbsp;functions&nbsp;24x7.</p>",
+          "answer_text": "Admission and Billing section functions 24x7.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse1"
+        },
+        {
+          "position": 2,
+          "question": "What are the required documents for admission?",
+          "answer_html": "<p>The mainly required documents are Prescription of any previous treatment, Diagnostic test reports, Details of all medicine &amp; dosages of the patient, Patient id proof, insurance or medical benefit card or proof.</p>",
+          "answer_text": "The mainly required documents are Prescription of any previous treatment, Diagnostic test reports, Details of all medicine & dosages of the patient, Patient id proof, insurance or medical benefit card or proof.",
+          "links": [],
+          "images": [],
+          "target_id": "collapse2"
+        }
+      ],
+      "published_date": "2023-11-01T11:36:37",
+      "modified_date": "2024-01-11T12:51:59",
+      "seo": {
+        "meta_title": "Admission & Billing - ILS-hospitals",
+        "meta_title_resolved": "Admission & Billing - ILS-hospitals",
+        "meta_description": null,
+        "robots": "max-image-preview:large",
+        "canonical": "https://ilshospitals.com/faq-lists/admission-billing/",
+        "canonical_resolved": "https://ilshospitals.com/faq-lists/admission-billing/",
+        "og": {
+          "title": "Admission & Billing - ILS-hospitals",
+          "description": null,
+          "type": "article",
+          "url": "https://ilshospitals.com/faq-lists/admission-billing/",
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "locale": "en_US"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Admission & Billing - ILS-hospitals",
+          "description": null,
+          "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "url": null
+        },
+        "json_ld": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/faq-lists/admission-billing/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/admission-billing/#listItem",
+                      "name": "Admission &#038; Billing"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/faq-lists/admission-billing/#listItem",
+                    "position": 2,
+                    "name": "Admission &#038; Billing",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/faq-lists/admission-billing/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/faq-lists/admission-billing/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/faq-lists/admission-billing/#webpage",
+                "url": "https://ilshospitals.com/faq-lists/admission-billing/",
+                "name": "Admission & Billing - ILS-hospitals",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/faq-lists/admission-billing/#breadcrumblist"
+                },
+                "image": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-hospital-reception.svg",
+                  "@id": "https://ilshospitals.com/faq-lists/admission-billing/#mainImage"
+                },
+                "primaryImageOfPage": {
+                  "@id": "https://ilshospitals.com/faq-lists/admission-billing/#mainImage"
+                },
+                "datePublished": "2023-11-01T11:36:37+05:30",
+                "dateModified": "2024-01-11T12:51:59+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ils-hospital",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "json_ld_by_source": {
+          "aioseo": [
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": "https://ilshospitals.com/faq-lists/admission-billing/#breadcrumblist",
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "position": 1,
+                      "name": "Home",
+                      "item": "https://ilshospitals.com",
+                      "nextItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com/faq-lists/admission-billing/#listItem",
+                        "name": "Admission &#038; Billing"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/faq-lists/admission-billing/#listItem",
+                      "position": 2,
+                      "name": "Admission &#038; Billing",
+                      "previousItem": {
+                        "@type": "ListItem",
+                        "@id": "https://ilshospitals.com#listItem",
+                        "name": "Home"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Organization",
+                  "@id": "https://ilshospitals.com/#organization",
+                  "name": "ILS Hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "url": "https://ilshospitals.com/",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                    "@id": "https://ilshospitals.com/faq-lists/admission-billing/#organizationLogo",
+                    "width": 184,
+                    "height": 82,
+                    "caption": "ILS Hospitals Logo"
+                  },
+                  "image": {
+                    "@id": "https://ilshospitals.com/faq-lists/admission-billing/#organizationLogo"
+                  }
+                },
+                {
+                  "@type": "WebPage",
+                  "@id": "https://ilshospitals.com/faq-lists/admission-billing/#webpage",
+                  "url": "https://ilshospitals.com/faq-lists/admission-billing/",
+                  "name": "Admission & Billing - ILS-hospitals",
+                  "inLanguage": "en-US",
+                  "isPartOf": {
+                    "@id": "https://ilshospitals.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://ilshospitals.com/faq-lists/admission-billing/#breadcrumblist"
+                  },
+                  "image": {
+                    "@type": "ImageObject",
+                    "url": "https://ilshospitals.com/wp-content/uploads/2023/11/faq-hospital-reception.svg",
+                    "@id": "https://ilshospitals.com/faq-lists/admission-billing/#mainImage"
+                  },
+                  "primaryImageOfPage": {
+                    "@id": "https://ilshospitals.com/faq-lists/admission-billing/#mainImage"
+                  },
+                  "datePublished": "2023-11-01T11:36:37+05:30",
+                  "dateModified": "2024-01-11T12:51:59+05:30"
+                },
+                {
+                  "@type": "WebSite",
+                  "@id": "https://ilshospitals.com/#website",
+                  "url": "https://ilshospitals.com/",
+                  "name": "ils-hospital",
+                  "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                  "inLanguage": "en-US",
+                  "publisher": {
+                    "@id": "https://ilshospitals.com/#organization"
+                  }
+                }
+              ],
+              "_source": "aioseo"
+            }
+          ],
+          "post": []
+        },
+        "blogposting": null,
+        "breadcrumbs": [
+          {
+            "position": 1,
+            "name": "Home",
+            "item": "https://ilshospitals.com"
+          },
+          {
+            "position": 2,
+            "name": "Admission &#038; Billing",
+            "item": null
+          }
+        ],
+        "meta_all": [
+          {
+            "kind": "name",
+            "key": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+            "index": 2
+          },
+          {
+            "kind": "name",
+            "key": "msvalidate.01",
+            "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+            "index": 3
+          },
+          {
+            "kind": "name",
+            "key": "robots",
+            "content": "max-image-preview:large",
+            "index": 4
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "All in One SEO (AIOSEO) 4.9.10",
+            "index": 5
+          },
+          {
+            "kind": "property",
+            "key": "og:locale",
+            "content": "en_US",
+            "index": 6
+          },
+          {
+            "kind": "property",
+            "key": "og:site_name",
+            "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "index": 7
+          },
+          {
+            "kind": "property",
+            "key": "og:type",
+            "content": "article",
+            "index": 8
+          },
+          {
+            "kind": "property",
+            "key": "og:title",
+            "content": "Admission & Billing - ILS-hospitals",
+            "index": 9
+          },
+          {
+            "kind": "property",
+            "key": "og:url",
+            "content": "https://ilshospitals.com/faq-lists/admission-billing/",
+            "index": 10
+          },
+          {
+            "kind": "property",
+            "key": "og:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 11
+          },
+          {
+            "kind": "property",
+            "key": "og:image:secure_url",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 12
+          },
+          {
+            "kind": "property",
+            "key": "article:published_time",
+            "content": "2023-11-01T11:36:37+00:00",
+            "index": 13
+          },
+          {
+            "kind": "property",
+            "key": "article:modified_time",
+            "content": "2024-01-11T12:51:59+00:00",
+            "index": 14
+          },
+          {
+            "kind": "name",
+            "key": "twitter:card",
+            "content": "summary_large_image",
+            "index": 15
+          },
+          {
+            "kind": "name",
+            "key": "twitter:title",
+            "content": "Admission & Billing - ILS-hospitals",
+            "index": 16
+          },
+          {
+            "kind": "name",
+            "key": "twitter:image",
+            "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+            "index": 17
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "WordPress 7.0.2",
+            "index": 18
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+            "index": 19
+          },
+          {
+            "kind": "name",
+            "key": "google-site-verification",
+            "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+            "index": 20
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "performance-lab 4.0.0; plugins: webp-uploads",
+            "index": 21
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "webp-uploads 2.6.1",
+            "index": 22
+          },
+          {
+            "kind": "name",
+            "key": "generator",
+            "content": "optimization-detective 1.0.0-beta3",
+            "index": 23
+          }
+        ],
+        "seo_issues": [
+          "missing_meta_description",
+          "no_faqpage_schema",
+          "og_image_generic_logo"
+        ],
+        "source_url": "https://ilshospitals.com/faq-lists/admission-billing/"
+      },
+      "seo_issues": [
+        "missing_meta_description",
+        "no_faqpage_schema",
+        "og_image_generic_logo"
+      ]
+    }
+  ],
+  "standalone_questions": [
+    {
+      "id": 5240,
+      "slug": "can-uterus-removal-be-done-via-laparoscopy",
+      "url": "https://ilshospitals.com/faq-question-answer/can-uterus-removal-be-done-via-laparoscopy/",
+      "question": "Can uterus removal be done via laparoscopy?",
+      "answer_html": "<p>Yes, it can be easily and safely removed by laparoscopic surgery. One can go home after 48 hours. No bed rest required after laparoscopic surgery. Can join office in 7 days.</p>",
+      "answer_text": "Yes, it can be easily and safely removed by laparoscopic surgery. One can go home after 48 hours. No bed rest required after laparoscopic surgery. Can join office in 7 days.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:53:37",
+      "modified_date": "2023-12-22T07:58:40"
+    },
+    {
+      "id": 5239,
+      "slug": "do-we-have-to-remove-uterus-for-fibroids",
+      "url": "https://ilshospitals.com/faq-question-answer/do-we-have-to-remove-uterus-for-fibroids/",
+      "question": "Do we have to remove uterus for fibroids?",
+      "answer_html": "<p>No, it is not done if you want to preserve uterus and want more children. Only if you have completed your family and have more then 2-3 fibroids and nearing menopause then it is better to remove the uterus.</p>",
+      "answer_text": "No, it is not done if you want to preserve uterus and want more children. Only if you have completed your family and have more then 2-3 fibroids and nearing menopause then it is better to remove the uterus.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:53:19",
+      "modified_date": "2023-12-22T07:53:19"
+    },
+    {
+      "id": 5238,
+      "slug": "what-are-the-causes-of-heavy-periods-in-a-women-over-35-years",
+      "url": "https://ilshospitals.com/faq-question-answer/what-are-the-causes-of-heavy-periods-in-a-women-over-35-years/",
+      "question": "What are the causes of heavy periods in a women over 35 years?",
+      "answer_html": "<p>There are numerous cause leading to heavy periods before menopause. It could be due to Fibroids or extra growth of muscles of the uterus (adenomyosis) or due to chocolate cyst ovary where blood accumulates in ovaries. At times the inner lining of the uterus becomes thick leading to heavy bleeding. Need not worry. They can all be treated by micro surgery or laparoscopic surgery now a days. Only 1-2 days hospital stay.</p>",
+      "answer_text": "There are numerous cause leading to heavy periods before menopause. It could be due to Fibroids or extra growth of muscles of the uterus (adenomyosis) or due to chocolate cyst ovary where blood accumulates in ovaries. At times the inner lining of the uterus becomes thick leading to heavy bleeding. Need not worry. They can all be treated by micro surgery or laparoscopic surgery now a days. Only 1-2 days hospital stay.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:52:59",
+      "modified_date": "2023-12-22T07:52:59"
+    },
+    {
+      "id": 5237,
+      "slug": "does-pcod-require-surgical-correction",
+      "url": "https://ilshospitals.com/faq-question-answer/does-pcod-require-surgical-correction/",
+      "question": "Does PCOD require surgical correction?",
+      "answer_html": "<p>No, it does not require surgical correction if it responds to medicines. Only if medicines do not work then laparoscopic drilling may correct this condition.</p>",
+      "answer_text": "No, it does not require surgical correction if it responds to medicines. Only if medicines do not work then laparoscopic drilling may correct this condition.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:52:43",
+      "modified_date": "2023-12-22T07:52:43"
+    },
+    {
+      "id": 5236,
+      "slug": "long-term-side-effects-of-pcod",
+      "url": "https://ilshospitals.com/faq-question-answer/long-term-side-effects-of-pcod/",
+      "question": "Long term side effects of PCOD?",
+      "answer_html": "<p>If left untreated then one can get diabetes, Endometrial cancer or Breast cancer &amp; heart disease.</p>",
+      "answer_text": "If left untreated then one can get diabetes, Endometrial cancer or Breast cancer & heart disease.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:52:29",
+      "modified_date": "2023-12-22T07:52:29"
+    },
+    {
+      "id": 5235,
+      "slug": "will-pcod-result-in-infertility",
+      "url": "https://ilshospitals.com/faq-question-answer/will-pcod-result-in-infertility/",
+      "question": "Will PCOD result in infertility?",
+      "answer_html": "<p>Yes, if it is not reverted, it can lead to infertility. So better control it before you get married. After marriage do not delay pregnancy if you have PCOD. Tell your doctor.</p>",
+      "answer_text": "Yes, if it is not reverted, it can lead to infertility. So better control it before you get married. After marriage do not delay pregnancy if you have PCOD. Tell your doctor.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:51:50",
+      "modified_date": "2023-12-22T07:51:50"
+    },
+    {
+      "id": 5234,
+      "slug": "what-is-pcod",
+      "url": "https://ilshospitals.com/faq-question-answer/what-is-pcod/",
+      "question": "What is PCOD?",
+      "answer_html": "<p>Many young girls and women suffering from multiple cyst in ovaries, Irregular periods, acne, facial hair. This is due to hormonal imbalance, unhealthy eating habits (fast food), lack of exercise, sudden weight gain. Losing weight, healthy diet shall revert this condition and these cyst will disappear.</p>",
+      "answer_text": "Many young girls and women suffering from multiple cyst in ovaries, Irregular periods, acne, facial hair. This is due to hormonal imbalance, unhealthy eating habits (fast food), lack of exercise, sudden weight gain. Losing weight, healthy diet shall revert this condition and these cyst will disappear.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:51:20",
+      "modified_date": "2023-12-22T07:51:32"
+    },
+    {
+      "id": 5233,
+      "slug": "what-are-the-required-documents-for-admission",
+      "url": "https://ilshospitals.com/faq-question-answer/what-are-the-required-documents-for-admission/",
+      "question": "What are the required documents for admission?",
+      "answer_html": "<p>The mainly required documents are Prescription of any previous treatment, Diagnostic test reports, Details of all medicine &amp; dosages of the patient, Patient id proof, insurance or medical benefit card or proof.</p>",
+      "answer_text": "The mainly required documents are Prescription of any previous treatment, Diagnostic test reports, Details of all medicine & dosages of the patient, Patient id proof, insurance or medical benefit card or proof.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:51:03",
+      "modified_date": "2023-12-22T07:51:03"
+    },
+    {
+      "id": 5232,
+      "slug": "working-hours-of-admission-and-billing-section",
+      "url": "https://ilshospitals.com/faq-question-answer/working-hours-of-admission-and-billing-section/",
+      "question": "Working hours of Admission and Billing section?",
+      "answer_html": "<p>Admission and Billing section functions 24&#215;7.</p>",
+      "answer_text": "Admission and Billing section functions 24×7.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:50:46",
+      "modified_date": "2023-12-22T07:50:46"
+    },
+    {
+      "id": 5231,
+      "slug": "how-the-bed-charges-are-calculated",
+      "url": "https://ilshospitals.com/faq-question-answer/how-the-bed-charges-are-calculated/",
+      "question": "How the bed charges are calculated?",
+      "answer_html": "<p>Bed charges are calculated as per 24 hour basis from the time of admission.</p>",
+      "answer_text": "Bed charges are calculated as per 24 hour basis from the time of admission.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:50:33",
+      "modified_date": "2023-12-22T07:50:33"
+    },
+    {
+      "id": 5230,
+      "slug": "is-advance-payment-must-for-an-emergency-case",
+      "url": "https://ilshospitals.com/faq-question-answer/is-advance-payment-must-for-an-emergency-case/",
+      "question": "Is advance payment must for an emergency case?",
+      "answer_html": "<p>During emergency every minute is vital so the admission is done immediately without any advance deposit money and the patient is taken under medical observation.</p>",
+      "answer_text": "During emergency every minute is vital so the admission is done immediately without any advance deposit money and the patient is taken under medical observation.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:50:19",
+      "modified_date": "2023-12-22T07:50:19"
+    },
+    {
+      "id": 5229,
+      "slug": "is-dialysis-facility-available",
+      "url": "https://ilshospitals.com/faq-question-answer/is-dialysis-facility-available/",
+      "question": "Is Dialysis facility available?",
+      "answer_html": "<p>Yes, Dialysis facility is available at ILS Hospitals Agartala and ILS Hospitals Dumdum.</p>",
+      "answer_text": "Yes, Dialysis facility is available at ILS Hospitals Agartala and ILS Hospitals Dumdum.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:50:04",
+      "modified_date": "2023-12-22T07:50:04"
+    },
+    {
+      "id": 5228,
+      "slug": "does-the-hospital-have-24x7-emergency-care-services",
+      "url": "https://ilshospitals.com/faq-question-answer/does-the-hospital-have-24x7-emergency-care-services/",
+      "question": "Does the hospital have 24×7 emergency care services?",
+      "answer_html": "<p>Yes, 24 x 7 Emergency care service is available at the hospitals.</p>",
+      "answer_text": "Yes, 24 x 7 Emergency care service is available at the hospitals.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:49:11",
+      "modified_date": "2023-12-22T07:49:11"
+    },
+    {
+      "id": 5227,
+      "slug": "is-mediclaim-policy-accepted-at-your-hospital",
+      "url": "https://ilshospitals.com/faq-question-answer/is-mediclaim-policy-accepted-at-your-hospital/",
+      "question": "Is Mediclaim policy accepted at your hospital?",
+      "answer_html": "<p>Yes, empanelled TPA&#8217;s &amp; insurance Companies are accepted at the hospitals.</p>",
+      "answer_text": "Yes, empanelled TPA’s & insurance Companies are accepted at the hospitals.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:48:53",
+      "modified_date": "2023-12-22T07:48:53"
+    },
+    {
+      "id": 5226,
+      "slug": "is-outside-food-allowed-into-the-hospital",
+      "url": "https://ilshospitals.com/faq-question-answer/is-outside-food-allowed-into-the-hospital/",
+      "question": "Is outside food allowed into the hospital?",
+      "answer_html": "<p>Outside medicines and foods are not allowed within hospital premises. Patient meals are served as per instruction of the doctor and dietician.</p>",
+      "answer_text": "Outside medicines and foods are not allowed within hospital premises. Patient meals are served as per instruction of the doctor and dietician.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:48:34",
+      "modified_date": "2023-12-22T07:48:34"
+    },
+    {
+      "id": 5225,
+      "slug": "do-you-have-any-health-check-up-packages",
+      "url": "https://ilshospitals.com/faq-question-answer/do-you-have-any-health-check-up-packages/",
+      "question": "Do you have any health check up packages?",
+      "answer_html": "<p class=\"sub-txt\">ILS Hospitals are equipped with the latest and accurate testing equipments, trained technicians and specialists providing an advance range of health check up and screening services.</p> <p>This Health Check up Packages covers a wide range of investigations like from basic standard set of blood tests to detailed physical examinations and consultation by experienced doctors and each package is tailored to suit the needs of an individual.</p>",
+      "answer_text": "ILS Hospitals are equipped with the latest and accurate testing equipments, trained technicians and specialists providing an advance range of health check up and screening services. This Health Check up Packages covers a wide range of investigations like from basic standard set of blood tests to detailed physical examinations and consultation by experienced doctors and each package is tailored to suit the needs of an individual.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:48:16",
+      "modified_date": "2023-12-22T07:48:16"
+    },
+    {
+      "id": 5224,
+      "slug": "do-you-have-the-facility-of-cashless-treatment",
+      "url": "https://ilshospitals.com/faq-question-answer/do-you-have-the-facility-of-cashless-treatment/",
+      "question": "Do you have the facility of cashless treatment?",
+      "answer_html": "<p>Yes, Cashless facility is available for empanelled TPA&#8217;s &amp; insurance Companies.</p>",
+      "answer_text": "Yes, Cashless facility is available for empanelled TPA’s & insurance Companies.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:47:39",
+      "modified_date": "2023-12-22T07:47:39"
+    },
+    {
+      "id": 5223,
+      "slug": "what-is-the-mode-of-payment-in-your-hospital",
+      "url": "https://ilshospitals.com/faq-question-answer/what-is-the-mode-of-payment-in-your-hospital/",
+      "question": "What is the mode of payment in your hospital?",
+      "answer_html": "<p>The payment can be made by Cash / Credit Card / Debit Cards/ DD/ Wire Transfer / Cheque.</p>",
+      "answer_text": "The payment can be made by Cash / Credit Card / Debit Cards/ DD/ Wire Transfer / Cheque.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:47:24",
+      "modified_date": "2023-12-22T07:47:24"
+    },
+    {
+      "id": 5222,
+      "slug": "rules-and-guidelines-for-visitors",
+      "url": "https://ilshospitals.com/faq-question-answer/rules-and-guidelines-for-visitors/",
+      "question": "Rules and guidelines for visitors",
+      "answer_html": "<p>Visitors must carry visitor pass. Only two persons are allowed during visiting hours at Ward/Twin Sharing/Cabi /Suite and only one person is allowed during visiting hours at ITU/ICU/CCU/NICU/HDU. Children are strictly not allowed in critical care areas.</p>",
+      "answer_text": "Visitors must carry visitor pass. Only two persons are allowed during visiting hours at Ward/Twin Sharing/Cabi /Suite and only one person is allowed during visiting hours at ITU/ICU/CCU/NICU/HDU. Children are strictly not allowed in critical care areas.",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:47:10",
+      "modified_date": "2023-12-22T07:47:10"
+    },
+    {
+      "id": 5221,
+      "slug": "what-are-the-visiting-hours",
+      "url": "https://ilshospitals.com/faq-question-answer/what-are-the-visiting-hours/",
+      "question": "What are the visiting hours?",
+      "answer_html": "<p><strong>Visiting hours are as followed:</strong></p> <ul> <li>Ward/Twin Sharing/Cabin/Suite: 9am &#8211; 10am I 5pm &#8211; 7pm</li> <li>ITU/ICU/CCU/NICU/HDU: 5pm &#8211; 6pm   |   9am &#8211; 10am (Saltlake only)</li> </ul>",
+      "answer_text": "Visiting hours are as followed: Ward/Twin Sharing/Cabin/Suite: 9am – 10am I 5pm – 7pm ITU/ICU/CCU/NICU/HDU: 5pm – 6pm | 9am – 10am (Saltlake only)",
+      "links": [],
+      "images": [],
+      "published_date": "2023-12-22T07:46:53",
+      "modified_date": "2023-12-22T07:46:53"
+    },
+    {
+      "id": 5220,
+      "slug": "how-to-book-an-appointment",
+      "url": "https://ilshospitals.com/faq-question-answer/how-to-book-an-appointment/",
+      "question": "How to book an appointment?",
+      "answer_html": "<div class=\"faq-box\"> <h4 class=\"mb-3 fs-5\">Steps to Book an Appointment via Patient Portal</h4> <div class=\"row justify-content-center\"> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>1</span></p> <h2>Visit the Patient Portal</h2> <p>Go to the ILS Hospitals website and click on the Patient Portal link.</p> <p><strong><a href=\"https://patient.ilshospitals.com/\" target=\"_blank\">patient.ilshospitals.com</a></strong></p> </p></div> </p></div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>2</span></p> <h2>Log in or Register</h2> <p><strong>Existing Users: </strong>Enter your registered email ID and password to log in.</p> <p><strong>New Users: </strong>Click Register to create your account by filling in the required details.</p> </p></div> </p></div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>3</span></p> <h2>Select Location</h2> <p>Once logged in, navigate to the Location dropdown section on the dashboard.</p> </p></div> </p></div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>4</span></p> <h2>Choose Department and Doctor</h2> <p>Select a specialty or doctor, check availability, and book a suitable time slot.</p> </p></div> </p></div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>5</span></p> <h2>Confirm Appointment Details</h2> <p>Review your selection, and add any additional notes or requirements.</p> </p></div> </p></div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>6</span></p> <h2>Receive Confirmation</h2> <p>You will receive a booking confirmation on the portal, along with an email or SMS notification.</p> </p></div> </p></div> <div class=\"col-lg-3 mb-3\"> <div class=\"process-card\"> <span>7</span></p> <h2>Visit the Hospital</h2> <p>On the appointment day, bring any necessary documents (ID proof, previous medical reports, etc.) and arrive<br /> on time.</p> </p></div> </p></div> </p></div> <p class=\"mb-2 mt-2\">Book an appointment: online at www.ilshospitals.com or mail your queries to <strong><a href=\"mailto:info@ilshospitals.com\">info@ilshospitals.com</a></strong> or call us at:</p> <ul> <li>Agartala: 8974050300, 0381 241 5000</li> <li>Dumdum: 033 4031 5000</li> <li>Howrah: 033 4088 0000, 033 4088 1202</li> <li>Salt Lake: 033 4020 6500</li> </ul> </div>",
+      "answer_text": "Steps to Book an Appointment via Patient Portal 1 Visit the Patient Portal Go to the ILS Hospitals website and click on the Patient Portal link. patient.ilshospitals.com 2 Log in or Register Existing Users: Enter your registered email ID and password to log in. New Users: Click Register to create your account by filling in the required details. 3 Select Location Once logged in, navigate to the Location dropdown section on the dashboard. 4 Choose Department and Doctor Select a specialty or doctor, check availability, and book a suitable time slot. 5 Confirm Appointment Details Review your selection, and add any additional notes or requirements. 6 Receive Confirmation You will receive a booking confirmation on the portal, along with an email or SMS notification. 7 Visit the Hospital On the appointment day, bring any necessary documents (ID proof, previous medical reports, etc.) and arrive on time. Book an appointment: online at www.ilshospitals.com or mail your queries to info@ilshospitals.com or call us at: Agartala: 8974050300, 0381 241 5000 Dumdum: 033 4031 5000 Howrah: 033 4088 0000, 033 4088 1202 Salt Lake: 033 4020 6500",
+      "links": [
+        {
+          "text": "patient.ilshospitals.com",
+          "url": "https://patient.ilshospitals.com/"
+        },
+        {
+          "text": "info@ilshospitals.com",
+          "url": "mailto:info@ilshospitals.com"
+        }
+      ],
+      "images": [],
+      "published_date": "2023-12-22T07:46:25",
+      "modified_date": "2025-02-05T11:59:35"
+    }
+  ]
+}

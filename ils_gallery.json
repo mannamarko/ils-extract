@@ -1,0 +1,980 @@
+{
+  "url": "https://ilshospitals.com/gallery/",
+  "title": "Gallery",
+  "breadcrumb": [
+    {
+      "name": "Home",
+      "url": "https://ilshospitals.com/"
+    },
+    {
+      "name": "Media Center",
+      "url": "https://ilshospitals.com/media-center/"
+    },
+    {
+      "name": "Gallery",
+      "url": null
+    }
+  ],
+  "image_count": 85,
+  "images": [
+    {
+      "position": 1,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cathlab-1.jpg",
+      "full": null,
+      "title": "Cathlab",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 2,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cathlab-2.jpg",
+      "full": null,
+      "title": "Cathlab",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 3,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Dialysis-1.jpg",
+      "full": null,
+      "title": "Dialysis",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 4,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/main-lobby-2.jpg",
+      "full": null,
+      "title": "Main Lobby",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 5,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/OPD.jpg",
+      "full": null,
+      "title": "OPD",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 6,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/OPD-chamber.jpg",
+      "full": null,
+      "title": "OPD Chamber",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 7,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/OPD-lobby-1.jpg",
+      "full": null,
+      "title": "OPD Lobby",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 8,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/ortho-OT-1.jpg",
+      "full": null,
+      "title": "Ortho OT",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 9,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/OT-1.jpg",
+      "full": null,
+      "title": "OT",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 10,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/OT-2.jpg",
+      "full": null,
+      "title": "OT",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 11,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/OT-3.jpg",
+      "full": null,
+      "title": "OT",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 12,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/OT-4.jpg",
+      "full": null,
+      "title": "OT",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 13,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/OT-team.jpg",
+      "full": null,
+      "title": "OT Team",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 14,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/reception-2.jpg",
+      "full": null,
+      "title": "Reception",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 15,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/technician-team.jpg",
+      "full": null,
+      "title": "Technician Team",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 16,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/floor-view-1.jpg",
+      "full": null,
+      "title": "Floor View",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 17,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/floor-view-3.jpg",
+      "full": null,
+      "title": "Floor View",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 18,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/ITU-1.jpg",
+      "full": null,
+      "title": "ITU",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 19,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/ITU-3.jpg",
+      "full": null,
+      "title": "ITU",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 20,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/ITU-pic-1.jpg",
+      "full": null,
+      "title": "ITU",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 21,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Laparoscopic-2.jpg",
+      "full": null,
+      "title": "Laparoscopic",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 22,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Laparoscopic-3.jpg",
+      "full": null,
+      "title": "Laparoscopic",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 23,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Laparoscopic-OT-4.jpg",
+      "full": null,
+      "title": "Laparoscopic OT",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 24,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/lobby-1.jpg",
+      "full": null,
+      "title": "Lobby",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 25,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/lobby-3.jpg",
+      "full": null,
+      "title": "Lobby",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 26,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/reception-3.jpg",
+      "full": null,
+      "title": "Reception",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 27,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/reception-4.jpg",
+      "full": null,
+      "title": "Reception",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 28,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Robotic-1.jpg",
+      "full": null,
+      "title": "Robotic",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 29,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Robotic-OT-1.jpg",
+      "full": null,
+      "title": "Robotic OT",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 30,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Robotic-OT-3.jpg",
+      "full": null,
+      "title": "Robotic OT",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 31,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/room-3.jpg",
+      "full": null,
+      "title": "Room",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 32,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/saltlake-frontview.jpg",
+      "full": null,
+      "title": "Saltlake Frontview",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 33,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/saltlake-full-view-1.jpg",
+      "full": null,
+      "title": "Saltlake Full View",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 34,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/room-3-1.jpg",
+      "full": null,
+      "title": "Room",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 35,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/room-1.jpg",
+      "full": null,
+      "title": "Room",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 36,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-setup-3-arms-00004.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical-setup-3-arms",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 37,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-setup-3-arms-00005.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical-setup-3-arms",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 38,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-setup-3-arms-00006.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical-setup-3-arms",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 39,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-setup-4-arms-00001.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical-setup-4-arms",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 40,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-setup-4-arms-00004.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical-setup-4-arms",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 41,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-setup-4-arms-00007.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical-setup-4-arms",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 42,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Versius-Arm.jpg",
+      "full": null,
+      "title": "Versius-Arm",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 43,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Versius-Console.jpg",
+      "full": null,
+      "title": "Versius-Console",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 44,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-00004.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 45,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-00006.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 46,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-00020.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 47,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-00045.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 48,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-00047.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 49,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/cmr-surgical-versius-clinical-00049.jpg",
+      "full": null,
+      "title": "cmr-surgical-versius-clinical",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 50,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Hand-Controller.jpg",
+      "full": null,
+      "title": "Hand Controller",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 51,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Hand-controller1.jpg",
+      "full": null,
+      "title": "Hand Controller",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 52,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/11/Versius-Arm-2.jpg",
+      "full": null,
+      "title": "Versius Arm",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 53,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery1.jpeg",
+      "full": null,
+      "title": "Digital Health Master Class",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 54,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery2.jpeg",
+      "full": null,
+      "title": "Digital Health Master Class",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 55,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery4.jpeg",
+      "full": null,
+      "title": "Scientific Symposium on MAKO",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 56,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery3.jpeg",
+      "full": null,
+      "title": "Scientific Symposium on MAKO",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 57,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery_72.jpg",
+      "full": null,
+      "title": "Competition at CAHO",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 58,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery_71.jpg",
+      "full": null,
+      "title": "CAHO Olympiad Winners",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 59,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery_73.jpg",
+      "full": null,
+      "title": "Endosafe Centre for Excellence",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 60,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery_74.jpg",
+      "full": null,
+      "title": "Center for Quality Promotion Center",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 61,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/04/gallery_75.jpg",
+      "full": null,
+      "title": "CAHOCON 2025",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 62,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur1.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 1",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 63,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur2.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 2",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 64,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur3.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 3",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 65,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur4.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 4",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 66,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur5.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 5",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 67,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur14.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 6",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 68,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur7.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 7",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 69,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur8.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 8",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 70,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur9.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 9",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 71,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur10.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 10",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 72,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur11.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 11",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 73,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur12.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 12",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 74,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur13.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 13",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 75,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur14.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 14",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 76,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur15.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 15",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 77,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur16.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 16",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 78,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur17.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 17",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 79,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur18.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 18",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 80,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur19.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 19",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 81,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/05/Glimpse-from-the-Grand-opening-of-ILS-Hospitals-Raipur20.jpg",
+      "full": null,
+      "title": "Glimpse from the Grand opening of ILS Hospitals Raipur 20",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 82,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/07/518257579_122136593210792977_867300542191902428_n.jpg",
+      "full": null,
+      "title": "10th July – A Day of Legacy and Care Gratitude fills our hearts as we look back at the beautiful moments of ILS Hospitals Foundation Day celebrations.",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 83,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/07/518028970_122136594308792977_5595525952665041138_n.jpg",
+      "full": null,
+      "title": "A journey built on dedication, compassion, and excellence — today, we honor every hand that shaped our legacy.",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 84,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/07/518320829_122136593570792977_1367673781060850792_n.jpg",
+      "full": null,
+      "title": "Here’s a glimpse of the celebrations that brought together our doctors, staff, and well-wishers in one heartfelt moment of unity.",
+      "alt": "ils-gallery"
+    },
+    {
+      "position": 85,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/07/517404400_122136593186792977_8458128236720206337_n-1.jpg",
+      "full": null,
+      "title": "Together, we heal. Together, we grow.",
+      "alt": "ils-gallery"
+    }
+  ],
+  "seo": {
+    "meta_title": "Gallery - ILS Hospitals",
+    "meta_title_resolved": "Gallery - ILS Hospitals",
+    "meta_description": "For a better understanding of the ILS Hospital's visual style, see the Gallery page",
+    "robots": "max-image-preview:large",
+    "canonical": "https://ilshospitals.com/gallery/",
+    "canonical_resolved": "https://ilshospitals.com/gallery/",
+    "og": {
+      "title": "Gallery - ILS Hospitals",
+      "description": "For a better understanding of the ILS Hospital's visual style, see the Gallery page",
+      "type": "article",
+      "url": "https://ilshospitals.com/gallery/",
+      "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+      "locale": "en_US"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gallery - ILS Hospitals",
+      "description": "For a better understanding of the ILS Hospital's visual style, see the Gallery page",
+      "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+      "url": null
+    },
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://ilshospitals.com/gallery/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://ilshospitals.com#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://ilshospitals.com",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/gallery/#listItem",
+                  "name": "Gallery"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://ilshospitals.com/gallery/#listItem",
+                "position": 2,
+                "name": "Gallery",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://ilshospitals.com/#organization",
+            "name": "ILS Hospital",
+            "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "url": "https://ilshospitals.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+              "@id": "https://ilshospitals.com/gallery/#organizationLogo",
+              "width": 184,
+              "height": 82,
+              "caption": "ILS Hospitals Logo"
+            },
+            "image": {
+              "@id": "https://ilshospitals.com/gallery/#organizationLogo"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://ilshospitals.com/gallery/#webpage",
+            "url": "https://ilshospitals.com/gallery/",
+            "name": "Gallery - ILS Hospitals",
+            "description": "For a better understanding of the ILS Hospital's visual style, see the Gallery page",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://ilshospitals.com/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://ilshospitals.com/gallery/#breadcrumblist"
+            },
+            "datePublished": "2023-11-17T05:13:48+05:30",
+            "dateModified": "2024-06-20T07:06:56+05:30"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://ilshospitals.com/#website",
+            "url": "https://ilshospitals.com/",
+            "name": "ils-hospital",
+            "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://ilshospitals.com/#organization"
+            }
+          }
+        ],
+        "_source": "aioseo"
+      }
+    ],
+    "json_ld_by_source": {
+      "aioseo": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/gallery/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/gallery/#listItem",
+                    "name": "Gallery"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/gallery/#listItem",
+                  "position": 2,
+                  "name": "Gallery",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/gallery/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/gallery/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/gallery/#webpage",
+              "url": "https://ilshospitals.com/gallery/",
+              "name": "Gallery - ILS Hospitals",
+              "description": "For a better understanding of the ILS Hospital's visual style, see the Gallery page",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/gallery/#breadcrumblist"
+              },
+              "datePublished": "2023-11-17T05:13:48+05:30",
+              "dateModified": "2024-06-20T07:06:56+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ils-hospital",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ],
+          "_source": "aioseo"
+        }
+      ],
+      "post": []
+    },
+    "blogposting": null,
+    "breadcrumbs": [
+      {
+        "position": 1,
+        "name": "Home",
+        "item": "https://ilshospitals.com"
+      },
+      {
+        "position": 2,
+        "name": "Gallery",
+        "item": null
+      }
+    ],
+    "meta_all": [
+      {
+        "kind": "name",
+        "key": "viewport",
+        "content": "width=device-width, initial-scale=1.0",
+        "index": 2
+      },
+      {
+        "kind": "name",
+        "key": "msvalidate.01",
+        "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+        "index": 3
+      },
+      {
+        "kind": "name",
+        "key": "description",
+        "content": "For a better understanding of the ILS Hospital's visual style, see the Gallery page",
+        "index": 4
+      },
+      {
+        "kind": "name",
+        "key": "robots",
+        "content": "max-image-preview:large",
+        "index": 5
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "All in One SEO (AIOSEO) 4.9.10",
+        "index": 6
+      },
+      {
+        "kind": "property",
+        "key": "og:locale",
+        "content": "en_US",
+        "index": 7
+      },
+      {
+        "kind": "property",
+        "key": "og:site_name",
+        "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "index": 8
+      },
+      {
+        "kind": "property",
+        "key": "og:type",
+        "content": "article",
+        "index": 9
+      },
+      {
+        "kind": "property",
+        "key": "og:title",
+        "content": "Gallery - ILS Hospitals",
+        "index": 10
+      },
+      {
+        "kind": "property",
+        "key": "og:description",
+        "content": "For a better understanding of the ILS Hospital's visual style, see the Gallery page",
+        "index": 11
+      },
+      {
+        "kind": "property",
+        "key": "og:url",
+        "content": "https://ilshospitals.com/gallery/",
+        "index": 12
+      },
+      {
+        "kind": "property",
+        "key": "og:image",
+        "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "index": 13
+      },
+      {
+        "kind": "property",
+        "key": "og:image:secure_url",
+        "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "index": 14
+      },
+      {
+        "kind": "property",
+        "key": "article:published_time",
+        "content": "2023-11-17T05:13:48+00:00",
+        "index": 15
+      },
+      {
+        "kind": "property",
+        "key": "article:modified_time",
+        "content": "2024-06-20T07:06:56+00:00",
+        "index": 16
+      },
+      {
+        "kind": "name",
+        "key": "twitter:card",
+        "content": "summary_large_image",
+        "index": 17
+      },
+      {
+        "kind": "name",
+        "key": "twitter:title",
+        "content": "Gallery - ILS Hospitals",
+        "index": 18
+      },
+      {
+        "kind": "name",
+        "key": "twitter:description",
+        "content": "For a better understanding of the ILS Hospital's visual style, see the Gallery page",
+        "index": 19
+      },
+      {
+        "kind": "name",
+        "key": "twitter:image",
+        "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "index": 20
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "WordPress 7.0.2",
+        "index": 21
+      },
+      {
+        "kind": "name",
+        "key": "google-site-verification",
+        "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+        "index": 22
+      },
+      {
+        "kind": "name",
+        "key": "google-site-verification",
+        "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+        "index": 23
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "performance-lab 4.0.0; plugins: webp-uploads",
+        "index": 24
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "webp-uploads 2.6.1",
+        "index": 25
+      },
+      {
+        "kind": "name",
+        "key": "generator",
+        "content": "optimization-detective 1.0.0-beta3",
+        "index": 26
+      }
+    ],
+    "seo_issues": [
+      "generic_alt_text"
+    ],
+    "source_url": "https://ilshospitals.com/gallery/"
+  },
+  "seo_issues": [
+    "generic_alt_text"
+  ]
+}

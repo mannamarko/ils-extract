@@ -1,0 +1,120 @@
+{
+  "id": "ShareholdingPattern",
+  "slug": "shareholding-pattern",
+  "title": "Shareholding Pattern",
+  "type": "grid",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/07/ShareholdingPattern.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/07/ReportGHL.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/10/SHP30092025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/01/ShareholdingPattern.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/04/ShareholdingPattern31.03.2026.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/ShareholdingPattern-30_06_2024.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/10/Report-31.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/01/Shareholding-Pattern-Website.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/Shareholding-Pattern-2024-2025-Q4.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/Shareholding_Patter_31_03_2024.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "financial_year": "2026-2027",
+      "quarter": "q1",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/07/ShareholdingPattern.pdf"
+    },
+    {
+      "financial_year": "2025-2026",
+      "quarter": "q1",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/07/ReportGHL.pdf"
+    },
+    {
+      "financial_year": "2025-2026",
+      "quarter": "q2",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/10/SHP30092025.pdf"
+    },
+    {
+      "financial_year": "2025-2026",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/01/ShareholdingPattern.pdf"
+    },
+    {
+      "financial_year": "2025-2026",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/04/ShareholdingPattern31.03.2026.pdf"
+    },
+    {
+      "financial_year": "2024-2025",
+      "quarter": "q1",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/05/ShareholdingPattern-30_06_2024.pdf"
+    },
+    {
+      "financial_year": "2024-2025",
+      "quarter": "q2",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/10/Report-31.pdf"
+    },
+    {
+      "financial_year": "2024-2025",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/01/Shareholding-Pattern-Website.pdf"
+    },
+    {
+      "financial_year": "2024-2025",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/04/Shareholding-Pattern-2024-2025-Q4.pdf"
+    },
+    {
+      "financial_year": "2023 - 2024",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/Shareholding_Patter_31_03_2024.pdf"
+    }
+  ]
+}

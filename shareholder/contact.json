@@ -1,0 +1,81 @@
+{
+  "id": "Contact",
+  "slug": "contact",
+  "title": "Contact",
+  "type": "contact",
+  "documents": [
+    {
+      "label": "ghl.cosec@gptgroup.co.in",
+      "url": "mailto:ghl.cosec@gptgroup.co.in",
+      "ext": null,
+      "is_file": false
+    },
+    {
+      "label": "gpthealthcare.ipo@linkintime.co.in",
+      "url": "mailto:gpthealthcare.ipo@linkintime.co.in",
+      "ext": null,
+      "is_file": false
+    },
+    {
+      "label": "rnt.helpdesk@in.mpms.mufg.com",
+      "url": "mailto:rnt.helpdesk@in.mpms.mufg.com",
+      "ext": null,
+      "is_file": false
+    },
+    {
+      "label": "investor.helpdesk@in.mpms.mufg.com",
+      "url": "mailto:investor.helpdesk@in.mpms.mufg.com",
+      "ext": null,
+      "is_file": false
+    },
+    {
+      "label": "https://web.in.mpms.mufg.com/helpdesk/Service_Request.html",
+      "url": "https://web.in.mpms.mufg.com/helpdesk/Service_Request.html",
+      "ext": "html",
+      "is_file": false
+    }
+  ],
+  "records": [
+    {
+      "role": "Company Secretary & Compliance Officer",
+      "offices": [
+        {
+          "label": "GPT Healthcare Limited",
+          "address": "GPT Healthcare Limited Mr. Ankur Sharma GPT Centre, JC-25, Sector-III Salt Lake, Kolkata - 700 106 +91 33 4050 7000 ghl.cosec@gptgroup.co.in",
+          "phones": [
+            "+91 33 4050 7000"
+          ],
+          "emails": [
+            "ghl.cosec@gptgroup.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "role": "Registrar & Share Transfer Agent",
+      "offices": [
+        {
+          "label": "Mumbai",
+          "address": "Mumbai MUFG Intime India Private Limited (Formerly Link Intime India Pvt. Ltd.)C-101, 247 Park, LBS MARG, Vikhroli (West) Mumbai - 400083 +91 22 49186200 gpthealthcare.ipo@linkintime.co.in rnt.helpdesk@in.mpms.mufg.com",
+          "phones": [
+            "+91 22 49186200"
+          ],
+          "emails": [
+            "gpthealthcare.ipo@linkintime.co.in",
+            "rnt.helpdesk@in.mpms.mufg.com"
+          ]
+        },
+        {
+          "label": "Kolkata",
+          "address": "Kolkata MUFG Intime India Private Limited(Formerly Link Intime India Pvt. Ltd.) Rasoi Court, 5th floor 20, Sir R N Mukherjee Road,Kolkata - 700001 033-6906 6200 investor.helpdesk@in.mpms.mufg.com",
+          "phones": [
+            "033-6906 6200"
+          ],
+          "emails": [
+            "investor.helpdesk@in.mpms.mufg.com"
+          ]
+        }
+      ]
+    }
+  ]
+}

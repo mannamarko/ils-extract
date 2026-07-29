@@ -1,0 +1,154 @@
+{
+  "id": "IntegratedFilings",
+  "slug": "integrated-filings",
+  "title": "Integrated Filings",
+  "type": "grouped",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/08/Integrated-Financial-June-30-2025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/11/GHL-Integrated-Filing-Finance-30.09.2025-08.11.2025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/02/CompanyResults.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/05/CompanyResults.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/GHLintegratedfiling.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/05/Integrated-Filing-Q4FY2025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/07/Report30062025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/10/GHLREPORT30092025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/01/IntegratedCG.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2026/05/IntegratedGovernance10052026.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/04/Report-Intergrated-Governance-GHL.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/05/Report-Integrated-Filing-31032025.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "filing_type": "Integrated Filing (Financial)",
+      "financial_year": "2025-2026",
+      "quarter": "q1",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/08/Integrated-Financial-June-30-2025.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Financial)",
+      "financial_year": "2025-2026",
+      "quarter": "q2",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/11/GHL-Integrated-Filing-Finance-30.09.2025-08.11.2025.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Financial)",
+      "financial_year": "2025-2026",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/02/CompanyResults.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Financial)",
+      "financial_year": "2025-2026",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/05/CompanyResults.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Financial)",
+      "financial_year": "2024-2025",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/04/GHLintegratedfiling.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Financial)",
+      "financial_year": "2024-2025",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/05/Integrated-Filing-Q4FY2025.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Governance)",
+      "financial_year": "2025-2026",
+      "quarter": "q1",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/07/Report30062025.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Governance)",
+      "financial_year": "2025-2026",
+      "quarter": "q2",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/10/GHLREPORT30092025.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Governance)",
+      "financial_year": "2025-2026",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/01/IntegratedCG.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Governance)",
+      "financial_year": "2025-2026",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2026/05/IntegratedGovernance10052026.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Governance)",
+      "financial_year": "2024-2025",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/04/Report-Intergrated-Governance-GHL.pdf"
+    },
+    {
+      "filing_type": "Integrated Filing (Governance)",
+      "financial_year": "2024-2025",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/05/Report-Integrated-Filing-31032025.pdf"
+    }
+  ]
+}

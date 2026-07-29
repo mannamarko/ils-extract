@@ -1,0 +1,54 @@
+{
+  "id": "ReportsonCorporateGovernance",
+  "slug": "reportson-corporate-governance",
+  "title": "Reports on Corporate Governance",
+  "type": "grid",
+  "documents": [
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/05/Report_on_Corporate_Governance.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/10/CGReport30092024.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2025/01/Corporate-Governance-Website.pdf",
+      "ext": "pdf",
+      "is_file": true
+    },
+    {
+      "label": null,
+      "url": "https://ilshospitals.com/wp-content/uploads/2024/04/CorporateGovernance_31_03_2024.pdf",
+      "ext": "pdf",
+      "is_file": true
+    }
+  ],
+  "records": [
+    {
+      "financial_year": "2024-25",
+      "quarter": "q1",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/05/Report_on_Corporate_Governance.pdf"
+    },
+    {
+      "financial_year": "2024-25",
+      "quarter": "q2",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/10/CGReport30092024.pdf"
+    },
+    {
+      "financial_year": "2024-25",
+      "quarter": "q3",
+      "link": "https://ilshospitals.com/wp-content/uploads/2025/01/Corporate-Governance-Website.pdf"
+    },
+    {
+      "financial_year": "2023-24",
+      "quarter": "q4",
+      "link": "https://ilshospitals.com/wp-content/uploads/2024/04/CorporateGovernance_31_03_2024.pdf"
+    }
+  ]
+}

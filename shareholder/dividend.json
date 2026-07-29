@@ -1,0 +1,60 @@
+{
+  "id": "Dividend",
+  "slug": "dividend",
+  "title": "Dividend",
+  "type": "labeled",
+  "documents": [],
+  "records": [
+    {
+      "dividend_for_the_financial_year": "2025-26",
+      "date_of_declaration_of_dividend": "08.11.2025",
+      "type_of_dividend": "Interim Dividend",
+      "amount_of_dividend_declared": "8,20,54,823",
+      "rate_of_dividend": "10% (Rs. 1.00 per share)",
+      "due_date_of_transfer_to_iepf": "14.12.2032",
+      "remarks": "-"
+    },
+    {
+      "dividend_for_the_financial_year": "2024-25",
+      "date_of_declaration_of_dividend": "14.11.2024",
+      "type_of_dividend": "Interim Dividend",
+      "amount_of_dividend_declared": "8,20,54,823",
+      "rate_of_dividend": "10% (Rs. 1.00 per share)",
+      "due_date_of_transfer_to_iepf": "20.12.2031",
+      "remarks": "-"
+    },
+    {
+      "dividend_for_the_financial_year": "05.08.2025",
+      "date_of_declaration_of_dividend": "Final Dividend",
+      "type_of_dividend": "12,30,82,234.50",
+      "amount_of_dividend_declared": "15% (Rs. 1.50 per share)",
+      "rate_of_dividend": "10.09.2032",
+      "due_date_of_transfer_to_iepf": "-"
+    },
+    {
+      "dividend_for_the_financial_year": "2023-24",
+      "date_of_declaration_of_dividend": "05.01.2024",
+      "type_of_dividend": "Interim Dividend",
+      "amount_of_dividend_declared": "7,99,04,286",
+      "rate_of_dividend": "10% (Rs. 1.00 per share)",
+      "due_date_of_transfer_to_iepf": "10.01.2031",
+      "remarks": "No Unpaid Dividend"
+    },
+    {
+      "dividend_for_the_financial_year": "19.03.2024",
+      "date_of_declaration_of_dividend": "Interim Dividend",
+      "type_of_dividend": "8,20,54,823",
+      "amount_of_dividend_declared": "10% (Rs. 1.00 per share)",
+      "rate_of_dividend": "24.04.2031",
+      "due_date_of_transfer_to_iepf": "-"
+    },
+    {
+      "date_of_declaration_of_dividend": "25.07.2024",
+      "type_of_dividend": "Final Dividend",
+      "amount_of_dividend_declared": "12,30,82,234.50",
+      "rate_of_dividend": "15% (Rs. 1.50 per share)",
+      "due_date_of_transfer_to_iepf": "30.08.2031",
+      "remarks": "-"
+    }
+  ]
+}
