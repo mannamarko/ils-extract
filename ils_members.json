@@ -3,7 +3,9 @@
     "id": 498,
     "name": "Dr. Om Tantia",
     "designation": "Chairman and Managing Director (KMP)",
+    "designation_raw": "Chairman and Managing Director (KMP)",
     "image": "https://ilshospitals.com/wp-content/uploads/2024/04/om-tantia-pic.webp",
+    "image_alt": "ILS-leader",
     "bio_html": "<p>One of India’s most skilled and knowledgeable bariatric and metabolic surgeons is Dr. Om Tantia. He is presently the Head of the ILS Group of Hospitals’ Department of Minimal Access &amp; Bariatric Surgery and the Medical Director.</p><p>Dr. Om Tantia is a key member of several prestigious organizations, including the Association of Minimal Access Surgeons of India (AMASI) and the Obesity &amp; Metabolic Surgery Society of India (OSSI). In addition, he has been a lifelong member of numerous medical associations.</p><p>In almost thirty publications, periodicals, and paper presentations, he has contributed greatly. Additionally, he has led over fifty workshops at both national and international conferences.</p><p></p>",
     "bio_text": "One of India’s most skilled and knowledgeable bariatric and metabolic surgeons is Dr. Om Tantia. He is presently the Head of the ILS Group of Hospitals’ Department of Minimal Access & Bariatric Surgery and the Medical Director.Dr. Om Tantia is a key member of several prestigious organizations, including the Association of Minimal Access Surgeons of India (AMASI) and the Obesity & Metabolic Surgery Society of India (OSSI). In addition, he has been a lifelong member of numerous medical associations.In almost thirty publications, periodicals, and paper presentations, he has contributed greatly. Additionally, he has led over fifty workshops at both national and international conferences.",
     "slug": "dr-om-tantia",
@@ -11,6 +13,14 @@
     "published_date": "2023-10-31T05:57:15",
     "modified_date": "2026-01-07T14:53:04",
     "source": "about-us",
+    "appears_on": [
+      "about-us",
+      "board-of-directors"
+    ],
+    "issues": [
+      "designation_differs_between_pages"
+    ],
+    "designation_alt": "Managing Director",
     "seo": {
       "meta_title": "Dr. Om Tantia - ILS-hospitals",
       "meta_title_resolved": "Dr. Om Tantia - ILS-hospitals",
@@ -223,7 +233,18 @@
         "post": []
       },
       "blogposting": null,
-      "breadcrumbs": [],
+      "breadcrumbs": [
+        {
+          "position": 1,
+          "name": "Home",
+          "item": "https://ilshospitals.com"
+        },
+        {
+          "position": 2,
+          "name": "Dr. Om Tantia",
+          "item": null
+        }
+      ],
       "meta_all": [
         {
           "kind": "name",
@@ -377,21 +398,23 @@
         }
       ],
       "seo_issues": [
-        "no_post_specific_schema",
-        "no_post_specific_meta"
+        "og_image_generic_logo",
+        "twitter_url_missing"
       ],
       "source_url": "https://ilshospitals.com/leadership-team/dr-om-tantia/"
     },
     "seo_issues": [
-      "no_post_specific_schema",
-      "no_post_specific_meta"
+      "og_image_generic_logo",
+      "twitter_url_missing"
     ]
   },
   {
     "id": 504,
     "name": "Dr. Aruna Tantia",
     "designation": "Non Executive Director",
+    "designation_raw": "Non Executive Director",
     "image": "https://ilshospitals.com/wp-content/uploads/2023/10/leader-dr-aruna-tantia.jpg",
+    "image_alt": "ILS-leader",
     "bio_html": "<p>Dr. Aruna Tantia is one the leading consultants in the field of gynecology, infertility, and laparoscopic surgery. With over 38 years of experience, she has been at the helm of developing Laparoscopic Gynaecology as a field of treamtment in Eastern India. She has done her MS in Obstetrics and Gynecology from Mata Gujri Memorial Medical College in Kishanganj (2011), a Fellowship in Laparoscopy from Kiel University in Germany (1999), and a Fellowship in Minimal Access Surgery (FMAS) &amp; Reproductive Medicine from The Association of Minimal Access Surgeons of India (2016).</p><p></p>",
     "bio_text": "Dr. Aruna Tantia is one the leading consultants in the field of gynecology, infertility, and laparoscopic surgery. With over 38 years of experience, she has been at the helm of developing Laparoscopic Gynaecology as a field of treamtment in Eastern India. She has done her MS in Obstetrics and Gynecology from Mata Gujri Memorial Medical College in Kishanganj (2011), a Fellowship in Laparoscopy from Kiel University in Germany (1999), and a Fellowship in Minimal Access Surgery (FMAS) & Reproductive Medicine from The Association of Minimal Access Surgeons of India (2016).",
     "slug": "dr-aruna-tantia",
@@ -399,6 +422,14 @@
     "published_date": "2023-10-31T05:58:06",
     "modified_date": "2024-05-14T05:05:06",
     "source": "about-us",
+    "appears_on": [
+      "about-us",
+      "board-of-directors"
+    ],
+    "issues": [
+      "designation_differs_between_pages"
+    ],
+    "designation_alt": "Non-Executive Director",
     "seo": {
       "meta_title": "Dr. Aruna Tantia - ILS-hospitals",
       "meta_title_resolved": "Dr. Aruna Tantia - ILS-hospitals",
@@ -611,7 +642,18 @@
         "post": []
       },
       "blogposting": null,
-      "breadcrumbs": [],
+      "breadcrumbs": [
+        {
+          "position": 1,
+          "name": "Home",
+          "item": "https://ilshospitals.com"
+        },
+        {
+          "position": 2,
+          "name": "Dr. Aruna Tantia",
+          "item": null
+        }
+      ],
       "meta_all": [
         {
           "kind": "name",
@@ -765,21 +807,23 @@
         }
       ],
       "seo_issues": [
-        "no_post_specific_schema",
-        "no_post_specific_meta"
+        "og_image_generic_logo",
+        "twitter_url_missing"
       ],
       "source_url": "https://ilshospitals.com/leadership-team/dr-aruna-tantia/"
     },
     "seo_issues": [
-      "no_post_specific_schema",
-      "no_post_specific_meta"
+      "og_image_generic_logo",
+      "twitter_url_missing"
     ]
   },
   {
     "id": 505,
     "name": "Dr. Ghanshyam Goyal",
     "designation": "Non Executive Director",
+    "designation_raw": "Non Executive Director",
     "image": "https://ilshospitals.com/wp-content/uploads/2023/10/leader-ghanashyam-goyal.jpg",
+    "image_alt": "ILS-leader",
     "bio_html": "<p>Dr. Ghanshyam Goyal practices internal medicine and diabetes at ILS Hospitals, Salt Lake. With over 26 years of experience in these domains, Dr. Goyal is a leading name in the field of Dibetes management with multipple accolades to his name, including a Guiness World Record for conducting the largest diabetic foot study in the world. He graduated from Rajasthan University with an MBBS in 1985 and an MD in General Medicine in 1998.</p><p></p>",
     "bio_text": "Dr. Ghanshyam Goyal practices internal medicine and diabetes at ILS Hospitals, Salt Lake. With over 26 years of experience in these domains, Dr. Goyal is a leading name in the field of Dibetes management with multipple accolades to his name, including a Guiness World Record for conducting the largest diabetic foot study in the world. He graduated from Rajasthan University with an MBBS in 1985 and an MD in General Medicine in 1998.",
     "slug": "dr-ghanshyam-goyal",
@@ -787,6 +831,14 @@
     "published_date": "2023-10-31T05:59:03",
     "modified_date": "2024-05-14T04:52:06",
     "source": "about-us",
+    "appears_on": [
+      "about-us",
+      "board-of-directors"
+    ],
+    "issues": [
+      "designation_differs_between_pages"
+    ],
+    "designation_alt": "Non-Executive Director",
     "seo": {
       "meta_title": "Dr. Ghanshyam Goyal - ILS-hospitals",
       "meta_title_resolved": "Dr. Ghanshyam Goyal - ILS-hospitals",
@@ -999,7 +1051,18 @@
         "post": []
       },
       "blogposting": null,
-      "breadcrumbs": [],
+      "breadcrumbs": [
+        {
+          "position": 1,
+          "name": "Home",
+          "item": "https://ilshospitals.com"
+        },
+        {
+          "position": 2,
+          "name": "Dr. Ghanshyam Goyal",
+          "item": null
+        }
+      ],
       "meta_all": [
         {
           "kind": "name",
@@ -1153,14 +1216,210 @@
         }
       ],
       "seo_issues": [
-        "no_post_specific_schema",
-        "no_post_specific_meta"
+        "og_image_generic_logo",
+        "twitter_url_missing"
       ],
       "source_url": "https://ilshospitals.com/leadership-team/dr-ghanshyam-goyal/"
     },
     "seo_issues": [
-      "no_post_specific_schema",
-      "no_post_specific_meta"
+      "og_image_generic_logo",
+      "twitter_url_missing"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Mr. Dwarika Prasad Tantia",
+    "designation": "Executive Chairman &kmp;",
+    "designation_raw": "Designation: Executive Chairman &kmp;",
+    "image": "https://ilshospitals.com/wp-content/uploads/2023/10/leader1.png",
+    "image_alt": "ils-leader",
+    "bio_html": null,
+    "bio_text": null,
+    "slug": null,
+    "detail_url": null,
+    "published_date": null,
+    "modified_date": null,
+    "source": "board-of-directors",
+    "appears_on": [
+      "board-of-directors"
+    ],
+    "issues": [
+      "no_bio",
+      "malformed_entity_in_designation",
+      "designation_label_in_value",
+      "no_leadership_team_post"
+    ],
+    "seo": null,
+    "seo_issues": [
+      "no_detail_url"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Mr. Anurag Tantia",
+    "designation": "Executive Director",
+    "designation_raw": "Designation: Executive Director",
+    "image": "https://ilshospitals.com/wp-content/uploads/2024/01/profile-palceholder.jpg",
+    "image_alt": "ils-leader",
+    "bio_html": null,
+    "bio_text": null,
+    "slug": null,
+    "detail_url": null,
+    "published_date": null,
+    "modified_date": null,
+    "source": "board-of-directors",
+    "appears_on": [
+      "board-of-directors"
+    ],
+    "issues": [
+      "placeholder_portrait",
+      "no_bio",
+      "designation_label_in_value",
+      "no_leadership_team_post"
+    ],
+    "seo": null,
+    "seo_issues": [
+      "no_detail_url"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Mr. Kashi Prasad Khandelwal",
+    "designation": "Independent Director",
+    "designation_raw": "Designation: Independent Director",
+    "image": "https://ilshospitals.com/wp-content/uploads/2024/01/profile-palceholder.jpg",
+    "image_alt": "ils-leader",
+    "bio_html": null,
+    "bio_text": null,
+    "slug": null,
+    "detail_url": null,
+    "published_date": null,
+    "modified_date": null,
+    "source": "board-of-directors",
+    "appears_on": [
+      "board-of-directors"
+    ],
+    "issues": [
+      "placeholder_portrait",
+      "no_bio",
+      "designation_label_in_value",
+      "no_leadership_team_post"
+    ],
+    "seo": null,
+    "seo_issues": [
+      "no_detail_url"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Mr. Amrendra Prasad Verma",
+    "designation": "Independent Director",
+    "designation_raw": "Designation: Independent Director",
+    "image": "https://ilshospitals.com/wp-content/uploads/2024/01/profile-palceholder.jpg",
+    "image_alt": "ils-leader",
+    "bio_html": null,
+    "bio_text": null,
+    "slug": null,
+    "detail_url": null,
+    "published_date": null,
+    "modified_date": null,
+    "source": "board-of-directors",
+    "appears_on": [
+      "board-of-directors"
+    ],
+    "issues": [
+      "placeholder_portrait",
+      "no_bio",
+      "designation_label_in_value",
+      "no_leadership_team_post"
+    ],
+    "seo": null,
+    "seo_issues": [
+      "no_detail_url"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Mr. Deepak Pramanik",
+    "designation": "Independent Director",
+    "designation_raw": "Designation: Independent Director",
+    "image": "https://ilshospitals.com/wp-content/uploads/2024/01/profile-palceholder.jpg",
+    "image_alt": "ils-leader",
+    "bio_html": null,
+    "bio_text": null,
+    "slug": null,
+    "detail_url": null,
+    "published_date": null,
+    "modified_date": null,
+    "source": "board-of-directors",
+    "appears_on": [
+      "board-of-directors"
+    ],
+    "issues": [
+      "placeholder_portrait",
+      "no_bio",
+      "designation_label_in_value",
+      "no_leadership_team_post"
+    ],
+    "seo": null,
+    "seo_issues": [
+      "no_detail_url"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Dr. Tapti Sen",
+    "designation": "Independent Director",
+    "designation_raw": "Designation: Independent Director",
+    "image": "https://ilshospitals.com/wp-content/uploads/2024/01/profile-palceholder.jpg",
+    "image_alt": "ils-leader",
+    "bio_html": null,
+    "bio_text": null,
+    "slug": null,
+    "detail_url": null,
+    "published_date": null,
+    "modified_date": null,
+    "source": "board-of-directors",
+    "appears_on": [
+      "board-of-directors"
+    ],
+    "issues": [
+      "placeholder_portrait",
+      "no_bio",
+      "designation_label_in_value",
+      "no_leadership_team_post"
+    ],
+    "seo": null,
+    "seo_issues": [
+      "no_detail_url"
+    ]
+  },
+  {
+    "id": null,
+    "name": "Mr. Hari Modi",
+    "designation": "Independent Director",
+    "designation_raw": "Designation: Independent Director",
+    "image": "https://ilshospitals.com/wp-content/uploads/2024/01/profile-palceholder.jpg",
+    "image_alt": "ils-leader",
+    "bio_html": null,
+    "bio_text": null,
+    "slug": null,
+    "detail_url": null,
+    "published_date": null,
+    "modified_date": null,
+    "source": "board-of-directors",
+    "appears_on": [
+      "board-of-directors"
+    ],
+    "issues": [
+      "placeholder_portrait",
+      "no_bio",
+      "designation_label_in_value",
+      "no_leadership_team_post"
+    ],
+    "seo": null,
+    "seo_issues": [
+      "no_detail_url"
     ]
   }
 ]

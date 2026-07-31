@@ -11,17 +11,32 @@
  * Times newsletters, book launches and conferences (18 items total via WP REST,
  * only a handful of which are courses). The `/academia/courses/` page
  * (a normal WP page, postid-10119) is the ONLY authoritative list of which
- * academia-list items are courses — it hand-picks 3 cards. So pass 1 drives off
- * the listing page's cards, not the REST collection; REST is used only to
- * back-fill each course's post id and publish/modified dates by slug.
+ * academia-list items are courses — it hand-picks the card set (3 with real
+ * detail pages as of this writing, plus a growing number of flyer-only
+ * promotional cards, see below). So pass 1 drives off the listing page's
+ * cards, not the REST collection; REST is used only to back-fill each
+ * detail-page course's post id and publish/modified dates by slug.
+ *
+ * FLYER-ONLY CARDS. Not every `.csr-sec-item` on the listing links to an
+ * /academia-list/<slug>/ post. Some link straight to an uploaded flyer image
+ * or PDF (e.g. "Join our MEM Courses", "Gynae Endoscopy Skill Course") with no
+ * WordPress detail page behind them at all — just a card image, a title/blurb
+ * and a "Download PDF" anchor. These have no slug, no SEO, nothing for pass 2
+ * to visit, so they are captured directly from the listing card and emitted
+ * as `is_flyer_only: true` records with `url`/`id`/`seo` all null and a
+ * `flyer_url` pointing at the uploaded file. Do not try to invent a detail
+ * page for them; there isn't one.
  *
  * TWO-PASS PATTERN (as with doctors/procedures/packages):
- *   pass 1  parse the listing cards (`.csr-sec-item` that link to
- *           /academia-list/<slug>/) -> {slug, url, title, thumbnail, excerpt};
- *           writes the small index courses.json.
+ *   pass 1  parse the listing cards (`.csr-sec-item`) -> for ones linking to
+ *           /academia-list/<slug>/: {slug, url, title, thumbnail, excerpt};
+ *           for flyer-only ones: {slug: null, url: null, is_flyer_only: true,
+ *           title, thumbnail, excerpt, flyer_url}. Writes the small index
+ *           courses.json.
  *   pass 2  visit each /academia-list/<slug>/ detail page for the banner
  *           heading, body content, gallery/flyer images, application links and
- *           the full SEO block.
+ *           the full SEO block. Flyer-only entries skip pass 2 entirely (there
+ *           is nothing to fetch) and pass straight through to the output.
  *
  * DETAIL PAGE SHAPE. The body is one `section.csr-sec-for-page` block: a heading
  * (`h2.comm-black-header`, empty on some courses — the title is then only in the
@@ -104,19 +119,28 @@ function isImageUrl(url) {
 
 /**
  * Resolve the list of courses to visit, as [{ slug, url, title, thumbnail,
- * excerpt }]. The /academia/courses/ page is authoritative for *which*
- * academia-list items count as courses; --from-list replays a prior index.
+ * excerpt, is_flyer_only, flyer_url }]. The /academia/courses/ page is
+ * authoritative for *which* academia-list items count as courses;
+ * --from-list replays a prior index.
+ *
+ * A card links EITHER to an /academia-list/<slug>/ detail page or straight to
+ * an uploaded flyer (PDF/image) with no post behind it — the latter become
+ * is_flyer_only entries that pass 2 skips. Dedupe key is the slug for detail
+ * courses and the flyer URL for flyer-only ones, since those have no slug.
  */
 async function loadCourseList(fromList) {
   if (fromList) {
     const raw = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), fromList), "utf-8"));
     console.log(`[info] course list from ${fromList}: ${raw.length} entries`);
     return raw.map((c) => ({
-      slug: c.slug,
-      url: c.url,
+      slug: c.slug || null,
+      url: c.url || null,
       title: c.title || null,
       thumbnail: c.thumbnail || null,
       excerpt: c.excerpt || null,
+      is_flyer_only: !!c.is_flyer_only,
+      flyer_url: c.flyer_url || null,
+      flyer_link_text: c.flyer_link_text || null,
     }));
   }
 
@@ -127,22 +151,52 @@ async function loadCourseList(fromList) {
   const seen = new Map();
   $(".csr-sec-item").each((_, el) => {
     const $c = $(el);
+    const title = collapse($c.find("h3").first().text());
+    const thumbnail = absoluteUrl($c.find("img").first().attr("src"));
+    const excerpt = collapse($c.find(".csr-sec-item-text p, p").first().text());
+
     const href = $c.find('a[href*="/academia-list/"]').first().attr("href");
-    if (!href) return; // non-course card (e.g. an academia sub-section link)
-    const url = absoluteUrl(href);
-    const slug = slugFromUrl(url);
-    if (!slug || slug === "academia-list" || seen.has(slug)) return;
-    seen.set(slug, {
-      slug,
-      url,
-      title: collapse($c.find("h3").first().text()),
-      thumbnail: absoluteUrl($c.find("img").first().attr("src")),
-      excerpt: collapse($c.find(".csr-sec-item-text p, p").first().text()),
+    if (href) {
+      const url = absoluteUrl(href);
+      const slug = slugFromUrl(url);
+      if (!slug || slug === "academia-list" || seen.has(slug)) return;
+      seen.set(slug, {
+        slug,
+        url,
+        title,
+        thumbnail,
+        excerpt,
+        is_flyer_only: false,
+        flyer_url: null,
+        flyer_link_text: null,
+      });
+      return;
+    }
+
+    // No detail page: the card's only anchor is the flyer itself.
+    const $flyer = $c.find("a[href]").first();
+    const flyer_url = absoluteUrl($flyer.attr("href"));
+    const key = flyer_url || title;
+    if (!key || seen.has(key)) return;
+    seen.set(key, {
+      slug: null,
+      url: null,
+      title,
+      thumbnail,
+      excerpt,
+      is_flyer_only: true,
+      flyer_url,
+      flyer_link_text: collapse($flyer.text()),
     });
   });
 
-  console.log(`[info] course list from ${LISTING_URL}: ${seen.size} entries`);
-  return [...seen.values()];
+  const list = [...seen.values()];
+  const flyers = list.filter((c) => c.is_flyer_only).length;
+  console.log(
+    `[info] course list from ${LISTING_URL}: ${list.length} entries ` +
+      `(${list.length - flyers} with detail pages, ${flyers} flyer-only)`
+  );
+  return list;
 }
 
 /** slug -> { id, published_date, modified_date }, from the WP REST collection. */
@@ -265,6 +319,8 @@ function scrapeCourse(html, entry, restMeta) {
     title,
     slug: entry.slug,
     url,
+    is_flyer_only: false,
+    flyer_url: null,
     thumbnail: entry.thumbnail || null,
     excerpt: entry.excerpt || null,
     breadcrumb: extractVisibleBreadcrumb($, banner),
@@ -277,6 +333,47 @@ function scrapeCourse(html, entry, restMeta) {
     modified_date: rest.modified_date || null,
     seo,
     seo_issues: issues,
+  };
+}
+
+/**
+ * A flyer-only card, promoted to a course record without any fetch. Everything
+ * that would come from a detail page (id, content, SEO, dates) is null by
+ * construction, not by failure — hence the single `flyer_only_no_detail_page`
+ * issue rather than `empty_content`.
+ */
+function flyerCourse(entry) {
+  return {
+    id: null,
+    title: entry.title || null,
+    slug: null,
+    url: null,
+    is_flyer_only: true,
+    flyer_url: entry.flyer_url || null,
+    thumbnail: entry.thumbnail || null,
+    excerpt: entry.excerpt || null,
+    breadcrumb: [],
+    heading: null,
+    content: null,
+    content_text: null,
+    // `full` only when the flyer is a *different* file from the card image —
+    // same first-wins/dedupe rule extractImages applies to lightbox anchors.
+    images: entry.thumbnail
+      ? [
+          {
+            src: entry.thumbnail,
+            full: entry.flyer_url && entry.flyer_url !== entry.thumbnail ? entry.flyer_url : null,
+            alt: null,
+          },
+        ]
+      : [],
+    links: entry.flyer_url
+      ? [{ text: entry.flyer_link_text || null, url: entry.flyer_url }]
+      : [],
+    published_date: null,
+    modified_date: null,
+    seo: null,
+    seo_issues: ["flyer_only_no_detail_page"],
   };
 }
 
@@ -357,6 +454,11 @@ async function main() {
   const results = [];
 
   for (const entry of list) {
+    if (entry.is_flyer_only) {
+      console.log(`[info] Flyer-only course (no detail page): ${entry.title}`);
+      results.push(flyerCourse(entry));
+      continue;
+    }
     console.log(`[info] Fetching course: ${entry.url}`);
     const { html, fromCache: cached } = await fetchHtml(entry.url, `academia-list/${entry.slug}`);
     if (!html) {
@@ -376,8 +478,13 @@ async function main() {
 
   const tally = {};
   for (const c of results) for (const k of c.seo_issues || []) tally[k] = (tally[k] || 0) + 1;
-  const empty = results.filter((c) => !c.content).length;
-  console.log(`[done] Scraped ${results.length}/${list.length} courses -> ${outPath}`);
+  const flyers = results.filter((c) => c.is_flyer_only).length;
+  // Flyer-only records have no content by design; only detail pages can be "empty".
+  const empty = results.filter((c) => !c.is_flyer_only && !c.content).length;
+  console.log(
+    `[done] Scraped ${results.length}/${list.length} courses ` +
+      `(${results.length - flyers} detail pages, ${flyers} flyer-only) -> ${outPath}`
+  );
   if (empty) console.log(`[warn] ${empty} courses had no content`);
   console.log("[seo]  issue tally:", tally);
 }

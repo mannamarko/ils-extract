@@ -1,23 +1,72 @@
 [
   {
+    "slug": null,
+    "url": null,
+    "title": "Join our MEM Courses",
+    "thumbnail": "https://ilshospitals.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-26-at-4.50.55-PM.webp",
+    "excerpt": "Join our MEM Courses",
+    "is_flyer_only": true,
+    "flyer_url": "https://ilshospitals.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-26-at-4.50.55-PM.webp",
+    "flyer_link_text": "Download PDF"
+  },
+  {
+    "slug": null,
+    "url": null,
+    "title": "ILS Gynae Endoscopy Hands-On Skill Course",
+    "thumbnail": "https://ilshospitals.com/wp-content/uploads/2026/03/ILS-Gynae-Endoscopy-Hands-On-Skill-Course.webp",
+    "excerpt": null,
+    "is_flyer_only": true,
+    "flyer_url": "https://ilshospitals.com/wp-content/uploads/2026/03/ILS-Gynae-Endoscopy-Hands-On-Skill-Course.pdf",
+    "flyer_link_text": "Download PDF"
+  },
+  {
+    "slug": null,
+    "url": null,
+    "title": "Gynae Endoscopy Skill Course",
+    "thumbnail": "https://ilshospitals.com/wp-content/uploads/2025/02/Gynae-endoscopy-SMP-Final-Approved-21.02.2025.jpg",
+    "excerpt": "Gynae Endoscopy Skill Course",
+    "is_flyer_only": true,
+    "flyer_url": "https://ilshospitals.com/wp-content/uploads/2025/02/Gynae-Endoscopy-Skill-Course.pdf",
+    "flyer_link_text": "Download PDF"
+  },
+  {
+    "slug": null,
+    "url": null,
+    "title": "Join our Emergency Medicine courses",
+    "thumbnail": "https://ilshospitals.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-185343.png",
+    "excerpt": "Join our Emergency Medicine courses",
+    "is_flyer_only": true,
+    "flyer_url": "https://ilshospitals.com/wp-content/uploads/2025/01/ILS-Emergency-Medicine-Standee_A5-flyer-Final-Approved-17.01.2025.pdf",
+    "flyer_link_text": "Download PDF"
+  },
+  {
     "slug": "fogsi-gynae-endoscopy-skill-course-9th-batch",
     "url": "https://ilshospitals.com/academia-list/fogsi-gynae-endoscopy-skill-course-9th-batch/",
     "title": "FOGSI Gynae Endoscopy Skill Course 9th Batch",
     "thumbnail": "https://ilshospitals.com/wp-content/uploads/2024/06/FOGSI-COURSE.jpg",
-    "excerpt": "ILS Hospitals Salt Lake is recognized as FOGSI (Federation of Obstetric and Gynaecological Societies of India) / IAGE Gynae Endoscopic Training Center in Eastern India. ILS Academia, Salt Lake..."
+    "excerpt": "ILS Hospitals Salt Lake is recognized as FOGSI (Federation of Obstetric and Gynaecological Societies of India) / IAGE Gynae Endoscopic Training Center in Eastern India. ILS Academia, Salt Lake...",
+    "is_flyer_only": false,
+    "flyer_url": null,
+    "flyer_link_text": null
   },
   {
     "slug": "fogsi-gynae-endoscopy-skill-course-8th-batch",
     "url": "https://ilshospitals.com/academia-list/fogsi-gynae-endoscopy-skill-course-8th-batch/",
     "title": "FOGSI Gynae Endoscopy Skill Course",
     "thumbnail": "https://ilshospitals.com/wp-content/uploads/2024/01/fogse-1.jpg",
-    "excerpt": "ILS Hospitals Salt Lake is recognized as FOGSI (Federation of Obstetric and Gynaecological Societies of India) / IAGE Gynae Endoscopic Training Center in Eastern India. ILS Academia, Salt Lake..."
+    "excerpt": "ILS Hospitals Salt Lake is recognized as FOGSI (Federation of Obstetric and Gynaecological Societies of India) / IAGE Gynae Endoscopic Training Center in Eastern India. ILS Academia, Salt Lake...",
+    "is_flyer_only": false,
+    "flyer_url": null,
+    "flyer_link_text": null
   },
   {
     "slug": "diploma-in-medical-laboratory-technology-dmlt",
     "url": "https://ilshospitals.com/academia-list/diploma-in-medical-laboratory-technology-dmlt/",
     "title": "Diploma in Medical Laboratory Technology (DMLT)",
     "thumbnail": "https://ilshospitals.com/wp-content/uploads/2024/02/labtechnicians_33482161_cropped-1.jpg",
-    "excerpt": "The Diploma in Medical Laboratory Technology (DMLT) is a program that trains students in various aspects of laboratory testing and analysis in the field of healthcare."
+    "excerpt": "The Diploma in Medical Laboratory Technology (DMLT) is a program that trains students in various aspects of laboratory testing and analysis in the field of healthcare.",
+    "is_flyer_only": false,
+    "flyer_url": null,
+    "flyer_link_text": null
   }
 ]
