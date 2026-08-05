@@ -20,12 +20,50 @@
  * "Complete Cardiac Care" at Rs. 5500 and a Raipur one at Rs. 3700 — so `slug`
  * is the key throughout and `name` is never used for identity or joining.
  *
- * DELIBERATELY SKIPPED: the "Other Health Packages" strip at the foot of every
- * detail page is boilerplate — the same first four cards everywhere, to the
- * point that a package lists ITSELF among its "others". Its markup also
- * contains "N Parameter" strings, which is why the parameter count is taken
- * from the listing card and never from the detail page. The lead-capture form
- * is skipped for the same boilerplate reason.
+ * THE "N PARAMETER" COUNT ONLY EXISTS FOR 15 OF THE 35. The other 20 — all 15
+ * `-raipur` variants plus cancer-screening-male/female, renal-screening,
+ * care-of-senior-citizen and gold-health-checkup — have no count anywhere on
+ * the public site: their listing card jumps straight from <h3> to <ul> with no
+ * <p> in between, WP REST returns `acf: []` for the CPT so the field is not
+ * exposed, the detail page's own body never carries one, and the MonsterInsights
+ * `dataLayer_content` "short-description" blob (which does hold it for the other
+ * 15) is absent for these. It is a content gap in the CMS, not a parse failure,
+ * so `parameter_count` stays null, `parameter_count_source` is null alongside it
+ * and `missing_parameter_count` fires. Do not estimate it from the test list:
+ * "34 Parameter" counts individual lab parameters while `tests_count` counts the
+ * test GROUPS the detail page lists (34 vs 12 on complete-cardiac-care), so the
+ * two are only ever ordered, never equal — hence `parameter_count_below_test_count`
+ * rather than an equality check. What the listing card CAN be held to is its own
+ * teaser: 3 shown + "+N More" must equal the detail page's test count, and
+ * `teaser_count_mismatch` catches the 5 packages where it does not.
+ *
+ * CAPTURED BUT BOILERPLATE: the "Other Health Packages" strip at the foot of
+ * every detail page is the same four cards on all 35 pages, in the same order
+ * (complete-cardiac-care, decoding-diabetes, care-of-senior-citizen-male,
+ * well-woman-health-check-up), to the point that each of those four lists
+ * ITSELF among its "others". It is recorded verbatim anyway — its slugs are the
+ * links the site actually renders — and flagged with
+ * `other_packages_strip_is_boilerplate` / `other_packages_includes_self`. Since
+ * it is a hand-authored copy of the listing card it can drift from it, so each
+ * strip card's parameter count and price pair are compared back to the listing
+ * and any disagreement raises `other_packages_stale`. Note its "N Parameter"
+ * strings are its own four packages', never the host page's — which is why the
+ * count is taken from the listing card and never from the detail page, and why
+ * `tests` stays scoped to `.package-details-box`.
+ *
+ * The relations worth linking are computed instead, in `linkRelatedPackages`:
+ * `related_packages.variants` groups on the NORMALIZED NAME, not the slug,
+ * because cancer-screening-male/female are Raipur packages whose slugs carry no
+ * `-raipur` suffix — suffix-stripping would group them wrongly, while name
+ * normalization yields 15 clean cross-unit pairs and 5 singletons.
+ * `related_packages.same_hospital` is slug-only to keep the file small; the
+ * Raipur group alone has 17 members. Like `duplicate_meta_title`, both that
+ * join and `other_packages_strip_is_boilerplate` are properties of the whole
+ * set, so a narrowed run (`--slug`, `--limit`) resolves them over only the
+ * packages it visited.
+ *
+ * The lead-capture form is still skipped, for the boilerplate reason the strip
+ * used to be.
  *
  * NOTE on this site's SEO: health packages are markedly thinner than the other
  * content types. There is only ONE ld+json block (AIOSEO's) and NO theme meta
@@ -158,6 +196,66 @@ function parseCard($, el) {
   };
 }
 
+// ---------- "Other Health Packages" strip (detail pages) ----------
+
+/**
+ * The strip at the foot of every detail page. Its cards reuse the listing
+ * card's inner markup but drop the outer `package hospital-<id>` classes, so
+ * they carry no availability — only a name, a slug and the price pair.
+ *
+ * On a detail page `section.package-section` matches this strip and nothing
+ * else, but the listing uses the same class for its own grid, so the section
+ * is picked by its `h2.header-title` text rather than by class alone.
+ */
+function parseOtherPackages($) {
+  const section = $("section.package-section")
+    .filter((_, el) => /other health packages/i.test(collapse($(el).find("h2.header-title").first().text()) || ""))
+    .first();
+  if (!section.length) return { cards: [], view_more_url: null };
+
+  const cards = section
+    .find("div.card")
+    .map((position, el) => {
+      const $card = $(el);
+      const url = $card.find("a.details-btn").attr("href") || null;
+
+      let parameter_count = null;
+      $card.find("p").each((_, p) => {
+        if (parameter_count != null) return;
+        const m = (collapse($(p).text()) || "").match(/^(\d+)\s*Parameter/i);
+        if (m) parameter_count = Number(m[1]);
+      });
+
+      const original_price_text = collapse($card.find(".original-price").first().text());
+      const offer_price_text = collapse($card.find(".offer-price").first().text());
+      const more_tests = collapse($card.find("p.more-tests").first().text());
+
+      return {
+        position,
+        name: collapse($card.find("h3").first().text()),
+        slug: slugFromUrl(url),
+        url,
+        // Unlike the listing, this strip's Book Now href carries no #booknow.
+        book_url: $card.find("a.book-btn").attr("href") || null,
+        parameter_count,
+        tests_preview: $card
+          .find("ul li")
+          .map((_, li) => collapse($(li).text()))
+          .get()
+          .filter(Boolean),
+        more_tests,
+        more_tests_count: parseMoreCount(more_tests),
+        original_price: parsePrice(original_price_text),
+        offer_price: parsePrice(offer_price_text),
+        original_price_text,
+        offer_price_text,
+      };
+    })
+    .get();
+
+  return { cards, view_more_url: section.find("a.view-more-btn").attr("href") || null };
+}
+
 /** Returns { packages, hospitalNames }. */
 async function buildIndex() {
   console.log(`[info] Fetching listing: ${LISTING_URL}`);
@@ -256,7 +354,7 @@ async function loadRestDates() {
 }
 
 function scrapePackage(html, entry, refs) {
-  const { hospitalNames, restDates } = refs;
+  const { hospitalNames, restDates, listingBySlug } = refs;
   const $ = cheerio.load(html);
   const url = entry.url;
   const data_issues = [];
@@ -295,8 +393,36 @@ function scrapePackage(html, entry, refs) {
   if (!hospitals.length) data_issues.push("no_hospital_assigned");
   if (hospitals.some((h) => !h.name)) data_issues.push("unknown_hospital_id");
 
+  // ---- the "Other Health Packages" strip ----
+  const { cards: other_health_packages, view_more_url } = parseOtherPackages($);
+  const other_health_packages_slugs = other_health_packages.map((c) => c.slug).filter(Boolean);
+  if (other_health_packages_slugs.includes(entry.slug)) data_issues.push("other_packages_includes_self");
+  // The strip is a hand-maintained copy of the listing card, so it can drift
+  // away from it. Compared, never reconciled.
+  for (const card of other_health_packages) {
+    const src = listingBySlug ? listingBySlug.get(card.slug) : null;
+    if (!src) continue;
+    if (
+      card.parameter_count !== src.parameter_count ||
+      card.original_price !== src.original_price ||
+      card.offer_price !== src.offer_price
+    ) {
+      data_issues.push("other_packages_stale");
+      break;
+    }
+  }
+
+  // `parameter_count` counts individual lab parameters; `tests.length` counts
+  // the test GROUPS the detail page lists (34 vs 12 on complete-cardiac-care),
+  // so the two are never expected to be equal — only ordered.
   if (entry.parameter_count == null) data_issues.push("missing_parameter_count");
-  else if (tests.length && entry.parameter_count !== tests.length) data_issues.push("parameter_count_mismatch");
+  else if (tests.length && entry.parameter_count < tests.length) data_issues.push("parameter_count_below_test_count");
+
+  // The listing card promises "3 shown + N more"; the detail page must deliver
+  // exactly that many.
+  const teaser_total =
+    entry.more_tests_count != null ? (entry.tests_preview || []).length + entry.more_tests_count : null;
+  if (teaser_total != null && tests.length && teaser_total !== tests.length) data_issues.push("teaser_count_mismatch");
 
   const discount_amount =
     entry.original_price != null && entry.offer_price != null ? entry.original_price - entry.offer_price : null;
@@ -353,7 +479,10 @@ function scrapePackage(html, entry, refs) {
     "empty_description",
     "no_tests_listed",
     "missing_parameter_count",
-    "parameter_count_mismatch",
+    "parameter_count_below_test_count",
+    "teaser_count_mismatch",
+    "other_packages_includes_self",
+    "other_packages_stale",
     "banner_price_mismatch",
   ]) {
     if (data_issues.includes(k)) issues.push(k);
@@ -382,11 +511,19 @@ function scrapePackage(html, entry, refs) {
     banner_price_original: bannerPrices.original,
     banner_price_offer: bannerPrices.offer,
     parameter_count: entry.parameter_count,
+    // Explicit provenance: null means the site publishes no count for this
+    // package anywhere, not that the parse failed. See the header comment.
+    parameter_count_source: entry.parameter_count != null ? "listing_card" : null,
     tests_preview: entry.tests_preview || [],
     more_tests: entry.more_tests || null,
+    more_tests_count: entry.more_tests_count != null ? entry.more_tests_count : null,
     tests,
     tests_count: tests.length,
     tests_label,
+    other_health_packages,
+    other_health_packages_slugs,
+    other_health_packages_view_more_url: view_more_url,
+    related_packages: null, // filled by linkRelatedPackages once the set is complete
     description,
     description_text,
     published_date: rest.published_date || seo.article_published_time || null,
@@ -413,6 +550,76 @@ function flagDuplicateTitles(results) {
       p.seo_issues.push("duplicate_meta_title");
       p.seo.seo_issues = p.seo_issues;
     }
+  }
+}
+
+/**
+ * The site's own "Other Health Packages" strip is the same four cards on every
+ * page, so it links nothing useful. These are the relations that do exist,
+ * resolved from the finished set:
+ *
+ *   variants      — the same package sold at another unit, at another price.
+ *   same_hospital — everything else sold at a unit this package is sold at.
+ *
+ * Keyed on the NORMALIZED NAME, not the slug: `cancer-screening-male` and
+ * `cancer-screening-female` are Raipur packages whose slugs carry no `-raipur`
+ * suffix, so stripping the suffix would group them wrongly. Normalizing the
+ * name yields 15 clean cross-unit pairs and 5 singletons over the 35.
+ */
+const nameKey = (s) => (s || "").toLowerCase().replace(/[^a-z0-9]+/g, "");
+
+function linkRelatedPackages(results) {
+  const byName = new Map();
+  for (const p of results) {
+    const k = nameKey(p.name);
+    if (!byName.has(k)) byName.set(k, []);
+    byName.get(k).push(p);
+  }
+
+  for (const p of results) {
+    const k = nameKey(p.name);
+    const variants = (byName.get(k) || [])
+      .filter((o) => o.slug !== p.slug)
+      .map((o) => ({
+        slug: o.slug,
+        name: o.name,
+        url: o.url,
+        hospitals: o.hospitals,
+        hospital_ids: o.hospital_ids,
+        original_price: o.original_price,
+        offer_price: o.offer_price,
+        parameter_count: o.parameter_count,
+      }));
+
+    const variantSlugs = new Set(variants.map((v) => v.slug));
+    const own = new Set(p.hospital_ids || []);
+    // Slugs only: the 17-package Raipur group would otherwise bloat the file.
+    const same_hospital = own.size
+      ? results
+          .filter(
+            (o) =>
+              o.slug !== p.slug && !variantSlugs.has(o.slug) && (o.hospital_ids || []).some((id) => own.has(id))
+          )
+          .map((o) => o.slug)
+      : [];
+
+    p.related_packages = { name_key: k, variants, same_hospital };
+  }
+}
+
+/**
+ * The strip being identical everywhere is a property of the set, so it can only
+ * be asserted once every page has been parsed.
+ */
+function flagBoilerplateStrip(results) {
+  const withStrip = results.filter((p) => p.other_health_packages_slugs.length);
+  if (withStrip.length < 2) return;
+  const first = withStrip[0].other_health_packages_slugs.join("|");
+  if (!withStrip.every((p) => p.other_health_packages_slugs.join("|") === first)) return;
+  for (const p of withStrip) {
+    p.seo_issues.push("other_packages_strip_is_boilerplate");
+    p.data_issues.push("other_packages_strip_is_boilerplate");
+    p.seo.seo_issues = p.seo_issues;
   }
 }
 
@@ -493,7 +700,10 @@ async function main() {
     process.exit(1);
   }
 
-  const refs = { hospitalNames, restDates: await loadRestDates() };
+  // The listing cards, keyed by slug, so the "Other Health Packages" strip on
+  // each detail page can be compared against the source it was copied from.
+  const listingBySlug = new Map(packages.map((p) => [p.slug, p]));
+  const refs = { hospitalNames, restDates: await loadRestDates(), listingBySlug };
 
   const results = [];
   let done = 0;
@@ -514,6 +724,8 @@ async function main() {
   }
 
   flagDuplicateTitles(results);
+  flagBoilerplateStrip(results);
+  linkRelatedPackages(results);
 
   const outPath = path.resolve(process.cwd(), out);
   fs.writeFileSync(outPath, JSON.stringify(results, null, 2), "utf-8");
