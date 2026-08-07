@@ -1,0 +1,3848 @@
+[
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Balmer Lawrie & Co. Ltd.",
+    "name_raw": "Balmer Lawrie & Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab1",
+        "corpTab2"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab1",
+          "hospital_id": 341,
+          "position": 1
+        },
+        {
+          "tab_id": "corpTab2",
+          "hospital_id": 342,
+          "position": 1
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/Balmer_Lawrie_Logo.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "Balmer_Lawrie_Logo.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt",
+      "duplicate_name_across_tabs"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "RBI",
+    "name_raw": "RBI",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab1",
+        "corpTab2"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab1",
+          "hospital_id": 341,
+          "position": 2
+        },
+        {
+          "tab_id": "corpTab2",
+          "hospital_id": 342,
+          "position": 4
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/rbi-logo.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "rbi-logo.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt",
+      "duplicate_name_across_tabs"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "NTPC(National Thermal Power Corporation)",
+    "name_raw": "NTPC(National Thermal Power Corporation)",
+    "hospitals": [
+      {
+        "id": 342,
+        "name": "Dumdum"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab2"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab2",
+          "hospital_id": 342,
+          "position": 2
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/ntpc-logo.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "ntpc-logo.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Power Grid",
+    "name_raw": "Power Grid",
+    "hospitals": [
+      {
+        "id": 342,
+        "name": "Dumdum"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab2"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab2",
+          "hospital_id": 342,
+          "position": 3
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/powergrid.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "powergrid.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "SAIL(Steel Authority of India Limited)",
+    "name_raw": "SAIL(Steel Authority of India Limited)",
+    "hospitals": [
+      {
+        "id": 342,
+        "name": "Dumdum"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab2"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab2",
+          "hospital_id": 342,
+          "position": 5
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/sail.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "sail.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Oil India Limited",
+    "name_raw": "Oil India Limited",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 1
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/07/oil-india.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "oil-india.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Airports Authority of India",
+    "name_raw": "Airports Authority of India",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 2
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/airports.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "airports.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Pradhan Mantri Jan Arogya Yojana",
+    "name_raw": "Pradhan Mantri Jan Arogya Yojana",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 3
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/pmjay.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "pmjay.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "CIPET(Central Institute of Petrochemicals Engineering & Technology)",
+    "name_raw": "CIPET(Central Institute of Petrochemicals Engineering & Technology)",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 4
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/cipet.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "cipet.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Employees's State Insurance Corporation",
+    "name_raw": "Employees's State Insurance Corporation",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 5
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/esic.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "esic.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Food Corporation of India",
+    "name_raw": "Food Corporation of India",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 6
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/fci.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "fci.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "LIC(Life Insurance Corporation of India)",
+    "name_raw": "LIC(Life Insurance Corporation of India)",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 7
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/lic.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "lic.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "NIT(National Institutes of Technology)",
+    "name_raw": "NIT(National Institutes of Technology)",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 8
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/nit.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "nit.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "NEEPCO(North Eastern Electric Power Corporation Limited)",
+    "name_raw": "NEEPCO(North Eastern Electric Power Corporation Limited)",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 9
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/neepco.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "neepco.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "NHM(National Health Mission)",
+    "name_raw": "NHM(National Health Mission)",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 10
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/nhm.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "nhm.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "ONGC(Oil and Natural Gas Corporation)",
+    "name_raw": "ONGC(Oil and Natural Gas Corporation)",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 11
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/ongc.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "ongc.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "TNGCL(Tripura Natural Gas Company Limited)",
+    "name_raw": "TNGCL(Tripura Natural Gas Company Limited)",
+    "hospitals": [
+      {
+        "id": 343,
+        "name": "Agartala"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab4"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab4",
+          "hospital_id": 343,
+          "position": 12
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2024/06/tngcl.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "tngcl.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Sarda Energy & Minerals Limited",
+    "name_raw": "Sarda Energy & Minerals Limited",
+    "hospitals": [
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab5"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab5",
+          "hospital_id": 5637,
+          "position": 1
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/10/sarda-energy-minerals.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "sarda-energy-minerals.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Chhattisgarh State Electricity Board",
+    "name_raw": "Chhattisgarh State Electricity Board",
+    "hospitals": [
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab5"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab5",
+          "hospital_id": 5637,
+          "position": 2
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/10/CPDCL.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "CPDCL.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Indian Institute of Technology, Bhilai",
+    "name_raw": "Indian Institute of Technology, Bhilai",
+    "hospitals": [
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab5"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab5",
+          "hospital_id": 5637,
+          "position": 3
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/10/IITBhilai.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "IITBhilai.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Godawari Power & Ispat Limited",
+    "name_raw": "Godawari Power & Ispat Limited",
+    "hospitals": [
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab5"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab5",
+          "hospital_id": 5637,
+          "position": 4
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/10/godawari-power-ispat.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "godawari-power-ispat.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Jayaswal Neco & Industries Limited",
+    "name_raw": "Jayaswal Neco & Industries Limited",
+    "hospitals": [
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab5"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab5",
+          "hospital_id": 5637,
+          "position": 5
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/10/neco.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "neco.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Abis Exports India Private Limited (IB Group)",
+    "name_raw": "Abis Exports India Private Limited (IB Group)",
+    "hospitals": [
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab5"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab5",
+          "hospital_id": 5637,
+          "position": 6
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/10/ABIS-ltd.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "ABIS-ltd.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Chhattisgarh Chamber of Commerce & Industries, Raipur",
+    "name_raw": "Chhattisgarh Chamber of Commerce & Industries, Raipur",
+    "hospitals": [
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab5"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab5",
+          "hospital_id": 5637,
+          "position": 7
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/10/ccci.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "ccci.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "corporate",
+    "category": "corporate",
+    "name": "Jindal Steel & Power Limited",
+    "name_raw": "Jindal Steel & Power Limited",
+    "hospitals": [
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "per_hospital",
+    "listing": {
+      "section": "corporateTieUps",
+      "tab_ids": [
+        "corpTab5"
+      ],
+      "positions": [
+        {
+          "tab_id": "corpTab5",
+          "hospital_id": 5637,
+          "position": 8
+        }
+      ]
+    },
+    "slug": null,
+    "post_id": null,
+    "post_link": null,
+    "post_title": null,
+    "post_date": null,
+    "post_modified": null,
+    "post_status": null,
+    "logo": {
+      "media_id": null,
+      "src": "https://ilshospitals.com/wp-content/uploads/2025/10/jindal-steel.webp",
+      "alt": null,
+      "caption": null,
+      "media_title": null,
+      "mime_type": null,
+      "width": null,
+      "height": null,
+      "filename": "jindal-steel.webp",
+      "uploaded_date": null
+    },
+    "issues": [
+      "no_cpt_match",
+      "logo_missing_alt"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "ACKO General Insurance",
+    "name_raw": "ACKO General Insurance",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 1
+        }
+      ]
+    },
+    "slug": "acko-general-insurance",
+    "post_id": 4959,
+    "post_link": "https://ilshospitals.com/tie-up-list/acko-general-insurance/",
+    "post_title": "ACKO General Insurance",
+    "post_date": "2023-12-15T10:40:21",
+    "post_modified": "2023-12-18T10:46:42",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4960,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Acko-General-Insurance-Logo.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "Acko General Insurance Logo",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "Acko-General-Insurance-Logo.png",
+      "uploaded_date": "2023-12-18T10:38:56"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Aditya Birla Health Insurance Co. Ltd.",
+    "name_raw": "Aditya Birla Health Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 2
+        }
+      ]
+    },
+    "slug": "aditya-birla-health-insurance-co-ltd",
+    "post_id": 4961,
+    "post_link": "https://ilshospitals.com/tie-up-list/aditya-birla-health-insurance-co-ltd/",
+    "post_title": "Aditya Birla Health Insurance Co. Ltd.",
+    "post_date": "2023-12-15T10:50:48",
+    "post_modified": "2023-12-18T10:53:04",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4962,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/aditya_birla_health_logo.jpeg",
+      "alt": null,
+      "caption": null,
+      "media_title": "aditya_birla_health_logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "aditya_birla_health_logo.jpeg",
+      "uploaded_date": "2023-12-18T10:49:35"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Bajaj Allianz General Insurance Co. Ltd.",
+    "name_raw": "Bajaj Allianz General Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 3
+        }
+      ]
+    },
+    "slug": "bajaj-allianz-general-insurance-co-ltd",
+    "post_id": 4963,
+    "post_link": "https://ilshospitals.com/tie-up-list/bajaj-allianz-general-insurance-co-ltd/",
+    "post_title": "Bajaj Allianz General Insurance Co. Ltd.",
+    "post_date": "2023-12-15T10:58:43",
+    "post_modified": "2023-12-18T11:00:34",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4964,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Bajaj-Allianz-general-Insurance-Logo.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "Bajaj Allianz general Insurance Logo",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "Bajaj-Allianz-general-Insurance-Logo.png",
+      "uploaded_date": "2023-12-18T10:55:30"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Care Health Insurance",
+    "name_raw": "Care Health Insurance",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 4
+        }
+      ]
+    },
+    "slug": "care-health-insurance",
+    "post_id": 4965,
+    "post_link": "https://ilshospitals.com/tie-up-list/care-health-insurance/",
+    "post_title": "Care Health Insurance",
+    "post_date": "2023-12-15T11:01:36",
+    "post_modified": "2023-12-18T11:03:52",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4966,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Care_health_insurance_logo.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "Care_health_insurance_logo",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "Care_health_insurance_logo.png",
+      "uploaded_date": "2023-12-18T11:02:34"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Chola Ms General Insurance Co. Ltd.",
+    "name_raw": "Chola Ms General Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 5
+        }
+      ]
+    },
+    "slug": "chola-ms-general-insurance-co-ltd",
+    "post_id": 4967,
+    "post_link": "https://ilshospitals.com/tie-up-list/chola-ms-general-insurance-co-ltd/",
+    "post_title": "Chola Ms General Insurance Co. Ltd.",
+    "post_date": "2023-12-15T11:15:56",
+    "post_modified": "2023-12-18T11:07:38",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4968,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Chola-MS-Genral-Insurance-Logo.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "Chola MS Genral Insurance Logo",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "Chola-MS-Genral-Insurance-Logo.png",
+      "uploaded_date": "2023-12-18T11:05:43"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Edelweiss General Insurance (Zuno General Insurance Ltd.)",
+    "name_raw": "Edelweiss General Insurance (Zuno General Insurance Ltd.)",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 6
+        }
+      ]
+    },
+    "slug": "edelweiss-general-insurance-zuno-general-insurance-ltd",
+    "post_id": 4969,
+    "post_link": "https://ilshospitals.com/tie-up-list/edelweiss-general-insurance-zuno-general-insurance-ltd/",
+    "post_title": "Edelweiss General Insurance (Zuno General Insurance Ltd.)",
+    "post_date": "2023-12-15T11:20:36",
+    "post_modified": "2023-12-18T11:10:56",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4970,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Edelweiss-General-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Edelweiss General Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Edelweiss-General-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T11:09:32"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Future Generali India Insurance Co. Ltd.",
+    "name_raw": "Future Generali India Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 7
+        }
+      ]
+    },
+    "slug": "future-generali-india-insurance-co-ltd",
+    "post_id": 4971,
+    "post_link": "https://ilshospitals.com/tie-up-list/future-generali-india-insurance-co-ltd/",
+    "post_title": "Future Generali India Insurance Co. Ltd.",
+    "post_date": "2023-12-15T11:30:59",
+    "post_modified": "2023-12-18T11:30:59",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4972,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Future-general-insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Future general insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Future-general-insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T11:12:57"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Go Digit General Insurance Ltd.",
+    "name_raw": "Go Digit General Insurance Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 8
+        }
+      ]
+    },
+    "slug": "go-digit-general-insurance-ltd",
+    "post_id": 4973,
+    "post_link": "https://ilshospitals.com/tie-up-list/go-digit-general-insurance-ltd/",
+    "post_title": "Go Digit General Insurance Ltd.",
+    "post_date": "2023-12-15T11:40:42",
+    "post_modified": "2023-12-18T11:36:02",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4974,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Go-Digit-Genral-Insurance.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Go Digit Genral Insurance",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Go-Digit-Genral-Insurance.jpg",
+      "uploaded_date": "2023-12-18T11:33:48"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "HDFC Ergo General Insurance Co. Ltd.",
+    "name_raw": "HDFC Ergo General Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 9
+        }
+      ]
+    },
+    "slug": "hdfc-ergo-general-insurance-co-ltd",
+    "post_id": 4975,
+    "post_link": "https://ilshospitals.com/tie-up-list/hdfc-ergo-general-insurance-co-ltd/",
+    "post_title": "HDFC Ergo General Insurance Co. Ltd.",
+    "post_date": "2023-12-15T11:50:03",
+    "post_modified": "2023-12-18T11:40:44",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4976,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/HDFC-Genral-Insurance-Logo.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "HDFC Genral Insurance Logo",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "HDFC-Genral-Insurance-Logo.png",
+      "uploaded_date": "2023-12-18T11:38:50"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "IFFCO Tokio General Insurance Co. Ltd.",
+    "name_raw": "IFFCO Tokio General Insurance Co. Ltd. ",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 10
+        }
+      ]
+    },
+    "slug": "iffco-tokio-general-insurance-co-ltd",
+    "post_id": 4981,
+    "post_link": "https://ilshospitals.com/tie-up-list/iffco-tokio-general-insurance-co-ltd/",
+    "post_title": "IFFCO Tokio General Insurance Co. Ltd.",
+    "post_date": "2023-12-15T12:15:32",
+    "post_modified": "2023-12-18T11:51:27",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4982,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/IFFCO-Tokio-Logo.jpeg",
+      "alt": null,
+      "caption": null,
+      "media_title": "IFFCO Tokio Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "IFFCO-Tokio-Logo.jpeg",
+      "uploaded_date": "2023-12-18T11:50:18"
+    },
+    "issues": [
+      "name_has_nbsp",
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Manipal Cigna Health Insurance Company Limited",
+    "name_raw": "Manipal Cigna Health Insurance Company Limited",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 11
+        }
+      ]
+    },
+    "slug": "manipal-cigna-health-insurance-company-limited",
+    "post_id": 4902,
+    "post_link": "https://ilshospitals.com/tie-up-list/manipal-cigna-health-insurance-company-limited/",
+    "post_title": "Manipal Cigna Health Insurance Company Limited",
+    "post_date": "2023-12-18T08:03:47",
+    "post_modified": "2023-12-18T08:15:26",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4903,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Manipal-Cigna-Health-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Manipal Cigna Health Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Manipal-Cigna-Health-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T07:52:11"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "National Insurance Co. Ltd.",
+    "name_raw": "National Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 12
+        }
+      ]
+    },
+    "slug": "national-insurance-co-ltd",
+    "post_id": 4907,
+    "post_link": "https://ilshospitals.com/tie-up-list/national-insurance-co-ltd/",
+    "post_title": "National Insurance Co. Ltd.",
+    "post_date": "2023-12-18T08:20:09",
+    "post_modified": "2023-12-18T08:20:09",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4908,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/National-insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "National insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "National-insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T08:18:35"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Navi General Insurance",
+    "name_raw": "Navi General Insurance",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 13
+        }
+      ]
+    },
+    "slug": "navi-general-insurance",
+    "post_id": 4909,
+    "post_link": "https://ilshospitals.com/tie-up-list/navi-general-insurance/",
+    "post_title": "Navi General Insurance",
+    "post_date": "2023-12-18T08:30:50",
+    "post_modified": "2023-12-18T08:30:50",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4910,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Navi-Genral-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Navi Genral Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Navi-Genral-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T08:28:46"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Niva Bupa Health Insurance Co.",
+    "name_raw": "Niva Bupa Health Insurance Co.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 14
+        }
+      ]
+    },
+    "slug": "niva-bupa-health-insurance-co",
+    "post_id": 4983,
+    "post_link": "https://ilshospitals.com/tie-up-list/niva-bupa-health-insurance-co/",
+    "post_title": "Niva Bupa Health Insurance Co.",
+    "post_date": "2023-12-18T11:56:45",
+    "post_modified": "2023-12-18T11:56:45",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4984,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Niva-Bupa-Health-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Niva Bupa Health Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Niva-Bupa-Health-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T11:54:54"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Reliance General Insurance",
+    "name_raw": "Reliance General Insurance",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 15
+        }
+      ]
+    },
+    "slug": "reliance-general-insurance",
+    "post_id": 4985,
+    "post_link": "https://ilshospitals.com/tie-up-list/reliance-general-insurance/",
+    "post_title": "Reliance General Insurance",
+    "post_date": "2023-12-18T12:05:23",
+    "post_modified": "2024-01-05T11:50:26",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 7256,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Reliance-General-Insurance.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "Reliance-General-Insurance",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "Reliance-General-Insurance.png",
+      "uploaded_date": "2024-01-05T11:50:02"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Royal Sundaram General Insurance Co. Ltd.",
+    "name_raw": "Royal Sundaram General Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 16
+        }
+      ]
+    },
+    "slug": "royal-sundaram-general-insurance-co-ltd",
+    "post_id": 4986,
+    "post_link": "https://ilshospitals.com/tie-up-list/royal-sundaram-general-insurance-co-ltd/",
+    "post_title": "Royal Sundaram General Insurance Co. Ltd.",
+    "post_date": "2023-12-18T12:23:55",
+    "post_modified": "2023-12-18T12:23:55",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4987,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Royal-Sundaram-General-Insurance-logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Royal Sundaram General Insurance logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Royal-Sundaram-General-Insurance-logo.jpg",
+      "uploaded_date": "2023-12-18T12:20:18"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "SBI General Insurance Co. Ltd.",
+    "name_raw": "SBI General Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 17
+        }
+      ]
+    },
+    "slug": "sbi-general-insurance-co-ltd",
+    "post_id": 4988,
+    "post_link": "https://ilshospitals.com/tie-up-list/sbi-general-insurance-co-ltd/",
+    "post_title": "SBI General Insurance Co. Ltd.",
+    "post_date": "2023-12-18T12:27:58",
+    "post_modified": "2023-12-18T12:27:58",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4989,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/SBI-General-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "SBI General Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "SBI-General-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T12:26:45"
+    },
+    "issues": [
+      "name_has_nbsp",
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Star Health and Allied Insurance Co. Ltd.",
+    "name_raw": "Star Health and Allied Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 18
+        }
+      ]
+    },
+    "slug": "star-health-and-allied-insurance-co-ltd",
+    "post_id": 4990,
+    "post_link": "https://ilshospitals.com/tie-up-list/star-health-and-allied-insurance-co-ltd/",
+    "post_title": "Star Health and Allied Insurance Co. Ltd.",
+    "post_date": "2023-12-18T12:33:20",
+    "post_modified": "2023-12-18T12:33:20",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4991,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/1200px-Star_Health_and_Allied_Insurance.svg.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "1200px-Star_Health_and_Allied_Insurance.svg",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "1200px-Star_Health_and_Allied_Insurance.svg.png",
+      "uploaded_date": "2023-12-18T12:30:09"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "TATA AIG General Insurance",
+    "name_raw": "TATA AIG General Insurance",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 19
+        }
+      ]
+    },
+    "slug": "tata-aig-general-insurance",
+    "post_id": 4992,
+    "post_link": "https://ilshospitals.com/tie-up-list/tata-aig-general-insurance/",
+    "post_title": "TATA AIG General Insurance",
+    "post_date": "2023-12-18T12:39:28",
+    "post_modified": "2023-12-18T12:39:28",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4993,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/TATA_AIG_logo.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "TATA_AIG_logo",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "TATA_AIG_logo.png",
+      "uploaded_date": "2023-12-18T12:37:44"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "The New India Assurance Co. Ltd.",
+    "name_raw": "The New India Assurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 20
+        }
+      ]
+    },
+    "slug": "the-new-india-assurance-co-ltd",
+    "post_id": 4995,
+    "post_link": "https://ilshospitals.com/tie-up-list/the-new-india-assurance-co-ltd/",
+    "post_title": "The New India Assurance Co. Ltd.",
+    "post_date": "2023-12-18T12:43:30",
+    "post_modified": "2023-12-18T12:43:30",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4996,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/The-New-India-Assurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "The New India Assurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "The-New-India-Assurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T12:42:17"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "The Oriental Insurance Co. Ltd.",
+    "name_raw": "The Oriental Insurance Co. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 21
+        }
+      ]
+    },
+    "slug": "the-oriental-insurance-co-ltd",
+    "post_id": 4997,
+    "post_link": "https://ilshospitals.com/tie-up-list/the-oriental-insurance-co-ltd/",
+    "post_title": "The Oriental Insurance Co. Ltd.",
+    "post_date": "2023-12-18T12:47:09",
+    "post_modified": "2023-12-18T12:47:09",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 4998,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/The-Oriental-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "The Oriental Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "The-Oriental-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T12:45:37"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "United India Insurance Co.",
+    "name_raw": "United India Insurance Co.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 22
+        }
+      ]
+    },
+    "slug": "united-india-insurance-co",
+    "post_id": 4999,
+    "post_link": "https://ilshospitals.com/tie-up-list/united-india-insurance-co/",
+    "post_title": "United India Insurance Co.",
+    "post_date": "2023-12-18T12:51:52",
+    "post_modified": "2023-12-18T12:51:52",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5000,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/United-India-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "United India Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "United-India-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T12:48:54"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "insurer",
+    "name": "Universal Sompo General Insurance Co.",
+    "name_raw": "Universal Sompo General Insurance Co.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 23
+        }
+      ]
+    },
+    "slug": "universal-sompo-general-insurance-co",
+    "post_id": 5001,
+    "post_link": "https://ilshospitals.com/tie-up-list/universal-sompo-general-insurance-co/",
+    "post_title": "Universal Sompo General Insurance Co.",
+    "post_date": "2023-12-18T12:57:25",
+    "post_modified": "2023-12-18T12:57:25",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5002,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Universal-Sompo-General-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Universal Sompo General Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Universal-Sompo-General-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T12:54:31"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "East West Assist TPA Pvt. Ltd. (Volo Health Insurance TPA Pvt. Ltd.)",
+    "name_raw": "East West Assist TPA Pvt. Ltd. (Volo Health Insurance TPA Pvt. Ltd.)",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 24
+        }
+      ]
+    },
+    "slug": "east-west-assist-tpa-pvt-ltd-volo-health-insurance-tpa-pvt-ltd",
+    "post_id": 5003,
+    "post_link": "https://ilshospitals.com/tie-up-list/east-west-assist-tpa-pvt-ltd-volo-health-insurance-tpa-pvt-ltd/",
+    "post_title": "East West Assist TPA Pvt. Ltd. (Volo Health Insurance TPA Pvt. Ltd.)",
+    "post_date": "2023-12-18T13:10:23",
+    "post_modified": "2023-12-18T13:10:23",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5004,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/east_west_assist_tpa_pvt_ltd_logo.jpeg",
+      "alt": null,
+      "caption": null,
+      "media_title": "east_west_assist_tpa_pvt_ltd_logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "east_west_assist_tpa_pvt_ltd_logo.jpeg",
+      "uploaded_date": "2023-12-18T13:08:41"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Ericson Insurance TPA Pvt. Ltd.",
+    "name_raw": "Ericson Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 25
+        }
+      ]
+    },
+    "slug": "ericson-insurance-tpa-pvt-ltd",
+    "post_id": 5007,
+    "post_link": "https://ilshospitals.com/tie-up-list/ericson-insurance-tpa-pvt-ltd/",
+    "post_title": "Ericson Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T13:19:30",
+    "post_modified": "2023-12-18T13:19:30",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5008,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Ericson-Insurance-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Ericson Insurance Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Ericson-Insurance-Logo.jpg",
+      "uploaded_date": "2023-12-18T13:18:24"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Family Health Plan Insurance TPA Ltd.",
+    "name_raw": "Family Health Plan Insurance TPA Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 26
+        }
+      ]
+    },
+    "slug": "family-health-plan-insurance-tpa-ltd",
+    "post_id": 5009,
+    "post_link": "https://ilshospitals.com/tie-up-list/family-health-plan-insurance-tpa-ltd/",
+    "post_title": "Family Health Plan Insurance TPA Ltd.",
+    "post_date": "2023-12-18T13:24:41",
+    "post_modified": "2023-12-18T13:24:41",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5010,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Family-Health-Insurance-Logo.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "Family Health Insurance Logo",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "Family-Health-Insurance-Logo.png",
+      "uploaded_date": "2023-12-18T13:23:15"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Genins India Insurance TPA Ltd.",
+    "name_raw": "Genins India Insurance TPA Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 27
+        }
+      ]
+    },
+    "slug": "genins-india-insurance-tpa-ltd",
+    "post_id": 5011,
+    "post_link": "https://ilshospitals.com/tie-up-list/genins-india-insurance-tpa-ltd/",
+    "post_title": "Genins India Insurance TPA Ltd.",
+    "post_date": "2023-12-18T13:27:41",
+    "post_modified": "2023-12-18T13:27:41",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5012,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Genins-India-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Genins India Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Genins-India-Logo.jpg",
+      "uploaded_date": "2023-12-18T13:26:24"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Health Insurance TPA",
+    "name_raw": "Health Insurance TPA ",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 28
+        }
+      ]
+    },
+    "slug": "health-insurance-tpa",
+    "post_id": 5013,
+    "post_link": "https://ilshospitals.com/tie-up-list/health-insurance-tpa/",
+    "post_title": "Health Insurance TPA",
+    "post_date": "2023-12-18T13:37:32",
+    "post_modified": "2023-12-18T13:37:32",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5014,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Health-Insurance-TPA-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Hea;lth Insurance TPA Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Health-Insurance-TPA-Logo.jpg",
+      "uploaded_date": "2023-12-18T13:30:13"
+    },
+    "issues": [
+      "name_has_nbsp",
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Healthindia Insurance TPA Services Pvt. Ltd.",
+    "name_raw": "Healthindia Insurance TPA Services Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 29
+        }
+      ]
+    },
+    "slug": "healthindia-insurance-tpa-services-pvt-ltd",
+    "post_id": 5015,
+    "post_link": "https://ilshospitals.com/tie-up-list/healthindia-insurance-tpa-services-pvt-ltd/",
+    "post_title": "Healthindia Insurance TPA Services Pvt. Ltd.",
+    "post_date": "2023-12-18T13:41:10",
+    "post_modified": "2023-12-18T13:41:10",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5016,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Health-India-TPA-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Health India TPA Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Health-India-TPA-Logo.jpg",
+      "uploaded_date": "2023-12-18T13:39:44"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Heritage Health Insurance TPA Pvt. Ltd.",
+    "name_raw": "Heritage Health Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 30
+        }
+      ]
+    },
+    "slug": "heritage-health-insurance-tpa-pvt-ltd",
+    "post_id": 5017,
+    "post_link": "https://ilshospitals.com/tie-up-list/heritage-health-insurance-tpa-pvt-ltd/",
+    "post_title": "Heritage Health Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T13:44:09",
+    "post_modified": "2023-12-18T13:44:09",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5018,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Heritage-Health-Insurance-TPA.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "Heritage-Health-Insurance-TPA",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "Heritage-Health-Insurance-TPA.png",
+      "uploaded_date": "2023-12-18T13:43:02"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "MDIndia Health Insurance TPA Pvt. Ltd.",
+    "name_raw": "MDIndia Health Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 31
+        }
+      ]
+    },
+    "slug": "mdindia-health-insurance-tpa-pvt-ltd",
+    "post_id": 5019,
+    "post_link": "https://ilshospitals.com/tie-up-list/mdindia-health-insurance-tpa-pvt-ltd/",
+    "post_title": "MDIndia Health Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T13:47:35",
+    "post_modified": "2023-12-18T13:47:35",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5020,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/MD-India-logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "MD India logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "MD-India-logo.jpg",
+      "uploaded_date": "2023-12-18T13:45:45"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Medi Assist Insurance TPA Pvt. Ltd.",
+    "name_raw": "Medi Assist Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 32
+        }
+      ]
+    },
+    "slug": "medi-assist-insurance-tpa-pvt-ltd",
+    "post_id": 5021,
+    "post_link": "https://ilshospitals.com/tie-up-list/medi-assist-insurance-tpa-pvt-ltd/",
+    "post_title": "Medi Assist Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T13:51:32",
+    "post_modified": "2023-12-18T13:51:32",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5022,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/MediaAssist-TPA-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "MediaAssist TPA Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "MediaAssist-TPA-Logo.jpg",
+      "uploaded_date": "2023-12-18T13:49:19"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Medsave Healthcare TPA Ltd.",
+    "name_raw": "Medsave Healthcare TPA Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 33
+        }
+      ]
+    },
+    "slug": "medsave-healthcare-tpa-ltd",
+    "post_id": 5023,
+    "post_link": "https://ilshospitals.com/tie-up-list/medsave-healthcare-tpa-ltd/",
+    "post_title": "Medsave Healthcare TPA Ltd.",
+    "post_date": "2023-12-18T13:54:21",
+    "post_modified": "2023-12-18T13:54:21",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5024,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Med-Save-TPA-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Med Save TPA Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Med-Save-TPA-Logo.jpg",
+      "uploaded_date": "2023-12-18T13:53:16"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Medvantage Insurance TPA Pvt. Ltd.",
+    "name_raw": "Medvantage Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 34
+        }
+      ]
+    },
+    "slug": "medvantage-insurance-tpa-pvt-ltd",
+    "post_id": 5025,
+    "post_link": "https://ilshospitals.com/tie-up-list/medvantage-insurance-tpa-pvt-ltd/",
+    "post_title": "Medvantage Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T13:57:38",
+    "post_modified": "2023-12-18T13:57:38",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5026,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Medvantage-Logo.jpeg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Medvantage Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Medvantage-Logo.jpeg",
+      "uploaded_date": "2023-12-18T13:56:33"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Paramount Health Services & Insurance TPA Pvt. Ltd.",
+    "name_raw": "Paramount Health Services & Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 35
+        }
+      ]
+    },
+    "slug": "paramount-health-services-insurance-tpa-pvt-ltd",
+    "post_id": 5027,
+    "post_link": "https://ilshospitals.com/tie-up-list/paramount-health-services-insurance-tpa-pvt-ltd/",
+    "post_title": "Paramount Health Services & Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T14:01:15",
+    "post_modified": "2023-12-18T14:01:15",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5028,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Paramount-health-Insurance-TPA-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Paramount health Insurance TPA Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Paramount-health-Insurance-TPA-Logo.jpg",
+      "uploaded_date": "2023-12-18T13:59:15"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Raksha Health Insurance TPA Pvt. Ltd.",
+    "name_raw": "Raksha Health Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 36
+        }
+      ]
+    },
+    "slug": "raksha-health-insurance-tpa-pvt-ltd",
+    "post_id": 5029,
+    "post_link": "https://ilshospitals.com/tie-up-list/raksha-health-insurance-tpa-pvt-ltd/",
+    "post_title": "Raksha Health Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T14:04:15",
+    "post_modified": "2023-12-18T14:04:15",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5030,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Raksha-TPA-LOgo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Raksha TPA LOgo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Raksha-TPA-LOgo.jpg",
+      "uploaded_date": "2023-12-18T14:03:08"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Safeway Insurance TPA Pvt. Ltd.",
+    "name_raw": "Safeway Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 37
+        }
+      ]
+    },
+    "slug": "safeway-insurance-tpa-pvt-ltd",
+    "post_id": 5031,
+    "post_link": "https://ilshospitals.com/tie-up-list/safeway-insurance-tpa-pvt-ltd/",
+    "post_title": "Safeway Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T14:07:15",
+    "post_modified": "2023-12-18T14:07:15",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5032,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Safeway-Insurance-TPA-Logo.jpg",
+      "alt": null,
+      "caption": null,
+      "media_title": "Safeway Insurance TPA Logo",
+      "mime_type": "image/jpeg",
+      "width": 200,
+      "height": 200,
+      "filename": "Safeway-Insurance-TPA-Logo.jpg",
+      "uploaded_date": "2023-12-18T14:05:58"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  },
+  {
+    "kind": "insurance",
+    "category": "tpa",
+    "name": "Vidal Health Insurance TPA Pvt. Ltd.",
+    "name_raw": "Vidal Health Insurance TPA Pvt. Ltd.",
+    "hospitals": [
+      {
+        "id": 341,
+        "name": "Saltlake"
+      },
+      {
+        "id": 342,
+        "name": "Dumdum"
+      },
+      {
+        "id": 340,
+        "name": "Howrah"
+      },
+      {
+        "id": 343,
+        "name": "Agartala"
+      },
+      {
+        "id": 5637,
+        "name": "Raipur"
+      }
+    ],
+    "hospital_scope": "site_wide",
+    "listing": {
+      "section": "insuranceTieUps",
+      "tab_ids": [],
+      "positions": [
+        {
+          "tab_id": null,
+          "hospital_id": null,
+          "position": 38
+        }
+      ]
+    },
+    "slug": "vidal-health-insurance-tpa-pvt-ltd",
+    "post_id": 5033,
+    "post_link": "https://ilshospitals.com/tie-up-list/vidal-health-insurance-tpa-pvt-ltd/",
+    "post_title": "Vidal Health Insurance TPA Pvt. Ltd.",
+    "post_date": "2023-12-18T14:12:53",
+    "post_modified": "2023-12-18T14:12:53",
+    "post_status": "publish",
+    "logo": {
+      "media_id": 5034,
+      "src": "https://ilshospitals.com/wp-content/uploads/2023/12/Vidal-Health-Inbsurance-Logo.png",
+      "alt": null,
+      "caption": null,
+      "media_title": "Vidal Health Inbsurance Logo",
+      "mime_type": "image/png",
+      "width": 200,
+      "height": 200,
+      "filename": "Vidal-Health-Inbsurance-Logo.png",
+      "uploaded_date": "2023-12-18T14:08:49"
+    },
+    "issues": [
+      "logo_missing_alt",
+      "insurance_not_hospital_scoped",
+      "hospital_scope_inferred_all_units",
+      "tpa_classification_inferred"
+    ],
+    "seo": null,
+    "seo_issues": []
+  }
+]
