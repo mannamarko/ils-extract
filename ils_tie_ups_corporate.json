@@ -1,0 +1,1788 @@
+{
+  "hub": {
+    "url": "https://ilshospitals.com/tie-up/",
+    "title": "Corporate & Insurance Tie Ups",
+    "breadcrumb": [
+      {
+        "name": "Home",
+        "url": "https://ilshospitals.com/"
+      },
+      {
+        "name": "Corporate & Insurance Tie Ups",
+        "url": null
+      }
+    ],
+    "hospital_count": 5,
+    "corporate_card_count": 27,
+    "insurance_card_count": 38,
+    "empty_corporate_tabs": [
+      "corpTab3"
+    ],
+    "insurance_tpa_boundary": 23,
+    "seo": {
+      "meta_title": "Medical Tie-ups - ILS Hospitals",
+      "meta_title_resolved": "Medical Tie-ups - ILS Hospitals",
+      "meta_description": "From medical institutions to corporate entities, explore our tie-ups for effective healthcare. Learn more!",
+      "robots": "max-image-preview:large",
+      "canonical": "https://ilshospitals.com/tie-up/",
+      "canonical_resolved": "https://ilshospitals.com/tie-up/",
+      "og": {
+        "title": "Medical Tie-ups - ILS Hospitals",
+        "description": "From medical institutions to corporate entities, explore our tie-ups for effective healthcare. Learn more!",
+        "type": "article",
+        "url": "https://ilshospitals.com/tie-up/",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "site_name": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "locale": "en_US"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Medical Tie-ups - ILS Hospitals",
+        "description": "From medical institutions to corporate entities, explore our tie-ups for effective healthcare. Learn more!",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "url": null
+      },
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://ilshospitals.com/tie-up/#breadcrumblist",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com#listItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ilshospitals.com",
+                  "nextItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/tie-up/#listItem",
+                    "name": "Corporate &#038; Insurance Tie Ups"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "@id": "https://ilshospitals.com/tie-up/#listItem",
+                  "position": 2,
+                  "name": "Corporate &#038; Insurance Tie Ups",
+                  "previousItem": {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://ilshospitals.com/#organization",
+              "name": "ILS Hospitals",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "url": "https://ilshospitals.com/",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                "@id": "https://ilshospitals.com/tie-up/#organizationLogo",
+                "width": 184,
+                "height": 82,
+                "caption": "ILS Hospitals Logo"
+              },
+              "image": {
+                "@id": "https://ilshospitals.com/tie-up/#organizationLogo"
+              }
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://ilshospitals.com/tie-up/#webpage",
+              "url": "https://ilshospitals.com/tie-up/",
+              "name": "Medical Tie-ups - ILS Hospitals",
+              "description": "From medical institutions to corporate entities, explore our tie-ups for effective healthcare. Learn more!",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://ilshospitals.com/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://ilshospitals.com/tie-up/#breadcrumblist"
+              },
+              "datePublished": "2023-11-06T08:59:50+05:30",
+              "dateModified": "2025-10-24T15:26:45+05:30"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://ilshospitals.com/#website",
+              "url": "https://ilshospitals.com/",
+              "name": "ILS Hospitals",
+              "alternateName": "ILS Hospitals",
+              "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+              "inLanguage": "en-US",
+              "publisher": {
+                "@id": "https://ilshospitals.com/#organization"
+              }
+            }
+          ],
+          "_source": "aioseo"
+        }
+      ],
+      "json_ld_by_source": {
+        "aioseo": [
+          {
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "BreadcrumbList",
+                "@id": "https://ilshospitals.com/tie-up/#breadcrumblist",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com#listItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://ilshospitals.com",
+                    "nextItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com/tie-up/#listItem",
+                      "name": "Corporate &#038; Insurance Tie Ups"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "@id": "https://ilshospitals.com/tie-up/#listItem",
+                    "position": 2,
+                    "name": "Corporate &#038; Insurance Tie Ups",
+                    "previousItem": {
+                      "@type": "ListItem",
+                      "@id": "https://ilshospitals.com#listItem",
+                      "name": "Home"
+                    }
+                  }
+                ]
+              },
+              {
+                "@type": "Organization",
+                "@id": "https://ilshospitals.com/#organization",
+                "name": "ILS Hospitals",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "url": "https://ilshospitals.com/",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+                  "@id": "https://ilshospitals.com/tie-up/#organizationLogo",
+                  "width": 184,
+                  "height": 82,
+                  "caption": "ILS Hospitals Logo"
+                },
+                "image": {
+                  "@id": "https://ilshospitals.com/tie-up/#organizationLogo"
+                }
+              },
+              {
+                "@type": "WebPage",
+                "@id": "https://ilshospitals.com/tie-up/#webpage",
+                "url": "https://ilshospitals.com/tie-up/",
+                "name": "Medical Tie-ups - ILS Hospitals",
+                "description": "From medical institutions to corporate entities, explore our tie-ups for effective healthcare. Learn more!",
+                "inLanguage": "en-US",
+                "isPartOf": {
+                  "@id": "https://ilshospitals.com/#website"
+                },
+                "breadcrumb": {
+                  "@id": "https://ilshospitals.com/tie-up/#breadcrumblist"
+                },
+                "datePublished": "2023-11-06T08:59:50+05:30",
+                "dateModified": "2025-10-24T15:26:45+05:30"
+              },
+              {
+                "@type": "WebSite",
+                "@id": "https://ilshospitals.com/#website",
+                "url": "https://ilshospitals.com/",
+                "name": "ILS Hospitals",
+                "alternateName": "ILS Hospitals",
+                "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+                "inLanguage": "en-US",
+                "publisher": {
+                  "@id": "https://ilshospitals.com/#organization"
+                }
+              }
+            ],
+            "_source": "aioseo"
+          }
+        ],
+        "post": []
+      },
+      "blogposting": null,
+      "breadcrumbs": [
+        {
+          "position": 1,
+          "name": "Home",
+          "item": "https://ilshospitals.com"
+        },
+        {
+          "position": 2,
+          "name": "Corporate &#038; Insurance Tie Ups",
+          "item": null
+        }
+      ],
+      "meta_all": [
+        {
+          "kind": "name",
+          "key": "viewport",
+          "content": "width=device-width, initial-scale=1.0",
+          "index": 2
+        },
+        {
+          "kind": "name",
+          "key": "msvalidate.01",
+          "content": "1E2D352C876EAD6605AF0676D5AA6FB4",
+          "index": 3
+        },
+        {
+          "kind": "name",
+          "key": "description",
+          "content": "From medical institutions to corporate entities, explore our tie-ups for effective healthcare. Learn more!",
+          "index": 4
+        },
+        {
+          "kind": "name",
+          "key": "robots",
+          "content": "max-image-preview:large",
+          "index": 5
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "All in One SEO (AIOSEO) 5.0.0.1",
+          "index": 6
+        },
+        {
+          "kind": "property",
+          "key": "og:locale",
+          "content": "en_US",
+          "index": 7
+        },
+        {
+          "kind": "property",
+          "key": "og:site_name",
+          "content": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+          "index": 8
+        },
+        {
+          "kind": "property",
+          "key": "og:type",
+          "content": "article",
+          "index": 9
+        },
+        {
+          "kind": "property",
+          "key": "og:title",
+          "content": "Medical Tie-ups - ILS Hospitals",
+          "index": 10
+        },
+        {
+          "kind": "property",
+          "key": "og:description",
+          "content": "From medical institutions to corporate entities, explore our tie-ups for effective healthcare. Learn more!",
+          "index": 11
+        },
+        {
+          "kind": "property",
+          "key": "og:url",
+          "content": "https://ilshospitals.com/tie-up/",
+          "index": 12
+        },
+        {
+          "kind": "property",
+          "key": "og:image",
+          "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "index": 13
+        },
+        {
+          "kind": "property",
+          "key": "og:image:secure_url",
+          "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "index": 14
+        },
+        {
+          "kind": "property",
+          "key": "article:published_time",
+          "content": "2023-11-06T08:59:50+00:00",
+          "index": 15
+        },
+        {
+          "kind": "property",
+          "key": "article:modified_time",
+          "content": "2025-10-24T09:56:45+00:00",
+          "index": 16
+        },
+        {
+          "kind": "name",
+          "key": "twitter:card",
+          "content": "summary_large_image",
+          "index": 17
+        },
+        {
+          "kind": "name",
+          "key": "twitter:title",
+          "content": "Medical Tie-ups - ILS Hospitals",
+          "index": 18
+        },
+        {
+          "kind": "name",
+          "key": "twitter:description",
+          "content": "From medical institutions to corporate entities, explore our tie-ups for effective healthcare. Learn more!",
+          "index": 19
+        },
+        {
+          "kind": "name",
+          "key": "twitter:image",
+          "content": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+          "index": 20
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "WordPress 7.0.3",
+          "index": 21
+        },
+        {
+          "kind": "name",
+          "key": "google-site-verification",
+          "content": "5VA8QM9C9ygEaRPWHc0Bw7FTA0NpHVeIayTGps2bZ7M",
+          "index": 22
+        },
+        {
+          "kind": "name",
+          "key": "google-site-verification",
+          "content": "yoOlMqNGFwOt_2GNzW7Ndn8fBNDq5KO3NqXef-EjUi8",
+          "index": 23
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "performance-lab 4.0.0; plugins: webp-uploads",
+          "index": 24
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "webp-uploads 2.6.1",
+          "index": 25
+        },
+        {
+          "kind": "name",
+          "key": "generator",
+          "content": "optimization-detective 1.0.0-beta3",
+          "index": 26
+        }
+      ],
+      "seo_issues": [
+        "og_image_generic_logo",
+        "corporate_tab_empty",
+        "hospital_option_value_empty"
+      ],
+      "source_url": "https://ilshospitals.com/tie-up/"
+    },
+    "seo_issues": [
+      "og_image_generic_logo",
+      "corporate_tab_empty",
+      "hospital_option_value_empty"
+    ]
+  },
+  "hospitals": [
+    {
+      "id": 341,
+      "name": "Saltlake",
+      "slug": "saltlake",
+      "corporate_count": 2,
+      "corporate_names": [
+        "Balmer Lawrie & Co. Ltd.",
+        "RBI"
+      ],
+      "insurance_count": 38,
+      "insurance_scope": "site_wide",
+      "issues": []
+    },
+    {
+      "id": 342,
+      "name": "Dumdum",
+      "slug": "dumdum",
+      "corporate_count": 5,
+      "corporate_names": [
+        "Balmer Lawrie & Co. Ltd.",
+        "RBI",
+        "NTPC(National Thermal Power Corporation)",
+        "Power Grid",
+        "SAIL(Steel Authority of India Limited)"
+      ],
+      "insurance_count": 38,
+      "insurance_scope": "site_wide",
+      "issues": []
+    },
+    {
+      "id": 340,
+      "name": "Howrah",
+      "slug": "howrah",
+      "corporate_count": 0,
+      "corporate_names": [],
+      "insurance_count": 38,
+      "insurance_scope": "site_wide",
+      "issues": [
+        "hospital_has_no_corporate_tieups"
+      ]
+    },
+    {
+      "id": 343,
+      "name": "Agartala",
+      "slug": "agartala",
+      "corporate_count": 12,
+      "corporate_names": [
+        "Oil India Limited",
+        "Airports Authority of India",
+        "Pradhan Mantri Jan Arogya Yojana",
+        "CIPET(Central Institute of Petrochemicals Engineering & Technology)",
+        "Employees's State Insurance Corporation",
+        "Food Corporation of India",
+        "LIC(Life Insurance Corporation of India)",
+        "NIT(National Institutes of Technology)",
+        "NEEPCO(North Eastern Electric Power Corporation Limited)",
+        "NHM(National Health Mission)",
+        "ONGC(Oil and Natural Gas Corporation)",
+        "TNGCL(Tripura Natural Gas Company Limited)"
+      ],
+      "insurance_count": 38,
+      "insurance_scope": "site_wide",
+      "issues": []
+    },
+    {
+      "id": 5637,
+      "name": "Raipur",
+      "slug": "raipur",
+      "corporate_count": 8,
+      "corporate_names": [
+        "Sarda Energy & Minerals Limited",
+        "Chhattisgarh State Electricity Board",
+        "Indian Institute of Technology, Bhilai",
+        "Godawari Power & Ispat Limited",
+        "Jayaswal Neco & Industries Limited",
+        "Abis Exports India Private Limited (IB Group)",
+        "Chhattisgarh Chamber of Commerce & Industries, Raipur",
+        "Jindal Steel & Power Limited"
+      ],
+      "insurance_count": 38,
+      "insurance_scope": "site_wide",
+      "issues": [
+        "hospital_option_value_empty"
+      ]
+    }
+  ],
+  "records": [
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Balmer Lawrie & Co. Ltd.",
+      "name_raw": "Balmer Lawrie & Co. Ltd.",
+      "hospitals": [
+        {
+          "id": 341,
+          "name": "Saltlake"
+        },
+        {
+          "id": 342,
+          "name": "Dumdum"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab1",
+          "corpTab2"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab1",
+            "hospital_id": 341,
+            "position": 1
+          },
+          {
+            "tab_id": "corpTab2",
+            "hospital_id": 342,
+            "position": 1
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/Balmer_Lawrie_Logo.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "Balmer_Lawrie_Logo.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt",
+        "duplicate_name_across_tabs"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "RBI",
+      "name_raw": "RBI",
+      "hospitals": [
+        {
+          "id": 341,
+          "name": "Saltlake"
+        },
+        {
+          "id": 342,
+          "name": "Dumdum"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab1",
+          "corpTab2"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab1",
+            "hospital_id": 341,
+            "position": 2
+          },
+          {
+            "tab_id": "corpTab2",
+            "hospital_id": 342,
+            "position": 4
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/rbi-logo.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "rbi-logo.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt",
+        "duplicate_name_across_tabs"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "NTPC(National Thermal Power Corporation)",
+      "name_raw": "NTPC(National Thermal Power Corporation)",
+      "hospitals": [
+        {
+          "id": 342,
+          "name": "Dumdum"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab2"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab2",
+            "hospital_id": 342,
+            "position": 2
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/ntpc-logo.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "ntpc-logo.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Power Grid",
+      "name_raw": "Power Grid",
+      "hospitals": [
+        {
+          "id": 342,
+          "name": "Dumdum"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab2"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab2",
+            "hospital_id": 342,
+            "position": 3
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/powergrid.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "powergrid.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "SAIL(Steel Authority of India Limited)",
+      "name_raw": "SAIL(Steel Authority of India Limited)",
+      "hospitals": [
+        {
+          "id": 342,
+          "name": "Dumdum"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab2"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab2",
+            "hospital_id": 342,
+            "position": 5
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/sail.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "sail.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Oil India Limited",
+      "name_raw": "Oil India Limited",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 1
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/07/oil-india.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "oil-india.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Airports Authority of India",
+      "name_raw": "Airports Authority of India",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 2
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/airports.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "airports.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Pradhan Mantri Jan Arogya Yojana",
+      "name_raw": "Pradhan Mantri Jan Arogya Yojana",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 3
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/pmjay.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "pmjay.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "CIPET(Central Institute of Petrochemicals Engineering & Technology)",
+      "name_raw": "CIPET(Central Institute of Petrochemicals Engineering & Technology)",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 4
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/cipet.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "cipet.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Employees's State Insurance Corporation",
+      "name_raw": "Employees's State Insurance Corporation",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 5
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/esic.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "esic.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Food Corporation of India",
+      "name_raw": "Food Corporation of India",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 6
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/fci.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "fci.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "LIC(Life Insurance Corporation of India)",
+      "name_raw": "LIC(Life Insurance Corporation of India)",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 7
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/lic.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "lic.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "NIT(National Institutes of Technology)",
+      "name_raw": "NIT(National Institutes of Technology)",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 8
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/nit.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "nit.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "NEEPCO(North Eastern Electric Power Corporation Limited)",
+      "name_raw": "NEEPCO(North Eastern Electric Power Corporation Limited)",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 9
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/neepco.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "neepco.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "NHM(National Health Mission)",
+      "name_raw": "NHM(National Health Mission)",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 10
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/nhm.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "nhm.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "ONGC(Oil and Natural Gas Corporation)",
+      "name_raw": "ONGC(Oil and Natural Gas Corporation)",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 11
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/ongc.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "ongc.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "TNGCL(Tripura Natural Gas Company Limited)",
+      "name_raw": "TNGCL(Tripura Natural Gas Company Limited)",
+      "hospitals": [
+        {
+          "id": 343,
+          "name": "Agartala"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab4"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab4",
+            "hospital_id": 343,
+            "position": 12
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2024/06/tngcl.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "tngcl.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Sarda Energy & Minerals Limited",
+      "name_raw": "Sarda Energy & Minerals Limited",
+      "hospitals": [
+        {
+          "id": 5637,
+          "name": "Raipur"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab5"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab5",
+            "hospital_id": 5637,
+            "position": 1
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2025/10/sarda-energy-minerals.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "sarda-energy-minerals.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Chhattisgarh State Electricity Board",
+      "name_raw": "Chhattisgarh State Electricity Board",
+      "hospitals": [
+        {
+          "id": 5637,
+          "name": "Raipur"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab5"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab5",
+            "hospital_id": 5637,
+            "position": 2
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2025/10/CPDCL.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "CPDCL.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Indian Institute of Technology, Bhilai",
+      "name_raw": "Indian Institute of Technology, Bhilai",
+      "hospitals": [
+        {
+          "id": 5637,
+          "name": "Raipur"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab5"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab5",
+            "hospital_id": 5637,
+            "position": 3
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2025/10/IITBhilai.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "IITBhilai.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Godawari Power & Ispat Limited",
+      "name_raw": "Godawari Power & Ispat Limited",
+      "hospitals": [
+        {
+          "id": 5637,
+          "name": "Raipur"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab5"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab5",
+            "hospital_id": 5637,
+            "position": 4
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2025/10/godawari-power-ispat.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "godawari-power-ispat.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Jayaswal Neco & Industries Limited",
+      "name_raw": "Jayaswal Neco & Industries Limited",
+      "hospitals": [
+        {
+          "id": 5637,
+          "name": "Raipur"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab5"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab5",
+            "hospital_id": 5637,
+            "position": 5
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2025/10/neco.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "neco.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Abis Exports India Private Limited (IB Group)",
+      "name_raw": "Abis Exports India Private Limited (IB Group)",
+      "hospitals": [
+        {
+          "id": 5637,
+          "name": "Raipur"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab5"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab5",
+            "hospital_id": 5637,
+            "position": 6
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2025/10/ABIS-ltd.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "ABIS-ltd.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Chhattisgarh Chamber of Commerce & Industries, Raipur",
+      "name_raw": "Chhattisgarh Chamber of Commerce & Industries, Raipur",
+      "hospitals": [
+        {
+          "id": 5637,
+          "name": "Raipur"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab5"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab5",
+            "hospital_id": 5637,
+            "position": 7
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2025/10/ccci.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "ccci.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    },
+    {
+      "kind": "corporate",
+      "category": "corporate",
+      "name": "Jindal Steel & Power Limited",
+      "name_raw": "Jindal Steel & Power Limited",
+      "hospitals": [
+        {
+          "id": 5637,
+          "name": "Raipur"
+        }
+      ],
+      "hospital_scope": "per_hospital",
+      "listing": {
+        "section": "corporateTieUps",
+        "tab_ids": [
+          "corpTab5"
+        ],
+        "positions": [
+          {
+            "tab_id": "corpTab5",
+            "hospital_id": 5637,
+            "position": 8
+          }
+        ]
+      },
+      "slug": null,
+      "post_id": null,
+      "post_link": null,
+      "post_title": null,
+      "post_date": null,
+      "post_modified": null,
+      "post_status": null,
+      "logo": {
+        "media_id": null,
+        "src": "https://ilshospitals.com/wp-content/uploads/2025/10/jindal-steel.webp",
+        "alt": null,
+        "caption": null,
+        "media_title": null,
+        "mime_type": null,
+        "width": null,
+        "height": null,
+        "filename": "jindal-steel.webp",
+        "uploaded_date": null
+      },
+      "issues": [
+        "no_cpt_match",
+        "logo_missing_alt"
+      ],
+      "seo": null,
+      "seo_issues": []
+    }
+  ],
+  "issue_tallies": {
+    "no_cpt_match": 25,
+    "logo_missing_alt": 25,
+    "duplicate_name_across_tabs": 2,
+    "hospital_has_no_corporate_tieups": 1,
+    "hospital_option_value_empty": 2,
+    "og_image_generic_logo": 1,
+    "corporate_tab_empty": 1
+  }
+}

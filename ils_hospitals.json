@@ -2,6 +2,10 @@
   {
     "name": "ILS Hospitals, Saltlake",
     "slug": "saltlake",
+    "city": "Saltlake",
+    "state": "West Bengal",
+    "icon_img": "https://ilshospitals.com/wp-content/uploads/2023/10/hospital-icon-saltlake.jpg",
+    "home_tab_id": "hosp-Saltlake",
     "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/10/saltlake.webp",
     "location_contact": {
       "address": "DD-6, Salt Lake City (Near City Centre I), Kolkata – 700064",
@@ -304,7 +308,7 @@
         "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
         "description": "ILS Hospitals, a top multispeciality hospital in Saltlake, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Saltlake for top-quality medical care.",
         "url": "https://ilshospitals.com/hospital/saltlake/",
-        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "site_name": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
         "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
       },
       "twitter": {
@@ -440,7 +444,7 @@
             {
               "@type": "Organization",
               "@id": "https://ilshospitals.com/#organization",
-              "name": "ILS Hospital",
+              "name": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "url": "https://ilshospitals.com/",
               "logo": {
@@ -475,7 +479,8 @@
               "@type": "WebSite",
               "@id": "https://ilshospitals.com/#website",
               "url": "https://ilshospitals.com/",
-              "name": "ils-hospital",
+              "name": "ILS Hospitals",
+              "alternateName": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "inLanguage": "en-US",
               "publisher": {
@@ -490,6 +495,10 @@
   {
     "name": "ILS Hospitals, Dumdum",
     "slug": "dumdum",
+    "city": "Dumdum",
+    "state": "West Bengal",
+    "icon_img": "https://ilshospitals.com/wp-content/uploads/2023/10/hospital-icon-dumdum.jpg",
+    "home_tab_id": "hosp-Dumdum",
     "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/10/DumDum.webp",
     "location_contact": {
       "address": "1, Mall Road, Near Nager Bazar Flyover, Dumdum, Kolkata – 700080",
@@ -831,7 +840,7 @@
         "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
         "description": "ILS Hospitals, a top multispeciality hospital in Dumdum, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Dumdum for top-quality medical care.",
         "url": "https://ilshospitals.com/hospital/dumdum/",
-        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "site_name": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
         "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
       },
       "twitter": {
@@ -967,7 +976,7 @@
             {
               "@type": "Organization",
               "@id": "https://ilshospitals.com/#organization",
-              "name": "ILS Hospital",
+              "name": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "url": "https://ilshospitals.com/",
               "logo": {
@@ -1002,7 +1011,8 @@
               "@type": "WebSite",
               "@id": "https://ilshospitals.com/#website",
               "url": "https://ilshospitals.com/",
-              "name": "ils-hospital",
+              "name": "ILS Hospitals",
+              "alternateName": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "inLanguage": "en-US",
               "publisher": {
@@ -1017,6 +1027,10 @@
   {
     "name": "ILS Hospitals, Howrah",
     "slug": "howrah",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "icon_img": "https://ilshospitals.com/wp-content/uploads/2023/10/hospital-icon-howrah.jpg",
+    "home_tab_id": "hosp-Howrah",
     "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/10/unit_howrah.webp",
     "location_contact": {
       "address": "98, Dr Abani Dutta Road, Opposite Golabari P.S., Howrah, West Bengal – 711101",
@@ -1340,7 +1354,7 @@
         "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
         "description": "ILS Hospitals Howrah is among the Best Private Hospitals in Howrah, offering top-quality healthcare with expert doctors and advanced multispeciality care.",
         "url": "https://ilshospitals.com/hospital/howrah/",
-        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "site_name": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
         "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
       },
       "twitter": {
@@ -1476,7 +1490,7 @@
             {
               "@type": "Organization",
               "@id": "https://ilshospitals.com/#organization",
-              "name": "ILS Hospital",
+              "name": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "url": "https://ilshospitals.com/",
               "logo": {
@@ -1511,7 +1525,8 @@
               "@type": "WebSite",
               "@id": "https://ilshospitals.com/#website",
               "url": "https://ilshospitals.com/",
-              "name": "ils-hospital",
+              "name": "ILS Hospitals",
+              "alternateName": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "inLanguage": "en-US",
               "publisher": {
@@ -1526,6 +1541,10 @@
   {
     "name": "ILS Hospitals, Agartala",
     "slug": "agartala",
+    "city": "Agartala",
+    "state": "Tripura",
+    "icon_img": "https://ilshospitals.com/wp-content/uploads/2023/10/hospital-icon-agartala.jpg",
+    "home_tab_id": "hosp-Agartala",
     "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/10/Agartala.webp",
     "location_contact": {
       "address": "Capital Complex Extension P.O – New Secretariat, Agartala – 799010",
@@ -1879,7 +1898,7 @@
         "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
         "description": "ILS Hospitals, a top multispeciality hospital in Agartala, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Agartala for top-quality medical care.",
         "url": "https://ilshospitals.com/hospital/agartala/",
-        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "site_name": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
         "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
       },
       "twitter": {
@@ -2015,7 +2034,7 @@
             {
               "@type": "Organization",
               "@id": "https://ilshospitals.com/#organization",
-              "name": "ILS Hospital",
+              "name": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "url": "https://ilshospitals.com/",
               "logo": {
@@ -2050,7 +2069,8 @@
               "@type": "WebSite",
               "@id": "https://ilshospitals.com/#website",
               "url": "https://ilshospitals.com/",
-              "name": "ils-hospital",
+              "name": "ILS Hospitals",
+              "alternateName": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "inLanguage": "en-US",
               "publisher": {
@@ -2065,6 +2085,10 @@
   {
     "name": "ILS Hospitals, Raipur",
     "slug": "raipur",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "icon_img": "https://ilshospitals.com/wp-content/uploads/2023/12/hospital-icon-raipor.jpg",
+    "home_tab_id": "hosp-Raipur",
     "bannerImg": "https://ilshospitals.com/wp-content/uploads/2023/12/Raipur-1.webp",
     "location_contact": {
       "address": "Amrapali Society, Panchpedi Naka Near Sparsh Automobiles Raipur – 492001",
@@ -2074,7 +2098,7 @@
       "email": "info@ilshospitals.com",
       "map_embeded_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.322758784395!2d81.65221687503691!3d21.21783598047925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a28dd29b15c9acb%3A0x1d64f067d142c646!2sILS%20Hospitals%2C%20Raipur!5e1!3m2!1sen!2sin!4v1741686503303!5m2!1sen!2sin"
     },
-    "overview": "<p class=\"mt-3 com-desc\">ILS Raipur is a state-of-the-art quaternary care hospital with 200 bed capacity dedicated to providing comprehensive medical care to the people of Raipur, Chhattisgarh. ILS Hospitals is equipped with cutting-edge technology with team of highly skilled and experienced medical professionals.</p>\n<h3>Comprehensive Medical Services:</h3>\n<p class=\"mb-3 com-desc\">We offer a wide range of medical services, including: Advanced diagnostic facilities like MRI,CT Scan, Endoscopic Suites and more. Specialized departments for Medicine, Critical Care, Endocrinology, Gynecology &amp; Obstetrics, and more. Advanced surgical facilities including Laparoscopic Surgeries and Cardiac Cath Procedures. Emergency service with 24/7 diagnostic radiology and pathology support.</p>\n<h3>Our Commitment to Excellence:</h3>\n<p class=\"mb-3 com-desc\">At ILS Raipur, we are committed to delivering exceptional patient care and outcomes. Our team is dedicated to providing personalized attention and care to every patient, ensuring a comfortable and stress-free experience</p>",
+    "overview": "<p class=\"mt-3 com-desc\">ILS Hospitals Raipur is a 200-bed, NABH Accredited quaternary care hospital in Raipur, Chhattisgarh, dedicated to delivering advanced, patient-centred healthcare. Equipped with cutting-edge medical technology, modern infrastructure, and a team of highly skilled doctors, nurses, and healthcare professionals, the hospital provides comprehensive diagnostic, medical, and surgical services under one roof.</p>\n<p class=\"com-desc\">As an NABH Accredited hospital in Raipur, ILS Hospitals adheres to nationally recognised standards for patient safety, quality of care, clinical excellence, and healthcare delivery. Every aspect of our care is designed to ensure the highest standards of treatment while putting patients first.</p>\n<h3>Comprehensive Medical Services:</h3>\n<p class=\"com-desc mb-3\">ILS Hospitals Raipur offers a wide spectrum of healthcare services, including:</p>\n<ul>\n<li>Advanced diagnostic facilities such as MRI, CT Scan, Ultrasound, Digital X-ray, Endoscopy, and fully equipped pathology laboratories.</li>\n<li>Comprehensive medical specialties including Internal Medicine, Critical Care, Cardiology, Neurology, Endocrinology, Gastroenterology, Nephrology, Pulmonology, Orthopaedics, Paediatrics, Gynaecology &amp; Obstetrics, and more.</li>\n<li>Advanced surgical care with minimally invasive laparoscopic procedures, cardiac catheterisation (Cath Lab) services, and complex surgical interventions.</li>\n<li>24×7 Emergency and Trauma Care supported by round-the-clock diagnostic imaging, laboratory services, critical care, and specialist doctors.</li>\n</ul>\n<h3>Our Commitment to Excellence:</h3>\n<p class=\"mb-3 com-desc\">At ILS Hospitals Raipur, our commitment goes beyond treating illness. As an NABH Accredited healthcare institution, we are dedicated to delivering safe, ethical, and evidence-based medical care with compassion and empathy. From preventive healthcare to advanced treatments and rehabilitation, our multidisciplinary team works together to provide personalised care tailored to every patient’s needs.</p>\n<p class=\"com-desc\">With a focus on clinical excellence, innovation, and patient satisfaction, ILS Hospitals Raipur continues to set new benchmarks in quality healthcare for Raipur, Chhattisgarh, and the surrounding regions.</p>",
     "overview_img": "https://ilshospitals.com/wp-content/uploads/2023/12/Raipur_Freature.webp",
     "number_of_beds": 200,
     "services_facilities": {
@@ -2333,27 +2357,48 @@
     ],
     "google_review": 4.9,
     "seo": {
-      "meta_title": "Best Multispeciality Hospital in Raipur | ILS Hospitals",
-      "meta_description": "ILS Hospitals, a top multispeciality hospital in Raipur, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Raipur for top-quality medical care.",
+      "meta_title": "NABH Accredited Multispeciality Hospital in Raipur | ILS Hospitals, Raipur",
+      "meta_description": "ILS Hospitals Raipur is a 200-bed NABH Accredited multispeciality hospital offering expert doctors, advanced diagnostics, emergency and critical care.",
       "canonical": "https://ilshospitals.com/hospital/raipur/",
       "robots": "max-image-preview:large",
       "og": {
         "locale": "en_US",
         "type": "article",
-        "title": "Best Multispeciality Hospital in Raipur | ILS Hospitals",
-        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
-        "description": "ILS Hospitals, a top multispeciality hospital in Raipur, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Raipur for top-quality medical care.",
+        "title": "NABH Accredited Multispeciality Hospital in Raipur | ILS Hospitals, Raipur",
+        " description": "ILS Hospitals Raipur is a 200-bed NABH\nAccredited multispeciality hospital in Raipur offering expert doctors, advanced\ndiagnostics, emergency and critical care. Book an appointment today.",
         "url": "https://ilshospitals.com/hospital/raipur/",
-        "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "site_name": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "image:width": "1200",
+        "image:height": "630",
+        "description": "ILS Hospitals Raipur is a 200-bed NABH Accredited multispeciality hospital offering expert doctors, advanced diagnostics, emergency and critical care.",
         "image:secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
       },
       "twitter": {
         "card": "summary_large_image",
-        "title": "Best Multispeciality Hospital in Raipur | ILS Hospitals",
-        "description": "ILS Hospitals, a top multispeciality hospital in Raipur, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Raipur for top-quality medical care.",
-        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png"
+        "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+        "title": "NABH Accredited Multispeciality Hospital in Raipur | ILS Hospitals, Raipur",
+        "description": "ILS Hospitals Raipur is a 200-bed NABH Accredited multispeciality hospital offering expert doctors, advanced diagnostics, emergency and critical care."
       },
       "json_ld": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "ILS Hospitals",
+              "item": "https://ilshospitals.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "ILS Hospitals, Raipur",
+              "item": "https://ilshospitals.com/hospital/raipur/"
+            }
+          ]
+        },
         {
           "@context": "https://schema.org",
           "@graph": [
@@ -2389,7 +2434,7 @@
             {
               "@type": "Organization",
               "@id": "https://ilshospitals.com/#organization",
-              "name": "ILS Hospital",
+              "name": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "url": "https://ilshospitals.com/",
               "logo": {
@@ -2408,8 +2453,8 @@
               "@type": "WebPage",
               "@id": "https://ilshospitals.com/hospital/raipur/#webpage",
               "url": "https://ilshospitals.com/hospital/raipur/",
-              "name": "Best Multispeciality Hospital in Raipur | ILS Hospitals",
-              "description": "ILS Hospitals, a top multispeciality hospital in Raipur, offers world-class healthcare with advanced facilities and expert doctors. Trusted as one of the best private hospitals in Raipur for top-quality medical care.",
+              "name": "NABH Accredited Multispeciality Hospital in Raipur | ILS Hospitals, Raipur",
+              "description": "ILS Hospitals Raipur is a 200-bed NABH Accredited multispeciality hospital offering expert doctors, advanced diagnostics, emergency and critical care.",
               "inLanguage": "en-US",
               "isPartOf": {
                 "@id": "https://ilshospitals.com/#website"
@@ -2418,13 +2463,14 @@
                 "@id": "https://ilshospitals.com/hospital/raipur/#breadcrumblist"
               },
               "datePublished": "2023-12-29T07:36:00+05:30",
-              "dateModified": "2026-07-18T12:54:28+05:30"
+              "dateModified": "2026-07-27T19:03:01+05:30"
             },
             {
               "@type": "WebSite",
               "@id": "https://ilshospitals.com/#website",
               "url": "https://ilshospitals.com/",
-              "name": "ils-hospital",
+              "name": "ILS Hospitals",
+              "alternateName": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "inLanguage": "en-US",
               "publisher": {

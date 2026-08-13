@@ -8,11 +8,23 @@
  * (#priOverview, #priSF, #priRC, #priLocation, #bioMedical, ...)
  * rather than by walking siblings of the heading — the headings live
  * inside their own Bootstrap columns and have no content siblings.
+ *
+ * Two fields are NOT on the hospital page at all — the unit's icon
+ * image and its state. They only exist on the homepage's location
+ * carousel (`div.location-tab`: an <img> plus `<p>City <br><span>State
+ * </span></p>`, with the slug in the `openCity(event, 'hosp-<City>')`
+ * onclick). So there is a one-off homepage fetch before the per-unit
+ * pass, joined by that slug. The server HTML renders exactly 5 tabs;
+ * the duplicates you see in a saved/rendered copy are owl-carousel
+ * `.cloned` items added at runtime, so dedupe by tab id anyway. If the
+ * homepage fetch fails the run continues with icon_img/city/state null.
  */
 
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
+
+const HOME_URL = "https://ilshospitals.com/";
 
 const HOSPITAL_URLS = [
   "https://ilshospitals.com/hospital/saltlake/",
@@ -75,8 +87,41 @@ async function fetchWithAxios(url) {
   return html;
 }
 
+// ---------- Homepage location carousel ----------
+// Returns { <slug>: { home_tab_id, icon_img, city, state } }. The tab
+// id ("hosp-Saltlake") lowercased is the hospital page slug, which is
+// the only reliable join — the <p> city text matches too, but the
+// icon filename does not ("hospital-icon-raipor.jpg" for raipur).
+async function scrapeHomeLocationTabs() {
+  const html = await fetchWithAxios(HOME_URL);
+  const $ = cheerio.load(html);
+  const tabs = {};
+
+  $(".location-tab").each((_, el) => {
+    const $el = $(el);
+    const idMatch = ($el.attr("onclick") || "").match(/openCity\s*\(\s*event\s*,\s*['"]([^'"]+)['"]/);
+    const tabId = idMatch ? idMatch[1] : "";
+    const slug = tabId.replace(/^hosp-/, "").toLowerCase();
+    if (!slug || tabs[slug]) return; // skip owl `.cloned` duplicates
+
+    const $p = $el.find("p").first();
+    const state = clean($p.find("span").first().text());
+    // City is the <p>'s own text, i.e. everything before the <span>.
+    const city = clean($p.clone().find("span").remove().end().text());
+
+    tabs[slug] = {
+      home_tab_id: tabId,
+      icon_img: absUrl(HOME_URL, $el.find("img").first().attr("src")),
+      city,
+      state,
+    };
+  });
+
+  return tabs;
+}
+
 // ---------- Section parsers ----------
-async function scrapeHospital(url) {
+async function scrapeHospital(url, homeTabs = {}) {
   const html = await fetchWithAxios(url);
   const $ = cheerio.load(html);
 
@@ -206,9 +251,15 @@ async function scrapeHospital(url) {
 
   const seo = extractSEO($);
 
+  const homeTab = homeTabs[slug] || {};
+
   return {
     name,
     slug,
+    city: homeTab.city || null,
+    state: homeTab.state || null,
+    icon_img: homeTab.icon_img || null,
+    home_tab_id: homeTab.home_tab_id || null,
     bannerImg,
     location_contact,
     overview,
@@ -226,11 +277,21 @@ async function scrapeHospital(url) {
 }
 
 (async () => {
+  let homeTabs = {};
+  console.log("Scraping location carousel:", HOME_URL);
+  try {
+    homeTabs = await scrapeHomeLocationTabs();
+    console.log("  found", Object.keys(homeTabs).length, "location tabs:", Object.keys(homeTabs).join(", "));
+  } catch (err) {
+    console.error("Failed:", HOME_URL, err.message, "— icon_img/city/state will be null");
+  }
+
   const results = [];
   for (const url of HOSPITAL_URLS) {
     console.log("Scraping:", url);
     try {
-      const data = await scrapeHospital(url);
+      const data = await scrapeHospital(url, homeTabs);
+      if (!data.icon_img) console.warn("  no location tab matched slug:", data.slug);
       results.push(data);
     } catch (err) {
       console.error("Failed:", url, err.message);

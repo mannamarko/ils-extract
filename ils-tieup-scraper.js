@@ -90,10 +90,22 @@
  * `no_post_specific_schema` / `no_post_specific_meta` are structural here and
  * dropped from the tally.
  *
+ * FOUR OUTPUT FILES. `ils_tie_ups.json` is the original combined file (kept for
+ * backward compat) plus three split files: `ils_tie_ups_corporate.json` and
+ * `ils_tie_ups_insurance.json` hold the same enriched per-kind records the
+ * combined file does, just on their own; `ils_tie_up_list.json` is a *third*
+ * thing entirely — the `tie-up-list` CPT itself, all 62 posts, each tagged
+ * with `appears_on` (where, if anywhere, it renders on the hub) and
+ * `is_orphan`. Pass 2 now runs against all 62 CPT posts rather than just the
+ * 38 that resolve to a hub card, so — unlike the old `cpt_orphans` array — the
+ * 24 orphans in this file carry a real detail-page scrape (SEO, breadcrumb,
+ * body text) too; their `/tie-up-list/<slug>/` pages 200 fine, they were just
+ * never visited before.
+ *
  * Requires: axios, cheerio (npm install axios cheerio)
  *
  * Usage:
- *   node ils-tieup-scraper.js                        # all -> ils_tie_ups.json
+ *   node ils-tieup-scraper.js                        # all -> ils_tie_ups.json + split files
  *   node ils-tieup-scraper.js --slug acko-general-insurance
  *   node ils-tieup-scraper.js --limit 5
  *   node ils-tieup-scraper.js --from-list tie_ups.json
@@ -486,9 +498,8 @@ function buildRecords({ hospitals, tabs, insuranceCards, categories }, postBySrc
 
 // ---------- pass 2: a /tie-up-list/<slug>/ page ----------
 
-function scrapeTieUpDetail(html, rec) {
+function scrapeTieUpDetail(html, url, rec) {
   const $ = cheerio.load(html);
-  const url = rec.post_link;
 
   const bodyClass = $("body").attr("class") || "";
   const classMatch = bodyClass.match(/\bpostid-(\d+)\b/);
@@ -601,6 +612,61 @@ async function loadHospitalCarousels(hospitals, postBySrc) {
   };
 }
 
+/**
+ * Where (if anywhere) a CPT post renders on the hub, by scanning the already
+ * built corporate/insurance records for a matching post_id. Corporate records
+ * are grouped by name across tabs (see buildRecords), so one match can carry
+ * several tab placements; insurance is always exactly one card.
+ */
+function buildAppearsOn(postId, records) {
+  return records
+    .filter((r) => r.post_id === postId)
+    .map((r) =>
+      r.kind === "corporate"
+        ? { kind: "corporate", record_name: r.name, hospitals: r.hospitals, tab_ids: r.listing.tab_ids, positions: r.listing.positions }
+        : { kind: "insurance", record_name: r.name, category: r.category, position: r.listing.positions[0] ? r.listing.positions[0].position : null }
+    );
+}
+
+/**
+ * The unified `tie-up-list` CPT dataset: every one of the 62 posts, tagged
+ * with where it renders on the hub (`appears_on`, empty for orphans) rather
+ * than splitting matched/orphaned posts into separate collections. Detail
+ * fields start null and are filled in by the pass-2 loop in main().
+ */
+function buildTieUpListPosts(data, records) {
+  return data.map((d) => {
+    const appearsOn = buildAppearsOn(d.id, records);
+    const isOrphan = appearsOn.length === 0;
+    const issues = [];
+    if (isOrphan) issues.push("cpt_orphan");
+    if (!d._media) issues.push("no_featured_image");
+    return {
+      post_id: d.id,
+      slug: d.slug,
+      name: decodeHtml(d.title && d.title.rendered),
+      url: d.link || `${SITE_ORIGIN}/tie-up-list/${d.slug}/`,
+      post_date: d.date || null,
+      post_modified: d.modified || null,
+      post_status: d.status || null,
+      logo: buildLogo(d._media, null),
+      appears_on: appearsOn,
+      is_orphan: isOrphan,
+      page_id: null,
+      heading: null,
+      breadcrumb: null,
+      detail_heading: null,
+      detail_image: null,
+      detail_date: null,
+      detail_author: null,
+      body_text: null,
+      seo: null,
+      seo_issues: [],
+      issues,
+    };
+  });
+}
+
 // ---------- pass 1 assembly ----------
 
 async function loadTieUpList(fromList) {
@@ -608,7 +674,8 @@ async function loadTieUpList(fromList) {
     const raw = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), fromList), "utf-8"));
     console.log(`[info] tie-up list from ${fromList}: ${raw.length} records`);
     // Rebuild the hospital roster from the records themselves so --from-list
-    // still emits it; hub/orphans/carousel need pages this run never fetches.
+    // still emits it; hub/orphans/carousel/tie-up-list need pages this run
+    // never fetches.
     const seen = new Map();
     for (const r of raw) for (const h of r.hospitals || []) if (!seen.has(h.id)) seen.set(h.id, h);
     return {
@@ -618,6 +685,7 @@ async function loadTieUpList(fromList) {
       hospitalIssues: [],
       cptOrphans: [],
       postBySrc: new Map(),
+      tieUpListPosts: null,
     };
   }
 
@@ -661,6 +729,8 @@ async function loadTieUpList(fromList) {
     console.log(`[warn] ${cptOrphans.length}/${data.length} CPT posts render nowhere on /tie-up/`);
   }
 
+  const tieUpListPosts = buildTieUpListPosts(data, records);
+
   return {
     records,
     hub: parsed.hub,
@@ -668,6 +738,7 @@ async function loadTieUpList(fromList) {
     hospitalIssues: parsed.hospitalIssues,
     cptOrphans,
     postBySrc,
+    tieUpListPosts,
   };
 }
 
@@ -677,6 +748,9 @@ function parseArgs() {
   const args = process.argv.slice(2);
   const opts = {
     out: "ils_tie_ups.json",
+    outCorporate: "ils_tie_ups_corporate.json",
+    outInsurance: "ils_tie_ups_insurance.json",
+    outList: "ils_tie_up_list.json",
     indexOut: "tie_ups.json",
     limit: null,
     slug: null,
@@ -690,6 +764,15 @@ function parseArgs() {
     switch (args[i]) {
       case "--out":
         opts.out = args[++i];
+        break;
+      case "--out-corporate":
+        opts.outCorporate = args[++i];
+        break;
+      case "--out-insurance":
+        opts.outInsurance = args[++i];
+        break;
+      case "--out-list":
+        opts.outList = args[++i];
         break;
       case "--index-out":
         opts.indexOut = args[++i];
@@ -723,14 +806,26 @@ function parseArgs() {
 }
 
 async function main() {
-  const { out, indexOut, limit, slug, fromList, indexOnly, hospitalCheck, fromCache, refresh } =
-    parseArgs();
+  const {
+    out,
+    outCorporate,
+    outInsurance,
+    outList,
+    indexOut,
+    limit,
+    slug,
+    fromList,
+    indexOnly,
+    hospitalCheck,
+    fromCache,
+    refresh,
+  } = parseArgs();
   cacheMode.fromCache = fromCache;
   cacheMode.refresh = refresh;
   if (fromCache) console.log(`[info] --from-cache: reading HTML from ${CACHE_DIR}, no network.`);
   if (refresh) console.log("[info] --refresh: re-fetching every page, overwriting cache.");
 
-  const { records, hub, hospitals, hospitalIssues, cptOrphans, postBySrc } =
+  const { records, hub, hospitals, hospitalIssues, cptOrphans, postBySrc, tieUpListPosts } =
     await loadTieUpList(fromList);
   if (!records.length) {
     console.error("[error] no tie-up records found.");
@@ -747,37 +842,88 @@ async function main() {
     return;
   }
 
-  // Pass 2: only records that resolved to a CPT post have a detail page.
-  let detailList = records.filter((r) => r.post_id && r.post_link);
-  if (slug) detailList = detailList.filter((r) => r.slug === slug);
-  if (limit) detailList = detailList.slice(0, limit);
+  let detailFetchedCount = 0;
 
-  for (const rec of detailList) {
-    console.log(`[info] Fetching tie-up detail: ${rec.post_link}`);
-    const { html, fromCache: cached } = await fetchHtml(rec.post_link, `tie-up-list/${rec.slug}`);
-    if (!html) {
-      console.error(`  [error] no HTML for ${rec.post_link}`);
-      rec.issues.push("detail_page_unreachable");
-      continue;
+  if (fromList) {
+    // No REST/CPT list under --from-list; pass 2 runs directly against the
+    // index records, same as before this file split existed.
+    let detailList = records.filter((r) => r.post_id && r.post_link);
+    if (slug) detailList = detailList.filter((r) => r.slug === slug);
+    if (limit) detailList = detailList.slice(0, limit);
+    detailFetchedCount = detailList.length;
+
+    for (const rec of detailList) {
+      console.log(`[info] Fetching tie-up detail: ${rec.post_link}`);
+      const { html, fromCache: cached } = await fetchHtml(rec.post_link, `tie-up-list/${rec.slug}`);
+      if (!html) {
+        console.error(`  [error] no HTML for ${rec.post_link}`);
+        rec.issues.push("detail_page_unreachable");
+        continue;
+      }
+      try {
+        const detail = scrapeTieUpDetail(html, rec.post_link, rec);
+        rec.detail = {
+          page_id: detail.page_id,
+          heading: detail.heading,
+          breadcrumb: detail.breadcrumb,
+          detail_heading: detail.detail_heading,
+          detail_image: detail.detail_image,
+          detail_date: detail.detail_date,
+          detail_author: detail.detail_author,
+          body_text: detail.body_text,
+        };
+        rec.seo = detail.seo;
+        rec.seo_issues = detail.seo_issues;
+      } catch (e) {
+        console.error(`  [error] failed to parse ${rec.post_link}: ${e.message}`);
+      }
+      if (!cached) await sleep(REQUEST_DELAY_MS);
     }
-    try {
-      const detail = scrapeTieUpDetail(html, rec);
+  } else {
+    // Pass 2 now runs against the full tie-up-list CPT (all posts, not just
+    // the ones that resolved to a hub card), so orphans get a real detail
+    // scrape too. Matched corporate/insurance records then copy their
+    // detail/seo back from the post instead of being re-fetched.
+    let detailPosts = tieUpListPosts;
+    if (slug) detailPosts = detailPosts.filter((p) => p.slug === slug);
+    if (limit) detailPosts = detailPosts.slice(0, limit);
+    detailFetchedCount = detailPosts.length;
+
+    for (const post of detailPosts) {
+      console.log(`[info] Fetching tie-up-list detail: ${post.url}`);
+      const { html, fromCache: cached } = await fetchHtml(post.url, `tie-up-list/${post.slug}`);
+      if (!html) {
+        console.error(`  [error] no HTML for ${post.url}`);
+        post.issues.push("detail_page_unreachable");
+        continue;
+      }
+      try {
+        Object.assign(post, scrapeTieUpDetail(html, post.url, post));
+      } catch (e) {
+        console.error(`  [error] failed to parse ${post.url}: ${e.message}`);
+      }
+      if (!cached) await sleep(REQUEST_DELAY_MS);
+    }
+
+    const postsById = new Map(tieUpListPosts.map((p) => [p.post_id, p]));
+    for (const rec of records) {
+      if (!rec.post_id) continue;
+      const post = postsById.get(rec.post_id);
+      if (!post) continue;
       rec.detail = {
-        page_id: detail.page_id,
-        heading: detail.heading,
-        breadcrumb: detail.breadcrumb,
-        detail_heading: detail.detail_heading,
-        detail_image: detail.detail_image,
-        detail_date: detail.detail_date,
-        detail_author: detail.detail_author,
-        body_text: detail.body_text,
+        page_id: post.page_id,
+        heading: post.heading,
+        breadcrumb: post.breadcrumb,
+        detail_heading: post.detail_heading,
+        detail_image: post.detail_image,
+        detail_date: post.detail_date,
+        detail_author: post.detail_author,
+        body_text: post.body_text,
       };
-      rec.seo = detail.seo;
-      rec.seo_issues = detail.seo_issues;
-    } catch (e) {
-      console.error(`  [error] failed to parse ${rec.post_link}: ${e.message}`);
+      rec.seo = post.seo;
+      rec.seo_issues = post.seo_issues;
+      if (post.issues.includes("detail_page_unreachable")) rec.issues.push("detail_page_unreachable");
     }
-    if (!cached) await sleep(REQUEST_DELAY_MS);
   }
 
   const carousel =
@@ -830,6 +976,60 @@ async function main() {
   const outPath = path.resolve(process.cwd(), out);
   fs.writeFileSync(outPath, JSON.stringify(result, null, 2), "utf-8");
 
+  // ---- split files: corporate, insurance, and the unified tie-up-list CPT ----
+
+  const corporateTally = {};
+  const bumpC = (k) => (corporateTally[k] = (corporateTally[k] || 0) + 1);
+  for (const r of corporate) {
+    for (const k of r.issues || []) bumpC(k);
+    for (const k of r.seo_issues || []) bumpC(k);
+  }
+  for (const h of hospitalSummary) for (const k of h.issues || []) bumpC(k);
+  if (hub) for (const k of hub.seo_issues || []) bumpC(k);
+  const corporatePath = path.resolve(process.cwd(), outCorporate);
+  fs.writeFileSync(
+    corporatePath,
+    JSON.stringify(
+      { hub, hospitals: hospitalSummary, records: corporate, issue_tallies: corporateTally },
+      null,
+      2
+    ),
+    "utf-8"
+  );
+
+  const insuranceTally = {};
+  const bumpI = (k) => (insuranceTally[k] = (insuranceTally[k] || 0) + 1);
+  for (const r of insurance) {
+    for (const k of r.issues || []) bumpI(k);
+    for (const k of r.seo_issues || []) bumpI(k);
+  }
+  if (hub) for (const k of hub.seo_issues || []) bumpI(k);
+  if (carousel) for (const k of carousel.issues || []) bumpI(k);
+  const insurancePath = path.resolve(process.cwd(), outInsurance);
+  fs.writeFileSync(
+    insurancePath,
+    JSON.stringify(
+      { hub, records: insurance, hospital_insurance_carousel: carousel, issue_tallies: insuranceTally },
+      null,
+      2
+    ),
+    "utf-8"
+  );
+
+  // Not buildable under --from-list: no REST/CPT list was fetched this run.
+  let listOut = { present: false };
+  if (!fromList) {
+    const listTally = {};
+    const bumpL = (k) => (listTally[k] = (listTally[k] || 0) + 1);
+    for (const p of tieUpListPosts) {
+      for (const k of p.issues || []) bumpL(k);
+      for (const k of p.seo_issues || []) bumpL(k);
+    }
+    listOut = { rest_url: REST_URL, post_count: tieUpListPosts.length, posts: tieUpListPosts, issue_tallies: listTally };
+  }
+  const listPath = path.resolve(process.cwd(), outList);
+  fs.writeFileSync(listPath, JSON.stringify(listOut, null, 2), "utf-8");
+
   const kinds = {
     corporate: corporate.length,
     insurer: insurance.filter((r) => r.category === "insurer").length,
@@ -837,7 +1037,11 @@ async function main() {
     cpt_orphans: cptOrphans.length,
   };
   console.log(
-    `[done] Scraped ${records.length} tie-ups (${detailList.length} detail pages) -> ${outPath}`
+    `[done] Scraped ${records.length} tie-ups (${detailFetchedCount} detail pages) -> ${outPath}`
+  );
+  console.log(
+    `[done] Split files -> ${corporatePath} (${corporate.length}), ${insurancePath} (${insurance.length}), ${listPath}` +
+      (fromList ? " (present: false, --from-list)" : ` (${tieUpListPosts.length} posts)`)
   );
   console.log("[info] kinds:", kinds);
   console.log(
