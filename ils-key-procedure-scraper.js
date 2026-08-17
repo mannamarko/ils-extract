@@ -4,7 +4,7 @@
  * ---------------------------------------------------------------
  * Two passes:
  *   1. https://ilshospitals.com/key-procedures/ — one server-rendered page
- *      holding ALL 115 procedure cards (the "View More" button only expands
+ *      holding ALL 173 procedure cards (the "View More" button only expands
  *      CSS-clamped rows; there is no pagination). Gives name, slug, URL, icon
  *      and the search keyword. That pass alone produces key_procedures.json.
  *   2. every https://ilshospitals.com/key-procedures/<slug>/ page, for the body
@@ -52,7 +52,7 @@
  *   npm install axios cheerio
  *
  * Usage:
- *   node ils-key-procedure-scraper.js                    # all 115 -> ils_key_procedures.json
+ *   node ils-key-procedure-scraper.js                    # all 173 -> ils_key_procedures.json
  *   node ils-key-procedure-scraper.js --index-only       # just key_procedures.json
  *   node ils-key-procedure-scraper.js --slug angioplasty --out one.json
  *   node ils-key-procedure-scraper.js --limit 20
@@ -88,7 +88,7 @@ const DOCTORS_FULL = path.resolve(__dirname, "ils_doctors.json");
 
 const collapse = (s) => (s || "").replace(/\s+/g, " ").trim() || null;
 
-/** The theme emits <img src=""> for the 35 procedures that have no icon. */
+/** The theme emits <img src=""> for the 86 procedures that have no icon. */
 const imgSrc = (el) => {
   const src = (el.attr("src") || "").trim();
   return src || null;
@@ -161,18 +161,49 @@ function loadDoctorIndex() {
   return bySlug;
 }
 
-/** id -> {published_date, modified_date} from the WP REST collection. */
+/** id -> {published_date, modified_date} from the WP REST collection, plus the
+ *  collection's slug set so the listing page can be reconciled against it. */
 async function loadRestDates() {
   const dates = new Map();
+  const slugs = new Set();
   for (let page = 1; page <= 20; page++) {
     const { data } = await fetchJson(`${REST_URL}&page=${page}`, `api/key-procedures-p${page}`);
     if (!Array.isArray(data) || !data.length) break;
-    for (const d of data) dates.set(d.id, { published_date: d.date || null, modified_date: d.modified || null });
+    for (const d of data) {
+      dates.set(d.id, { published_date: d.date || null, modified_date: d.modified || null });
+      if (d.slug) slugs.add(d.slug);
+    }
     if (data.length < 100) break;
   }
   if (dates.size) console.log(`[info] REST dates for ${dates.size} procedures`);
   else console.warn("[warn] REST dates unavailable, falling back to article:* meta.");
-  return dates;
+  return { dates, slugs };
+}
+
+/** The listing page is pass 1's only source, so a hub that has drifted from the
+ *  CPT silently truncates the whole dataset — which is exactly how a stale cache
+ *  replayed 115 of 173 procedures for weeks without a peep. Diff the two slug
+ *  sets both ways and name the offenders. Only meaningful on a run that fetched
+ *  both live; --from-cache replays a stale REST cache alongside the stale hub. */
+function reconcileListingWithRest(listingSlugs, restSlugs) {
+  if (!restSlugs.size) return [];
+  const missingFromListing = [...restSlugs].filter((s) => !listingSlugs.has(s));
+  const missingFromRest = [...listingSlugs].filter((s) => !restSlugs.has(s));
+  const issues = [];
+  if (missingFromListing.length) {
+    issues.push(`rest_missing_from_listing (${missingFromListing.length})`);
+    console.warn(
+      `[warn] ${missingFromListing.length} CPT posts the /key-procedures/ hub does not render: ${missingFromListing.join(", ")}`
+    );
+  }
+  if (missingFromRest.length) {
+    issues.push(`listing_missing_from_rest (${missingFromRest.length})`);
+    console.warn(
+      `[warn] ${missingFromRest.length} hub cards with no CPT post: ${missingFromRest.join(", ")}`
+    );
+  }
+  if (!issues.length) console.log(`[info] listing and REST agree on all ${restSlugs.size} procedures.`);
+  return issues;
 }
 
 // ---------- detail page parsing ----------
@@ -455,6 +486,9 @@ async function main() {
 
   if (indexOnly) return;
 
+  // Before --slug/--limit narrow it: the full hub as pass 1 saw it.
+  const listingSlugs = new Set(list.map((p) => p.slug).filter(Boolean));
+
   if (slug) list = list.filter((p) => p.slug === slug);
   if (limit) list = list.slice(0, limit);
   if (!list.length) {
@@ -462,10 +496,14 @@ async function main() {
     process.exit(1);
   }
 
+  const { dates: restDates, slugs: restSlugs } = await loadRestDates();
+  // A narrowed run has nothing to reconcile — the hub is deliberately incomplete.
+  const coverageIssues = slug || limit ? [] : reconcileListingWithRest(listingSlugs, restSlugs);
+
   const refs = {
     departmentIndex: loadDepartmentIndex(),
     doctorIndex: loadDoctorIndex(),
-    restDates: await loadRestDates(),
+    restDates,
   };
 
   const results = [];
@@ -497,6 +535,7 @@ async function main() {
   console.log(`[done] Scraped ${results.length}/${list.length} procedures -> ${outPath}`);
   if (noContent) console.log(`[warn] ${noContent} procedures had no content`);
   if (noDept) console.log(`[warn] ${noDept} procedures had no department link`);
+  if (coverageIssues.length) console.log(`[warn] listing/REST coverage: ${coverageIssues.join(", ")}`);
   console.log("[seo]  issue tally:", tally);
 }
 
