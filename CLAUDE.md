@@ -17,6 +17,7 @@ node ils-taxonomy-scraper.js                          # ils_categories.json + il
 node ils-department-scraper.js                        # 60  -> ils_departments.json
 node ils-doctor-scraper.js                            # 375 -> ils_doctors.json
 node ils-key-procedure-scraper.js                     # 173 -> ils_key_procedures.json
+node ils-disease-scraper.js                           # 50  -> ils_diseases.json (`disease` CPT; diseaseList.md lists only 31)
 node ils-health-package-scraper.js                    # 35  -> ils_health_packages.json
 node ils-hospital-scraper.js                          # 5   -> ils_hospitals.json (npm start)
 node ils-event-scraper.js                             # 34  -> ils_events.json
