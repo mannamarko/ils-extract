@@ -46,6 +46,8 @@ const DEFAULTS = {
   concurrencyLive: 4,
   concurrencyLocal: 3,
   refresh: false,
+  refreshLive: false,
+  refreshLocal: false,
   fromCache: false,
   skipSeo: false,
   printPlan: false,
@@ -99,6 +101,12 @@ function parseArgs(argv) {
         break;
       case "--refresh":
         opts.refresh = true;
+        break;
+      case "--refresh-live":
+        opts.refreshLive = true;
+        break;
+      case "--refresh-local":
+        opts.refreshLocal = true;
         break;
       case "--from-cache":
         opts.fromCache = true;
@@ -468,7 +476,9 @@ Live-vs-local SEO audit — meta tags, JSON-LD and sitemap reachability.
   --limit N                    first N URLs after sorting
   --concurrency-live N         default 4
   --concurrency-local N        default 3  (12 crashed next dev previously)
-  --refresh                    ignore cache and refetch
+  --refresh                    ignore cache and refetch both live and local
+  --refresh-live               ignore cache and refetch live side
+  --refresh-local              ignore cache and refetch local side
   --from-cache                 never hit the network
   --skip-seo                   reachability only (fast 404 sweep)
   --print-plan                 show the URL/category breakdown and exit
@@ -514,11 +524,13 @@ async function main() {
   console.log(`  live  ${opts.live}  (concurrency ${opts.concurrencyLive})`);
   console.log(`  local ${opts.local}  (concurrency ${opts.concurrencyLocal})`);
 
-  const fetchOpts = { fromCache: opts.fromCache, refresh: opts.refresh };
-
   /** Both passes report progress; the live one is the long pole on a cold cache. */
-  const sweep = async (side, origin, concurrency) => {
+  const sweep = async (side, origin, concurrency, sideRefresh = false) => {
     let done = 0;
+    const fetchOpts = {
+      fromCache: opts.fromCache,
+      refresh: opts.refresh || sideRefresh,
+    };
     const results = await mapLimit(rows, concurrency, async (row) => {
       const res = await probe(`${origin}${row.path}`, { side, ...fetchOpts });
       done++;
@@ -533,8 +545,18 @@ async function main() {
 
   // Swept as two passes so each side keeps its own concurrency limit; running
   // them interleaved would hold both to the lower one.
-  const liveResults = await sweep("live", opts.live, opts.concurrencyLive);
-  const localResults = await sweep("local", opts.local, opts.concurrencyLocal);
+  const liveResults = await sweep(
+    "live",
+    opts.live,
+    opts.concurrencyLive,
+    opts.refreshLive,
+  );
+  const localResults = await sweep(
+    "local",
+    opts.local,
+    opts.concurrencyLocal,
+    opts.refreshLocal,
+  );
 
   const results = rows.map((row, i) =>
     analyse(row, liveResults[i], localResults[i], opts),
