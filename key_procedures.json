@@ -17,7 +17,7 @@
     "name": "Acne Treatment",
     "slug": "acne-treatment",
     "url": "https://ilshospitals.com/key-procedures/acne-treatment/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/01/acne-treatment.webp",
     "keyword": "acne treatment"
   },
   {
@@ -31,14 +31,14 @@
     "name": "Adhesiolysis (Post-Operative)",
     "slug": "adhesiolysis-post-operative",
     "url": "https://ilshospitals.com/key-procedures/adhesiolysis-post-operative/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/01/surgery.webp",
     "keyword": "adhesiolysis (post-operative)"
   },
   {
     "name": "Anal Fissure Surgery",
     "slug": "anal-fissure-surgery",
     "url": "https://ilshospitals.com/key-procedures/anal-fissure-surgery/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/05/health.webp",
     "keyword": "anal fissure surgery"
   },
   {
@@ -59,14 +59,14 @@
     "name": "Angioplasty and Stenting",
     "slug": "angioplasty-and-stenting",
     "url": "https://ilshospitals.com/key-procedures/angioplasty-and-stenting/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart.webp",
     "keyword": "angioplasty and stenting"
   },
   {
     "name": "Aortic Root Procedures",
     "slug": "aortic-root-procedures",
     "url": "https://ilshospitals.com/key-procedures/aortic-root-procedures/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart.webp",
     "keyword": "aortic root procedures"
   },
   {
@@ -87,21 +87,21 @@
     "name": "Atrial Septal Defect (ASD) Closure",
     "slug": "atrial-septal-defect-asd-closure",
     "url": "https://ilshospitals.com/key-procedures/atrial-septal-defect-asd-closure/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-2.webp",
     "keyword": "atrial septal defect (asd) closure"
   },
   {
     "name": "Balloon Valvuloplasty",
     "slug": "balloon-valvuloplasty",
     "url": "https://ilshospitals.com/key-procedures/balloon-valvuloplasty/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/cardiac.webp",
     "keyword": "balloon valvuloplasty"
   },
   {
     "name": "Bed Sore Debridement",
     "slug": "bed-sore-debridement",
     "url": "https://ilshospitals.com/key-procedures/bed-sore-debridement/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/01/patient.webp",
     "keyword": "bed sore debridement"
   },
   {
@@ -115,28 +115,28 @@
     "name": "Breast abscess drainage",
     "slug": "breast-abscess-drainage",
     "url": "https://ilshospitals.com/key-procedures/breast-abscess-drainage/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/06/breast.webp",
     "keyword": "breast abscess drainage"
   },
   {
     "name": "Breast Cancer Surgery Support",
     "slug": "breast-cancer-surgery-support",
     "url": "https://ilshospitals.com/key-procedures/breast-cancer-surgery-support/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/06/breast-cancer.webp",
     "keyword": "breast cancer surgery support"
   },
   {
     "name": "Breast Conserving Surgery",
     "slug": "breast-conserving-surgery",
     "url": "https://ilshospitals.com/key-procedures/breast-conserving-surgery/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/05/augmentation.webp",
     "keyword": "breast conserving surgery"
   },
   {
     "name": "Breast Lump Excision",
     "slug": "breast-lump-excision",
     "url": "https://ilshospitals.com/key-procedures/breast-lump-excision/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/05/breast-lump.webp",
     "keyword": "breast lump excision"
   },
   {
@@ -178,7 +178,7 @@
     "name": "Cardiac surgery in elderly people",
     "slug": "cardiac-surgery-in-elderly-people",
     "url": "https://ilshospitals.com/key-procedures/cardiac-surgery-in-elderly-people/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-3.webp",
     "keyword": "cardiac surgery in elderly people"
   },
   {
@@ -192,7 +192,7 @@
     "name": "Carotid Endarterectomy",
     "slug": "carotid-endarterectomy",
     "url": "https://ilshospitals.com/key-procedures/carotid-endarterectomy/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-4.webp",
     "keyword": "carotid endarterectomy"
   },
   {
@@ -227,7 +227,7 @@
     "name": "Chronic Wound Management",
     "slug": "chronic-wound-management",
     "url": "https://ilshospitals.com/key-procedures/chronic-wound-management/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/06/wound-dressing.webp",
     "keyword": "chronic wound management"
   },
   {
@@ -241,7 +241,7 @@
     "name": "Complex Aortic Surgeries",
     "slug": "complex-aortic-surgeries",
     "url": "https://ilshospitals.com/key-procedures/complex-aortic-surgeries/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-4.webp",
     "keyword": "complex aortic surgeries"
   },
   {
@@ -269,7 +269,7 @@
     "name": "Coronary Artery Bypass Grafting",
     "slug": "coronary-artery-bypass-grafting",
     "url": "https://ilshospitals.com/key-procedures/coronary-artery-bypass-grafting/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-4.webp",
     "keyword": "coronary artery bypass grafting"
   },
   {
@@ -283,14 +283,14 @@
     "name": "Coronary Heart Disease Treatment",
     "slug": "coronary-heart-disease-treatment",
     "url": "https://ilshospitals.com/key-procedures/coronary-heart-disease-treatment/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-5.webp",
     "keyword": "coronary heart disease treatment"
   },
   {
     "name": "Coronary Stent Placement",
     "slug": "coronary-stent-placement",
     "url": "https://ilshospitals.com/key-procedures/coronary-stent-placement/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-5.webp",
     "keyword": "coronary stent placement"
   },
   {
@@ -318,21 +318,21 @@
     "name": "Device Closure of ASD",
     "slug": "device-closure-of-asd",
     "url": "https://ilshospitals.com/key-procedures/device-closure-of-asd/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-5.webp",
     "keyword": "device closure of asd"
   },
   {
     "name": "Device Therapy for Heart failure",
     "slug": "device-therapy-for-heart-failure",
     "url": "https://ilshospitals.com/key-procedures/device-therapy-for-heart-failure/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/heart-5.webp",
     "keyword": "device therapy for heart failure"
   },
   {
     "name": "Diabetic Foot Debridement",
     "slug": "diabetic-foot-debridement",
     "url": "https://ilshospitals.com/key-procedures/diabetic-foot-debridement/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/06/diabetic-foot.webp",
     "keyword": "diabetic foot debridement"
   },
   {
@@ -353,14 +353,14 @@
     "name": "ECMO",
     "slug": "ecmo",
     "url": "https://ilshospitals.com/key-procedures/ecmo/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/breath.webp",
     "keyword": "ecmo"
   },
   {
     "name": "Eczema Treatment",
     "slug": "eczema-treatment",
     "url": "https://ilshospitals.com/key-procedures/eczema-treatment/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/01/burn.webp",
     "keyword": "eczema treatment"
   },
   {
@@ -374,7 +374,7 @@
     "name": "Electrophysiology",
     "slug": "electrophysiology",
     "url": "https://ilshospitals.com/key-procedures/electrophysiology/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/04/densiometry.webp",
     "keyword": "electrophysiology"
   },
   {
@@ -409,7 +409,7 @@
     "name": "Feeding Jejunostomy",
     "slug": "feeding-jejunostomy",
     "url": "https://ilshospitals.com/key-procedures/feeding-jejunostomy/",
-    "icon": null,
+    "icon": "https://ilshospitals.com/wp-content/uploads/2026/01/mother-and-baby-1.webp",
     "keyword": "feeding jejunostomy"
   },
   {

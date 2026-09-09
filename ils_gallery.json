@@ -627,7 +627,7 @@
       "url": "https://ilshospitals.com/gallery/",
       "image": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
       "image_secure_url": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
-      "site_name": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+      "site_name": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
       "locale": "en_US"
     },
     "twitter": {
@@ -673,7 +673,7 @@
           {
             "@type": "Organization",
             "@id": "https://ilshospitals.com/#organization",
-            "name": "ILS Hospital",
+            "name": "ILS Hospitals",
             "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
             "url": "https://ilshospitals.com/",
             "logo": {
@@ -708,7 +708,8 @@
             "@type": "WebSite",
             "@id": "https://ilshospitals.com/#website",
             "url": "https://ilshospitals.com/",
-            "name": "ils-hospital",
+            "name": "ILS Hospitals",
+            "alternateName": "ILS Hospitals",
             "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
             "inLanguage": "en-US",
             "publisher": {
@@ -756,7 +757,7 @@
             {
               "@type": "Organization",
               "@id": "https://ilshospitals.com/#organization",
-              "name": "ILS Hospital",
+              "name": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "url": "https://ilshospitals.com/",
               "logo": {
@@ -791,7 +792,8 @@
               "@type": "WebSite",
               "@id": "https://ilshospitals.com/#website",
               "url": "https://ilshospitals.com/",
-              "name": "ils-hospital",
+              "name": "ILS Hospitals",
+              "alternateName": "ILS Hospitals",
               "description": "ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
               "inLanguage": "en-US",
               "publisher": {
@@ -845,7 +847,7 @@
       {
         "kind": "name",
         "key": "generator",
-        "content": "All in One SEO (AIOSEO) 4.9.10",
+        "content": "All in One SEO (AIOSEO) 5.0.1.1",
         "index": 6
       },
       {
@@ -857,7 +859,7 @@
       {
         "kind": "property",
         "key": "og:site_name",
-        "content": "ILS-hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
+        "content": "ILS Hospitals - ILS Hospitals is the multispecialty hospital in Kolkata which is providing proper treatment with all healthcare services at an affordable price.",
         "index": 8
       },
       {
@@ -935,7 +937,7 @@
       {
         "kind": "name",
         "key": "generator",
-        "content": "WordPress 7.0.2",
+        "content": "WordPress 7.1",
         "index": 21
       },
       {

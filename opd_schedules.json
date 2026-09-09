@@ -135,11 +135,6 @@
     "name": "Dr. Pratyusha Sinha"
   },
   {
-    "doctor_id": 12204,
-    "slug": "dr-umasankar-mukhopadhyay",
-    "name": "Dr. Umasankar Mukhopadhyay"
-  },
-  {
     "doctor_id": 12206,
     "slug": "ms-jayeeta-roy",
     "name": "Ms. Jayeeta Roy"
@@ -148,11 +143,6 @@
     "doctor_id": 12209,
     "slug": "dr-biplab-deb",
     "name": "Dr. Biplab Deb"
-  },
-  {
-    "doctor_id": 12216,
-    "slug": "mr-surajit-sarkar",
-    "name": "Mr. Surajit Sarkar"
   },
   {
     "doctor_id": 12217,
@@ -173,11 +163,6 @@
     "doctor_id": 12470,
     "slug": "dr-arpita-mohanty",
     "name": "Dr. Arpita Mohanty"
-  },
-  {
-    "doctor_id": 12519,
-    "slug": "dr-ruchi-roumy-das",
-    "name": "Dr. Ruchi Roumy Das"
   },
   {
     "doctor_id": 14924,
@@ -250,11 +235,6 @@
     "name": "Dr. Ekta Jain"
   },
   {
-    "doctor_id": 15049,
-    "slug": "dr-vaibhav-seth",
-    "name": "Dr. Vaibhav Seth"
-  },
-  {
     "doctor_id": 15078,
     "slug": "dr-silima-subhasnigdha-tarenia",
     "name": "Dr. Silima Subhasnigdha Tarenia"
@@ -278,11 +258,6 @@
     "doctor_id": 16253,
     "slug": "ms-isha-kaur-bagga",
     "name": "Ms. Isha Kaur Bagga"
-  },
-  {
-    "doctor_id": 16254,
-    "slug": "ms-grishma-tiwari",
-    "name": "Ms. Grishma Tiwari"
   },
   {
     "doctor_id": 16412,
@@ -488,11 +463,6 @@
     "doctor_id": 17687,
     "slug": "sunirmal-dhara",
     "name": "Sunirmal Dhara"
-  },
-  {
-    "doctor_id": 17757,
-    "slug": "dr-subhadeep-paul",
-    "name": "Dr. Subhadeep Paul"
   },
   {
     "doctor_id": 17787,
@@ -760,6 +730,136 @@
     "name": "Dr. Mayank Dokania"
   },
   {
+    "doctor_id": 18638,
+    "slug": "dr-ankita-fatnani",
+    "name": "Dr. Ankita Fatnani"
+  },
+  {
+    "doctor_id": 18725,
+    "slug": "dr-bijaya-laxmi-gayari",
+    "name": "Dr. Bijaya Laxmi Gayari"
+  },
+  {
+    "doctor_id": 18729,
+    "slug": "dr-asim-manna",
+    "name": "Dr. Asim Manna"
+  },
+  {
+    "doctor_id": 18753,
+    "slug": "dr-binay-agarwal-2",
+    "name": "Dr. Binay Agarwal"
+  },
+  {
+    "doctor_id": 18755,
+    "slug": "dr-ashwin-chowdhary",
+    "name": "Dr. Ashwin Chowdhary"
+  },
+  {
+    "doctor_id": 18758,
+    "slug": "dr-kishalaya-mahajan",
+    "name": "Dr. Kishalaya Mahajan"
+  },
+  {
+    "doctor_id": 18759,
+    "slug": "dr-kristi-sarkar",
+    "name": "Dr. Kristi Sarkar"
+  },
+  {
+    "doctor_id": 18760,
+    "slug": "dr-nani-gopal-tripura",
+    "name": "Dr. Nani Gopal Tripura"
+  },
+  {
+    "doctor_id": 18761,
+    "slug": "dr-arnab-debnath",
+    "name": "Dr. Arnab Debnath"
+  },
+  {
+    "doctor_id": 18762,
+    "slug": "dr-susmita-rani-ghosh",
+    "name": "Dr. Susmita Rani Ghosh"
+  },
+  {
+    "doctor_id": 18763,
+    "slug": "dr-pradip-debbarma",
+    "name": "Dr. Pradip Debbarma"
+  },
+  {
+    "doctor_id": 18764,
+    "slug": "dr-subhra-deb",
+    "name": "Dr. Subhra Deb"
+  },
+  {
+    "doctor_id": 18766,
+    "slug": "dr-abhishek-majumder",
+    "name": "Dr. Abhishek Majumder"
+  },
+  {
+    "doctor_id": 18767,
+    "slug": "dr-rupjit-das",
+    "name": "Dr. Rupjit Das"
+  },
+  {
+    "doctor_id": 18769,
+    "slug": "dr-antara-roy",
+    "name": "Dr. Antara Roy"
+  },
+  {
+    "doctor_id": 18770,
+    "slug": "dr-chapal-debnath",
+    "name": "Dr. Chapal Debnath"
+  },
+  {
+    "doctor_id": 18772,
+    "slug": "dr-maharshi-debnath",
+    "name": "Dr. Maharshi Debnath"
+  },
+  {
+    "doctor_id": 18774,
+    "slug": "dr-tanuja-bhattacharya",
+    "name": "Dr. Tanuja Bhattacharya"
+  },
+  {
+    "doctor_id": 18775,
+    "slug": "dr-dhrubajyoti-lahon",
+    "name": "Dr. Dhrubajyoti Lahon"
+  },
+  {
+    "doctor_id": 18776,
+    "slug": "dr-sourav-bhattacharjee",
+    "name": "Dr. Sourav Bhattacharjee"
+  },
+  {
+    "doctor_id": 18777,
+    "slug": "dr-akash-dnyandeo-s",
+    "name": "Dr. Akash Dnyandeo S"
+  },
+  {
+    "doctor_id": 18779,
+    "slug": "dr-subit-debbarma",
+    "name": "Dr. Subit Debbarma"
+  },
+  {
+    "doctor_id": 18780,
+    "slug": "dr-a-k-bhattacharjee",
+    "name": "Dr. A.K. Bhattacharjee"
+  },
+  {
+    "doctor_id": 18784,
+    "slug": "dr-rajesh-d-jawale",
+    "name": "Dr. Rajesh D. Jawale"
+  },
+  {
+    "doctor_id": 18786,
+    "slug": "dr-dipankar-ch-dey",
+    "name": "Dr. Dipankar Ch. Dey"
+  },
+  {
+    "doctor_id": 18795,
+    "slug": "dr-mainak-deb-2",
+    "name": "Dr. Mainak Deb"
+  },
+  {
     "doctor_id": 7284,
     "slug": "dr-rituparna-saha",
     "name": "Dr. Rituparna Saha"
@@ -773,6 +873,11 @@
     "doctor_id": 10479,
     "slug": "dr-paramita-debnath",
     "name": "Dr. Paramita Debnath"
+  },
+  {
+    "doctor_id": 7288,
+    "slug": "dr-nilendu-shekhar-dhar",
+    "name": "Dr. Nilendu Shekhar Dhar"
   },
   {
     "doctor_id": 7546,
@@ -803,11 +908,6 @@
     "doctor_id": 7406,
     "slug": "dr-kaushik-naha-biswas",
     "name": "Dr. Kaushik Naha Biswas"
-  },
-  {
-    "doctor_id": 7456,
-    "slug": "dr-sampurna-dutta-gupta",
-    "name": "Dr. Sampurna Dutta Gupta"
   },
   {
     "doctor_id": 10868,
@@ -1240,11 +1340,6 @@
     "name": "Dr. Samit Kr. Chatterjee"
   },
   {
-    "doctor_id": 7328,
-    "slug": "dr-abhijnan-maji",
-    "name": "Dr. Abhijnan Maji"
-  },
-  {
     "doctor_id": 7329,
     "slug": "dr-ananda-bagchi",
     "name": "Dr. Ananda Bagchi"
@@ -1253,11 +1348,6 @@
     "doctor_id": 10490,
     "slug": "dr-anup-kumar-dutta",
     "name": "Dr. Anup Kumar Dutta"
-  },
-  {
-    "doctor_id": 10491,
-    "slug": "dr-kaushik-kumar-das",
-    "name": "Dr. Kaushik Kumar Das"
   },
   {
     "doctor_id": 7336,
@@ -1545,11 +1635,6 @@
     "name": "Dr. Tushar Tudu"
   },
   {
-    "doctor_id": 7368,
-    "slug": "dr-amitava-narayan-mukherjee",
-    "name": "Dr. Amitava Narayan Mukherjee"
-  },
-  {
     "doctor_id": 7459,
     "slug": "dr-h-n-mishra",
     "name": "Dr. H. N. Mishra"
@@ -1563,11 +1648,6 @@
     "doctor_id": 7549,
     "slug": "dr-jagannath-bhattacharya",
     "name": "Dr. Jagannath Bhattacharya"
-  },
-  {
-    "doctor_id": 7548,
-    "slug": "dr-jyoti-prakash",
-    "name": "Dr. Jyoti Prakash"
   },
   {
     "doctor_id": 7370,
@@ -1608,11 +1688,6 @@
     "doctor_id": 7384,
     "slug": "dr-dipak-ghosh",
     "name": "Dr. Dipak Ghosh"
-  },
-  {
-    "doctor_id": 7474,
-    "slug": "dr-syamantak-basu",
-    "name": "Dr. Syamantak Basu"
   },
   {
     "doctor_id": 7556,
@@ -1748,11 +1823,6 @@
     "doctor_id": 7390,
     "slug": "dr-bappaditya-chowdhury",
     "name": "Dr. Bappaditya Chowdhury"
-  },
-  {
-    "doctor_id": 7481,
-    "slug": "dr-samyukhta-gangadhar",
-    "name": "Dr. Samyukhta Gangadhar"
   },
   {
     "doctor_id": 7392,

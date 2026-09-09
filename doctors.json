@@ -28,7 +28,7 @@
     "slug": "dr-aruna-tantia",
     "url": "https://ilshospitals.com/doctor-list/dr-aruna-tantia/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/Aruna_Tantia.webp",
-    "speciality": "Obstetrics & Gynaecology",
+    "speciality": "Minimally Invasive Surgery, Obstetrics & Gynaecology",
     "qualification": "MBBS, MS, FMAS, FICOG, Dipl. Pelvic Endoscopy (Keil, Germany)",
     "hospitals_text": "Saltlake",
     "hospital_ids": [
@@ -262,13 +262,15 @@
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
     "speciality": "Pulmonology & Chest Medicine",
     "qualification": "MBBS, MD (Pulmonology), MNCCP",
-    "hospitals_text": null,
-    "hospital_ids": [],
+    "hospitals_text": "Saltlake",
+    "hospital_ids": [
+      341
+    ],
     "department_ids": [
       2530
     ],
     "booking_url": null,
-    "first_hospital_id": null,
+    "first_hospital_id": 341,
     "first_department_id": 2530
   },
   {
@@ -520,25 +522,6 @@
     "first_department_id": 5708
   },
   {
-    "id": 12204,
-    "name": "Dr. Umasankar Mukhopadhyay",
-    "slug": "dr-umasankar-mukhopadhyay",
-    "url": "https://ilshospitals.com/doctor-list/dr-umasankar-mukhopadhyay/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "General & Laparoscopic Surgery",
-    "qualification": "MBBS (Cal), MS (Cal), FRCS (Glas), FRCS (Edin)",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      2512,
-      12410,
-      12448
-    ],
-    "booking_url": null,
-    "first_hospital_id": null,
-    "first_department_id": 2512
-  },
-  {
     "id": 12206,
     "name": "Ms. Jayeeta Roy",
     "slug": "ms-jayeeta-roy",
@@ -576,23 +559,6 @@
     "booking_url": null,
     "first_hospital_id": 342,
     "first_department_id": 2514
-  },
-  {
-    "id": 12216,
-    "name": "Mr. Surajit Sarkar",
-    "slug": "mr-surajit-sarkar",
-    "url": "https://ilshospitals.com/doctor-list/mr-surajit-sarkar/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Physiotherapy",
-    "qualification": "Diploma in Physiotherapy & Rehabilitation",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      2527
-    ],
-    "booking_url": null,
-    "first_hospital_id": null,
-    "first_department_id": 2527
   },
   {
     "id": 12217,
@@ -659,7 +625,7 @@
     "url": "https://ilshospitals.com/doctor-list/dr-arpita-mohanty/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2025/01/Dr_Arpita_Mohanty.jpg",
     "speciality": "ENT",
-    "qualification": "MBBS, MS, DNB",
+    "qualification": "MBBS, MS, DNB (Otorhinolaryngology)",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
@@ -670,21 +636,6 @@
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-agartala/ent/dr-arpita-mohanty/11/112/12101?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 343,
     "first_department_id": 856
-  },
-  {
-    "id": 12519,
-    "name": "Dr. Ruchi Roumy Das",
-    "slug": "dr-ruchi-roumy-das",
-    "url": "https://ilshospitals.com/doctor-list/dr-ruchi-roumy-das/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/01/dr-ruchi.jpeg",
-    "speciality": null,
-    "qualification": null,
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [],
-    "booking_url": null,
-    "first_hospital_id": null,
-    "first_department_id": null
   },
   {
     "id": 14924,
@@ -745,26 +696,6 @@
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-raipur/pulmonology-chest-medicine/dr-b-balakrishna/71/105/12962?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 5637,
     "first_department_id": 2530
-  },
-  {
-    "id": 14992,
-    "name": "Dr. Bhuwan Sharma",
-    "slug": "dr-bhuwan-sharma",
-    "url": "https://ilshospitals.com/doctor-list/dr-bhuwan-sharma/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/04/Dr.-Bhuwan-Sharma.jpg",
-    "speciality": "Neurology",
-    "qualification": "MBBS, MD, DM (Neurology)",
-    "hospitals_text": "Raipur",
-    "hospital_ids": [
-      5637
-    ],
-    "department_ids": [
-      2519,
-      18084
-    ],
-    "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-raipur/neurology/dr-bhuwan-sharma/71/71/12959?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
-    "first_hospital_id": 5637,
-    "first_department_id": 2519
   },
   {
     "id": 14994,
@@ -986,26 +917,6 @@
     "first_department_id": 2521
   },
   {
-    "id": 15049,
-    "name": "Dr. Vaibhav Seth",
-    "slug": "dr-vaibhav-seth",
-    "url": "https://ilshospitals.com/doctor-list/dr-vaibhav-seth/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-09-at-19.38.48_5cee2e26-2.jpg",
-    "speciality": "Neurology",
-    "qualification": "MD (Medicine), DM (Neurology) , DRNB (Neurology) , MRCP (UK), MRCP SCE (Neurology)",
-    "hospitals_text": "Saltlake,Dumdum",
-    "hospital_ids": [
-      341,
-      342
-    ],
-    "department_ids": [
-      2519
-    ],
-    "booking_url": null,
-    "first_hospital_id": 341,
-    "first_department_id": 2519
-  },
-  {
     "id": 15078,
     "name": "Dr. Silima Subhasnigdha Tarenia",
     "slug": "dr-silima-subhasnigdha-tarenia",
@@ -1101,25 +1012,6 @@
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-raipur/oral-maxillofacial-surgery/dr-isha-kaur-bagga/71/61/12967?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 5637,
     "first_department_id": 2522
-  },
-  {
-    "id": 16254,
-    "name": "Ms. Grishma Tiwari",
-    "slug": "ms-grishma-tiwari",
-    "url": "https://ilshospitals.com/doctor-list/ms-grishma-tiwari/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/05/Ms.-Grishma-Tiwari.jpg",
-    "speciality": "Dietetics",
-    "qualification": "M.sc ( Food and Nutrition ) Certificated in Diabetologist Nutrition , Certificate in Renal Nutrition and child care nutrition",
-    "hospitals_text": "Raipur",
-    "hospital_ids": [
-      5637
-    ],
-    "department_ids": [
-      861
-    ],
-    "booking_url": null,
-    "first_hospital_id": 5637,
-    "first_department_id": 861
   },
   {
     "id": 16412,
@@ -1319,14 +1211,15 @@
     "slug": "dr-arpan-choudhary",
     "url": "https://ilshospitals.com/doctor-list/dr-arpan-choudhary/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2024/05/Arpan.webp",
-    "speciality": "General Medicine",
-    "qualification": "MBBS, DNB, Consultant Critical Care ILS Hospital Dumdum",
+    "speciality": "General Medicine, Critical Care",
+    "qualification": "MBBS, DNB, Consultant - Critical Care",
     "hospitals_text": "Saltlake",
     "hospital_ids": [
       341
     ],
     "department_ids": [
-      5697
+      5697,
+      889
     ],
     "booking_url": null,
     "first_hospital_id": 341,
@@ -1605,7 +1498,7 @@
     "slug": "dr-dhiraj-premchandani",
     "url": "https://ilshospitals.com/doctor-list/dr-dhiraj-premchandani/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2025/08/dr_Premchandanai.webp",
-    "speciality": "Gastro-intestinal Surgery",
+    "speciality": "Gastro Intestinal Surgery",
     "qualification": "MBBS, MS, FNB (Minimal Access Surgery)",
     "hospitals_text": "Raipur",
     "hospital_ids": [
@@ -1615,7 +1508,8 @@
       2511,
       5699,
       2512,
-      18113
+      18113,
+      17293
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-raipur/gastro-intestinal-surgery/dr-dhiraj-premchandani/71/110/13129?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 5637,
@@ -1646,7 +1540,7 @@
     "name": "Dr. Namrata Biswas",
     "slug": "dr-namrata-biswas",
     "url": "https://ilshospitals.com/doctor-list/dr-namrata-biswas/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2025/08/Dr-Namrata-Biswas.webp",
     "speciality": "Anaesthesiology",
     "qualification": "MBBS, MD(Anaesthesiology)",
     "hospitals_text": "Saltlake",
@@ -1840,7 +1734,7 @@
     "name": "Dr. Ryan Sohail Kaiser",
     "slug": "dr-ryan-sohail-kaiser",
     "url": "https://ilshospitals.com/doctor-list/dr-ryan-sohail-kaiser/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Ryan-Kaiser.webp",
     "speciality": "Gastroenerology",
     "qualification": "MBBS, MD, DNB (Paed), FNB(Pead), Gastroenerology",
     "hospitals_text": "Howrah,Saltlake",
@@ -1912,25 +1806,6 @@
     "booking_url": null,
     "first_hospital_id": 340,
     "first_department_id": 2527
-  },
-  {
-    "id": 17757,
-    "name": "Dr. Subhadeep Paul",
-    "slug": "dr-subhadeep-paul",
-    "url": "https://ilshospitals.com/doctor-list/dr-subhadeep-paul/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/10/Dr-Subhadeep-Paul.webp",
-    "speciality": "Endocrinologist",
-    "qualification": "Agartala",
-    "hospitals_text": null,
-    "hospital_ids": [
-      343
-    ],
-    "department_ids": [
-      5695
-    ],
-    "booking_url": null,
-    "first_hospital_id": 343,
-    "first_department_id": 5695
   },
   {
     "id": 17787,
@@ -2013,7 +1888,7 @@
     "name": "Ms. Chaitali Bhadra",
     "slug": "ms-chaitali-bhadra",
     "url": "https://ilshospitals.com/doctor-list/ms-chaitali-bhadra/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/11/placeholder_doc.webp",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Chaitali-Bhadra.webp",
     "speciality": "Nutrition and Dietetics",
     "qualification": "B.sc and M.sc - Food and Nutrition",
     "hospitals_text": "Saltlake",
@@ -2032,7 +1907,7 @@
     "name": "Dr. Rekha Srivastava",
     "slug": "dr-rekha-srivastava",
     "url": "https://ilshospitals.com/doctor-list/dr-rekha-srivastava/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/11/placeholder_doc.webp",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Rekha-Srivastava.webp",
     "speciality": "Clinical Paediatric",
     "qualification": "B.Sc & Bachelor of Ayurvedic Medicine and Surgery",
     "hospitals_text": "Saltlake",
@@ -2159,17 +2034,19 @@
     "name": "Dr. Sadajit Banerjee",
     "slug": "dr-sadajit-banerjee",
     "url": "https://ilshospitals.com/doctor-list/dr-sadajit-banerjee/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Dumdum",
-    "qualification": null,
-    "hospitals_text": null,
+    "photo": "https://ilshospitals.com/wp-content/uploads/2025/12/sadajit-banerjee.webp",
+    "speciality": "Geriatric Medicine",
+    "qualification": "MBBS, MD (Internal Medicine), MRCP",
+    "hospitals_text": "Dumdum",
     "hospital_ids": [
       342
     ],
-    "department_ids": [],
+    "department_ids": [
+      5698
+    ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-dumdum/internal-medicine/dr-sadajit-banerjee/12/62/4403?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 342,
-    "first_department_id": null
+    "first_department_id": 5698
   },
   {
     "id": 17986,
@@ -2359,11 +2236,10 @@
     "photo": "https://ilshospitals.com/wp-content/uploads/2026/01/dr-Mridul-Tantia.webp",
     "speciality": "Gastro Intestinal Surgery",
     "qualification": "MS, DrNB (Gastro Intestinal Surgery), FMAS (Minimal Access Surgery)",
-    "hospitals_text": "Saltlake,Dumdum,Howrah",
+    "hospitals_text": "Saltlake,Dumdum",
     "hospital_ids": [
       341,
-      342,
-      340
+      342
     ],
     "department_ids": [
       2511,
@@ -2456,7 +2332,7 @@
     "name": "Dr. Deepak Kumar",
     "slug": "dr-deepak-kumar",
     "url": "https://ilshospitals.com/doctor-list/dr-deepak-kumar/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Deepak-Kumar.webp",
     "speciality": "Gastroenterology",
     "qualification": "MBBS, MD, DM",
     "hospitals_text": "Howrah",
@@ -2476,14 +2352,18 @@
     "slug": "dr-m-l-bansali",
     "url": "https://ilshospitals.com/doctor-list/dr-m-l-bansali/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": null,
-    "qualification": null,
+    "speciality": "General Medicine",
+    "qualification": "Howrah",
     "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [],
+    "hospital_ids": [
+      340
+    ],
+    "department_ids": [
+      5697
+    ],
     "booking_url": null,
-    "first_hospital_id": null,
-    "first_department_id": null
+    "first_hospital_id": 340,
+    "first_department_id": 5697
   },
   {
     "id": 18193,
@@ -2594,11 +2474,12 @@
       5637
     ],
     "department_ids": [
+      871,
       5695
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-raipur/endocrinology/dr-shilika-lalwani/71/470/14906?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 5637,
-    "first_department_id": 5695
+    "first_department_id": 871
   },
   {
     "id": 18254,
@@ -2739,8 +2620,8 @@
     "slug": "dr-tanha-zarin-naaz",
     "url": "https://ilshospitals.com/doctor-list/dr-tanha-zarin-naaz/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2026/05/New-Project-1.webp",
-    "speciality": "ENT",
-    "qualification": "MBBS, MS (Otorhinol Aryngology)",
+    "speciality": "Consultant - ENT",
+    "qualification": "MBBS, MS (Otorhinolaryngology)",
     "hospitals_text": "Howrah",
     "hospital_ids": [
       340
@@ -2835,7 +2716,7 @@
     "url": "https://ilshospitals.com/doctor-list/dr-debanjan-roychowdhury/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
     "speciality": "Rheumatology & Clinical Immunology",
-    "qualification": "MBBS, MD (Genl. Med), DNB (Genl. Med)",
+    "qualification": "MBBS, MD (Genl. Med), DM (Clinical Immunology & Rheumatology), DNB (Genl. Med)",
     "hospitals_text": "Dumdum",
     "hospital_ids": [
       342
@@ -2890,19 +2771,19 @@
     "name": "Dr. Bisswadeep Kumar Das",
     "slug": "dr-bisswadeep-kumar-das",
     "url": "https://ilshospitals.com/doctor-list/dr-bisswadeep-kumar-das/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Orthopaedics & Joint Replacement",
-    "qualification": "MBBS, (B.N. MANDAL UNIVERSITY) 2006.",
-    "hospitals_text": "Saltlake",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Bisswadeep-Das.webp",
+    "speciality": "Anesthesiology",
+    "qualification": "MBBS (B.N. MANDAL UNIVERSITY) 2006, MD (ANAES) (DR. DY PATIL UNIVERSITY) 2014",
+    "hospitals_text": "Raipur",
     "hospital_ids": [
-      341
+      5637
     ],
     "department_ids": [
-      2525
+      5708
     ],
     "booking_url": null,
-    "first_hospital_id": 341,
-    "first_department_id": 2525
+    "first_hospital_id": 5637,
+    "first_department_id": 5708
   },
   {
     "id": 18579,
@@ -2926,13 +2807,502 @@
     "first_department_id": 2526
   },
   {
+    "id": 18638,
+    "name": "Dr. Ankita Fatnani",
+    "slug": "dr-ankita-fatnani",
+    "url": "https://ilshospitals.com/doctor-list/dr-ankita-fatnani/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/ankita-fatnani.webp",
+    "speciality": "Obstetrics & Gynaecology",
+    "qualification": "MBBS, MD, DNB, FMAS",
+    "hospitals_text": "Raipur",
+    "hospital_ids": [
+      5637
+    ],
+    "department_ids": [
+      2514
+    ],
+    "booking_url": null,
+    "first_hospital_id": 5637,
+    "first_department_id": 2514
+  },
+  {
+    "id": 18725,
+    "name": "Dr. Bijaya Laxmi Gayari",
+    "slug": "dr-bijaya-laxmi-gayari",
+    "url": "https://ilshospitals.com/doctor-list/dr-bijaya-laxmi-gayari/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Radiology",
+    "qualification": "MBBS, MD (Radiodiagnosis)",
+    "hospitals_text": "Dumdum",
+    "hospital_ids": [
+      342
+    ],
+    "department_ids": [
+      16333
+    ],
+    "booking_url": null,
+    "first_hospital_id": 342,
+    "first_department_id": 16333
+  },
+  {
+    "id": 18729,
+    "name": "Dr. Asim Manna",
+    "slug": "dr-asim-manna",
+    "url": "https://ilshospitals.com/doctor-list/dr-asim-manna/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "General & Laparoscopic Surgeon",
+    "qualification": "MBBS, DPH, MS (Surgery)",
+    "hospitals_text": "Dumdum",
+    "hospital_ids": [
+      342
+    ],
+    "department_ids": [
+      2512
+    ],
+    "booking_url": null,
+    "first_hospital_id": 342,
+    "first_department_id": 2512
+  },
+  {
+    "id": 18753,
+    "name": "Dr. Binay Agarwal",
+    "slug": "dr-binay-agarwal-2",
+    "url": "https://ilshospitals.com/doctor-list/dr-binay-agarwal-2/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/08/Dr-Binay-Agarwal.webp",
+    "speciality": "MBBS, MS",
+    "qualification": "Saltlake",
+    "hospitals_text": null,
+    "hospital_ids": [
+      341
+    ],
+    "department_ids": [],
+    "booking_url": null,
+    "first_hospital_id": 341,
+    "first_department_id": null
+  },
+  {
+    "id": 18755,
+    "name": "Dr. Ashwin Chowdhary",
+    "slug": "dr-ashwin-chowdhary",
+    "url": "https://ilshospitals.com/doctor-list/dr-ashwin-chowdhary/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/08/Dr-Ashwin-Choudhury.webp",
+    "speciality": "MBBS, D Orth, MRCS",
+    "qualification": "Saltlake",
+    "hospitals_text": null,
+    "hospital_ids": [
+      341
+    ],
+    "department_ids": [],
+    "booking_url": null,
+    "first_hospital_id": 341,
+    "first_department_id": null
+  },
+  {
+    "id": 18758,
+    "name": "Dr. Kishalaya Mahajan",
+    "slug": "dr-kishalaya-mahajan",
+    "url": "https://ilshospitals.com/doctor-list/dr-kishalaya-mahajan/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Nephrology",
+    "qualification": "MBBS, DNB (Gen. Medicine), DM( Nephrology)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      2518
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 2518
+  },
+  {
+    "id": 18759,
+    "name": "Dr. Kristi Sarkar",
+    "slug": "dr-kristi-sarkar",
+    "url": "https://ilshospitals.com/doctor-list/dr-kristi-sarkar/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Pathology",
+    "qualification": "MD (Microbiology)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16231
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16231
+  },
+  {
+    "id": 18760,
+    "name": "Dr. Nani Gopal Tripura",
+    "slug": "dr-nani-gopal-tripura",
+    "url": "https://ilshospitals.com/doctor-list/dr-nani-gopal-tripura/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Radiology",
+    "qualification": "MBBS, MD (Radio Diagnosis)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16333
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16333
+  },
+  {
+    "id": 18761,
+    "name": "Dr. Arnab Debnath",
+    "slug": "dr-arnab-debnath",
+    "url": "https://ilshospitals.com/doctor-list/dr-arnab-debnath/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Radiology",
+    "qualification": "MBBS, MD (Radio Diagnosis)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16333
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16333
+  },
+  {
+    "id": 18762,
+    "name": "Dr. Susmita Rani Ghosh",
+    "slug": "dr-susmita-rani-ghosh",
+    "url": "https://ilshospitals.com/doctor-list/dr-susmita-rani-ghosh/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Radiology",
+    "qualification": "MBBS, MD (Radio Diagnosis)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16333
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16333
+  },
+  {
+    "id": 18763,
+    "name": "Dr. Pradip Debbarma",
+    "slug": "dr-pradip-debbarma",
+    "url": "https://ilshospitals.com/doctor-list/dr-pradip-debbarma/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "MBBS, DIBT",
+    "qualification": "Agartala",
+    "hospitals_text": null,
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": null
+  },
+  {
+    "id": 18764,
+    "name": "Dr. Subhra Deb",
+    "slug": "dr-subhra-deb",
+    "url": "https://ilshospitals.com/doctor-list/dr-subhra-deb/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Physiotherapy",
+    "qualification": "BPT, CIMT,CDNT",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      2527
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 2527
+  },
+  {
+    "id": 18766,
+    "name": "Dr. Abhishek Majumder",
+    "slug": "dr-abhishek-majumder",
+    "url": "https://ilshospitals.com/doctor-list/dr-abhishek-majumder/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Physiotherapy",
+    "qualification": "BPT",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      2527
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 2527
+  },
+  {
+    "id": 18767,
+    "name": "Dr. Rupjit Das",
+    "slug": "dr-rupjit-das",
+    "url": "https://ilshospitals.com/doctor-list/dr-rupjit-das/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Physiotherapy",
+    "qualification": "BPT, CDNT",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      2527
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 2527
+  },
+  {
+    "id": 18769,
+    "name": "Dr. Antara Roy",
+    "slug": "dr-antara-roy",
+    "url": "https://ilshospitals.com/doctor-list/dr-antara-roy/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Pathology",
+    "qualification": "MD (Microbiology)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16231
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16231
+  },
+  {
+    "id": 18770,
+    "name": "Dr. Chapal Debnath",
+    "slug": "dr-chapal-debnath",
+    "url": "https://ilshospitals.com/doctor-list/dr-chapal-debnath/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Pathology",
+    "qualification": "MBBS, MD (Biochemistry)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16231
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16231
+  },
+  {
+    "id": 18772,
+    "name": "Dr. Maharshi Debnath",
+    "slug": "dr-maharshi-debnath",
+    "url": "https://ilshospitals.com/doctor-list/dr-maharshi-debnath/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Pathology",
+    "qualification": "MBBS, MD (Pathology)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16231
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16231
+  },
+  {
+    "id": 18774,
+    "name": "Dr. Tanuja Bhattacharya",
+    "slug": "dr-tanuja-bhattacharya",
+    "url": "https://ilshospitals.com/doctor-list/dr-tanuja-bhattacharya/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Pathology",
+    "qualification": "MD (Microbiology)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16231
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16231
+  },
+  {
+    "id": 18775,
+    "name": "Dr. Dhrubajyoti Lahon",
+    "slug": "dr-dhrubajyoti-lahon",
+    "url": "https://ilshospitals.com/doctor-list/dr-dhrubajyoti-lahon/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Pathology",
+    "qualification": "MBBS, DCP (Pathology)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      16231
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 16231
+  },
+  {
+    "id": 18776,
+    "name": "Dr. Sourav Bhattacharjee",
+    "slug": "dr-sourav-bhattacharjee",
+    "url": "https://ilshospitals.com/doctor-list/dr-sourav-bhattacharjee/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Ophthalmology",
+    "qualification": "MBBS, DNB (Ophthalmology)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": null
+  },
+  {
+    "id": 18777,
+    "name": "Dr. Akash Dnyandeo S",
+    "slug": "dr-akash-dnyandeo-s",
+    "url": "https://ilshospitals.com/doctor-list/dr-akash-dnyandeo-s/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Paediatrics & Neonatology",
+    "qualification": "MBBS, MD (Paed), DNB (Paed)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      5704
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 5704
+  },
+  {
+    "id": 18779,
+    "name": "Dr. Subit Debbarma",
+    "slug": "dr-subit-debbarma",
+    "url": "https://ilshospitals.com/doctor-list/dr-subit-debbarma/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Critical Care & Anesthesiology",
+    "qualification": "MBBS, MCCM",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      889,
+      5708
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 889
+  },
+  {
+    "id": 18780,
+    "name": "Dr. A.K. Bhattacharjee",
+    "slug": "dr-a-k-bhattacharjee",
+    "url": "https://ilshospitals.com/doctor-list/dr-a-k-bhattacharjee/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Critical Care & Anesthesiology",
+    "qualification": "MBBS, PG (Clinical Diabetes)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      889,
+      5708
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 889
+  },
+  {
+    "id": 18784,
+    "name": "Dr. Rajesh D. Jawale",
+    "slug": "dr-rajesh-d-jawale",
+    "url": "https://ilshospitals.com/doctor-list/dr-rajesh-d-jawale/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "General & Laparoscopic Surgery",
+    "qualification": "MBBS, MS (Gen Surg), FALS (Hernia), FMAS, FIAGES, EFIAGES, FAGIE",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      2512
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 2512
+  },
+  {
+    "id": 18786,
+    "name": "Dr. Dipankar Ch. Dey",
+    "slug": "dr-dipankar-ch-dey",
+    "url": "https://ilshospitals.com/doctor-list/dr-dipankar-ch-dey/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Respiratory & Chest Medicine",
+    "qualification": "MBBS, MD (Pulmonary Medicine), IDCCM, Critical Care & Sleep Medicine",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      2530
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 2530
+  },
+  {
+    "id": 18795,
+    "name": "Dr. Mainak Deb",
+    "slug": "dr-mainak-deb-2",
+    "url": "https://ilshospitals.com/doctor-list/dr-mainak-deb-2/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2024/09/Dr.-Mainak-Deb_ILS-Salt-Lake_Gastro.jpeg",
+    "speciality": "Gastroenterology",
+    "qualification": "MBBS, MD (General Medicine), DNB (Gastroenterology), Diploma in Anaesthesia",
+    "hospitals_text": "Saltlake,Howrah",
+    "hospital_ids": [
+      341,
+      340
+    ],
+    "department_ids": [
+      2511
+    ],
+    "booking_url": null,
+    "first_hospital_id": 341,
+    "first_department_id": 2511
+  },
+  {
     "id": 7284,
     "name": "Dr. Rituparna Saha",
     "slug": "dr-rituparna-saha",
     "url": "https://ilshospitals.com/doctor-list/dr-rituparna-saha/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/dr-rituparna-saha.jpg",
     "speciality": "ENT",
-    "qualification": "MBBS, MS (ENT)",
+    "qualification": "MBBS, MS (Otorhinolaryngology)",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
@@ -2969,18 +3339,39 @@
     "slug": "dr-paramita-debnath",
     "url": "https://ilshospitals.com/doctor-list/dr-paramita-debnath/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Anaesthesiology",
-    "qualification": "MBBS, DNB (Anaesthesiology), IDCCM",
+    "speciality": "Critical Care & Anesthesiology",
+    "qualification": "MBBS, MD (Anaesthesiology)",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
     ],
     "department_ids": [
-      5708
+      5708,
+      889
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-agartala/anaesthesiology/paramita-debnath/11/59/7607?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 343,
     "first_department_id": 5708
+  },
+  {
+    "id": 7288,
+    "name": "Dr. Nilendu Shekhar Dhar",
+    "slug": "dr-nilendu-shekhar-dhar",
+    "url": "https://ilshospitals.com/doctor-list/dr-nilendu-shekhar-dhar/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "speciality": "Oral & Maxillofacial Surgery",
+    "qualification": "BDS, MDS (Orthodontist)",
+    "hospitals_text": "Agartala",
+    "hospital_ids": [
+      343
+    ],
+    "department_ids": [
+      884,
+      2522
+    ],
+    "booking_url": null,
+    "first_hospital_id": 343,
+    "first_department_id": 884
   },
   {
     "id": 7546,
@@ -3008,14 +3399,15 @@
     "slug": "dr-sadu-aung-mog",
     "url": "https://ilshospitals.com/doctor-list/dr-sadu-aung-mog/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Anaesthesiology",
+    "speciality": "Critical Care & Anesthesiology",
     "qualification": "MBBS, MD (Anesthesiology)",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
     ],
     "department_ids": [
-      5708
+      5708,
+      889
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-agartala/anaesthesiology/sadu-aung-mag/11/59/7608?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 343,
@@ -3096,23 +3488,6 @@
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-howrah/cardiology-clinical-/kaushik-naha-biswas/13/102/2341?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 340,
     "first_department_id": 1949
-  },
-  {
-    "id": 7456,
-    "name": "Dr. Sampurna Dutta Gupta",
-    "slug": "dr-sampurna-dutta-gupta",
-    "url": "https://ilshospitals.com/doctor-list/dr-sampurna-dutta-gupta/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/Dr.-Shyamapada.jpg",
-    "speciality": "Oral & Maxillofacial Surgery",
-    "qualification": "BDS, MDS (Endodontics)",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      2522
-    ],
-    "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-howrah/endodontics/sampurna-dutta-gupta/13/128/2355?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
-    "first_hospital_id": null,
-    "first_department_id": 2522
   },
   {
     "id": 10868,
@@ -3506,7 +3881,7 @@
     "url": "https://ilshospitals.com/doctor-list/dr-amit-kumar-singh/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2024/09/Dr_Amit.jpg",
     "speciality": "General & Laparoscopic Surgery",
-    "qualification": "MBBS, MS(General Surgery),F.MAS,D.MAS,DIPMAS(HBS)FAIS,FIAGES,FALS, Lap-Colorectal & Proctology Trained",
+    "qualification": "MBBS, MS (General Surgery), F.MAS, D.MAS, DIPMAS (HBS) FAIS, FIAGES, FALS, Lap-Colorectal & Proctology Trained",
     "hospitals_text": "Agartala,Howrah",
     "hospital_ids": [
       343,
@@ -3548,14 +3923,15 @@
     "slug": "dr-bandan-debnath",
     "url": "https://ilshospitals.com/doctor-list/dr-bandan-debnath/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Dental",
+    "speciality": "Dentistry and Oral & Maxillofacial",
     "qualification": "BDS",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
     ],
     "department_ids": [
-      884
+      884,
+      2522
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-agartala/dental/bandan-debnath/11/111/7623?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 343,
@@ -3624,14 +4000,15 @@
     "slug": "dr-sharmistha-deb",
     "url": "https://ilshospitals.com/doctor-list/dr-sharmistha-deb/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Dental",
-    "qualification": "BDS,MDS-Endodontist",
+    "speciality": "Dentistry and Oral & Maxillofacial",
+    "qualification": "BDS, MDS (Endodontist)",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
     ],
     "department_ids": [
-      884
+      884,
+      2522
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-agartala/dental/sharmistha-deb/11/111/8158?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 343,
@@ -3643,14 +4020,15 @@
     "slug": "dr-anasuya-bhattacharjee",
     "url": "https://ilshospitals.com/doctor-list/dr-anasuya-bhattacharjee/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Dental",
+    "speciality": "Dentistry and Oral & Maxillofacial",
     "qualification": "BDS,MDS-Periodontology",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
     ],
     "department_ids": [
-      884
+      884,
+      2522
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-agartala/dental/anasuya-bhattacharjee/11/111/8160?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 343,
@@ -4271,10 +4649,9 @@
     "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/dr_ashutosh_nayak.webp",
     "speciality": "General & Laparoscopic Surgery",
     "qualification": "MBBS MS",
-    "hospitals_text": "Saltlake,Dumdum",
+    "hospitals_text": "Saltlake",
     "hospital_ids": [
-      341,
-      342
+      341
     ],
     "department_ids": [
       2512,
@@ -4699,7 +5076,7 @@
     "name": "Dr. Ruchi Roumya Das",
     "slug": "dr-ruchi-roumya-das",
     "url": "https://ilshospitals.com/doctor-list/dr-ruchi-roumya-das/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/Dr.-Ruchi-Roumya.webp",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/dr-ruchi-rumya-das.webp",
     "speciality": "General Medicine",
     "qualification": "MBBS, MD (Medicine)",
     "hospitals_text": "Howrah",
@@ -4809,23 +5186,6 @@
     "first_department_id": 5697
   },
   {
-    "id": 7328,
-    "name": "Dr. Abhijnan Maji",
-    "slug": "dr-abhijnan-maji",
-    "url": "https://ilshospitals.com/doctor-list/dr-abhijnan-maji/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "General Medicine",
-    "qualification": "MBBS, MD (FSM), MRCP",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      5697
-    ],
-    "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-dumdum/internal-medicine/abhijnan-maji/12/62/3221?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
-    "first_hospital_id": null,
-    "first_department_id": 5697
-  },
-  {
     "id": 7329,
     "name": "Dr. Ananda Bagchi",
     "slug": "dr-ananda-bagchi",
@@ -4861,23 +5221,6 @@
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-howrah/internal-medicine/anup-kumar-datta/13/62/3928?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 340,
-    "first_department_id": 5697
-  },
-  {
-    "id": 10491,
-    "name": "Dr. Kaushik Kumar Das",
-    "slug": "dr-kaushik-kumar-das",
-    "url": "https://ilshospitals.com/doctor-list/dr-kaushik-kumar-das/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "General Medicine",
-    "qualification": "MBBS, MD (Tropical Medicine), DNB (Medicine)",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      5697
-    ],
-    "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-howrah/internal-medicine/kaushik-kumar-das/13/62/2374?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
-    "first_hospital_id": null,
     "first_department_id": 5697
   },
   {
@@ -5357,8 +5700,7 @@
       343
     ],
     "department_ids": [
-      2514,
-      12444
+      2514
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-agartala/obstetrics-gynaecology/manjiri-podder/11/98/7643?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 343,
@@ -5847,7 +6189,7 @@
     "url": "https://ilshospitals.com/doctor-list/dr-deep-dutta/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
     "speciality": "Oral & Maxillofacial Surgery",
-    "qualification": "BDS, MDS",
+    "qualification": "BDS, MDS (Oral & Maxillofacial Surgery & Implantology)",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
@@ -5995,23 +6337,6 @@
     "first_department_id": 2525
   },
   {
-    "id": 7368,
-    "name": "Dr. Amitava Narayan Mukherjee",
-    "slug": "dr-amitava-narayan-mukherjee",
-    "url": "https://ilshospitals.com/doctor-list/dr-amitava-narayan-mukherjee/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Orthopaedics & Joint Replacement",
-    "qualification": "MBBS, MCh (Orthopaedics-UK)",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      2525
-    ],
-    "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-dumdum/orthopaedics/amitava-narayan-mukherjee/12/68/2747?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
-    "first_hospital_id": null,
-    "first_department_id": 2525
-  },
-  {
     "id": 7459,
     "name": "Dr. H. N. Mishra",
     "slug": "dr-h-n-mishra",
@@ -6066,23 +6391,6 @@
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-saltlake/orthopaedics-joint-replacement/jagannath-bhattacharya/14/100/2713?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 341,
-    "first_department_id": 2525
-  },
-  {
-    "id": 7548,
-    "name": "Dr. Jyoti Prakash",
-    "slug": "dr-jyoti-prakash",
-    "url": "https://ilshospitals.com/doctor-list/dr-jyoti-prakash/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Orthopaedics & Joint Replacement",
-    "qualification": "MBBS, MS (Orthopaedics), MCh (Orthopaedics)",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      2525
-    ],
-    "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-howrah/orthopaedics-joint-replacement/jyoti-prakash/13/100/2599?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
-    "first_hospital_id": null,
     "first_department_id": 2525
   },
   {
@@ -6238,23 +6546,6 @@
     "first_department_id": 2526
   },
   {
-    "id": 7474,
-    "name": "Dr. Syamantak Basu",
-    "slug": "dr-syamantak-basu",
-    "url": "https://ilshospitals.com/doctor-list/dr-syamantak-basu/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Paediatric Surgery",
-    "qualification": "MBBS, MS, MCh, DNB, FIAGES",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      2526
-    ],
-    "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-howrah/paediatric-surgery/syamantak-basu/13/104/3619?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
-    "first_hospital_id": null,
-    "first_department_id": 2526
-  },
-  {
     "id": 7556,
     "name": "Dr. Rajesh Kumar Goel",
     "slug": "dr-rajesh-kumar-goel",
@@ -6356,7 +6647,7 @@
     "url": "https://ilshospitals.com/doctor-list/dr-rahul-podder/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/dr-rahul-podder.jpg",
     "speciality": "Paediatrics",
-    "qualification": "MBBS, DCH, MD (Anaesthesia)",
+    "qualification": "MBBS, DCH (Paed), MD (Anaesthesiology)",
     "hospitals_text": "Agartala",
     "hospital_ids": [
       343
@@ -6766,23 +7057,6 @@
     ],
     "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-dumdum/psychiatry/bappaditya-chowdhury/12/58/1790?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
     "first_hospital_id": 342,
-    "first_department_id": 2529
-  },
-  {
-    "id": 7481,
-    "name": "Dr. Samyukhta Gangadhar",
-    "slug": "dr-samyukhta-gangadhar",
-    "url": "https://ilshospitals.com/doctor-list/dr-samyukhta-gangadhar/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "speciality": "Psychiatry",
-    "qualification": "MBBS, MD (Psychiatry)",
-    "hospitals_text": null,
-    "hospital_ids": [],
-    "department_ids": [
-      2529
-    ],
-    "booking_url": "https://patient.ilshospitals.com/book-consult/ils-hospitals-howrah/psychiatry/samyuktha-gangadhar/13/58/2454?utm_source=Website&utm_medium=Organic&utm_campaign=online_appointment",
-    "first_hospital_id": null,
     "first_department_id": 2529
   },
   {

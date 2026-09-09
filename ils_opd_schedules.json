@@ -648,19 +648,6 @@
     ]
   },
   {
-    "doctor_id": 12204,
-    "name": "Dr. Umasankar Mukhopadhyay",
-    "slug": "dr-umasankar-mukhopadhyay",
-    "url": "https://ilshospitals.com/doctor-list/dr-umasankar-mukhopadhyay/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
-  },
-  {
     "doctor_id": 12206,
     "name": "Ms. Jayeeta Roy",
     "slug": "ms-jayeeta-roy",
@@ -678,19 +665,6 @@
     "name": "Dr. Biplab Deb",
     "slug": "dr-biplab-deb",
     "url": "https://ilshospitals.com/doctor-list/dr-biplab-deb/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
-  },
-  {
-    "doctor_id": 12216,
-    "name": "Mr. Surajit Sarkar",
-    "slug": "mr-surajit-sarkar",
-    "url": "https://ilshospitals.com/doctor-list/mr-surajit-sarkar/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
     "hospital_ids": [],
     "department_ids": [],
@@ -787,19 +761,6 @@
       }
     ],
     "issues": []
-  },
-  {
-    "doctor_id": 12519,
-    "name": "Dr. Ruchi Roumy Das",
-    "slug": "dr-ruchi-roumy-das",
-    "url": "https://ilshospitals.com/doctor-list/dr-ruchi-roumy-das/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/01/dr-ruchi.jpeg",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
   },
   {
     "doctor_id": 14924,
@@ -1021,19 +982,6 @@
     ]
   },
   {
-    "doctor_id": 15049,
-    "name": "Dr. Vaibhav Seth",
-    "slug": "dr-vaibhav-seth",
-    "url": "https://ilshospitals.com/doctor-list/dr-vaibhav-seth/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-09-at-19.38.48_5cee2e26-2.jpg",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
-  },
-  {
     "doctor_id": 15078,
     "name": "Dr. Silima Subhasnigdha Tarenia",
     "slug": "dr-silima-subhasnigdha-tarenia",
@@ -1091,19 +1039,6 @@
     "slug": "ms-isha-kaur-bagga",
     "url": "https://ilshospitals.com/doctor-list/ms-isha-kaur-bagga/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2025/05/isha.jpg",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
-  },
-  {
-    "doctor_id": 16254,
-    "name": "Ms. Grishma Tiwari",
-    "slug": "ms-grishma-tiwari",
-    "url": "https://ilshospitals.com/doctor-list/ms-grishma-tiwari/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/05/Ms.-Grishma-Tiwari.jpg",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -1911,7 +1846,7 @@
     "name": "Dr. Namrata Biswas",
     "slug": "dr-namrata-biswas",
     "url": "https://ilshospitals.com/doctor-list/dr-namrata-biswas/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2025/08/Dr-Namrata-Biswas.webp",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -2228,7 +2163,7 @@
     "name": "Dr. Ryan Sohail Kaiser",
     "slug": "dr-ryan-sohail-kaiser",
     "url": "https://ilshospitals.com/doctor-list/dr-ryan-sohail-kaiser/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Ryan-Kaiser.webp",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -2268,19 +2203,6 @@
     "slug": "sunirmal-dhara",
     "url": "https://ilshospitals.com/doctor-list/sunirmal-dhara/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
-  },
-  {
-    "doctor_id": 17757,
-    "name": "Dr. Subhadeep Paul",
-    "slug": "dr-subhadeep-paul",
-    "url": "https://ilshospitals.com/doctor-list/dr-subhadeep-paul/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/10/Dr-Subhadeep-Paul.webp",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -2345,7 +2267,7 @@
     "name": "Ms. Chaitali Bhadra",
     "slug": "ms-chaitali-bhadra",
     "url": "https://ilshospitals.com/doctor-list/ms-chaitali-bhadra/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/11/placeholder_doc.webp",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Chaitali-Bhadra.webp",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -2358,7 +2280,7 @@
     "name": "Dr. Rekha Srivastava",
     "slug": "dr-rekha-srivastava",
     "url": "https://ilshospitals.com/doctor-list/dr-rekha-srivastava/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2025/11/placeholder_doc.webp",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Rekha-Srivastava.webp",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -2449,7 +2371,7 @@
     "name": "Dr. Sadajit Banerjee",
     "slug": "dr-sadajit-banerjee",
     "url": "https://ilshospitals.com/doctor-list/dr-sadajit-banerjee/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2025/12/sadajit-banerjee.webp",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -2694,7 +2616,7 @@
     "name": "Dr. Deepak Kumar",
     "slug": "dr-deepak-kumar",
     "url": "https://ilshospitals.com/doctor-list/dr-deepak-kumar/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Deepak-Kumar.webp",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -2993,7 +2915,7 @@
     "name": "Dr. Bisswadeep Kumar Das",
     "slug": "dr-bisswadeep-kumar-das",
     "url": "https://ilshospitals.com/doctor-list/dr-bisswadeep-kumar-das/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/Bisswadeep-Das.webp",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -3007,6 +2929,344 @@
     "slug": "dr-mayank-dokania",
     "url": "https://ilshospitals.com/doctor-list/dr-mayank-dokania/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/dr_mayank-dokania.webp",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18638,
+    "name": "Dr. Ankita Fatnani",
+    "slug": "dr-ankita-fatnani",
+    "url": "https://ilshospitals.com/doctor-list/dr-ankita-fatnani/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/07/ankita-fatnani.webp",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18725,
+    "name": "Dr. Bijaya Laxmi Gayari",
+    "slug": "dr-bijaya-laxmi-gayari",
+    "url": "https://ilshospitals.com/doctor-list/dr-bijaya-laxmi-gayari/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18729,
+    "name": "Dr. Asim Manna",
+    "slug": "dr-asim-manna",
+    "url": "https://ilshospitals.com/doctor-list/dr-asim-manna/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18753,
+    "name": "Dr. Binay Agarwal",
+    "slug": "dr-binay-agarwal-2",
+    "url": "https://ilshospitals.com/doctor-list/dr-binay-agarwal-2/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/08/Dr-Binay-Agarwal.webp",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18755,
+    "name": "Dr. Ashwin Chowdhary",
+    "slug": "dr-ashwin-chowdhary",
+    "url": "https://ilshospitals.com/doctor-list/dr-ashwin-chowdhary/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2026/08/Dr-Ashwin-Choudhury.webp",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18758,
+    "name": "Dr. Kishalaya Mahajan",
+    "slug": "dr-kishalaya-mahajan",
+    "url": "https://ilshospitals.com/doctor-list/dr-kishalaya-mahajan/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18759,
+    "name": "Dr. Kristi Sarkar",
+    "slug": "dr-kristi-sarkar",
+    "url": "https://ilshospitals.com/doctor-list/dr-kristi-sarkar/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18760,
+    "name": "Dr. Nani Gopal Tripura",
+    "slug": "dr-nani-gopal-tripura",
+    "url": "https://ilshospitals.com/doctor-list/dr-nani-gopal-tripura/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18761,
+    "name": "Dr. Arnab Debnath",
+    "slug": "dr-arnab-debnath",
+    "url": "https://ilshospitals.com/doctor-list/dr-arnab-debnath/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18762,
+    "name": "Dr. Susmita Rani Ghosh",
+    "slug": "dr-susmita-rani-ghosh",
+    "url": "https://ilshospitals.com/doctor-list/dr-susmita-rani-ghosh/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18763,
+    "name": "Dr. Pradip Debbarma",
+    "slug": "dr-pradip-debbarma",
+    "url": "https://ilshospitals.com/doctor-list/dr-pradip-debbarma/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18764,
+    "name": "Dr. Subhra Deb",
+    "slug": "dr-subhra-deb",
+    "url": "https://ilshospitals.com/doctor-list/dr-subhra-deb/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18766,
+    "name": "Dr. Abhishek Majumder",
+    "slug": "dr-abhishek-majumder",
+    "url": "https://ilshospitals.com/doctor-list/dr-abhishek-majumder/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18767,
+    "name": "Dr. Rupjit Das",
+    "slug": "dr-rupjit-das",
+    "url": "https://ilshospitals.com/doctor-list/dr-rupjit-das/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18769,
+    "name": "Dr. Antara Roy",
+    "slug": "dr-antara-roy",
+    "url": "https://ilshospitals.com/doctor-list/dr-antara-roy/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18770,
+    "name": "Dr. Chapal Debnath",
+    "slug": "dr-chapal-debnath",
+    "url": "https://ilshospitals.com/doctor-list/dr-chapal-debnath/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18772,
+    "name": "Dr. Maharshi Debnath",
+    "slug": "dr-maharshi-debnath",
+    "url": "https://ilshospitals.com/doctor-list/dr-maharshi-debnath/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18774,
+    "name": "Dr. Tanuja Bhattacharya",
+    "slug": "dr-tanuja-bhattacharya",
+    "url": "https://ilshospitals.com/doctor-list/dr-tanuja-bhattacharya/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18775,
+    "name": "Dr. Dhrubajyoti Lahon",
+    "slug": "dr-dhrubajyoti-lahon",
+    "url": "https://ilshospitals.com/doctor-list/dr-dhrubajyoti-lahon/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18776,
+    "name": "Dr. Sourav Bhattacharjee",
+    "slug": "dr-sourav-bhattacharjee",
+    "url": "https://ilshospitals.com/doctor-list/dr-sourav-bhattacharjee/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18777,
+    "name": "Dr. Akash Dnyandeo S",
+    "slug": "dr-akash-dnyandeo-s",
+    "url": "https://ilshospitals.com/doctor-list/dr-akash-dnyandeo-s/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18779,
+    "name": "Dr. Subit Debbarma",
+    "slug": "dr-subit-debbarma",
+    "url": "https://ilshospitals.com/doctor-list/dr-subit-debbarma/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18780,
+    "name": "Dr. A.K. Bhattacharjee",
+    "slug": "dr-a-k-bhattacharjee",
+    "url": "https://ilshospitals.com/doctor-list/dr-a-k-bhattacharjee/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18784,
+    "name": "Dr. Rajesh D. Jawale",
+    "slug": "dr-rajesh-d-jawale",
+    "url": "https://ilshospitals.com/doctor-list/dr-rajesh-d-jawale/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18786,
+    "name": "Dr. Dipankar Ch. Dey",
+    "slug": "dr-dipankar-ch-dey",
+    "url": "https://ilshospitals.com/doctor-list/dr-dipankar-ch-dey/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 18795,
+    "name": "Dr. Mainak Deb",
+    "slug": "dr-mainak-deb-2",
+    "url": "https://ilshospitals.com/doctor-list/dr-mainak-deb-2/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2024/09/Dr.-Mainak-Deb_ILS-Salt-Lake_Gastro.jpeg",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],
@@ -3119,6 +3379,19 @@
     "name": "Dr. Paramita Debnath",
     "slug": "dr-paramita-debnath",
     "url": "https://ilshospitals.com/doctor-list/dr-paramita-debnath/",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
+    "hospital_ids": [],
+    "department_ids": [],
+    "schedule": [],
+    "issues": [
+      "no_schedule"
+    ]
+  },
+  {
+    "doctor_id": 7288,
+    "name": "Dr. Nilendu Shekhar Dhar",
+    "slug": "dr-nilendu-shekhar-dhar",
+    "url": "https://ilshospitals.com/doctor-list/dr-nilendu-shekhar-dhar/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
     "hospital_ids": [],
     "department_ids": [],
@@ -3353,19 +3626,6 @@
       }
     ],
     "issues": []
-  },
-  {
-    "doctor_id": 7456,
-    "name": "Dr. Sampurna Dutta Gupta",
-    "slug": "dr-sampurna-dutta-gupta",
-    "url": "https://ilshospitals.com/doctor-list/dr-sampurna-dutta-gupta/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/Dr.-Shyamapada.jpg",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
   },
   {
     "doctor_id": 10868,
@@ -6339,7 +6599,7 @@
     "name": "Dr. Ruchi Roumya Das",
     "slug": "dr-ruchi-roumya-das",
     "url": "https://ilshospitals.com/doctor-list/dr-ruchi-roumya-das/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/Dr.-Ruchi-Roumya.webp",
+    "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/dr-ruchi-rumya-das.webp",
     "hospital_ids": [
       340
     ],
@@ -6524,19 +6784,6 @@
     ]
   },
   {
-    "doctor_id": 7328,
-    "name": "Dr. Abhijnan Maji",
-    "slug": "dr-abhijnan-maji",
-    "url": "https://ilshospitals.com/doctor-list/dr-abhijnan-maji/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
-  },
-  {
     "doctor_id": 7329,
     "name": "Dr. Ananda Bagchi",
     "slug": "dr-ananda-bagchi",
@@ -6598,19 +6845,6 @@
       }
     ],
     "issues": []
-  },
-  {
-    "doctor_id": 10491,
-    "name": "Dr. Kaushik Kumar Das",
-    "slug": "dr-kaushik-kumar-das",
-    "url": "https://ilshospitals.com/doctor-list/dr-kaushik-kumar-das/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
   },
   {
     "doctor_id": 7336,
@@ -8649,19 +8883,6 @@
     "issues": []
   },
   {
-    "doctor_id": 7368,
-    "name": "Dr. Amitava Narayan Mukherjee",
-    "slug": "dr-amitava-narayan-mukherjee",
-    "url": "https://ilshospitals.com/doctor-list/dr-amitava-narayan-mukherjee/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
-  },
-  {
     "doctor_id": 7459,
     "name": "Dr. H. N. Mishra",
     "slug": "dr-h-n-mishra",
@@ -8736,19 +8957,6 @@
       }
     ],
     "issues": []
-  },
-  {
-    "doctor_id": 7548,
-    "name": "Dr. Jyoti Prakash",
-    "slug": "dr-jyoti-prakash",
-    "url": "https://ilshospitals.com/doctor-list/dr-jyoti-prakash/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
   },
   {
     "doctor_id": 7370,
@@ -9038,19 +9246,6 @@
       }
     ],
     "issues": []
-  },
-  {
-    "doctor_id": 7474,
-    "name": "Dr. Syamantak Basu",
-    "slug": "dr-syamantak-basu",
-    "url": "https://ilshospitals.com/doctor-list/dr-syamantak-basu/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
   },
   {
     "doctor_id": 7556,
@@ -10068,19 +10263,6 @@
     "slug": "dr-bappaditya-chowdhury",
     "url": "https://ilshospitals.com/doctor-list/dr-bappaditya-chowdhury/",
     "photo": "https://ilshospitals.com/wp-content/uploads/2024/01/Dr.-Bappaditiya-Chowdhury-1.jpg",
-    "hospital_ids": [],
-    "department_ids": [],
-    "schedule": [],
-    "issues": [
-      "no_schedule"
-    ]
-  },
-  {
-    "doctor_id": 7481,
-    "name": "Dr. Samyukhta Gangadhar",
-    "slug": "dr-samyukhta-gangadhar",
-    "url": "https://ilshospitals.com/doctor-list/dr-samyukhta-gangadhar/",
-    "photo": "https://ilshospitals.com/wp-content/uploads/2023/12/placeholder_doc.png",
     "hospital_ids": [],
     "department_ids": [],
     "schedule": [],

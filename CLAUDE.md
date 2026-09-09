@@ -18,6 +18,7 @@ node ils-department-scraper.js                        # 60  -> ils_departments.j
 node ils-doctor-scraper.js                            # 375 -> ils_doctors.json
 node ils-key-procedure-scraper.js                     # 173 -> ils_key_procedures.json
 node ils-disease-scraper.js                           # 50  -> ils_diseases.json (`disease` CPT; diseaseList.md lists only 31)
+node ils-speciality-scraper.js                        # 13  -> ils_specialities.json (the 13 sitemap `specialities` pages; the CPT holds 73, the other 60 are service line-items with no page)
 node ils-health-package-scraper.js                    # 35  -> ils_health_packages.json
 node ils-hospital-scraper.js                          # 5   -> ils_hospitals.json (npm start)
 node ils-event-scraper.js                             # 34  -> ils_events.json
